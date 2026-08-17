@@ -18,7 +18,7 @@ export struct SecondaryPageHeader {
   @BuilderParam onBack: () => void;
 
   build() {
-    Stack({ alignContent: Alignment.Center }) {
+    Stack({ alignContent: Alignment.TopStart }) {
       Column()
         .width('100%')
         .height('100%')
@@ -54,6 +54,7 @@ export struct SecondaryPageHeader {
       .width('100%')
       .height(48)
       .padding({ left: AppDimensions.PAGE_HORIZONTAL, right: AppDimensions.PAGE_HORIZONTAL })
+      .margin({ top: 4 })
       .alignItems(VerticalAlign.Center)
     }
     .width('100%')

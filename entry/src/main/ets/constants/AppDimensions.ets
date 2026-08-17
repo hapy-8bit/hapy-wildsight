@@ -8,9 +8,9 @@ export class AppDimensions {
   static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 100;
   static readonly MAIN_TITLE_SUBTITLE_GAP: number = 6;
   static readonly MAIN_TITLE_CONTENT_GAP: number = 20;
-  // Fixed secondary-page title bar modeled on the HarmonyOS large-title pattern.
-  static readonly SECONDARY_PAGE_HEADER_HEIGHT: number = 124;
-  static readonly SECONDARY_PAGE_CONTENT_TOP_INSET: number = 136;
+  // Compact secondary toolbar: a 48vp control with 4vp breathing room above and below.
+  static readonly SECONDARY_PAGE_HEADER_HEIGHT: number = 56;
+  static readonly SECONDARY_PAGE_CONTENT_TOP_INSET: number = 68;
   // HdsTabs overlaps its content; scrollable primary-tab pages reserve this visual/safe-area space.
   static readonly PRIMARY_TABS_CONTENT_INSET: number = 120;
   // Settings follows the compact grouped-card language used by the reference app.

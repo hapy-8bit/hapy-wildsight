@@ -95,7 +95,9 @@ export struct AtlasPage {
         right: AppDimensions.PAGE_HORIZONTAL,
         bottom: AppDimensions.PRIMARY_TABS_CONTENT_INSET
       })
-      .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
+      // Keep short atlas content pinned to the same top inset as DiscoverPage.
+      // Without a minimum height, Scroll centers a short child vertically.
+      .constraintSize({ minHeight: '100%', maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
       .alignItems(HorizontalAlign.Start)
     }
     .width('100%')
