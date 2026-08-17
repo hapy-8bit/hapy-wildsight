@@ -5,18 +5,21 @@
 ## 已完成
 
 - 已将 `AppScope/app.json5` 更新为 `versionName: 1.0.1`、`versionCode: 1000001`。
-- `ProfilePage` 已从单一数据来源开关重构为有限内部页面状态，包含订阅、占用空间、数据来源、外观、权限、语言、关于、隐私政策和服务协议入口。
+- `ProfilePage` 已从单一数据来源开关重构为有限内部页面状态，包含订阅、占用空间、数据来源、外观、权限、语言、隐私政策和服务协议入口；支持组保留反馈、版本和评分，已移除“关于见野”入口。
 - 订阅页不含价格、权益、支付或账号；评分入口在未上架包中安全显示暂未开放提示。
 - 已新增 `StorageUsageService`，仅统计应用 `wildsight.db` 和本应用可重建缓存目录；不扫描或计入 PhotoPicker 原图。缓存清理只针对应用自有缓存目录。
 - 已新增 Repository 级 `DiscoveryRepository.deleteAll()`、`SpeciesRepository.deleteAll()`；危险清理需第二次点击确认，顺序为先 Discovery 后 Species，且不会碰 installationId、偏好或系统图库。
 - 已新增 `AppearancePreferenceService`，默认跟随系统并使用 Preferences 保存三个外观选择；设置页可选择跟随系统、浅色、深色。
 - 版本、权限、语言策略、拆分后的图片/识别来源与植物文本来源、邮件复制降级、隐私政策和用户服务协议文本均已在 App 内可滚动读取；当前正式文本不包含运营主体、注册地址或个人身份占位资料。
+- “反馈问题”在设置首页直接调用 `openFeedback()`，优先启动 `mailto:` 邮件；邮件应用不可用时仍复制邮箱地址或显示联系邮箱。
 - 已新增 PrivacyConsentService：首次使用图片识别前展示明确的“同意/暂不同意”选项；拒绝时仍可浏览不需要识别的本地功能，设置页提供“撤回识别授权”。
 - 使用 DevEco 内置 JBR/SDK 完成一次签名 HAP 构建，结果成功；仅有工程既有 API/异常处理警告和本轮 `getContext` 弃用警告，无编译错误。
 
 ## 已完成的后续工作
 
 - AppearancePreferenceService 已接入设置页、UIAbility 正式色彩模式 API、集中 AppColors 调色板和 App 根组件重绘；跟随系统会读取当前系统色彩模式，浅色/深色选择会持久化。
+- 冷启动系统栏已按当前 `colorMode` 设置浅色/深色匹配的窗口与系统栏，应用内开屏约 1 秒并显示正式品牌图标；浅色和深色图标承载面、文字与背景均使用对应主题。
+- 本次修复后已用 `hdc install -r` 覆盖安装并冷启动检查浅色/深色开屏、首页和设置支持组；未清理真机数据，未调用识别或访问服务端。
 - 已更新 PROJECT_STATUS、DESIGN_SYSTEM、PRODUCT_V1、USER_FLOW。
 - 后端索引检查、知识校验和 18 项测试通过；最终签名构建成功。
 - 已用 `hdc install -r` 覆盖安装并启动唯一目标 `2UCUT23C27028737`，未卸载、未清除任何真机数据、未调用识别或修改服务器。

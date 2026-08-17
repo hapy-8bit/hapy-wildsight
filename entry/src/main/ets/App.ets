@@ -115,7 +115,7 @@ export struct WildSightApp {
   }
 
   private async restoreAppearance(): Promise<void> {
-    try { this.applyAppearance(await this.appearancePreferenceService.load(getContext(this) as common.UIAbilityContext)); } catch (_error) { this.applyAppearance(AppearanceMode.LIGHT); }
+    try { this.applyAppearance(await this.appearancePreferenceService.load(getContext(this) as common.UIAbilityContext)); } catch (_error) { this.applyAppearance(AppearanceMode.SYSTEM); }
   }
 
   private async restoreLocalDiscoveries(): Promise<void> {

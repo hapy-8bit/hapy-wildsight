@@ -114,7 +114,6 @@ export struct ProfilePage {
     if (this.page === 'appearance') return '外观';
     if (this.page === 'permissions') return '权限说明';
     if (this.page === 'language') return '语言';
-    if (this.page === 'about') return '关于见野';
     if (this.page === 'privacy') return '隐私政策';
     return '服务协议';
   }
@@ -320,22 +319,14 @@ export struct ProfilePage {
   @Builder
   private supportGroup(): void {
     Column({ space: 7 }) {
-      this.sectionTitle('支持与关于')
+      this.sectionTitle('支持')
       Column() {
         this.actionRow(
           '反馈问题',
           '问题反馈与建议',
           $r('sys.symbol.message'),
           AppColors.EARTH,
-          () => this.openPage('about')
-        )
-        this.settingsDivider()
-        this.actionRow(
-          '关于见野',
-          'WildSight 见野 · 版本 1.0.1',
-          $r('sys.symbol.info_circle'),
-          AppColors.SKY,
-          () => this.openPage('about')
+          () => this.openFeedback()
         )
         this.settingsDivider()
         this.staticRow(
@@ -589,8 +580,6 @@ export struct ProfilePage {
       this.textCard('相机：仅在你主动点击“拍照识别”时，通过 HarmonyOS 系统相机能力申请并使用相机权限；拒绝权限不影响“从相册识别”。\n\n照片与图库：仅处理你主动选择或拍摄的图片；相册使用系统 PhotoPicker，不扫描整个图库，不删除或修改系统图库原图。\n\n位置：当前未主动采集地理位置。\n\n网络：用于把你主动发起识别的图片发送到 WildSight HTTPS 后端，并获取识别结果和植物知识。网络权限用于连接服务，不是每次弹窗授权。');
     } else if (this.page === 'language') {
       this.languagePage();
-    } else if (this.page === 'about') {
-      this.about();
     } else if (this.page === 'privacy') {
       this.privacyPolicyPage();
     } else {
@@ -865,49 +854,4 @@ export struct ProfilePage {
     .onClick(() => this.selectAppearance(mode))
   }
 
-  @Builder
-  private about(): void {
-    Column({ space: AppSpacing.MD }) {
-      this.textCard('WildSight 见野\n版本 1.0.1\n把你遇见的自然，收进自己的图鉴。');
-
-      Column() {
-        this.actionRow(
-          '隐私政策',
-          '查看隐私处理说明',
-          $r('sys.symbol.info_circle'),
-          AppColors.BRAND_GREEN,
-          () => this.openPage('privacy')
-        )
-        this.settingsDivider()
-        this.actionRow(
-          '服务协议',
-          '查看 WildSight 服务协议',
-          $r('sys.symbol.doc_plaintext'),
-          AppColors.SKY,
-          () => this.openPage('terms')
-        )
-        this.settingsDivider()
-        this.actionRow(
-          '反馈问题',
-          '问题反馈与建议',
-          $r('sys.symbol.message'),
-          AppColors.EARTH,
-          () => this.openFeedback()
-        )
-      }
-      .width('100%')
-      .backgroundColor(AppColors.PAPER_ELEVATED)
-      .borderRadius(AppDimensions.SETTINGS_GROUP_RADIUS)
-      .clip(true)
-
-      Text('反馈问题：hapy8bit@163.com。若邮件应用不可用，邮箱地址会自动复制。')
-        .width('100%')
-        .fontSize(AppTypography.META_SIZE)
-        .lineHeight(18)
-        .fontColor(AppColors.INK_MUTED)
-        .padding({ left: 4, right: 4 })
-    }
-    .width('100%')
-    .alignItems(HorizontalAlign.Start)
-  }
 }

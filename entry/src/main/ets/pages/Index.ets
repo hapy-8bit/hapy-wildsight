@@ -4,23 +4,53 @@ import { AppColors } from '../constants/AppColors';
 @Entry
 @Component
 struct Index {
+  private static readonly SPLASH_TOTAL_DURATION_MS: number = 1000;
+  private static readonly SPLASH_FADE_IN_DURATION_MS: number = 160;
+  private static readonly SPLASH_FADE_OUT_DURATION_MS: number = 180;
   @State private splashVisible: boolean = true;
   @State private splashOpacity: number = 1;
-  @State private wordmarkOpacity: number = 0;
+  @State private brandOpacity: number = 0;
+  private splashTimer: number = -1;
+  private splashStarted: boolean = false;
+
+  aboutToAppear(): void {
+    this.playSplash();
+  }
+
+  aboutToDisappear(): void {
+    this.cancelSplashTimer();
+    this.splashStarted = false;
+  }
 
   private playSplash(): void {
-    // Keep the native system transition intact; this short app-owned layer is text only.
-    animateTo({ duration: 150, curve: Curve.EaseOut }, () => {
-      this.wordmarkOpacity = 1;
+    if (this.splashStarted) return;
+    this.splashStarted = true;
+
+    animateTo({ duration: Index.SPLASH_FADE_IN_DURATION_MS, curve: Curve.EaseOut }, () => {
+      this.brandOpacity = 1;
     });
-    setTimeout((): void => {
-      animateTo({ duration: 190, curve: Curve.EaseInOut }, () => {
+
+    const fadeStartDelay = Index.SPLASH_TOTAL_DURATION_MS - Index.SPLASH_FADE_OUT_DURATION_MS;
+    this.splashTimer = setTimeout((): void => {
+      this.splashTimer = -1;
+      animateTo({
+        duration: Index.SPLASH_FADE_OUT_DURATION_MS,
+        curve: Curve.EaseInOut,
+        onFinish: (): void => {
+          this.splashVisible = false;
+          this.splashStarted = false;
+        }
+      }, () => {
         this.splashOpacity = 0;
       });
-    }, 170);
-    setTimeout((): void => {
-      this.splashVisible = false;
-    }, 390);
+    }, fadeStartDelay);
+  }
+
+  private cancelSplashTimer(): void {
+    if (this.splashTimer >= 0) {
+      clearTimeout(this.splashTimer);
+      this.splashTimer = -1;
+    }
   }
 
   build() {
@@ -28,7 +58,20 @@ struct Index {
       WildSightApp()
       if (this.splashVisible) {
         Stack({ alignContent: Alignment.Center }) {
-          Column({ space: 12 }) {
+          Column({ space: 18 }) {
+            Stack({ alignContent: Alignment.Center }) {
+              Image($r('app.media.foreground'))
+                .width(116)
+                .height(116)
+                .objectFit(ImageFit.Contain)
+            }
+            .width(132)
+            .height(132)
+            .backgroundColor(AppColors.SURFACE_ELEVATED)
+            .borderRadius(34)
+            .clip(true)
+            .opacity(this.brandOpacity)
+
             Column({ space: 4 }) {
               Text('见野')
                 .fontSize(22)
@@ -39,7 +82,7 @@ struct Index {
                 .fontColor(AppColors.TEXT_SECONDARY)
             }
             .alignItems(HorizontalAlign.Center)
-            .opacity(this.wordmarkOpacity)
+            .opacity(this.brandOpacity)
           }
           .alignItems(HorizontalAlign.Center)
         }
@@ -51,6 +94,5 @@ struct Index {
     }
     .width('100%')
     .height('100%')
-    .onAppear((): void => this.playSplash())
   }
 }
