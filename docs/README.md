@@ -1,25 +1,21 @@
-# 见野文档索引
+# 见野 WildSight 文档入口
 
-## 先看这里
+当前只维护四份主文档，避免工程事实、交接记录、问题处理和知识库规则互相重复：
 
-- [项目当前进度与下一步](PROJECT_STATUS.md)
-- [工程架构（当前实现）](ENGINEERING_ARCHITECTURE.md)
-- [植物识别联调记录](IDENTIFICATION_TEST.md)
-- [阿里云 Windows Server 部署说明](ALIYUN_DEPLOYMENT.md)
+1. [鸿蒙项目文档](HARMONYOS_PROJECT.md)：技术栈、目录、页面、识别链路、数据模型、视觉和工程边界。
+2. [项目交接文档](HANDOFF.md)：接手顺序、当前快照、验证命令、部署边界、风险和交接格式。
+3. [问题与解决方案](PROBLEM_SOLUTIONS.md)：已修复问题、根因、解决方式、待实施问题和验收规则。
+4. [植物知识库](PLANT_KNOWLEDGE.md)：500 种知识状态、发布边界、维护规则、门禁和部署保护。
 
-## 产品与设计
+## 文档合并说明
 
-- [V1 产品定型](PRODUCT_V1.md)
-- [信息架构](INFORMATION_ARCHITECTURE.md)
-- [用户流程](USER_FLOW.md)
-- [设计系统](DESIGN_SYSTEM.md)
-- [Stitch 第一轮设计 Prompt](STITCH_DESIGN_PROMPT.md)
+以下内容已合并进四份主文档，不再作为独立当前入口：工程架构、项目状态、用户流程、信息架构、数据模型、数据库结构、设计系统、识别测试、设置执行状态、100 种扩容方案、知识刷新状态、知识维护模板、产品定型、Stitch 设计提示词和阿里云部署说明。
 
-## 数据
+历史数据文件、知识库 imports 和 `docs/design/icon-candidates/` 仍保留用于追溯，但不应替代四份主文档。
 
-- [数据模型（当前实现与演进边界）](DATA_MODEL.md)
-- [relationalStore 数据库结构](DATABASE_SCHEMA.md)
+## 常用入口
 
-当前实施状态统一以 [PROJECT_STATUS.md](PROJECT_STATUS.md) 为准，最后复核日期为 2026-08-17。`KNOWLEDGE_100_*`、`KNOWLEDGE_REFRESH_EXECUTION_STATE.md` 和 `SETTINGS_V101_EXECUTION_STATE.md` 是阶段性执行记录，不应替代当前进度页。
-
-文档不记录密钥、Token、签名口令或用户图片。当前工程配置中的敏感信息风险见项目进度页，处理时不得把具体凭据复制进文档。
+- 客户端：`entry/src/main/ets/`
+- 服务端：`server/src/`
+- 知识事实源：`server/data/plant-knowledge/species/`
+- 知识门禁：见 [PLANT_KNOWLEDGE.md](PLANT_KNOWLEDGE.md)

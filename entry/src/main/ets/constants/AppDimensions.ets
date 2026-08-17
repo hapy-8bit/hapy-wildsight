@@ -1,21 +1,25 @@
 export class AppDimensions {
-  static readonly PAGE_HORIZONTAL: number = 20;
+  static readonly PAGE_HORIZONTAL: number = 16;
   static readonly CONTENT_MAX_WIDTH: number = 680;
   static readonly BOTTOM_NAV_HEIGHT: number = 60;
   static readonly BOTTOM_NAV_MARGIN: number = 10;
-  static readonly MAIN_TITLE_TOP_INSET: number = 32;
-  // Keep the title block identical across the three primary tabs, including the settings header.
-  static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 100;
+  // Primary pages reuse the same title row as MingHOS secondary pages, with room for an optional subtitle.
+  static readonly MAIN_TITLE_ROW_HEIGHT: number = 56;
+  static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 84;
   static readonly MAIN_TITLE_SUBTITLE_GAP: number = 6;
   static readonly MAIN_TITLE_CONTENT_GAP: number = 20;
-  // Compact secondary toolbar: a 48vp control with 4vp breathing room above and below.
+  // Match MingHOS SettingsDetailHeader exactly; content scrolls in a separate region below it.
   static readonly SECONDARY_PAGE_HEADER_HEIGHT: number = 56;
-  static readonly SECONDARY_PAGE_CONTENT_TOP_INSET: number = 68;
+  static readonly SECONDARY_PAGE_CONTENT_GAP: number = 4;
+  static readonly SECONDARY_PAGE_HEADER_HORIZONTAL: number = 16;
+  static readonly SECONDARY_PAGE_BACK_SIZE: number = 44;
+  static readonly SECONDARY_PAGE_BACK_TITLE_GAP: number = 12;
   // HdsTabs overlaps its content; scrollable primary-tab pages reserve this visual/safe-area space.
   static readonly PRIMARY_TABS_CONTENT_INSET: number = 120;
   // Settings follows the compact grouped-card language used by the reference app.
   static readonly SETTINGS_HEADER_HEIGHT: number = AppDimensions.MAIN_TITLE_BLOCK_HEIGHT;
-  static readonly SETTINGS_CONTENT_TOP_INSET: number = AppDimensions.MAIN_TITLE_BLOCK_HEIGHT;
+  static readonly SETTINGS_CONTENT_TOP_INSET: number =
+    AppDimensions.MAIN_TITLE_BLOCK_HEIGHT + AppDimensions.MAIN_TITLE_CONTENT_GAP;
   static readonly SETTINGS_CONTENT_BOTTOM_INSET: number = 132;
   static readonly SETTINGS_GROUP_SPACE: number = 10;
   static readonly SETTINGS_GROUP_RADIUS: number = 16;

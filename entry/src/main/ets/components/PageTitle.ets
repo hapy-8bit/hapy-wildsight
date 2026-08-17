@@ -10,14 +10,21 @@ export struct PageTitle {
 
   build() {
     Column({ space: AppDimensions.MAIN_TITLE_SUBTITLE_GAP }) {
-      Text(this.title)
-        .fontSize(AppTypography.PAGE_TITLE_SIZE)
-        .fontFamily(AppTypography.PAGE_TITLE_FONT)
-        .fontWeight(AppTypography.PAGE_TITLE_WEIGHT)
-        .fontColor(AppColors.TEXT_PRIMARY)
-        .lineHeight(AppTypography.PAGE_TITLE_LINE_HEIGHT)
+      Row() {
+        Text(this.title)
+          .fontSize(AppTypography.SECONDARY_PAGE_TITLE_SIZE)
+          .fontWeight(AppTypography.SECONDARY_PAGE_TITLE_WEIGHT)
+          .fontColor(AppColors.TEXT_PRIMARY)
+          .maxLines(1)
+          .textOverflow({ overflow: TextOverflow.Ellipsis })
+      }
+      .width('100%')
+      .height(AppDimensions.MAIN_TITLE_ROW_HEIGHT)
+      .alignItems(VerticalAlign.Center)
+
       if (this.subtitle.length > 0) {
         Text(this.subtitle)
+          .width('100%')
           .fontSize(AppTypography.PAGE_TITLE_SUBTITLE_SIZE)
           .fontColor(AppColors.TEXT_SECONDARY)
           .lineHeight(AppTypography.PAGE_TITLE_SUBTITLE_LINE_HEIGHT)
@@ -25,7 +32,6 @@ export struct PageTitle {
     }
     .width('100%')
     .height(AppDimensions.MAIN_TITLE_BLOCK_HEIGHT)
-    .padding({ top: AppDimensions.MAIN_TITLE_TOP_INSET })
     .alignItems(HorizontalAlign.Start)
   }
 }

@@ -21,7 +21,6 @@ export struct MyAtlasPage {
   @BuilderParam onOpenSpecies: (speciesId: string) => void;
   @State query: string = '';
   @State sort: AtlasSort = AtlasSort.RECENT;
-  @State scrollOffset: number = 0;
 
   private summaryFor(speciesId: string): DiscoverySummary {
     return this.summaries.find((item: DiscoverySummary) => item.speciesId === speciesId) ?? new DiscoverySummary();
@@ -71,7 +70,12 @@ export struct MyAtlasPage {
   }
 
   build() {
-    Stack({ alignContent: Alignment.Top }) {
+    Column() {
+      SecondaryPageHeader({
+        title: '我的图鉴',
+        onBack: () => this.onBack()
+      })
+
       Column({ space: AppSpacing.LG }) {
       Search({ value: this.query, placeholder: '搜索植物' })
         .width('100%')
@@ -135,25 +139,17 @@ export struct MyAtlasPage {
         .layoutWeight(1)
         .edgeEffect(EdgeEffect.None)
         .scrollBar(BarState.Off)
-        .onScroll((_xOffset: number, yOffset: number) => {
-          this.scrollOffset = Math.max(0, yOffset);
-        })
       }
     }
     .width('100%')
-    .height('100%')
+    .layoutWeight(1)
     .padding({
       left: AppDimensions.PAGE_HORIZONTAL,
       right: AppDimensions.PAGE_HORIZONTAL,
-      top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+      top: AppDimensions.SECONDARY_PAGE_CONTENT_GAP,
       bottom: AppSpacing.XL
     })
     .backgroundColor(AppColors.BACKGROUND_PRIMARY)
-      SecondaryPageHeader({
-        title: '我的图鉴',
-        scrollOffset: this.scrollOffset,
-        onBack: () => this.onBack()
-      })
     }
     .width('100%')
     .height('100%')

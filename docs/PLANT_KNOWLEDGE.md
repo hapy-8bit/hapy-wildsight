@@ -38,3 +38,21 @@ npm test
 新增400种候选、候选审核和部署前逐种审核分别保留在 `imports/batch-500-expansion-candidates.json`、`imports/batch-500-expansion-review.md` 与 `imports/batch-500-predeployment-audit.md`。部署前审核实时确认400/400 GBIF接受种与ID、400/400 iPlant中文身份和科属、400/400形态接口及36/36补充FNA/NC State直接页，最终BLOCKER、MAJOR、MINOR均为0。这些文件用于可追溯生产，不是独立对外数据源。
 
 正式服务器于2026-08-16 19:18 CST完成统一部署，完整备份为 `C:/apps/wildsight/backups/backend-20260816-191137`。同步范围仅为植物知识数据、维护脚本、后端测试和`package.json`；未覆盖`.env`、百度凭证、日限额配置或usage文件。服务器同样通过500种报告和18/18测试，WildSight-API、3101监听、服务器本机health、正式HTTPS及新旧知识接口均通过。客户端代码没有变化，因此未重新构建或安装HAP；本次未调用百度识别，也未消耗识别额度。
+
+## 日常维护规则
+
+1. 先按外部 ID、`canonicalTaxonId`、接受学名和科学异名查重；中文名相同或相似只能触发人工复核。
+2. 已有物种只更新原 JSON，并增加 `contentVersion`；不得创建第二份记录。
+3. GBIF 用于分类学名、科属和外部 ID；中文名、形态和诊断特征必须来自具体可靠页面。
+4. 不凭常识填写毒性、药用、食用、宠物安全或保护状态；没有逐项依据时 `confusableSpecies` 保持空数组。
+5. 每个发布物种至少需要正式中文名、接受学名、科属、L2 知识、来源和一个可靠百度精确映射。
+6. `index.json` 禁止手工编辑；`updatedAt` 从记录稳定日期推导，无日期时使用固定知识库版本日期，不依赖执行当天、文件 mtime 或目录顺序。
+7. `internalSourceRefs`、`sourceFacts`、`catalogMetadata`、provider 映射和外部 ID 永远不得进入客户端。
+
+唯一受控标签词表为 `server/data/plant-knowledge/catalog-vocabulary.json`。标签使用范围：`taxonGroup`（angiosperm/gymnosperm/fern/bryophyte/other）、`growthForms`（tree/shrub/subshrub/herb/vine）、场景标签、出现类型（wild/cultivated/naturalized）和覆盖优先级（P0/P1/P2）。
+
+## 历史阶段说明
+
+历史“100 种扩容”已经完成，随后统一扩展为 500 种；不能按旧的“20 → 100”数量或旧部署路径再次执行。候选审核、名称消歧、知识刷新接口和一次性部署规则已经吸收到本页与 [HANDOFF.md](HANDOFF.md)，旧阶段执行记录不再作为当前入口。
+
+生产部署不是日常知识编辑的默认步骤。明确要求部署时必须先备份，只同步知识数据和必要脚本，绝不覆盖 `.env`、百度凭证、额度文件、IIS、证书、安全组、端口或其他任务；服务器门禁失败必须回滚。

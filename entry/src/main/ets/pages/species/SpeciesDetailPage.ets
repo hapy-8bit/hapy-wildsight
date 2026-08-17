@@ -16,7 +16,6 @@ export struct SpeciesDetailPage {
   @BuilderParam onBack: () => void;
   @BuilderParam onOpenDiscovery: (discoveryId: string) => void;
   @BuilderParam onRefreshKnowledge: () => void;
-  @State scrollOffset: number = 0;
 
   aboutToAppear(): void { this.onRefreshKnowledge(); }
 
@@ -55,7 +54,12 @@ export struct SpeciesDetailPage {
   }
 
   build() {
-    Stack({ alignContent: Alignment.Top }) {
+    Column() {
+      SecondaryPageHeader({
+        title: this.species.chineseName.length > 0 ? this.species.chineseName : '物种详情',
+        onBack: () => this.onBack()
+      })
+
       Scroll() {
         Column({ space: AppSpacing.XL }) {
           Image(this.heroUri())
@@ -106,24 +110,15 @@ export struct SpeciesDetailPage {
           .padding({
             left: AppDimensions.PAGE_HORIZONTAL,
             right: AppDimensions.PAGE_HORIZONTAL,
-            top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+            top: AppDimensions.SECONDARY_PAGE_CONTENT_GAP,
             bottom: AppSpacing.XXXL
         })
         .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
         .alignItems(HorizontalAlign.Start)
       }
       .width('100%')
-      .height('100%')
+      .layoutWeight(1)
       .scrollBar(BarState.Off)
-      .onScroll((_xOffset: number, yOffset: number) => {
-        this.scrollOffset = Math.max(0, yOffset);
-      })
-
-      SecondaryPageHeader({
-        title: this.species.chineseName.length > 0 ? this.species.chineseName : '物种详情',
-        scrollOffset: this.scrollOffset,
-        onBack: () => this.onBack()
-      })
     }
     .width('100%')
     .height('100%')
