@@ -22,7 +22,6 @@ export struct ProfilePage {
   @State appearance: AppearanceMode = AppearanceMode.SYSTEM;
   @State notice: string = '';
   @State eraseArmed: boolean = false;
-  @State detailScrollOffset: number = 0;
   private readonly storage = new StorageUsageService();
   private readonly prefs = new AppearancePreferenceService();
   private readonly discoveries = new DiscoveryRepository();
@@ -127,7 +126,6 @@ export struct ProfilePage {
   private openPage(page: string): void {
     this.page = page;
     this.notice = '';
-    this.detailScrollOffset = 0;
   }
 
   build() {
@@ -473,45 +471,37 @@ export struct ProfilePage {
   @Builder
   private detail(): void {
     Column() {
-      Stack({ alignContent: Alignment.Top }) {
-        Scroll() {
-          Column({ space: AppSpacing.MD }) {
-            this.content()
-            if (this.notice.length > 0) {
-              Text(this.notice)
-                .width('100%')
-                .fontSize(AppTypography.META_SIZE)
-                .lineHeight(18)
-                .fontColor(AppColors.INK_MUTED)
-            }
+      SecondaryPageHeader({
+        title: this.label(),
+        onBack: () => this.openPage('home')
+      })
+
+      Scroll() {
+        Column({ space: AppSpacing.MD }) {
+          this.content()
+          if (this.notice.length > 0) {
+            Text(this.notice)
+              .width('100%')
+              .fontSize(AppTypography.META_SIZE)
+              .lineHeight(18)
+              .fontColor(AppColors.INK_MUTED)
           }
-          .width('100%')
-          .constraintSize({ minHeight: '100%' })
-          .padding({
-            left: AppDimensions.PAGE_HORIZONTAL,
-            right: AppDimensions.PAGE_HORIZONTAL,
-            top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
-            bottom: AppDimensions.SETTINGS_CONTENT_BOTTOM_INSET
-          })
-          .justifyContent(FlexAlign.Start)
-          .alignItems(HorizontalAlign.Start)
         }
         .width('100%')
-        .height('100%')
-        .scrollBar(BarState.Off)
-        .edgeEffect(EdgeEffect.Spring, { alwaysEnabled: true })
-        .onScroll((_xOffset: number, yOffset: number) => {
-          this.detailScrollOffset = Math.max(0, yOffset);
+        .constraintSize({ minHeight: '100%' })
+        .padding({
+          left: AppDimensions.PAGE_HORIZONTAL,
+          right: AppDimensions.PAGE_HORIZONTAL,
+          top: AppDimensions.SECONDARY_PAGE_CONTENT_GAP,
+          bottom: AppDimensions.SETTINGS_CONTENT_BOTTOM_INSET
         })
-
-        SecondaryPageHeader({
-          title: this.label(),
-          scrollOffset: this.detailScrollOffset,
-          onBack: () => this.openPage('home')
-        })
+        .justifyContent(FlexAlign.Start)
+        .alignItems(HorizontalAlign.Start)
       }
       .width('100%')
       .layoutWeight(1)
+      .scrollBar(BarState.Off)
+      .edgeEffect(EdgeEffect.Spring, { alwaysEnabled: true })
     }
     .width('100%')
     .height('100%')

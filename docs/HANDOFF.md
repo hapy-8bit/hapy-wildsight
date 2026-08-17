@@ -37,11 +37,11 @@ npm test
 - 索引检查：通过。
 - 知识校验：通过。
 - 知识报告：500 published/reviewed、500 L2、500/500 mapped、0 duplicates。
-- `npm test`：19 项中 13 项通过；6 项因受限环境禁止临时 HTTP `listen`，报 `EPERM`，不是业务断言失败。
+- `npm test`：2026-08-17 在当前环境执行，19/19 全部通过。
 - 当前不能把正式 HTTPS 当作当日已验证；此前环境无法解析 `api.hapybuilds.com`。
 - 真机/生产验证必须记录实际日期、设备和命令，不得沿用旧日期结论。
 - 本轮客户端改动：在配置 `DEVECO_SDK_HOME=/Applications/DevEco-Studio.app/Contents/sdk`、`JAVA_HOME=/Applications/DevEco-Studio.app/Contents/jbr/Contents/Home` 后，`/Applications/DevEco-Studio.app/Contents/tools/hvigor/bin/hvigorw --mode module -p product=default assembleHap` 完整通过并生成签名 HAP。
-- 真机设备 `2UCUT23C27028737` 已覆盖安装且未清除应用数据；已验证正方形拍摄区、二级页标题栏基本结构、设置支持组、反馈入口，以及系统相机拍摄确认后返回识别结果。本轮已统一二级标题栏位置、栏高、圆形返回按钮、标题基线，并将滚动反馈收敛为阴影；但“基本结构已完成，视觉和滚动背景尚未最终验收”仍是当前交接状态，需按初始、滚动中、停止滚动、回顶和深色模式重新进行真机复核。深色冷启动、开屏约 1 秒和浅深主题切换本轮未重新验证。
+- 真机设备 `2UCUT23C27028737` 已覆盖安装且未清除应用数据；已验证正方形拍摄区、设置支持组、反馈入口，以及系统相机拍摄确认后返回识别结果。2026-08-17 又完成标题专项验收：三个一级页共用标题基线；所有二级页采用日月同款 56vp/44vp/23vp/22fp 标题栏规格；物种详情快速滚动停止后标题、返回按钮和不透明背景仍固定可见。深色冷启动、开屏约 1 秒和浅深主题切换本轮未重新验证。
 
 ## 4. 客户端验证边界
 

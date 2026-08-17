@@ -17,7 +17,6 @@ export struct IdentificationResultPage {
   @BuilderParam onBack: () => void;
   @BuilderParam onRetry: () => void;
   @BuilderParam onCollect: () => void;
-  @State scrollOffset: number = 0;
 
   private taxonomyLine(): string {
     const parts: string[] = [];
@@ -31,7 +30,12 @@ export struct IdentificationResultPage {
   }
 
   build() {
-    Stack({ alignContent: Alignment.Top }) {
+    Column() {
+      SecondaryPageHeader({
+        title: '识别结果',
+        onBack: () => this.onBack()
+      })
+
       Scroll() {
         Column({ space: AppSpacing.LG }) {
         if (this.state === IdentificationState.IDENTIFYING) {
@@ -236,28 +240,20 @@ export struct IdentificationResultPage {
       .padding({
         left: AppDimensions.PAGE_HORIZONTAL,
         right: AppDimensions.PAGE_HORIZONTAL,
-        top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+        top: AppDimensions.SECONDARY_PAGE_CONTENT_GAP,
         bottom: AppSpacing.XXL
       })
       .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
       .alignItems(HorizontalAlign.Start)
     }
     .width('100%')
-    .height('100%')
+    .layoutWeight(1)
     .scrollBar(BarState.Off)
-    .onScroll((_xOffset: number, yOffset: number) => {
-      this.scrollOffset = Math.max(0, yOffset);
-    })
     .backgroundColor(AppColors.PAPER)
-        SecondaryPageHeader({
-          title: '识别结果',
-          scrollOffset: this.scrollOffset,
-          onBack: () => this.onBack()
-        })
-      }
-      .width('100%')
-      .height('100%')
-      .backgroundColor(AppColors.PAPER)
-      .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
+    }
+    .width('100%')
+    .height('100%')
+    .backgroundColor(AppColors.PAPER)
+    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
   }
 }
