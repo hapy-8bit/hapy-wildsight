@@ -15,19 +15,14 @@ export class PhotoService {
   }
 
   async capturePhoto(context: common.UIAbilityContext): Promise<string | undefined> {
-    try {
-      const profile = new cameraPicker.PickerProfile();
-      profile.cameraPosition = camera.CameraPosition.CAMERA_POSITION_BACK;
-      const result = await cameraPicker.pick(
-        context,
-        [cameraPicker.PickerMediaType.PHOTO],
-        profile
-      );
-      return result.resultUri.length > 0 ? result.resultUri : undefined;
-    } catch (error) {
-      console.error(`CameraKit picker failed: ${JSON.stringify(error)}`);
-      throw error;
-    }
+    const profile = new cameraPicker.PickerProfile();
+    profile.cameraPosition = camera.CameraPosition.CAMERA_POSITION_BACK;
+    const result = await cameraPicker.pick(
+      context,
+      [cameraPicker.PickerMediaType.PHOTO],
+      profile
+    );
+    return result.resultUri.length > 0 ? result.resultUri : undefined;
   }
 
   /** Request the declared camera permission immediately before opening CameraPicker. */
