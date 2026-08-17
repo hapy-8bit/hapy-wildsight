@@ -88,7 +88,6 @@ export struct AtlasPage {
           .width('100%')
         }
 
-        GuidanceCard()
       }
       .width('100%')
       .padding({
@@ -184,37 +183,5 @@ struct RecentEncounterCard {
     .shadow({ radius: 5, color: AppColors.CARD_SHADOW, offsetY: 2 })
     .stateStyles({ pressed: { opacity: 0.88 } })
     .onClick(() => this.onOpen(this.species.id))
-  }
-}
-
-@Component
-struct GuidanceCard {
-  build() {
-    Row({ space: AppSpacing.SM }) {
-      SymbolGlyph($r('sys.symbol.camera'))
-        .fontSize(17)
-        .fontColor([AppColors.BRAND_GREEN])
-        .padding(AppSpacing.SM)
-        .backgroundColor(AppColors.BRAND_GREEN_SOFT)
-        .borderRadius(18)
-      Column({ space: AppSpacing.XXS }) {
-        Text('识别更准确的小建议')
-          .fontSize(AppTypography.BODY_SIZE)
-          .fontWeight(FontWeight.Medium)
-          .fontColor(AppColors.TEXT_PRIMARY)
-        Text('尽量拍清叶片、花朵或整体形态。')
-          .fontSize(AppTypography.META_SIZE)
-          .fontColor(AppColors.TEXT_SECONDARY)
-          .maxLines(1)
-          .textOverflow({ overflow: TextOverflow.Ellipsis })
-      }
-      .layoutWeight(1)
-      .alignItems(HorizontalAlign.Start)
-    }
-    .width('100%')
-    .padding(AppSpacing.MD)
-    .backgroundColor(AppColors.BACKGROUND_SECONDARY)
-    .border({ width: AppDimensions.HAIRLINE, color: AppColors.BORDER_SOFT })
-    .borderRadius(AppDimensions.RADIUS_LARGE)
   }
 }

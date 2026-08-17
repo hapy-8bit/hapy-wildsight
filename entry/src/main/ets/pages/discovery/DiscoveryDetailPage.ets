@@ -2,8 +2,8 @@ import { AppColors } from '../../constants/AppColors';
 import { AppDimensions } from '../../constants/AppDimensions';
 import { AppSpacing } from '../../constants/AppSpacing';
 import { AppTypography } from '../../constants/AppTypography';
-import { ObservationCode } from '../../components/ObservationCode';
 import { PhotoFrame } from '../../components/PhotoFrame';
+import { SecondaryPageHeader } from '../../components/SecondaryPageHeader';
 import { Discovery } from '../../models/Discovery';
 import { Species } from '../../models/Species';
 import { DateFormatter } from '../../utils/DateFormatter';
@@ -13,6 +13,7 @@ export struct DiscoveryDetailPage {
   @Prop discovery: Discovery = new Discovery();
   @Prop species: Species = new Species();
   @BuilderParam onBack: () => void;
+  @State scrollOffset: number = 0;
 
   private taxonomyLine(): string {
     const parts: string[] = [];
@@ -26,18 +27,9 @@ export struct DiscoveryDetailPage {
   }
 
   build() {
-    Scroll() {
-      Column({ space: AppSpacing.XL }) {
-        Row() {
-          Text('‹ 返回')
-            .fontSize(14)
-            .fontColor(AppColors.INK_MUTED)
-            .onClick(() => this.onBack())
-          Blank()
-          ObservationCode({ code: this.discovery.observationCode })
-        }
-        .width('100%')
-
+    Stack({ alignContent: Alignment.Top }) {
+      Scroll() {
+        Column({ space: AppSpacing.XL }) {
         Column({ space: AppSpacing.XS }) {
           Text('这一次相遇')
             .fontSize(AppTypography.HERO_SIZE)
@@ -103,14 +95,33 @@ export struct DiscoveryDetailPage {
           .padding({ top: AppSpacing.MD, bottom: AppSpacing.LG })
       }
       .width('100%')
-      .padding({ left: AppDimensions.PAGE_HORIZONTAL, right: AppDimensions.PAGE_HORIZONTAL, top: AppSpacing.LG, bottom: AppSpacing.XXL })
+      .padding({
+        left: AppDimensions.PAGE_HORIZONTAL,
+        right: AppDimensions.PAGE_HORIZONTAL,
+        top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+        bottom: AppSpacing.XXL
+      })
       .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
       .alignItems(HorizontalAlign.Start)
     }
     .width('100%')
     .height('100%')
     .scrollBar(BarState.Off)
+    .onScroll((_xOffset: number, yOffset: number) => {
+      this.scrollOffset = Math.max(0, yOffset);
+    })
     .backgroundColor(AppColors.PAPER)
+
+      SecondaryPageHeader({
+        title: '相遇详情',
+        scrollOffset: this.scrollOffset,
+        onBack: () => this.onBack()
+      })
+    }
+    .width('100%')
+    .height('100%')
+    .backgroundColor(AppColors.PAPER)
+    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
   }
 }
 

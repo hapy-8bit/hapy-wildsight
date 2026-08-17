@@ -3,6 +3,7 @@ import { AppDimensions } from '../../constants/AppDimensions';
 import { AppSpacing } from '../../constants/AppSpacing';
 import { AppTypography } from '../../constants/AppTypography';
 import { PhotoFrame } from '../../components/PhotoFrame';
+import { SecondaryPageHeader } from '../../components/SecondaryPageHeader';
 import { IdentificationMatch, IdentificationResult } from '../../models/IdentificationResult';
 import { IdentificationState } from '../../models/IdentificationState';
 
@@ -16,6 +17,7 @@ export struct IdentificationResultPage {
   @BuilderParam onBack: () => void;
   @BuilderParam onRetry: () => void;
   @BuilderParam onCollect: () => void;
+  @State scrollOffset: number = 0;
 
   private taxonomyLine(): string {
     const parts: string[] = [];
@@ -29,17 +31,9 @@ export struct IdentificationResultPage {
   }
 
   build() {
-    Scroll() {
-      Column({ space: AppSpacing.LG }) {
-        Row() {
-          Text('‹ 返回')
-            .fontSize(14)
-            .fontColor(AppColors.INK_MUTED)
-            .onClick(() => this.onBack())
-          Blank()
-        }
-        .width('100%')
-
+    Stack({ alignContent: Alignment.Top }) {
+      Scroll() {
+        Column({ space: AppSpacing.LG }) {
         if (this.state === IdentificationState.IDENTIFYING) {
           Column({ space: AppSpacing.LG }) {
             Text('正在辨认')
@@ -239,13 +233,31 @@ export struct IdentificationResultPage {
         }
       }
       .width('100%')
-      .padding({ left: AppDimensions.PAGE_HORIZONTAL, right: AppDimensions.PAGE_HORIZONTAL, top: AppSpacing.LG, bottom: AppSpacing.XXL })
+      .padding({
+        left: AppDimensions.PAGE_HORIZONTAL,
+        right: AppDimensions.PAGE_HORIZONTAL,
+        top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+        bottom: AppSpacing.XXL
+      })
       .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
       .alignItems(HorizontalAlign.Start)
     }
     .width('100%')
     .height('100%')
     .scrollBar(BarState.Off)
+    .onScroll((_xOffset: number, yOffset: number) => {
+      this.scrollOffset = Math.max(0, yOffset);
+    })
     .backgroundColor(AppColors.PAPER)
+        SecondaryPageHeader({
+          title: '识别结果',
+          scrollOffset: this.scrollOffset,
+          onBack: () => this.onBack()
+        })
+      }
+      .width('100%')
+      .height('100%')
+      .backgroundColor(AppColors.PAPER)
+      .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
   }
 }

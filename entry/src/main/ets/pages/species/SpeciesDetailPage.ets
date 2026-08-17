@@ -3,6 +3,7 @@ import { AppDimensions } from '../../constants/AppDimensions';
 import { AppSpacing } from '../../constants/AppSpacing';
 import { AppTypography } from '../../constants/AppTypography';
 import { ObservationCode } from '../../components/ObservationCode';
+import { SecondaryPageHeader } from '../../components/SecondaryPageHeader';
 import { Discovery } from '../../models/Discovery';
 import { Species } from '../../models/Species';
 import { DateFormatter } from '../../utils/DateFormatter';
@@ -15,6 +16,7 @@ export struct SpeciesDetailPage {
   @BuilderParam onBack: () => void;
   @BuilderParam onOpenDiscovery: (discoveryId: string) => void;
   @BuilderParam onRefreshKnowledge: () => void;
+  @State scrollOffset: number = 0;
 
   aboutToAppear(): void { this.onRefreshKnowledge(); }
 
@@ -101,11 +103,11 @@ export struct SpeciesDetailPage {
           }
         }
         .width('100%')
-        .padding({
-          left: AppDimensions.PAGE_HORIZONTAL,
-          right: AppDimensions.PAGE_HORIZONTAL,
-          top: AppSpacing.XL,
-          bottom: AppSpacing.XXXL
+          .padding({
+            left: AppDimensions.PAGE_HORIZONTAL,
+            right: AppDimensions.PAGE_HORIZONTAL,
+            top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
+            bottom: AppSpacing.XXXL
         })
         .constraintSize({ maxWidth: AppDimensions.CONTENT_MAX_WIDTH })
         .alignItems(HorizontalAlign.Start)
@@ -113,9 +115,13 @@ export struct SpeciesDetailPage {
       .width('100%')
       .height('100%')
       .scrollBar(BarState.Off)
+      .onScroll((_xOffset: number, yOffset: number) => {
+        this.scrollOffset = Math.max(0, yOffset);
+      })
 
-      DetailToolbar({
+      SecondaryPageHeader({
         title: this.species.chineseName.length > 0 ? this.species.chineseName : '物种详情',
+        scrollOffset: this.scrollOffset,
         onBack: () => this.onBack()
       })
     }
@@ -123,46 +129,6 @@ export struct SpeciesDetailPage {
     .height('100%')
     .backgroundColor(AppColors.PAPER)
     .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
-  }
-}
-
-@Component
-struct DetailToolbar {
-  @Prop title: string = '';
-  @BuilderParam onBack: () => void;
-
-  build() {
-    Row() {
-      SymbolGlyph($r('sys.symbol.chevron_left'))
-        .fontSize(22)
-        .fontColor([AppColors.INK])
-        .padding(AppSpacing.SM)
-        .backgroundColor(AppColors.SURFACE_TINT)
-        .border({ width: AppDimensions.HAIRLINE, color: AppColors.BORDER_STRONG })
-        .borderRadius(22)
-        .stateStyles({ pressed: { opacity: 0.62 } })
-        .onClick(() => this.onBack())
-      Blank()
-      Text(this.title)
-        .fontSize(16)
-        .fontWeight(FontWeight.Medium)
-        .fontColor(AppColors.INK)
-        .maxLines(1)
-        .textOverflow({ overflow: TextOverflow.Ellipsis })
-        .padding({ left: AppSpacing.LG, right: AppSpacing.LG, top: AppSpacing.XS, bottom: AppSpacing.XS })
-        .backgroundColor(AppColors.SURFACE_TINT)
-        .border({ width: AppDimensions.HAIRLINE, color: AppColors.BORDER_STRONG })
-        .borderRadius(20)
-      Blank()
-      Blank().width(46)
-    }
-    .width('100%')
-    .padding({
-      left: AppDimensions.PAGE_HORIZONTAL,
-      right: AppDimensions.PAGE_HORIZONTAL,
-      top: AppSpacing.SM,
-      bottom: AppSpacing.SM
-    })
   }
 }
 

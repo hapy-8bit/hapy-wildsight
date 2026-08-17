@@ -2,6 +2,7 @@ import { AppColors } from '../../constants/AppColors';
 import { AppDimensions } from '../../constants/AppDimensions';
 import { AppSpacing } from '../../constants/AppSpacing';
 import { AppTypography } from '../../constants/AppTypography';
+import { SecondaryPageHeader } from '../../components/SecondaryPageHeader';
 import { Discovery, DiscoverySummary } from '../../models/Discovery';
 import { Species } from '../../models/Species';
 import { DateFormatter } from '../../utils/DateFormatter';
@@ -20,6 +21,7 @@ export struct MyAtlasPage {
   @BuilderParam onOpenSpecies: (speciesId: string) => void;
   @State query: string = '';
   @State sort: AtlasSort = AtlasSort.RECENT;
+  @State scrollOffset: number = 0;
 
   private summaryFor(speciesId: string): DiscoverySummary {
     return this.summaries.find((item: DiscoverySummary) => item.speciesId === speciesId) ?? new DiscoverySummary();
@@ -69,25 +71,8 @@ export struct MyAtlasPage {
   }
 
   build() {
-    Column({ space: AppSpacing.LG }) {
-      Row() {
-        SymbolGlyph($r('sys.symbol.chevron_left'))
-          .fontSize(21)
-          .fontColor([AppColors.TEXT_PRIMARY])
-          .padding(AppSpacing.XS)
-          .stateStyles({ pressed: { opacity: 0.58 } })
-          .onClick(() => this.onBack())
-        Text('我的图鉴')
-          .fontSize(AppTypography.PAGE_TITLE_SIZE)
-          .fontFamily(AppTypography.DISPLAY_FONT)
-          .fontWeight(FontWeight.Medium)
-          .fontColor(AppColors.TEXT_PRIMARY)
-          .margin({ left: AppSpacing.XS })
-        Blank()
-      }
-      .width('100%')
-      .padding({ top: AppSpacing.XXL })
-
+    Stack({ alignContent: Alignment.Top }) {
+      Column({ space: AppSpacing.LG }) {
       Search({ value: this.query, placeholder: '搜索植物' })
         .width('100%')
         .height(38)
@@ -150,6 +135,9 @@ export struct MyAtlasPage {
         .layoutWeight(1)
         .edgeEffect(EdgeEffect.None)
         .scrollBar(BarState.Off)
+        .onScroll((_xOffset: number, yOffset: number) => {
+          this.scrollOffset = Math.max(0, yOffset);
+        })
       }
     }
     .width('100%')
@@ -157,9 +145,20 @@ export struct MyAtlasPage {
     .padding({
       left: AppDimensions.PAGE_HORIZONTAL,
       right: AppDimensions.PAGE_HORIZONTAL,
+      top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
       bottom: AppSpacing.XL
     })
     .backgroundColor(AppColors.BACKGROUND_PRIMARY)
+      SecondaryPageHeader({
+        title: '我的图鉴',
+        scrollOffset: this.scrollOffset,
+        onBack: () => this.onBack()
+      })
+    }
+    .width('100%')
+    .height('100%')
+    .backgroundColor(AppColors.BACKGROUND_PRIMARY)
+    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP])
   }
 }
 

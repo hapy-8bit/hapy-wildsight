@@ -9,6 +9,7 @@ import { SpeciesRepository } from '../../repositories/SpeciesRepository';
 import { AppearanceMode, AppearancePreferenceService } from '../../services/AppearancePreferenceService';
 import { StorageUsage, StorageUsageService } from '../../services/StorageUsageService';
 import { PageTitle } from '../../components/PageTitle';
+import { SecondaryPageHeader } from '../../components/SecondaryPageHeader';
 
 /** 设置页采用紧凑的分组卡片，同时保留 WildSight 的纸张色板和原有业务入口。 */
 @Component
@@ -489,7 +490,7 @@ export struct ProfilePage {
           .padding({
             left: AppDimensions.PAGE_HORIZONTAL,
             right: AppDimensions.PAGE_HORIZONTAL,
-            top: AppDimensions.SETTINGS_DETAIL_HEADER_HEIGHT + AppSpacing.MD,
+            top: AppDimensions.SECONDARY_PAGE_CONTENT_TOP_INSET,
             bottom: AppDimensions.SETTINGS_CONTENT_BOTTOM_INSET
           })
           .justifyContent(FlexAlign.Start)
@@ -503,60 +504,19 @@ export struct ProfilePage {
           this.detailScrollOffset = Math.max(0, yOffset);
         })
 
-        this.detailHeader(this.label())
+        SecondaryPageHeader({
+          title: this.label(),
+          scrollOffset: this.detailScrollOffset,
+          onBack: () => this.openPage('home')
+        })
       }
       .width('100%')
       .layoutWeight(1)
     }
     .width('100%')
     .height('100%')
-    .padding({ top: AppDimensions.SETTINGS_DETAIL_TOP_INSET })
     .backgroundColor(AppColors.PAPER)
-    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.BOTTOM])
-  }
-
-  @Builder
-  private detailHeader(title: string): void {
-    Stack({ alignContent: Alignment.Top }) {
-      Column()
-        .width('100%')
-        .height('100%')
-        .backgroundColor(AppColors.PAPER)
-        .opacity(this.detailHeaderOpacity())
-      Row({ space: 12 }) {
-        Button() {
-          SymbolGlyph($r('sys.symbol.chevron_left'))
-            .fontSize(23)
-            .fontColor([AppColors.INK])
-        }
-        .width(44)
-        .height(44)
-        .padding(0)
-        .backgroundColor(AppColors.PAPER_ELEVATED)
-        .borderRadius(22)
-        .stateEffect(true)
-        .onClick(() => this.openPage('home'))
-        .accessibilityText('返回')
-
-        Text(title)
-          .fontSize(22)
-          .fontWeight(FontWeight.Bold)
-          .fontColor(AppColors.INK)
-          .maxLines(1)
-          .textOverflow({ overflow: TextOverflow.Ellipsis })
-          .layoutWeight(1)
-      }
-      .width('100%')
-      .height('100%')
-      .padding({ left: AppDimensions.PAGE_HORIZONTAL, right: AppDimensions.PAGE_HORIZONTAL })
-      .alignItems(VerticalAlign.Center)
-    }
-    .width('100%')
-    .height(AppDimensions.SETTINGS_DETAIL_HEADER_HEIGHT)
-  }
-
-  private detailHeaderOpacity(): number {
-    return Math.max(0.92, 1 - Math.min(this.detailScrollOffset / 100, 0.08));
+    .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP, SafeAreaEdge.BOTTOM])
   }
 
   @Builder
