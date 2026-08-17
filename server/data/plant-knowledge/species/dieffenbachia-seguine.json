@@ -1,0 +1,114 @@
+{
+  "id": "dieffenbachia-seguine",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黛粉芋",
+    "scientificName": "Dieffenbachia seguine",
+    "family": "天南星科",
+    "genus": "黛粉芋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，多年生草本，室内栽培植物，直立。",
+    "stem": "茎上升，上部直立。",
+    "leaf": "叶柄具鞘，绿色，具白色条状斑纹；叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖，向先端渐狭、具短尖头，绿色或具各种颜色的斑块；中肋宽厚， I级侧脉表面下凹，背面强裂隆起，约5-15对，下部的伸展，上部的远离上升；II级侧脉较细，但背面隆起。",
+    "flower": "花序柄短；佛焰苞骤尖，绿色或白绿色。",
+    "fruit": "浆果橙黄绿色。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖。",
+      "花序柄短，佛焰苞骤尖，绿色或白绿色。",
+      "浆果橙黄绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黛粉芋是多年生。观察时重点看叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖，并结合花序柄短，佛焰苞骤尖，绿色或白绿色确认。",
+    "identificationReferences": [
+      "叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖。",
+      "花序柄短，佛焰苞骤尖，绿色或白绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖”。",
+      "补拍花或花序的整体与细节，核对“花序柄短，佛焰苞骤尖，绿色或白绿色”。"
+    ],
+    "appearance": "叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖。花序柄短，佛焰苞骤尖，绿色或白绿色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖。",
+      "花序柄短，佛焰苞骤尖，绿色或白绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄具鞘，绿色，具白色条状斑纹，叶片长圆形至卵状长圆形，基部圆形或微心形、或稍锐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dieffenbachia-seguine",
+      "title": "GBIF species record: Dieffenbachia seguine",
+      "url": "https://api.gbif.org/v1/species/2869345",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dieffenbachia-seguine",
+      "title": "iPlant 植物智：黛粉芋（Dieffenbachia seguine）",
+      "url": "https://www.iplant.cn/info/Dieffenbachia%20seguine?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-dieffenbachia-seguine",
+      "title": "NC State Extension Plant Toolbox: Dieffenbachia seguine",
+      "url": "https://plants.ces.ncsu.edu/plants/dieffenbachia-seguine/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2869345"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

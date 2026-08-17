@@ -1,0 +1,100 @@
+{
+  "id": "nephrolepis-cordifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "肾蕨",
+    "scientificName": "Nephrolepis cordifolia",
+    "family": "肾蕨科",
+    "genus": "肾蕨属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生蕨类植物。",
+    "stem": "根茎短，常具走茎。",
+    "leaf": "叶簇生，一回羽状分裂。",
+    "flower": "",
+    "fruit": "孢子囊群位于小羽片背面。",
+    "habitat": "常见于湿润阴处，也常作观叶栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "簇生的一回羽状叶。",
+      "根茎常具走茎。"
+    ]
+  },
+  "knowledge": {
+    "summary": "肾蕨可从簇生的一回羽状叶和常见的走茎观察。",
+    "identificationReferences": [
+      "叶片多一回羽状分裂并簇生。",
+      "观察基部附近是否有细长走茎。"
+    ],
+    "howToConfirm": [
+      "拍摄整片叶和基部。",
+      "翻看小羽片背面观察孢子囊群位置。"
+    ],
+    "appearance": "叶片簇生，小羽片沿叶轴两侧排列。",
+    "growthHabit": "多年生蕨类植物，根茎常具走茎。",
+    "keyCharacteristics": [
+      "一回羽状簇生叶。",
+      "走茎。"
+    ],
+    "observationTips": [
+      "注意区分叶轴和走茎。",
+      "蕨类没有花，优先记录叶形和孢子囊群。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest-edge",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "wild",
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nephrolepis-cordifolia",
+      "title": "GBIF Species Match: Nephrolepis cordifolia (L.) C.Presl",
+      "url": "https://api.gbif.org/v1/species/match?name=Nephrolepis%20cordifolia",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-nephrolepis-cordifolia",
+      "title": "Flora of China search: Nephrolepis cordifolia",
+      "url": "https://www.efloras.org/search.aspx?query=Nephrolepis%20cordifolia",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "sporangia",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2650930"
+  }
+}

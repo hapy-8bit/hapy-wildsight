@@ -1,0 +1,97 @@
+{
+  "id": "robinia-pseudoacacia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "刺槐",
+    "scientificName": "Robinia pseudoacacia",
+    "family": "豆科",
+    "genus": "刺槐属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮浅裂至深纵裂，稀光滑。",
+    "leaf": "羽状复叶长10-25(-40)厘米；小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米，先端圆，微凹，基部圆或宽楔形，全缘，幼时被短柔毛，后无毛。",
+    "flower": "花序轴与花梗被平伏细柔毛；花萼斜钟形，萼齿5，三角形或卵状三角形，密被柔毛；花冠白色，花瓣均具瓣柄，旗瓣近圆形，反折，翼瓣斜倒卵形，与旗瓣几等长，长约1.6厘米，龙骨瓣镰状，三角形；雄蕊二体；子房线形，无毛，花柱钻形，顶端具毛，柱头顶生。",
+    "fruit": "荚果线状长圆形，褐色或具红褐色斑纹，扁平，无毛，先端上弯，果颈短，沿腹缝线具窄翅；花萼宿存，具2-15种子。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米。",
+      "花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形，密被柔毛。",
+      "荚果线状长圆形，褐色或具红褐色斑纹，扁平，无毛，先端上弯。"
+    ]
+  },
+  "knowledge": {
+    "summary": "刺槐是落叶乔木。观察时重点看羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米，并结合花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形确认。",
+    "identificationReferences": [
+      "羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米。",
+      "花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米”。",
+      "补拍花或花序的整体与细节，核对“花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形”。"
+    ],
+    "appearance": "羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米。花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形。",
+    "growthHabit": "落叶乔木。",
+    "keyCharacteristics": [
+      "羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米。",
+      "花序轴与花梗被平伏细柔毛，花萼斜钟形，萼齿5，三角形或卵状三角形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶长10-25(-40)厘米，小叶2-12对，常对生，椭圆形、长椭圆形或卵形，长2-5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-robinia-pseudoacacia",
+      "title": "GBIF species record: Robinia pseudoacacia",
+      "url": "https://api.gbif.org/v1/species/5352251",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-robinia-pseudoacacia",
+      "title": "iPlant 植物智：刺槐（Robinia pseudoacacia）",
+      "url": "https://www.iplant.cn/info/Robinia%20pseudoacacia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5352251"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

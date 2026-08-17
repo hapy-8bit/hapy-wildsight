@@ -1,0 +1,101 @@
+{
+  "id": "lepisorus-thunbergianus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "瓦韦",
+    "scientificName": "Lepisorus thunbergianus",
+    "family": "水龙骨科",
+    "genus": "瓦韦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "附生蕨类。",
+    "stem": "根茎横走，密被披针形鳞片，鳞片褐棕色，大部分不透明，叶缘1-2行网眼透明，具锯齿。",
+    "leaf": "叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延，干后黄绿、淡黄绿、淡绿或褐色，纸质。",
+    "flower": "孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖。",
+    "fruit": "孢子囊群圆形或椭圆形，相距较近，成熟后扩展几密接，幼时被圆形褐棕色隔丝覆盖。",
+    "habitat": "附生山坡林下树干或岩石上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延。",
+      "孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖。",
+      "孢子囊群圆形或椭圆形，相距较近，成熟后扩展几密接，幼时被圆形褐棕色隔丝覆盖。"
+    ]
+  },
+  "knowledge": {
+    "summary": "瓦韦是附生蕨类。观察时重点看叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延，并结合孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖确认。",
+    "identificationReferences": [
+      "叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延。",
+      "孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖”。"
+    ],
+    "appearance": "叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延。孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖。",
+    "growthHabit": "附生蕨类。附生山坡林下树干或岩石上。",
+    "keyCharacteristics": [
+      "叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延。",
+      "孢子囊群圆形或椭圆形，彼此相距较近，成熟后扩展几密接，幼时被圆形褐棕色的隔丝覆盖。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近生，叶柄禾秆色，叶片线状披针形或窄披针形，中部宽，基部渐窄并下延”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lepisorus-thunbergianus",
+      "title": "GBIF species record: Lepisorus thunbergianus",
+      "url": "https://api.gbif.org/v1/species/2650524",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lepisorus-thunbergianus",
+      "title": "iPlant 植物智：瓦韦（Lepisorus thunbergianus）",
+      "url": "https://www.iplant.cn/info/Lepisorus%20thunbergianus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650524"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "sapindus-mukorossi",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "无患子",
+    "scientificName": "Sapindus mukorossi",
+    "family": "无患子科",
+    "genus": "无患子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶大乔木。",
+    "stem": "嫩枝绿色，无毛。",
+    "leaf": "小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长，宽2-5厘米，先端短尖或短渐尖，基部楔形，稍不对称，两面无毛或下面被微柔毛，侧脉细密，15-17对，近平行；小叶柄长约5毫米。",
+    "flower": "圆锥花序顶生；花小，辐射对称，花梗短；萼片卵形或长圆状卵形，长约2毫米，外面基部被疏柔毛；花瓣5，披针形，有长爪，长约2.5毫米，鳞片2，小耳状；花盘碟状，无毛；雄蕊8，伸出，花丝长约3.5毫米，中部以下密被长柔毛。",
+    "fruit": "发育分果爿近球形，径2-2.5厘米，橙黄色，干后黑色。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长。",
+      "圆锥花序顶生，花小，辐射对称，花梗短，萼片卵形或长圆状卵形。",
+      "发育分果爿近球形，径2-2.5厘米，橙黄色，干后黑色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "无患子是落叶大乔木。观察时重点看小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长，并结合圆锥花序顶生，花小，辐射对称，花梗短确认。",
+    "identificationReferences": [
+      "小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长。",
+      "圆锥花序顶生，花小，辐射对称，花梗短。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序顶生，花小，辐射对称，花梗短”。"
+    ],
+    "appearance": "小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长。圆锥花序顶生，花小，辐射对称，花梗短。",
+    "growthHabit": "落叶大乔木。",
+    "keyCharacteristics": [
+      "小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长。",
+      "圆锥花序顶生，花小，辐射对称，花梗短。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶5-8对，常近对生，叶薄纸质，长椭圆状披针形或稍镰形，长7-15厘米或更长”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sapindus-mukorossi",
+      "title": "GBIF species record: Sapindus mukorossi",
+      "url": "https://api.gbif.org/v1/species/5421133",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sapindus-mukorossi",
+      "title": "iPlant 植物智：无患子（Sapindus mukorossi）",
+      "url": "https://www.iplant.cn/info/Sapindus%20mukorossi?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5421133"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

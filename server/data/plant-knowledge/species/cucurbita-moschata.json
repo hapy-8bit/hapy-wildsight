@@ -1,0 +1,97 @@
+{
+  "id": "cucurbita-moschata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "南瓜",
+    "scientificName": "Cucurbita moschata",
+    "family": "葫芦科",
+    "genus": "南瓜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生蔓生草本。",
+    "stem": "茎常节部生根，密被白色刚毛。",
+    "leaf": "叶柄长8-19厘米，被刚毛；叶宽卵形或卵圆形，质稍软，有5角或5浅裂，稀钝，长12-25厘米，宽20-30厘米，密生细齿；卷须3-5歧。",
+    "flower": "雌花单生；子房1室。",
+    "fruit": "果柄粗，有棱和槽，长5-7厘米，瓜蒂扩大成喇叭状；瓠果形状多样，因品种而异，常有数条纵沟或无。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂。",
+      "雌花单生，子房1室。",
+      "果柄粗，有棱和槽，长5-7厘米，瓜蒂扩大成喇叭状，瓠果形状多样。"
+    ]
+  },
+  "knowledge": {
+    "summary": "南瓜是一年生蔓生草本。观察时重点看叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂，并结合雌花单生，子房1室确认。",
+    "identificationReferences": [
+      "叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂。",
+      "雌花单生，子房1室。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂”。",
+      "补拍花或花序的整体与细节，核对“雌花单生，子房1室”。"
+    ],
+    "appearance": "叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂。雌花单生，子房1室。",
+    "growthHabit": "一年生蔓生草本。",
+    "keyCharacteristics": [
+      "叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂。",
+      "雌花单生，子房1室。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄长8-19厘米，被刚毛，叶宽卵形或卵圆形，质稍软，有5角或5浅裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cucurbita-moschata",
+      "title": "GBIF species record: Cucurbita moschata",
+      "url": "https://api.gbif.org/v1/species/7393329",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cucurbita-moschata",
+      "title": "iPlant 植物智：南瓜（Cucurbita moschata）",
+      "url": "https://www.iplant.cn/info/Cucurbita%20moschata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7393329"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

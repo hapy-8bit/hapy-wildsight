@@ -1,0 +1,96 @@
+{
+  "id": "zamioculcas-zamiifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "雪铁芋",
+    "scientificName": "Zamioculcas zamiifolia",
+    "family": "天南星科",
+    "genus": "雪铁芋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生常绿草本植物，株高30-50cm。",
+    "stem": "",
+    "leaf": "羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质，先端急尖，有光泽。",
+    "flower": "佛焰苞绿色，反卷，肉穗花序黄白色。",
+    "fruit": "",
+    "habitat": "喜温暖及湿润环境，喜半荫，不喜强光，耐热，不耐寒，忌水湿；喜疏松、排水良好的砂质土壤；生长适温16℃-26℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质。",
+      "佛焰苞绿色，反卷，肉穗花序黄白色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "雪铁芋是多年生常绿草本植物。观察时重点看羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质，并结合佛焰苞绿色，反卷，肉穗花序黄白色确认。",
+    "identificationReferences": [
+      "羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质。",
+      "佛焰苞绿色，反卷，肉穗花序黄白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质”。",
+      "补拍花或花序的整体与细节，核对“佛焰苞绿色，反卷，肉穗花序黄白色”。"
+    ],
+    "appearance": "羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质。佛焰苞绿色，反卷，肉穗花序黄白色。",
+    "growthHabit": "多年生常绿草本植物。喜温暖及湿润环境，喜半荫，不喜强光。",
+    "keyCharacteristics": [
+      "羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质。",
+      "佛焰苞绿色，反卷，肉穗花序黄白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶自块茎顶端抽生，小叶在叶轴上呈对生或近对生，小叶卵形，全缘，厚革质”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zamioculcas-zamiifolia",
+      "title": "GBIF species record: Zamioculcas zamiifolia",
+      "url": "https://api.gbif.org/v1/species/2869014",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-zamioculcas-zamiifolia",
+      "title": "iPlant 植物智：雪铁芋（Zamioculcas zamiifolia）",
+      "url": "https://www.iplant.cn/info/Zamioculcas%20zamiifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2869014"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "schoenoplectus-triqueter",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "三棱水葱",
+    "scientificName": "Schoenoplectus triqueter",
+    "family": "莎草科",
+    "genus": "水葱属",
+    "aliases": []
+  },
+  "scientificSynonyms": [
+    "Scirpus triqueter"
+  ],
+  "sourceFacts": {
+    "lifeForm": "秆粗壮。",
+    "stem": "秆散生，粗壮，高20-90厘米，三棱形，基部具2-3膜质鞘，横脉隆起，最上部鞘具叶片。",
+    "leaf": "叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米；苞片1，为秆的延长，三棱形，长1.5-7厘米。",
+    "flower": "小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花。",
+    "fruit": "鳞片长圆形、椭圆形或宽卵形，先端微凹或圆，长3-4毫米，膜质，黄棕色，具中肋，先端短尖，边缘疏生缘毛；下位刚毛（2)3-5，几等长或稍长于小坚果，有倒刺；雄荡3，花药线形，药隔暗褐色，稍突出；在柱短，柱头2，细长；小坚果倒卵形，平凸状，长2-3毫米，成熟时褐色。",
+    "habitat": "多生长在河边湿地上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长。",
+      "小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花。",
+      "鳞片长圆形、椭圆形或宽卵形，先端微凹或圆，长3-4毫米，膜质，黄棕色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "三棱水葱的生长形态为秆粗壮。观察时重点看叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长，并结合小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花确认。",
+    "identificationReferences": [
+      "叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长。",
+      "小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长”。",
+      "补拍花或花序的整体与细节，核对“小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花”。"
+    ],
+    "appearance": "叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长。小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花。",
+    "growthHabit": "秆粗壮。多生长在河边湿地上。",
+    "keyCharacteristics": [
+      "叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长。",
+      "小穗卵形或长圆形，长0.6-1.2(-1.4)厘米，宽3-7毫米，密生多花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶片扁平，长1.3-5.5(-8)厘米，宽1.5-2毫米，苞片1，为秆的延长”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-schoenoplectus-triqueter",
+      "title": "GBIF species record: Schoenoplectus triqueter",
+      "url": "https://api.gbif.org/v1/species/2711033",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-schoenoplectus-triqueter",
+      "title": "iPlant 植物智：三棱水葱（Schoenoplectus triqueter）",
+      "url": "https://www.iplant.cn/info/Schoenoplectus%20triqueter?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2711033"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

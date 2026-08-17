@@ -1,0 +1,103 @@
+{
+  "id": "viburnum-odoratissimum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "珊瑚树",
+    "scientificName": "Viburnum odoratissimum",
+    "family": "荚蒾科",
+    "genus": "荚蒾属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿灌木或小乔木。",
+    "stem": "枝有小瘤状皮孔，无毛或稍被黄褐色簇状毛；冬芽有1-2对卵状披针形鳞片。",
+    "leaf": "叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘，两面无毛或脉散生簇状微毛，下面有时散生暗红色微腺点，脉腋常有集聚簇状毛和趾蹼状小孔，侧脉5-6对，弧形，近缘前网结；叶柄长1-2(3)厘米，无毛或被簇状微毛。",
+    "flower": "圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛，总花梗长达10厘米，扁，有淡黄色小瘤状突起；苞片长不及1厘米，宽不及2毫米；花芳香，通常生于序轴第2-3级分枝，无梗或有短梗；萼筒筒状钟形，长2-2.5毫米，无毛，萼檐碟状，齿宽三角形；花冠无毛，白色，后黄白色，辐状，径约7毫米，筒部长约2毫米，裂片反折，圆卵形，长2-3毫米：雄蕊稍超出花冠裂片。",
+    "fruit": "果熟时红色，后黑色，卵圆形或卵状椭圆形，长约8毫米：核卵状椭圆形，长约7毫米，有深腹沟。",
+    "habitat": "生于山谷密林中溪涧旁蔽荫处、疏林中向阳地或平地灌丛中，海拔200-1300米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘。",
+      "圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛，总花梗长达10厘米。",
+      "果熟时红色，后黑色，卵圆形或卵状椭圆形，长约8毫米：核卵状椭圆形，长约7毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "珊瑚树是常绿灌木或小乔木。观察时重点看叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘，并结合圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛确认。",
+    "identificationReferences": [
+      "叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘。",
+      "圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛”。"
+    ],
+    "appearance": "叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘。圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛。",
+    "growthHabit": "常绿灌木或小乔木。生于山谷密林中溪涧旁蔽荫处、疏林中向阳地或平地灌丛中，海拔200-1300米。",
+    "keyCharacteristics": [
+      "叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘。",
+      "圆锥花序顶生或生于侧生短枝，宽尖塔形，长（3.5-)6-13.5厘米，无毛或散生簇状毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，椭圆形、长圆形、长圆状倒卵形或倒卵形，稀近圆形，长7-20厘米，上部有不规则浅波状锯齿或近全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-viburnum-odoratissimum",
+      "title": "GBIF species record: Viburnum odoratissimum",
+      "url": "https://api.gbif.org/v1/species/2888626",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-viburnum-odoratissimum",
+      "title": "iPlant 植物智：珊瑚树（Viburnum odoratissimum）",
+      "url": "https://www.iplant.cn/info/Viburnum%20odoratissimum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2888626"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

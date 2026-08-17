@@ -1,0 +1,99 @@
+{
+  "id": "philadelphus-pekinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "太平花",
+    "scientificName": "Philadelphus pekinensis",
+    "family": "绣球科",
+    "genus": "山梅花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "灌木，高1-2米，分枝较多。",
+    "leaf": "叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿，两面无毛，叶脉离基3-5出，花枝叶较小：叶柄长0.5-1.2厘米。",
+    "flower": "花序轴长3-5厘米，黄绿色；花梗长3-6毫米；花萼黄绿色，无毛，裂片卵形，长3-4毫米，先端尖，干后脉纹明显：花冠盘状，径2-3厘米，花瓣白色，倒卵形，长0.9-1.2厘米；雄蕊25-28，最长达8毫米；花盘和花柱无毛，花柱长4-5毫米，纤细，先端稍裂，柱头棒形或槌形，长约1毫米。",
+    "fruit": "蒴果近球形或倒圆锥形，径5-7毫米，宿萼裂片近顶生。",
+    "habitat": "灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿。",
+      "花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色，无毛。",
+      "蒴果近球形或倒圆锥形，径5-7毫米，宿萼裂片近顶生。"
+    ]
+  },
+  "knowledge": {
+    "summary": "太平花是灌木。观察时重点看叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿，并结合花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色确认。",
+    "identificationReferences": [
+      "叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿。",
+      "花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿”。",
+      "补拍花或花序的整体与细节，核对“花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色”。"
+    ],
+    "appearance": "叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿。花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色。",
+    "growthHabit": "灌木。灌丛中。",
+    "keyCharacteristics": [
+      "叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿。",
+      "花序轴长3-5厘米，黄绿色，花梗长3-6毫米，花萼黄绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或宽椭圆形，长6-9厘米，先端长渐尖，基部宽楔或楔形，具锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-philadelphus-pekinensis",
+      "title": "GBIF species record: Philadelphus pekinensis",
+      "url": "https://api.gbif.org/v1/species/7318966",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-philadelphus-pekinensis",
+      "title": "iPlant 植物智：太平花（Philadelphus pekinensis）",
+      "url": "https://www.iplant.cn/info/Philadelphus%20pekinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7318966"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

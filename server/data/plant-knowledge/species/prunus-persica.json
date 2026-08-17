@@ -1,0 +1,97 @@
+{
+  "id": "prunus-persica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "桃",
+    "scientificName": "Prunus persica",
+    "family": "蔷薇科",
+    "genus": "李属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝无毛；冬芽被柔毛。",
+    "leaf": "叶披针形，先端渐尖，基部宽楔形，具锯齿。",
+    "flower": "花梗极短或几无梗；萼筒钟形，被柔毛，稀几无毛，萼片卵形或长圆形，被柔毛；花瓣长圆状椭圆形或宽倒卵形，粉红色，稀白色：花药绯红色。",
+    "fruit": "核果卵圆形，成熟时向阳面具红晕；果肉多色，多汁有香味，甜或酸甜。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶披针形，先端渐尖，基部宽楔形，具锯齿。",
+      "花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛，萼片卵形或长圆形。",
+      "核果卵圆形，成熟时向阳面具红晕，果肉多色，多汁有香味，甜或酸甜。"
+    ]
+  },
+  "knowledge": {
+    "summary": "桃是乔木。观察时重点看叶披针形，先端渐尖，基部宽楔形，具锯齿，并结合花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛确认。",
+    "identificationReferences": [
+      "叶披针形，先端渐尖，基部宽楔形，具锯齿。",
+      "花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶披针形，先端渐尖，基部宽楔形，具锯齿”。",
+      "补拍花或花序的整体与细节，核对“花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛”。"
+    ],
+    "appearance": "叶披针形，先端渐尖，基部宽楔形，具锯齿。花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛。",
+    "growthHabit": "乔木。",
+    "keyCharacteristics": [
+      "叶披针形，先端渐尖，基部宽楔形，具锯齿。",
+      "花梗极短或几无梗，萼筒钟形，被柔毛，稀几无毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶披针形，先端渐尖，基部宽楔形，具锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-prunus-persica",
+      "title": "GBIF species record: Prunus persica",
+      "url": "https://api.gbif.org/v1/species/8149923",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-prunus-persica",
+      "title": "iPlant 植物智：桃（Prunus persica）",
+      "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8149923"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

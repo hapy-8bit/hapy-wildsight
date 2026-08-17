@@ -1,0 +1,99 @@
+{
+  "id": "polygonum-aviculare",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "萹蓄",
+    "scientificName": "Polygonum aviculare",
+    "family": "蓼科",
+    "genus": "萹蓄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "基部多分枝。",
+    "leaf": "叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形，全缘，无毛；叶柄短，基部具关节，托叶鞘膜质，下部褐色，上部白色，撕裂。",
+    "flower": "花梗细，顶部具关节；花被5深裂，花被片椭圆形，长2-2.5毫米，绿色，边缘白或淡红色；雄蕊8，花丝基部宽，花柱3。",
+    "fruit": "瘦果卵形，具3棱，长2.5-3毫米，黑褐色，密被由小点组成的细条纹，无光泽，与宿存花被近等长或稍长。",
+    "habitat": "花单生或数朵簇生于叶腋，遍布于植株；苞片薄膜质；花梗细，顶部具关节；花被5深裂，花被片椭圆形，长2-2.5毫米，绿色，边缘白色或淡红色；雄蕊8，花丝基部扩展；花柱3,柱头头状。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形。",
+      "花梗细，顶部具关节，花被5深裂，花被片椭圆形，长2-2.5毫米。",
+      "瘦果卵形，具3棱，长2.5-3毫米，黑褐色，密被由小点组成的细条纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "萹蓄是一年生草本。观察时重点看叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形，并结合花梗细，顶部具关节，花被5深裂，花被片椭圆形确认。",
+    "identificationReferences": [
+      "叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形。",
+      "花梗细，顶部具关节，花被5深裂，花被片椭圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“花梗细，顶部具关节，花被5深裂，花被片椭圆形”。"
+    ],
+    "appearance": "叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形。花梗细，顶部具关节，花被5深裂，花被片椭圆形。",
+    "growthHabit": "一年生草本。花单生或数朵簇生于叶腋，遍布于植株，苞片薄膜质。",
+    "keyCharacteristics": [
+      "叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形。",
+      "花梗细，顶部具关节，花被5深裂，花被片椭圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶椭圆形、窄椭圆形或披针形，长1-4厘米，宽0.3-1.2厘米，先端圆或尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-polygonum-aviculare",
+      "title": "GBIF species record: Polygonum aviculare",
+      "url": "https://api.gbif.org/v1/species/7821030",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-polygonum-aviculare",
+      "title": "iPlant 植物智：萹蓄（Polygonum aviculare）",
+      "url": "https://www.iplant.cn/info/Polygonum%20aviculare?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7821030"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

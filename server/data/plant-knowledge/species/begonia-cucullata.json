@@ -1,0 +1,97 @@
+{
+  "id": "begonia-cucullata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "四季秋海棠",
+    "scientificName": "Begonia cucullata",
+    "family": "秋海棠科",
+    "genus": "秋海棠属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生常绿草本，茎直立，稍肉质。",
+    "stem": "茎直立，稍肉质，高15-30cm。",
+    "leaf": "单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm，先端急尖或钝，基部稍心形而斜生，边缘有小齿和缘毛，绿色。",
+    "flower": "聚伞花序腋生，具数花，花红色，淡红色或白色。",
+    "fruit": "蒴果具翅。",
+    "habitat": "喜阳光，稍耐荫，怕寒冷，喜温暖，稍阴湿的环境和湿润的土壤，但怕热及水涝；生长适温16℃-30℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm。",
+      "聚伞花序腋生，具数花，花红色，淡红色或白色。",
+      "蒴果具翅。"
+    ]
+  },
+  "knowledge": {
+    "summary": "四季秋海棠是多年生常绿草本。观察时重点看单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm，并结合聚伞花序腋生，具数花，花红色，淡红色或白色确认。",
+    "identificationReferences": [
+      "单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm。",
+      "聚伞花序腋生，具数花，花红色，淡红色或白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序腋生，具数花，花红色，淡红色或白色”。"
+    ],
+    "appearance": "单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm。聚伞花序腋生，具数花，花红色，淡红色或白色。",
+    "growthHabit": "多年生常绿草本。喜阳光，稍耐荫，怕寒冷。",
+    "keyCharacteristics": [
+      "单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm。",
+      "聚伞花序腋生，具数花，花红色，淡红色或白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“单叶互生，有光泽，卵圆至广卵圆形，长5-8cm，宽3-6cm”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-begonia-cucullata",
+      "title": "GBIF species record: Begonia cucullata",
+      "url": "https://api.gbif.org/v1/species/2874717",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-begonia-cucullata",
+      "title": "iPlant 植物智：四季秋海棠（Begonia cucullata）",
+      "url": "https://www.iplant.cn/info/Begonia%20cucullata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2874717"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

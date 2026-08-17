@@ -1,0 +1,109 @@
+{
+  "id": "funaria-hygrometrica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "葫芦藓",
+    "scientificName": "Funaria hygrometrica",
+    "family": "葫芦藓科",
+    "genus": "葫芦藓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "苔藓植物，植株通常高4-10毫米或更高。",
+    "stem": "叶在茎上部密集，整体可呈芽状。",
+    "leaf": "上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖。",
+    "flower": "",
+    "fruit": "蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖。",
+      "蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立。",
+      "叶在茎上部密集，整体可呈芽状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "葫芦藓是苔藓植物。观察时重点看上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖，并结合蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立确认。",
+    "identificationReferences": [
+      "上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖。",
+      "蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖”。",
+      "补拍果实或孢子结构的整体与细节，核对“蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立”。"
+    ],
+    "appearance": "上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖。蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立。",
+    "growthHabit": "苔藓植物。",
+    "keyCharacteristics": [
+      "上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖。",
+      "蒴柄细长而可弯曲，孢蒴梨形、不对称，可弯曲或近直立。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“上部叶长2-4毫米，深凹，长圆状卵形至宽倒卵形，先端急尖至短渐尖”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-funaria-hygrometrica",
+      "title": "GBIF species record: Funaria hygrometrica",
+      "url": "https://api.gbif.org/v1/species/5281229",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-funaria-hygrometrica",
+      "title": "iPlant 植物智：葫芦藓（Funaria hygrometrica）",
+      "url": "https://www.iplant.cn/info/Funaria%20hygrometrica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-funaria-hygrometrica",
+      "title": "Flora of North America: Funaria hygrometrica",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200001339",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5281229"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

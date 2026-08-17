@@ -1,0 +1,97 @@
+{
+  "id": "eucommia-ulmoides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杜仲",
+    "scientificName": "Eucommia ulmoides",
+    "family": "杜仲科",
+    "genus": "杜仲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮灰褐色，粗糙，植株具丝状胶质。",
+    "leaf": "单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米，先端渐尖，基部宽楔形或近圆，羽状脉，具锯齿；叶柄长1-2厘米，无托叶。",
+    "flower": "花单性，雌雄异株，无花被，先叶开放，或与新叶同出；雄花簇生，花梗长约3毫米，无毛，具小苞片，雄蕊5-10，线形，花丝长约1毫米，花药4室，纵裂；雌花单生小枝下部，苞片倒卵形，花梗长8毫米，子房无毛，1室，先端2裂，子房柄极短，柱头位于裂口内侧，先端反折，倒生胚珠2，并立、下垂。",
+    "fruit": "翅果扁平，长椭圆形，先端2裂，基部楔形，周围具薄翅。",
+    "habitat": "低山，谷地或低坡的疏林里，对土壤的选择并不严格，在瘠薄的红土，或岩石峭壁均能生长。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米。",
+      "花单性，雌雄异株，无花被，先叶开放，或与新叶同出。",
+      "翅果扁平，长椭圆形，先端2裂，基部楔形，周围具薄翅。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杜仲是落叶乔木。观察时重点看单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米，并结合花单性，雌雄异株，无花被，先叶开放确认。",
+    "identificationReferences": [
+      "单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米。",
+      "花单性，雌雄异株，无花被，先叶开放。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米”。",
+      "补拍花或花序的整体与细节，核对“花单性，雌雄异株，无花被，先叶开放”。"
+    ],
+    "appearance": "单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米。花单性，雌雄异株，无花被，先叶开放。",
+    "growthHabit": "落叶乔木。低山，谷地或低坡的疏林里，对土壤的选择并不严格。",
+    "keyCharacteristics": [
+      "单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米。",
+      "花单性，雌雄异株，无花被，先叶开放。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“单叶互生，椭圆形、卵形或长圆形，薄革质，长6-15厘米，宽3.5-6.5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-eucommia-ulmoides",
+      "title": "GBIF species record: Eucommia ulmoides",
+      "url": "https://api.gbif.org/v1/species/3723584",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-eucommia-ulmoides",
+      "title": "iPlant 植物智：杜仲（Eucommia ulmoides）",
+      "url": "https://www.iplant.cn/info/Eucommia%20ulmoides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3723584"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "dianthus-barbatus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "须苞石竹",
+    "scientificName": "Dianthus barbatus",
+    "family": "石竹科",
+    "genus": "石竹属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎具棱。",
+    "leaf": "叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄，鞘状。",
+    "flower": "花梗极短；苞片4，卵形，先端尾尖，具细齿，与花萼等长或稍长；花萼筒状，长约1.5厘米，萼齿尖锐；花瓣紫红色，具白色斑纹，具长爪，瓣片卵形，先端齿裂，喉部具髯毛：雄蕊稍伸出。",
+    "fruit": "蒴果卵状长圆形，长约1.8厘米，4瓣裂至中部。",
+    "habitat": "生于林缘及阔叶林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄。",
+      "花梗极短，苞片4，卵形，先端尾尖，具细齿。",
+      "蒴果卵状长圆形，长约1.8厘米，4瓣裂至中部。"
+    ]
+  },
+  "knowledge": {
+    "summary": "须苞石竹是多年生草本。观察时重点看叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄，并结合花梗极短，苞片4，卵形，先端尾尖确认。",
+    "identificationReferences": [
+      "叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄。",
+      "花梗极短，苞片4，卵形，先端尾尖。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄”。",
+      "补拍花或花序的整体与细节，核对“花梗极短，苞片4，卵形，先端尾尖”。"
+    ],
+    "appearance": "叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄。花梗极短，苞片4，卵形，先端尾尖。",
+    "growthHabit": "多年生草本。生于林缘及阔叶林下。",
+    "keyCharacteristics": [
+      "叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄。",
+      "花梗极短，苞片4，卵形，先端尾尖。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶披针形，长4-8厘米，宽约1厘米，先端尖，基部渐窄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dianthus-barbatus",
+      "title": "GBIF species record: Dianthus barbatus",
+      "url": "https://api.gbif.org/v1/species/3085421",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dianthus-barbatus",
+      "title": "iPlant 植物智：须苞石竹（Dianthus barbatus）",
+      "url": "https://www.iplant.cn/info/Dianthus%20barbatus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3085421"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

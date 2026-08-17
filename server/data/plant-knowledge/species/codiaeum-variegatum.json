@@ -1,0 +1,98 @@
+{
+  "id": "codiaeum-variegatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "变叶木",
+    "scientificName": "Codiaeum variegatum",
+    "family": "大戟科",
+    "genus": "变叶木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木或灌木状。",
+    "stem": "枝无毛。",
+    "leaf": "叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米，先端渐尖、短尖或圆钝，基部楔形或钝圆，全缘、浅裂、深裂或细长中脉连接2枚叶片，两面无毛，绿色、黄色、黄绿相间、紫红色或紫红与黄绿相间、或绿色散生黄色斑点或斑块；叶柄长0.2-2.5厘米。",
+    "flower": "总状花序腋生，长8-30厘米；雄花白色，花梗纤细；雌花淡黄色，花梗较粗。",
+    "fruit": "蒴果近球形，稍扁，无毛，径约9毫米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米。",
+      "总状花序腋生，长8-30厘米，雄花白色，花梗纤细，雌花淡黄色。",
+      "蒴果近球形，稍扁，无毛，径约9毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "变叶木是小乔木或灌木状。观察时重点看叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米，并结合总状花序腋生，长8-30厘米，雄花白色，花梗纤细确认。",
+    "identificationReferences": [
+      "叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米。",
+      "总状花序腋生，长8-30厘米，雄花白色，花梗纤细。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米”。",
+      "补拍花或花序的整体与细节，核对“总状花序腋生，长8-30厘米，雄花白色，花梗纤细”。"
+    ],
+    "appearance": "叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米。总状花序腋生，长8-30厘米，雄花白色，花梗纤细。",
+    "growthHabit": "小乔木或灌木状。",
+    "keyCharacteristics": [
+      "叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米。",
+      "总状花序腋生，长8-30厘米，雄花白色，花梗纤细。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶薄革质，叶形、大小、色泽因品种不同有很大变异，线形、线状披针形、披针形、椭圆形、卵形、倒卵形、匙形或提琴形，长5-30厘米，宽0.5-8厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-codiaeum-variegatum",
+      "title": "GBIF species record: Codiaeum variegatum",
+      "url": "https://api.gbif.org/v1/species/3071476",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-codiaeum-variegatum",
+      "title": "iPlant 植物智：变叶木（Codiaeum variegatum）",
+      "url": "https://www.iplant.cn/info/Codiaeum%20variegatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3071476"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "taxodium-distichum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "落羽杉",
+    "scientificName": "Taxodium distichum",
+    "family": "柏科",
+    "genus": "落羽杉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树干尖削度大，基部通常膨大，具膝状呼吸根；树皮棕色，裂成长条片。",
+    "leaf": "叶线形，长1-1.5厘米，排成羽状2列。",
+    "flower": "雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状。",
+    "fruit": "球果径约2.5厘米，具短柄，熟时淡褐黄色，被白粉。",
+    "habitat": "原产北美东南部，耐水湿，能排水不良的沼泽地上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶线形，长1-1.5厘米，排成羽状2列。",
+      "雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状。",
+      "球果径约2.5厘米，具短柄，熟时淡褐黄色，被白粉。"
+    ]
+  },
+  "knowledge": {
+    "summary": "落羽杉是落叶乔木。观察时重点看叶线形，长1-1.5厘米，排成羽状2列，并结合雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状确认。",
+    "identificationReferences": [
+      "叶线形，长1-1.5厘米，排成羽状2列。",
+      "雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶线形，长1-1.5厘米，排成羽状2列”。",
+      "补拍花或花序的整体与细节，核对“雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状”。"
+    ],
+    "appearance": "叶线形，长1-1.5厘米，排成羽状2列。雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状。",
+    "growthHabit": "落叶乔木。原产北美东南部，耐水湿，能排水不良的沼泽地上。",
+    "keyCharacteristics": [
+      "叶线形，长1-1.5厘米，排成羽状2列。",
+      "雄球花卵圆形，有短梗，在小枝顶端排列成总状花序状或圆锥花序状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶线形，长1-1.5厘米，排成羽状2列”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-taxodium-distichum",
+      "title": "GBIF species record: Taxodium distichum",
+      "url": "https://api.gbif.org/v1/species/2684191",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-taxodium-distichum",
+      "title": "iPlant 植物智：落羽杉（Taxodium distichum）",
+      "url": "https://www.iplant.cn/info/Taxodium%20distichum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2684191"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

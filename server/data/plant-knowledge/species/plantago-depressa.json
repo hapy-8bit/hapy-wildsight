@@ -1,0 +1,102 @@
+{
+  "id": "plantago-depressa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "平车前",
+    "scientificName": "Plantago depressa",
+    "family": "车前科",
+    "genus": "车前属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "根茎短。",
+    "leaf": "叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝，基部楔形，下延至叶柄，边缘具浅波状钝齿、不规则锯齿或牙齿，脉5-7条，两面疏生白色短柔毛；叶柄长2-6厘米，基部扩大成鞘状。",
+    "flower": "花序梗长5-18厘米，疏生白色短柔毛；苞片三角状卵形，无毛，龙骨突宽厚；萼片龙骨突宽厚，不延至顶端；花冠白色，无毛，花冠筒等长或稍长于萼片，裂片长0.5-1毫米，花后反折；雄蕊着生花冠筒内面近顶端，同花柱明显外伸，花药顶端具宽三角状小突起，鲜时白或绿白色，干后变淡褐色；胚珠5。",
+    "fruit": "蒴果卵状椭圆形或圆锥状卵形，长4-5毫米，于基部上方周裂。",
+    "habitat": "生于草地、河滩、沟边、草甸、田间及路旁，海拔5-4500米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝。",
+      "花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛，龙骨突宽厚。",
+      "蒴果卵状椭圆形或圆锥状卵形，长4-5毫米，于基部上方周裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "平车前是一年生或二年生草本。观察时重点看叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝，并结合花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛确认。",
+    "identificationReferences": [
+      "叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝。",
+      "花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝”。",
+      "补拍花或花序的整体与细节，核对“花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛”。"
+    ],
+    "appearance": "叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝。花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛。",
+    "growthHabit": "一年生或二年生草本。生于草地、河滩、沟边、草甸、田间及路旁，海拔5-4500米。",
+    "keyCharacteristics": [
+      "叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝。",
+      "花序梗长5-18厘米，疏生白色短柔毛，苞片三角状卵形，无毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生呈莲座状，纸质，椭圆形、椭圆状披针形或卵状披针形，长3-12厘米，先端急尖或微钝”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-plantago-depressa",
+      "title": "GBIF species record: Plantago depressa",
+      "url": "https://api.gbif.org/v1/species/7303063",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-plantago-depressa",
+      "title": "iPlant 植物智：平车前（Plantago depressa）",
+      "url": "https://www.iplant.cn/info/Plantago%20depressa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7303063"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

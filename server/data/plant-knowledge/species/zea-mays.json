@@ -1,0 +1,97 @@
+{
+  "id": "zea-mays",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "玉米",
+    "scientificName": "Zea mays",
+    "family": "禾本科",
+    "genus": "玉蜀黍属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "秆直立，通常不分枝；",
+    "stem": "高1-4米，基部各节具气生支柱根；",
+    "leaf": "叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，中脉粗壮，边缘微粗糙；",
+    "flower": "顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；",
+    "fruit": "颖果球形或扁球形，成熟后露出颖片和稃片之外，其大小随生长条件不同产生差异，一般长5-10毫米，宽略过于其长，胚长为颖果的1/2-2/3；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，中脉粗壮，边缘微粗糙；",
+      "花：顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；"
+    ]
+  },
+  "knowledge": {
+    "summary": "玉米为秆直立，通常不分枝；叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，中脉粗壮，边缘微粗糙；",
+      "花：顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，…；再以花顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；交叉确认。"
+    ],
+    "appearance": "叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，…；花顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；。",
+    "growthHabit": "秆直立，通常不分枝；",
+    "keyCharacteristics": [
+      "叶：叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，中脉粗壮，边缘微粗糙；",
+      "花：顶生雄性圆锥花序大型，主轴与总状花序轴及其腋间均被细柔毛；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zea-mays",
+      "title": "GBIF species record: Zea mays",
+      "url": "https://api.gbif.org/v1/species/5290052",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-zea-mays",
+      "title": "iPlant species page: Zea mays",
+      "url": "https://www.iplant.cn/info/Zea%20mays?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5290052"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

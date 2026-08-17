@@ -1,0 +1,101 @@
+{
+  "id": "pteris-ensiformis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "剑叶凤尾蕨",
+    "scientificName": "Pteris ensiformis",
+    "family": "凤尾蕨科",
+    "genus": "凤尾蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蕨类。",
+    "stem": "根茎短，斜升或横卧，被黑褐色鳞片。",
+    "leaf": "叶密生，二型；不育叶柄长10-30厘米，与叶轴均禾杆色；叶片长圆状卵形，长10-25厘米，奇数二回羽状；羽片2-4对，下部的有短炳，卵形或卵状三角形，长2-6厘米，羽状，小羽片1-4对，对生，斜展，无柄，长尾状倒卵形或披针形，圆钝头，基部常下延，不育具锯齿；能育叶叶柄长达57厘米，羽片及小羽片较窄，羽片通常2-5叉，中央分叉最长，顶生羽片基部不下延，下部两对羽片有时为羽状，小羽片2-3对，线形，渐尖头，基部下侧下延，先端不育边缘有锯齿；主脉禾秆色，下面隆起，侧脉密接，通常2叉；叶干后草质，灰绿或暗褐色。",
+    "flower": "",
+    "fruit": "",
+    "habitat": "生林下或溪边潮湿的酸性土壤上，海拔150-1000米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形。",
+      "根茎短，斜升或横卧，被黑褐色鳞片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "剑叶凤尾蕨是蕨类。观察时重点看叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形，并结合根茎短，斜升或横卧，被黑褐色鳞片确认。",
+    "identificationReferences": [
+      "叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形。",
+      "根茎短，斜升或横卧，被黑褐色鳞片。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形”。",
+      "补拍茎或茎节的整体与细节，核对“根茎短，斜升或横卧，被黑褐色鳞片”。"
+    ],
+    "appearance": "叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形。根茎短，斜升或横卧，被黑褐色鳞片。",
+    "growthHabit": "蕨类。生林下或溪边潮湿的酸性土壤上，海拔150-1000米。",
+    "keyCharacteristics": [
+      "叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形。",
+      "根茎短，斜升或横卧，被黑褐色鳞片。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶密生，二型，不育叶柄长10-30厘米，与叶轴均禾杆色，叶片长圆状卵形”。",
+      "若现场有茎或茎节，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pteris-ensiformis",
+      "title": "GBIF species record: Pteris ensiformis",
+      "url": "https://api.gbif.org/v1/species/3914366",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pteris-ensiformis",
+      "title": "iPlant 植物智：剑叶凤尾蕨（Pteris ensiformis）",
+      "url": "https://www.iplant.cn/info/Pteris%20ensiformis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3914366"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

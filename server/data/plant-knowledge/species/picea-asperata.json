@@ -1,0 +1,99 @@
+{
+  "id": "picea-asperata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "云杉",
+    "scientificName": "Picea asperata",
+    "family": "松科",
+    "genus": "云杉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮淡灰褐色或淡褐灰色，裂成稍厚的不规则鳞状块片脱落。",
+    "leaf": "叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米，先端微尖或急尖，横切面四菱形，四面有粉白色气孔线，上两面各有4-8条，下两面各有4-6条。",
+    "flower": "花期4-5月，球果9-10月成熟。",
+    "fruit": "球果圆柱长圆形，长5-16厘米，径2.5-3.5厘米，上端渐窄，熟前绿色，熟时淡褐或褐色；种子倒卵圆形，长约4毫米，连翅长约1.5厘米。",
+    "habitat": "常与紫果云杉、岷江冷杉、紫果冷杉混生；成纯林；稍耐荫，能耐干燥及寒冷的环境条件，在气候凉润，土层深厚，排水良好的微酸性棕色森林土地带生长迅速，发育良好。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米。",
+      "花期4-5月，球果9-10月成熟。",
+      "球果圆柱长圆形，长5-16厘米，径2.5-3.5厘米，上端渐窄，熟前绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "云杉是乔木。观察时重点看叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米，并结合花期4-5月，球果9-10月成熟确认。",
+    "identificationReferences": [
+      "叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米。",
+      "花期4-5月，球果9-10月成熟。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米”。",
+      "补拍花或花序的整体与细节，核对“花期4-5月，球果9-10月成熟”。"
+    ],
+    "appearance": "叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米。花期4-5月，球果9-10月成熟。",
+    "growthHabit": "乔木。常与紫果云杉、岷江冷杉、紫果冷杉混生，成纯林，稍耐荫。",
+    "keyCharacteristics": [
+      "叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米。",
+      "花期4-5月，球果9-10月成熟。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶四棱状条形，在小枝上面直展、微弯，下面及两侧之叶上弯，长1.3-2(-2.5)厘米，宽约1.5毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-picea-asperata",
+      "title": "GBIF species record: Picea asperata",
+      "url": "https://api.gbif.org/v1/species/5284862",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-picea-asperata",
+      "title": "iPlant 植物智：云杉（Picea asperata）",
+      "url": "https://www.iplant.cn/info/Picea%20asperata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5284862"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

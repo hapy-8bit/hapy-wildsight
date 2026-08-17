@@ -1,0 +1,95 @@
+{
+  "id": "hordeum-vulgare",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大麦",
+    "scientificName": "Hordeum vulgare",
+    "family": "禾本科",
+    "genus": "大麦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "秆粗壮，直立。",
+    "stem": "秆粗壮，直立，高0.5-1米，无毛。",
+    "leaf": "叶鞘松散抱茎，无毛或基部者被柔毛；叶耳披针形；叶舌膜质，长1-2毫米；叶长5-20厘米，宽0.4-2厘米。",
+    "flower": "小穗无柄，长1-1.5厘米；颖条状披针形，被柔毛，先端芒长0.8-1.4厘米；外稃长圆形，长1-1.1厘米，5脉，芒边棱具细刺，长0.8-1.5厘米；内稃与外稃几等长。",
+    "fruit": "颖果成熟时与稃体粘着，不易分离。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米。",
+      "小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛，先端芒长0.8-1.4厘米。",
+      "颖果成熟时与稃体粘着，不易分离。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大麦的生长形态为秆粗壮。观察时重点看叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米，并结合小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛确认。",
+    "identificationReferences": [
+      "叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米。",
+      "小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米”。",
+      "补拍花或花序的整体与细节，核对“小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛”。"
+    ],
+    "appearance": "叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米。小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛。",
+    "growthHabit": "秆粗壮。",
+    "keyCharacteristics": [
+      "叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米。",
+      "小穗无柄，长1-1.5厘米，颖条状披针形，被柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘松散抱茎，无毛或基部者被柔毛，叶耳披针形，叶舌膜质，长1-2毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hordeum-vulgare",
+      "title": "GBIF species record: Hordeum vulgare",
+      "url": "https://api.gbif.org/v1/species/2706056",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-hordeum-vulgare",
+      "title": "iPlant 植物智：大麦（Hordeum vulgare）",
+      "url": "https://www.iplant.cn/info/Hordeum%20vulgare?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2706056"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

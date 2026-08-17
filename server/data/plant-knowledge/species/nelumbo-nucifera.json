@@ -1,0 +1,101 @@
+{
+  "id": "nelumbo-nucifera",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "莲",
+    "scientificName": "Nelumbo nucifera",
+    "family": "莲科",
+    "genus": "莲属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生水生草本。",
+    "stem": "地下茎生于泥中。",
+    "leaf": "叶圆形，盾状着生，叶面常高出水面。",
+    "flower": "花单生，花被片多。",
+    "fruit": "坚果嵌生于膨大的花托中。",
+    "habitat": "生于池塘、湖泊等静水或缓流水域。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "圆形盾状叶。",
+      "膨大的花托中嵌有坚果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "莲可从圆形盾状叶、直立花梗和膨大的花托综合观察。",
+    "identificationReferences": [
+      "叶片圆形，叶柄着生于叶片近中央。",
+      "果实阶段可见膨大的花托。"
+    ],
+    "howToConfirm": [
+      "拍摄叶片正面、叶柄连接处和花或果实。",
+      "观察叶片是否明显高出水面。"
+    ],
+    "appearance": "叶片圆而盾状，花和果实常由长梗托出水面。",
+    "growthHabit": "多年生水生草本，地下茎生于泥中。",
+    "keyCharacteristics": [
+      "圆形盾状叶。",
+      "膨大花托。"
+    ],
+    "observationTips": [
+      "不要只凭花色判断。",
+      "远距离观察水生植物时尽量记录叶柄着生位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "cultivated",
+      "wild"
+    ],
+    "useTags": [
+      "ornamental-flower"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nelumbo-nucifera",
+      "title": "GBIF Species Match: Nelumbo nucifera Gaertn.",
+      "url": "https://api.gbif.org/v1/species/match?name=Nelumbo%20nucifera",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-nelumbo-nucifera",
+      "title": "Flora of China search: Nelumbo nucifera",
+      "url": "https://www.efloras.org/search.aspx?query=Nelumbo%20nucifera",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2882449"
+  }
+}

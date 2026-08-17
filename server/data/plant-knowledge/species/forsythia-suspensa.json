@@ -1,0 +1,100 @@
+{
+  "id": "forsythia-suspensa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "连翘",
+    "scientificName": "Forsythia suspensa",
+    "family": "木犀科",
+    "genus": "连翘属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "枝开展或下垂，棕色、棕褐色或淡黄褐色，小枝土黄色或灰褐色，略呈四棱形，疏生皮孔，节间中空，节部具实心髓；",
+    "leaf": "叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.5-5厘米，先端锐尖，基部圆形、宽楔形至楔…",
+    "flower": "花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭圆形，长（5-）6-7毫米，先端钝或锐尖，…",
+    "fruit": "果卵球形、卵状椭圆形或长椭圆形，长1.2-2.5厘米，宽0.6-1.2厘米，先端喙状渐尖，表面疏生皮孔；果梗长0.7-1.5厘米；",
+    "habitat": "山坡灌丛、林下或草丛中，或山谷、山沟疏林中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.5-5厘米，先端锐尖，基部圆形、宽楔形至楔…",
+      "花：花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭圆形，长（5-）6-7毫米，先端钝或锐尖，…"
+    ]
+  },
+  "knowledge": {
+    "summary": "连翘为落叶灌木；叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.5-5厘米，先端锐尖，基部圆形、宽楔形至楔…",
+      "花：花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭圆形，长（5-）6-7毫米，先端钝或锐尖，…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.…；再以花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭…交叉确认。"
+    ],
+    "appearance": "叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.…；花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭…。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：叶通常为单叶，或3裂至三出复叶，叶片卵形、宽卵形或椭圆状卵形至椭圆形，长2-10厘米，宽1.5-5厘米，先端锐尖，基部圆形、宽楔形至楔…",
+      "花：花通常单生或2至数朵着生于叶腋，先于叶开放；花梗长5-6毫米；花萼绿色，裂片长圆形或长圆状椭圆形，长（5-）6-7毫米，先端钝或锐尖，…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-forsythia-suspensa",
+      "title": "GBIF species record: Forsythia suspensa",
+      "url": "https://api.gbif.org/v1/species/5415056",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-forsythia-suspensa",
+      "title": "iPlant species page: Forsythia suspensa",
+      "url": "https://www.iplant.cn/info/Forsythia%20suspensa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5415056"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "cyrtomium-fortunei",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "贯众",
+    "scientificName": "Cyrtomium fortunei",
+    "family": "鳞毛蕨科",
+    "genus": "贯众属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "陆生直立蕨类",
+    "stem": "根茎粗短，直立或斜升，连同叶柄基部密被宽卵形棕色大鳞片；",
+    "leaf": "叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形，顶生羽片窄卵形，下部有时具1-2浅裂片；",
+    "flower": "",
+    "fruit": "孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；",
+    "habitat": "林下岩石缝；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形，顶生羽片窄卵形，下部有时具1-2浅裂片；",
+      "果：孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；"
+    ]
+  },
+  "knowledge": {
+    "summary": "贯众为陆生直立蕨类；叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形…。观察时再结合叶、果、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形，顶生羽片窄卵形，下部有时具1-2浅裂片；",
+      "果：孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果、茎等可见结构。",
+      "先核对叶：簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形…；再以果孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；交叉确认。"
+    ],
+    "appearance": "叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形…；果孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；。",
+    "growthHabit": "陆生直立蕨类",
+    "keyCharacteristics": [
+      "叶：叶簇生，叶柄禾秆色，叶片长圆状披针形，奇数一回羽状，侧生羽片披针形，或多少呈镰刀形，基部楔形，顶生羽片窄卵形，下部有时具1-2浅裂片；",
+      "果：孢子囊群圆形，背生内藏小脉中部或近顶端；囊群盖圆形，盾状，大而全缘；"
+    ],
+    "observationTips": [
+      "将叶、果、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cyrtomium-fortunei",
+      "title": "GBIF species record: Cyrtomium fortunei",
+      "url": "https://api.gbif.org/v1/species/2650827",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-cyrtomium-fortunei",
+      "title": "iPlant species page: Cyrtomium fortunei",
+      "url": "https://www.iplant.cn/info/Cyrtomium%20fortunei?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650827"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

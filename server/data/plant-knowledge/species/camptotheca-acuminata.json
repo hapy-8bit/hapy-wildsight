@@ -1,0 +1,102 @@
+{
+  "id": "camptotheca-acuminata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "喜树",
+    "scientificName": "Camptotheca acuminata",
+    "family": "蓝果树科",
+    "genus": "喜树属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮灰色或浅灰色，纵裂成浅沟状。",
+    "leaf": "叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米，顶端短锐尖，基部近圆形或阔楔形，全缘，上面亮绿色，幼时脉上有短柔毛，其后无毛，下面淡绿色，疏生短柔毛，叶脉上更密，中脉在上面微下凹，在下面凸起，侧脉11-15对，在上面显著，在下面略凸起；叶柄长1.5-3厘米，上面扁平或略呈浅沟状，下面圆形，幼时有微柔毛，其后几无毛。",
+    "flower": "头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生，通常上部为雌花序，下部为雄花序，总花梗圆柱形，长4-6厘米，幼时有微柔毛，其后无毛。花杂性，同株；苞片3枚，三角状卵形，长2.5-3毫米，内外两面均有短柔毛；花萼杯状，5浅裂，裂片齿状，边缘睫毛状；花瓣5枚，淡绿色，矩圆形或矩圆状卵形，顶端锐尖，长2毫米，外面密被短柔毛，早落；花盘显著，微裂；雄蕊10，外轮5枚较长，常长于花瓣，内轮5枚较短，花丝纤细，无毛，花药4室；子房在两性花中发育良好，下位，花柱无毛，长4毫米，顶端通常分2枝。",
+    "fruit": "翅果矩圆形，长2-2.5厘米，顶端具宿存的花盘，两侧具窄翅，幼时绿色，干燥后黄褐色，着生成近球形的头状果序。",
+    "habitat": "常生于林边或溪边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米。",
+      "头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生，通常上部为雌花序。",
+      "翅果矩圆形，长2-2.5厘米，顶端具宿存的花盘，两侧具窄翅，幼时绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "喜树是落叶乔木。观察时重点看叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米，并结合头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生确认。",
+    "identificationReferences": [
+      "叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米。",
+      "头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米”。",
+      "补拍花或花序的整体与细节，核对“头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生”。"
+    ],
+    "appearance": "叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米。头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生。",
+    "growthHabit": "落叶乔木。常生于林边或溪边。",
+    "keyCharacteristics": [
+      "叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米。",
+      "头状花序近球形，直径1.5-2厘米，常由2-9个头状花序组成圆锥花序，顶生或腋生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，纸质，矩圆状卵形或矩圆状椭圆形，长12-28厘米，宽6-12厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-camptotheca-acuminata",
+      "title": "GBIF species record: Camptotheca acuminata",
+      "url": "https://api.gbif.org/v1/species/3082210",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-camptotheca-acuminata",
+      "title": "iPlant 植物智：喜树（Camptotheca acuminata）",
+      "url": "https://www.iplant.cn/info/Camptotheca%20acuminata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3082210"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

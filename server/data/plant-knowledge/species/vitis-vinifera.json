@@ -1,0 +1,97 @@
+{
+  "id": "vitis-vinifera",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "葡萄",
+    "scientificName": "Vitis vinifera",
+    "family": "葡萄科",
+    "genus": "葡萄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "木质藤本。",
+    "stem": "小枝无毛或被稀疏柔毛。",
+    "leaf": "卷须2叉分枝；叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖，基部深心形，基缺凹或圆形，两侧常靠合，每边有22-27锯齿，齿深而粗大，下面被疏柔毛或无毛，基出脉5；叶柄长4-9厘米。",
+    "flower": "花梗长1.5-2.5毫米，无毛；花蕾倒卵圆形，高2-3毫米，顶端近圆形；萼浅碟形，边缘呈波状，外面无毛；花瓣5，呈帽状粘合脱落；雄蕊5，花丝丝状，长0.6-1毫米，花药黄色，卵圆形，长0.4-0.8毫米，在雌花内显著短而败育或完全退化；花盘发达，5浅裂；雌蕊1，在雄花中完全退化，子房卵圆形，花柱短，柱头扩大。",
+    "fruit": "果球形或椭圆形，径1.5-2厘米；种子倒卵状椭圆形，腹面两侧洼穴向上达种子1/4处。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖。",
+      "花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米，顶端近圆形。",
+      "果球形或椭圆形，径1.5-2厘米，种子倒卵状椭圆形，腹面两侧洼穴向上达种子1/4处。"
+    ]
+  },
+  "knowledge": {
+    "summary": "葡萄是木质藤本。观察时重点看卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖，并结合花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米确认。",
+    "identificationReferences": [
+      "卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖。",
+      "花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖”。",
+      "补拍花或花序的整体与细节，核对“花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米”。"
+    ],
+    "appearance": "卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖。花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米。",
+    "growthHabit": "木质藤本。",
+    "keyCharacteristics": [
+      "卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖。",
+      "花梗长1.5-2.5毫米，无毛，花蕾倒卵圆形，高2-3毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“卷须2叉分枝，叶宽卵圆形，3-5浅裂或中裂，长7-18厘米，先端急尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vitis-vinifera",
+      "title": "GBIF species record: Vitis vinifera",
+      "url": "https://api.gbif.org/v1/species/5372392",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vitis-vinifera",
+      "title": "iPlant 植物智：葡萄（Vitis vinifera）",
+      "url": "https://www.iplant.cn/info/Vitis%20vinifera?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5372392"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

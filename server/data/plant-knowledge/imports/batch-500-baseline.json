@@ -1,0 +1,912 @@
+{
+  "schemaVersion": 1,
+  "purpose": "500种扩展任务开始前的现有100种只读去重基线；不得用于批量覆盖species记录。",
+  "generatedAt": "2026-08-16",
+  "speciesCount": 100,
+  "species": [
+    {
+      "canonicalTaxonId": "adiantum-capillus-veneris",
+      "acceptedScientificName": "Adiantum capillus-veneris",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "铁线蕨",
+      "aliases": [],
+      "gbifId": "2651816",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "agrostemma-githago",
+      "acceptedScientificName": "Agrostemma githago",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "麦仙翁",
+      "aliases": [],
+      "gbifId": "3085368",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "albizia-julibrissin",
+      "acceptedScientificName": "Albizia julibrissin",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "合欢",
+      "aliases": [],
+      "gbifId": "2972983",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "alisma-plantago-aquatica",
+      "acceptedScientificName": "Alisma plantago-aquatica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "泽泻",
+      "aliases": [],
+      "gbifId": "2865100",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "alternanthera-philoxeroides",
+      "acceptedScientificName": "Alternanthera philoxeroides",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "空心莲子草",
+      "aliases": [],
+      "gbifId": "3084923",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "amaranthus-retroflexus",
+      "acceptedScientificName": "Amaranthus retroflexus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "反枝苋",
+      "aliases": [],
+      "gbifId": "6109534",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "amorpha-fruticosa",
+      "acceptedScientificName": "Amorpha fruticosa",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "紫穗槐",
+      "aliases": [],
+      "gbifId": "5357407",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "arachis-hypogaea",
+      "acceptedScientificName": "Arachis hypogaea",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "落花生",
+      "aliases": [],
+      "gbifId": "5353770",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "brassica-napus",
+      "acceptedScientificName": "Brassica napus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "欧洲油菜",
+      "aliases": [],
+      "gbifId": "3042636",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "bromus-japonicus",
+      "acceptedScientificName": "Bromus japonicus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "雀麦",
+      "aliases": [],
+      "gbifId": "8113508",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "buxus-sinica",
+      "acceptedScientificName": "Buxus sinica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "黄杨",
+      "aliases": [],
+      "gbifId": "7285992",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "calendula-officinalis",
+      "acceptedScientificName": "Calendula officinalis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "金盏花",
+      "aliases": [],
+      "gbifId": "5391480",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "camellia-japonica",
+      "acceptedScientificName": "Camellia japonica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "山茶",
+      "aliases": [],
+      "gbifId": "3189636",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "canna-indica",
+      "acceptedScientificName": "Canna indica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "美人蕉",
+      "aliases": [],
+      "gbifId": "8034409",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "cedrus-deodara",
+      "acceptedScientificName": "Cedrus deodara",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "雪松",
+      "aliases": [],
+      "gbifId": "5284698",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "celtis-sinensis",
+      "acceptedScientificName": "Celtis sinensis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "朴",
+      "aliases": [],
+      "gbifId": "4159594",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "chenopodium-album",
+      "acceptedScientificName": "Chenopodium album",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "藜",
+      "aliases": [],
+      "gbifId": "3083838",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "chimonanthus-praecox",
+      "acceptedScientificName": "Chimonanthus praecox",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "蜡梅",
+      "aliases": [],
+      "gbifId": "7275851",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "chlorophytum-comosum",
+      "acceptedScientificName": "Chlorophytum comosum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "吊兰",
+      "aliases": [],
+      "gbifId": "2774846",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "cinnamomum-camphora",
+      "acceptedScientificName": "Cinnamomum camphora",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "樟",
+      "aliases": [],
+      "gbifId": "3033991",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "cotinus-coggygria",
+      "acceptedScientificName": "Cotinus coggygria",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "欧黄栌",
+      "aliases": [],
+      "gbifId": "3190522",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "cyrtomium-fortunei",
+      "acceptedScientificName": "Cyrtomium fortunei",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "贯众",
+      "aliases": [],
+      "gbifId": "2650827",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "dracaena-trifasciata",
+      "acceptedScientificName": "Dracaena trifasciata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "虎尾兰",
+      "aliases": [],
+      "gbifId": "11041822",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "echinochloa-crus-galli",
+      "acceptedScientificName": "Echinochloa crus-galli",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "稗",
+      "aliases": [],
+      "gbifId": "2702808",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "eleusine-indica",
+      "acceptedScientificName": "Eleusine indica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "牛筋草",
+      "aliases": [],
+      "gbifId": "2705953",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "epipremnum-aureum",
+      "acceptedScientificName": "Epipremnum aureum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "绿萝",
+      "aliases": [],
+      "gbifId": "2868323",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "equisetum-arvense",
+      "acceptedScientificName": "Equisetum arvense",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "问荆",
+      "aliases": [],
+      "gbifId": "7924597",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "erigeron-annuus",
+      "acceptedScientificName": "Erigeron annuus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "一年蓬",
+      "aliases": [],
+      "gbifId": "3117449",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "erigeron-canadensis",
+      "acceptedScientificName": "Erigeron canadensis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "小蓬草",
+      "aliases": [],
+      "gbifId": "3146791",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "euonymus-japonicus",
+      "acceptedScientificName": "Euonymus japonicus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "冬青卫矛",
+      "aliases": [
+        "大叶黄杨"
+      ],
+      "gbifId": "7102937",
+      "contentVersion": 2
+    },
+    {
+      "canonicalTaxonId": "fatsia-japonica",
+      "acceptedScientificName": "Fatsia japonica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "八角金盘",
+      "aliases": [],
+      "gbifId": "3039046",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ficus-elastica",
+      "acceptedScientificName": "Ficus elastica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "印度榕",
+      "aliases": [],
+      "gbifId": "7835333",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ficus-microcarpa",
+      "acceptedScientificName": "Ficus microcarpa",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "榕树",
+      "aliases": [],
+      "gbifId": "7467639",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ficus-pumila",
+      "acceptedScientificName": "Ficus pumila",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "薜荔",
+      "aliases": [],
+      "gbifId": "5361930",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "forsythia-suspensa",
+      "acceptedScientificName": "Forsythia suspensa",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "连翘",
+      "aliases": [],
+      "gbifId": "5415056",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "fraxinus-chinensis",
+      "acceptedScientificName": "Fraxinus chinensis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "白蜡树",
+      "aliases": [],
+      "gbifId": "3172325",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ginkgo-biloba",
+      "acceptedScientificName": "Ginkgo biloba",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "银杏",
+      "aliases": [],
+      "gbifId": "2687885",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "glycine-max",
+      "acceptedScientificName": "Glycine max",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "大豆",
+      "aliases": [],
+      "gbifId": "5359660",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "gossypium-hirsutum",
+      "acceptedScientificName": "Gossypium hirsutum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "陆地棉",
+      "aliases": [],
+      "gbifId": "3152661",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "hedera-helix",
+      "acceptedScientificName": "Hedera helix",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "洋常春藤",
+      "aliases": [],
+      "gbifId": "8351737",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "hemerocallis-fulva",
+      "acceptedScientificName": "Hemerocallis fulva",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "萱草",
+      "aliases": [],
+      "gbifId": "2781074",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "hibiscus-syriacus",
+      "acceptedScientificName": "Hibiscus syriacus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "木槿",
+      "aliases": [],
+      "gbifId": "3152583",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "hosta-plantaginea",
+      "acceptedScientificName": "Hosta plantaginea",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "玉簪",
+      "aliases": [],
+      "gbifId": "2771287",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "humulus-scandens",
+      "acceptedScientificName": "Humulus scandens",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "葎草",
+      "aliases": [],
+      "gbifId": "2984537",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "impatiens-balsamina",
+      "acceptedScientificName": "Impatiens balsamina",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "凤仙花",
+      "aliases": [],
+      "gbifId": "2891773",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "imperata-cylindrica",
+      "acceptedScientificName": "Imperata cylindrica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "白茅",
+      "aliases": [],
+      "gbifId": "8424006",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ipomoea-batatas",
+      "acceptedScientificName": "Ipomoea batatas",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "番薯",
+      "aliases": [],
+      "gbifId": "2928551",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ipomoea-nil",
+      "acceptedScientificName": "Ipomoea nil",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "牵牛",
+      "aliases": [],
+      "gbifId": "2928534",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "iris-tectorum",
+      "acceptedScientificName": "Iris tectorum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "鸢尾",
+      "aliases": [],
+      "gbifId": "5298774",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "jasminum-nudiflorum",
+      "acceptedScientificName": "Jasminum nudiflorum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "迎春花",
+      "aliases": [],
+      "gbifId": "3172266",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "jasminum-sambac",
+      "acceptedScientificName": "Jasminum sambac",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "茉莉花",
+      "aliases": [],
+      "gbifId": "7587215",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "koelreuteria-paniculata",
+      "acceptedScientificName": "Koelreuteria paniculata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "栾",
+      "aliases": [],
+      "gbifId": "5421180",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "lagerstroemia-indica",
+      "acceptedScientificName": "Lagerstroemia indica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "紫薇",
+      "aliases": [],
+      "gbifId": "3188725",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "lemna-minor",
+      "acceptedScientificName": "Lemna minor",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "浮萍",
+      "aliases": [],
+      "gbifId": "2867589",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ligustrum-lucidum",
+      "acceptedScientificName": "Ligustrum lucidum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "女贞",
+      "aliases": [],
+      "gbifId": "3172297",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "lycoris-radiata",
+      "acceptedScientificName": "Lycoris radiata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "石蒜",
+      "aliases": [],
+      "gbifId": "7920353",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "magnolia-grandiflora",
+      "acceptedScientificName": "Magnolia grandiflora",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "荷花木兰",
+      "aliases": [],
+      "gbifId": "9605163",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "metasequoia-glyptostroboides",
+      "acceptedScientificName": "Metasequoia glyptostroboides",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "水杉",
+      "aliases": [],
+      "gbifId": "5284231",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "monstera-deliciosa",
+      "acceptedScientificName": "Monstera deliciosa",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "龟背竹",
+      "aliases": [],
+      "gbifId": "2868241",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "nandina-domestica",
+      "acceptedScientificName": "Nandina domestica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "南天竹",
+      "aliases": [],
+      "gbifId": "5371712",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "nelumbo-nucifera",
+      "acceptedScientificName": "Nelumbo nucifera",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "莲",
+      "aliases": [],
+      "gbifId": "2882449",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "nephrolepis-cordifolia",
+      "acceptedScientificName": "Nephrolepis cordifolia",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "肾蕨",
+      "aliases": [],
+      "gbifId": "2650930",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "ophiopogon-japonicus",
+      "acceptedScientificName": "Ophiopogon japonicus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "麦冬",
+      "aliases": [],
+      "gbifId": "2774158",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "oryza-sativa",
+      "acceptedScientificName": "Oryza sativa",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "稻",
+      "aliases": [],
+      "gbifId": "2703459",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "osmanthus-fragrans",
+      "acceptedScientificName": "Osmanthus fragrans",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "木犀",
+      "aliases": [],
+      "gbifId": "3172278",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "oxalis-corniculata",
+      "acceptedScientificName": "Oxalis corniculata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "酢浆草",
+      "aliases": [],
+      "gbifId": "8427624",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pachira-aquatica",
+      "acceptedScientificName": "Pachira aquatica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "瓜栗",
+      "aliases": [],
+      "gbifId": "3152235",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "parthenocissus-quinquefolia",
+      "acceptedScientificName": "Parthenocissus quinquefolia",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "五叶地锦",
+      "aliases": [],
+      "gbifId": "3039194",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "parthenocissus-tricuspidata",
+      "acceptedScientificName": "Parthenocissus tricuspidata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "地锦",
+      "aliases": [],
+      "gbifId": "3039209",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "photinia-serratifolia",
+      "acceptedScientificName": "Photinia serratifolia",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "石楠",
+      "aliases": [],
+      "gbifId": "5364029",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "phragmites-australis",
+      "acceptedScientificName": "Phragmites australis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "芦苇",
+      "aliases": [],
+      "gbifId": "5290149",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pittosporum-tobira",
+      "acceptedScientificName": "Pittosporum tobira",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "海桐",
+      "aliases": [],
+      "gbifId": "8677924",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "plantago-asiatica",
+      "acceptedScientificName": "Plantago asiatica",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "车前",
+      "aliases": [],
+      "gbifId": "9118978",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "poa-annua",
+      "acceptedScientificName": "Poa annua",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "早熟禾",
+      "aliases": [],
+      "gbifId": "2704179",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pontederia-crassipes",
+      "acceptedScientificName": "Pontederia crassipes",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "凤眼莲",
+      "aliases": [],
+      "gbifId": "2765942",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "portulaca-oleracea",
+      "acceptedScientificName": "Portulaca oleracea",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "马齿苋",
+      "aliases": [],
+      "gbifId": "3084719",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pteridium-aquilinum",
+      "acceptedScientificName": "Pteridium aquilinum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "欧洲蕨",
+      "aliases": [],
+      "gbifId": "5275012",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pteris-multifida",
+      "acceptedScientificName": "Pteris multifida",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "井栏边草",
+      "aliases": [],
+      "gbifId": "5275415",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pteris-vittata",
+      "acceptedScientificName": "Pteris vittata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "蜈蚣凤尾蕨",
+      "aliases": [],
+      "gbifId": "5275398",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "pterocarya-stenoptera",
+      "acceptedScientificName": "Pterocarya stenoptera",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "枫杨",
+      "aliases": [],
+      "gbifId": "3054377",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "reineckea-carnea",
+      "acceptedScientificName": "Reineckea carnea",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "吉祥草",
+      "aliases": [],
+      "gbifId": "2772865",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "rhododendron-simsii",
+      "acceptedScientificName": "Rhododendron simsii",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "杜鹃",
+      "aliases": [],
+      "gbifId": "7327627",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "rhus-typhina",
+      "acceptedScientificName": "Rhus typhina",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "火炬树",
+      "aliases": [],
+      "gbifId": "3190538",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "rosa-chinensis",
+      "acceptedScientificName": "Rosa chinensis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "月季花",
+      "aliases": [
+        "月季"
+      ],
+      "gbifId": "3005039",
+      "contentVersion": 2
+    },
+    {
+      "canonicalTaxonId": "sagittaria-trifolia",
+      "acceptedScientificName": "Sagittaria trifolia",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "野慈姑",
+      "aliases": [],
+      "gbifId": "5328972",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "setaria-viridis",
+      "acceptedScientificName": "Setaria viridis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "狗尾草",
+      "aliases": [],
+      "gbifId": "5289684",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "sonchus-oleraceus",
+      "acceptedScientificName": "Sonchus oleraceus",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "苦苣菜",
+      "aliases": [],
+      "gbifId": "8228544",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "stellaria-media",
+      "acceptedScientificName": "Stellaria media",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "繁缕",
+      "aliases": [],
+      "gbifId": "5384604",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "styphnolobium-japonicum",
+      "acceptedScientificName": "Styphnolobium japonicum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "槐",
+      "aliases": [],
+      "gbifId": "2963569",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "tagetes-erecta",
+      "acceptedScientificName": "Tagetes erecta",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "万寿菊",
+      "aliases": [],
+      "gbifId": "3088488",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "taraxacum-mongolicum",
+      "acceptedScientificName": "Taraxacum mongolicum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "蒲公英",
+      "aliases": [],
+      "gbifId": "5394645",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "trapa-natans",
+      "acceptedScientificName": "Trapa natans",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "欧菱",
+      "aliases": [],
+      "gbifId": "3188757",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "triticum-aestivum",
+      "acceptedScientificName": "Triticum aestivum",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "小麦",
+      "aliases": [],
+      "gbifId": "7795888",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "typha-orientalis",
+      "acceptedScientificName": "Typha orientalis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "香蒲",
+      "aliases": [],
+      "gbifId": "5289521",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "viola-tricolor",
+      "acceptedScientificName": "Viola tricolor",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "三色堇",
+      "aliases": [],
+      "gbifId": "5331347",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "weigela-florida",
+      "acceptedScientificName": "Weigela florida",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "锦带花",
+      "aliases": [],
+      "gbifId": "2888730",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "wisteria-sinensis",
+      "acceptedScientificName": "Wisteria sinensis",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "紫藤",
+      "aliases": [],
+      "gbifId": "8149049",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "zea-mays",
+      "acceptedScientificName": "Zea mays",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "玉米",
+      "aliases": [],
+      "gbifId": "5290052",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "zelkova-serrata",
+      "acceptedScientificName": "Zelkova serrata",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "榉树",
+      "aliases": [],
+      "gbifId": "2984532",
+      "contentVersion": 1
+    },
+    {
+      "canonicalTaxonId": "zinnia-elegans",
+      "acceptedScientificName": "Zinnia elegans",
+      "scientificSynonyms": [],
+      "acceptedChineseName": "百日菊",
+      "aliases": [],
+      "gbifId": "3111754",
+      "contentVersion": 1
+    }
+  ]
+}

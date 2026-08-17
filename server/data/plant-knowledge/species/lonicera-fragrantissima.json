@@ -1,0 +1,102 @@
+{
+  "id": "lonicera-fragrantissima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "郁香忍冬",
+    "scientificName": "Lonicera fragrantissima",
+    "family": "忍冬科",
+    "genus": "忍冬属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "半常绿或落叶灌木。",
+    "stem": "幼枝无毛或疏被倒刚毛，或兼有腺毛，毛脱落后有小瘤突；冬芽有1对先端尖的外鳞片。",
+    "leaf": "叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛，或下面基部中脉两侧有稍弯糙毛，有时上面中脉有伏毛，边缘多少有硬睫毛或几无毛；叶柄长2-5毫米，有刚毛。",
+    "flower": "花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米；苞片披针形或近线形，长为萼筒2-4倍；相邻两萼筒连合至中部，长1.5-3毫米，萼檐近平截或微5裂；花冠白或淡红色，长1-1.5厘米，无毛，稀有疏糙毛，唇形，冠筒长4-5毫米，内面密生柔毛，基部有浅囊，上唇长7-8毫米，裂片达中部，下唇舌状，长0.8-1厘米，反曲；雄蕊内藏；花柱无毛。",
+    "fruit": "果熟时鲜红色，长圆形，长约1厘米，部分连合。",
+    "habitat": "生于向阳山坡林中、灌丛中或溪涧旁，海拔100-2000米（四川西部达2700 米）。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛。",
+      "花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米，苞片披针形或近线形。",
+      "果熟时鲜红色，长圆形，长约1厘米，部分连合。"
+    ]
+  },
+  "knowledge": {
+    "summary": "郁香忍冬是半常绿或落叶灌木。观察时重点看叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛，并结合花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米确认。",
+    "identificationReferences": [
+      "叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛。",
+      "花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛”。",
+      "补拍花或花序的整体与细节，核对“花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米”。"
+    ],
+    "appearance": "叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛。花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米。",
+    "growthHabit": "半常绿或落叶灌木。生于向阳山坡林中、灌丛中或溪涧旁，海拔100-2000米（四川西部达2700 米）。",
+    "keyCharacteristics": [
+      "叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛。",
+      "花先叶或与叶同放，芳香，生于幼枝基部苞腋，总花梗长(0.2-)0.5-1厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶厚纸质或带革质，倒卵状椭圆形、椭圆形、圆卵形、卵形或卵状长圆形，长3-7(-8.5)厘米，先端短尖或具凸尖，两面无毛或-F面中脉有少数刚伏毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lonicera-fragrantissima",
+      "title": "GBIF species record: Lonicera fragrantissima",
+      "url": "https://api.gbif.org/v1/species/5334268",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lonicera-fragrantissima",
+      "title": "iPlant 植物智：郁香忍冬（Lonicera fragrantissima）",
+      "url": "https://www.iplant.cn/info/Lonicera%20fragrantissima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5334268"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

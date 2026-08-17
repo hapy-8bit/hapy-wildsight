@@ -1,0 +1,99 @@
+{
+  "id": "phragmites-australis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "芦苇",
+    "scientificName": "Phragmites australis",
+    "family": "禾本科",
+    "genus": "芦苇属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生高大草本。",
+    "stem": "秆直立，具发达根茎。",
+    "leaf": "叶片线形而长。",
+    "flower": "圆锥花序大而开展。",
+    "fruit": "颖果。",
+    "habitat": "常见于湿地、水边和浅水处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "高大的直立秆。",
+      "大型开展的圆锥花序。",
+      "湿地或水边生境。"
+    ]
+  },
+  "knowledge": {
+    "summary": "芦苇可从高大直立的秆、长叶和大型开展花序观察。",
+    "identificationReferences": [
+      "秆通常高大直立，根茎发达。",
+      "花序大而开展，常呈圆锥状。"
+    ],
+    "howToConfirm": [
+      "拍摄整丛植株和花序。",
+      "结合湿地或水边生境观察。"
+    ],
+    "appearance": "植株常形成高大的群落，叶片细长。",
+    "growthHabit": "多年生高大草本，具发达根茎。",
+    "keyCharacteristics": [
+      "高大直立秆。",
+      "大型开展圆锥花序。"
+    ],
+    "observationTips": [
+      "风会使花序形态变化，宜拍摄静态细节。",
+      "湿地观察注意安全，不进入脆弱植被。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-phragmites-australis",
+      "title": "GBIF Species Match: Phragmites australis (Cav.) Trin. ex Steud.",
+      "url": "https://api.gbif.org/v1/species/match?name=Phragmites%20australis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-phragmites-australis",
+      "title": "Flora of China search: Phragmites australis",
+      "url": "https://www.efloras.org/search.aspx?query=Phragmites%20australis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "5290149"
+  }
+}

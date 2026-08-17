@@ -1,0 +1,2787 @@
+{
+  "schemaVersion": 2,
+  "purpose": "100种候选审核清单；不是正式知识库。",
+  "candidates": [
+    {
+      "inputName": "铁线蕨",
+      "inputScientificName": "Adiantum capillus-veneris",
+      "acceptedChineseName": "铁线蕨",
+      "acceptedScientificName": "Adiantum capillus-veneris",
+      "family": "凤尾蕨科",
+      "genus": "铁线蕨属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2651816"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "adiantum-capillus-veneris",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "牛筋草",
+      "inputScientificName": "Eleusine indica",
+      "acceptedChineseName": "牛筋草",
+      "acceptedScientificName": "Eleusine indica",
+      "family": "禾本科",
+      "genus": "穇属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2705953"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "eleusine-indica",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "绿萝",
+      "inputScientificName": "Epipremnum aureum",
+      "acceptedChineseName": "绿萝",
+      "acceptedScientificName": "Epipremnum aureum",
+      "family": "天南星科",
+      "genus": "麒麟叶属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2868323"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "epipremnum-aureum",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "大叶黄杨",
+      "inputScientificName": "Euonymus japonicus",
+      "acceptedChineseName": "冬青卫矛",
+      "acceptedScientificName": "Euonymus japonicus",
+      "family": "卫矛科",
+      "genus": "卫矛属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "7102937"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "euonymus-japonicus",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "八角金盘",
+      "inputScientificName": "Fatsia japonica",
+      "acceptedChineseName": "八角金盘",
+      "acceptedScientificName": "Fatsia japonica",
+      "family": "五加科",
+      "genus": "八角金盘属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "3039046"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "fatsia-japonica",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "银杏",
+      "inputScientificName": "Ginkgo biloba",
+      "acceptedChineseName": "银杏",
+      "acceptedScientificName": "Ginkgo biloba",
+      "family": "银杏科",
+      "genus": "银杏属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2687885"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ginkgo-biloba",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "gymnosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "紫薇",
+      "inputScientificName": "Lagerstroemia indica",
+      "acceptedChineseName": "紫薇",
+      "acceptedScientificName": "Lagerstroemia indica",
+      "family": "千屈菜科",
+      "genus": "紫薇属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "3188725"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "lagerstroemia-indica",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree",
+          "shrub"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "龟背竹",
+      "inputScientificName": "Monstera deliciosa",
+      "acceptedChineseName": "龟背竹",
+      "acceptedScientificName": "Monstera deliciosa",
+      "family": "天南星科",
+      "genus": "龟背竹属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2868241"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "monstera-deliciosa",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "莲",
+      "inputScientificName": "Nelumbo nucifera",
+      "acceptedChineseName": "莲",
+      "acceptedScientificName": "Nelumbo nucifera",
+      "family": "莲科",
+      "genus": "莲属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2882449"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "nelumbo-nucifera",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "肾蕨",
+      "inputScientificName": "Nephrolepis cordifolia",
+      "acceptedChineseName": "肾蕨",
+      "acceptedScientificName": "Nephrolepis cordifolia",
+      "family": "肾蕨科",
+      "genus": "肾蕨属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2650930"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "nephrolepis-cordifolia",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "麦冬",
+      "inputScientificName": "Ophiopogon japonicus",
+      "acceptedChineseName": "麦冬",
+      "acceptedScientificName": "Ophiopogon japonicus",
+      "family": "天门冬科",
+      "genus": "沿阶草属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "2774158"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ophiopogon-japonicus",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "酢浆草",
+      "inputScientificName": "Oxalis corniculata",
+      "acceptedChineseName": "酢浆草",
+      "acceptedScientificName": "Oxalis corniculata",
+      "family": "酢浆草科",
+      "genus": "酢浆草属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "8427624"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "oxalis-corniculata",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "芦苇",
+      "inputScientificName": "Phragmites australis",
+      "acceptedChineseName": "芦苇",
+      "acceptedScientificName": "Phragmites australis",
+      "family": "禾本科",
+      "genus": "芦苇属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "5290149"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "phragmites-australis",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "海桐",
+      "inputScientificName": "Pittosporum tobira",
+      "acceptedChineseName": "海桐",
+      "acceptedScientificName": "Pittosporum tobira",
+      "family": "海桐花科",
+      "genus": "海桐花属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "8677924"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pittosporum-tobira",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "车前",
+      "inputScientificName": "Plantago asiatica",
+      "acceptedChineseName": "车前",
+      "acceptedScientificName": "Plantago asiatica",
+      "family": "车前科",
+      "genus": "车前属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "9118978"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "plantago-asiatica",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "马齿苋",
+      "inputScientificName": "Portulaca oleracea",
+      "acceptedChineseName": "马齿苋",
+      "acceptedScientificName": "Portulaca oleracea",
+      "family": "马齿苋科",
+      "genus": "马齿苋属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "3084719"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "portulaca-oleracea",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "井栏边草",
+      "inputScientificName": "Pteris multifida",
+      "acceptedChineseName": "井栏边草",
+      "acceptedScientificName": "Pteris multifida",
+      "family": "凤尾蕨科",
+      "genus": "凤尾蕨属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "5275415"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pteris-multifida",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "月季",
+      "inputScientificName": "Rosa chinensis",
+      "acceptedChineseName": "月季花",
+      "acceptedScientificName": "Rosa chinensis",
+      "family": "蔷薇科",
+      "genus": "蔷薇属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "3005039"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "rosa-chinensis",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "狗尾草",
+      "inputScientificName": "Setaria viridis",
+      "acceptedChineseName": "狗尾草",
+      "acceptedScientificName": "Setaria viridis",
+      "family": "禾本科",
+      "genus": "狗尾草属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "5289684"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "setaria-viridis",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "香蒲",
+      "inputScientificName": "Typha orientalis",
+      "acceptedChineseName": "香蒲",
+      "acceptedScientificName": "Typha orientalis",
+      "family": "香蒲科",
+      "genus": "香蒲属",
+      "source": "Existing reviewed species JSON; GBIF ID previously verified",
+      "providerMappings": {
+        "gbif": "5289521"
+      },
+      "requestedCoverageGroups": [
+        "现有20种"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "typha-orientalis",
+      "notes": "现有正式知识库记录；本轮不创建或修改物种。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "中国大陆城市观察"
+        ]
+      }
+    },
+    {
+      "inputName": "香樟",
+      "inputScientificName": "Cinnamomum camphora",
+      "acceptedChineseName": "樟",
+      "acceptedScientificName": "Cinnamomum camphora",
+      "family": "樟科",
+      "genus": "樟属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3033991"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "cinnamomum-camphora",
+      "notes": "物种级候选；项目规范分类沿用 GBIF 接受名 Cinnamomum camphora；正式记录需保存 Camphora officinarum 为科学异名，并记录 COL/iPlant 分类体系差异。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华南",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "白蜡",
+      "inputScientificName": "Fraxinus chinensis",
+      "acceptedChineseName": "白蜡树",
+      "acceptedScientificName": "Fraxinus chinensis",
+      "family": "木犀科",
+      "genus": "梣属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3172325"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "fraxinus-chinensis",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "国槐",
+      "inputScientificName": "Styphnolobium japonicum",
+      "acceptedChineseName": "槐",
+      "acceptedScientificName": "Styphnolobium japonicum",
+      "family": "豆科",
+      "genus": "槐属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2963569"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "styphnolobium-japonicum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "栾树",
+      "inputScientificName": "Koelreuteria paniculata",
+      "acceptedChineseName": "栾",
+      "acceptedScientificName": "Koelreuteria paniculata",
+      "family": "无患子科",
+      "genus": "栾树属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5421180"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "koelreuteria-paniculata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "榉树",
+      "inputScientificName": "Zelkova serrata",
+      "acceptedChineseName": "榉树",
+      "acceptedScientificName": "Zelkova serrata",
+      "family": "榆科",
+      "genus": "榉属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2984532"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "zelkova-serrata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "朴树",
+      "inputScientificName": "Celtis sinensis",
+      "acceptedChineseName": "朴",
+      "acceptedScientificName": "Celtis sinensis",
+      "family": "大麻科",
+      "genus": "朴属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "4159594"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "celtis-sinensis",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "榕树",
+      "inputScientificName": "Ficus microcarpa",
+      "acceptedChineseName": "榕树",
+      "acceptedScientificName": "Ficus microcarpa",
+      "family": "桑科",
+      "genus": "榕属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7467639"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ficus-microcarpa",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华南",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "广玉兰",
+      "inputScientificName": "Magnolia grandiflora",
+      "acceptedChineseName": "荷花木兰",
+      "acceptedScientificName": "Magnolia grandiflora",
+      "family": "木兰科",
+      "genus": "木兰属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "9605163"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "magnolia-grandiflora",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华中",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "女贞",
+      "inputScientificName": "Ligustrum lucidum",
+      "acceptedChineseName": "女贞",
+      "acceptedScientificName": "Ligustrum lucidum",
+      "family": "木犀科",
+      "genus": "女贞属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3172297"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ligustrum-lucidum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "水杉",
+      "inputScientificName": "Metasequoia glyptostroboides",
+      "acceptedChineseName": "水杉",
+      "acceptedScientificName": "Metasequoia glyptostroboides",
+      "family": "柏科",
+      "genus": "水杉属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5284231"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "metasequoia-glyptostroboides",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "gymnosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "枫杨",
+      "inputScientificName": "Pterocarya stenoptera",
+      "acceptedChineseName": "枫杨",
+      "acceptedScientificName": "Pterocarya stenoptera",
+      "family": "胡桃科",
+      "genus": "枫杨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3054377"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pterocarya-stenoptera",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "雪松",
+      "inputScientificName": "Cedrus deodara",
+      "acceptedChineseName": "雪松",
+      "acceptedScientificName": "Cedrus deodara",
+      "family": "松科",
+      "genus": "雪松属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5284698"
+      },
+      "requestedCoverageGroups": [
+        "城市乔木"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "cedrus-deodara",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "gymnosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "石楠",
+      "inputScientificName": "Photinia serratifolia",
+      "acceptedChineseName": "石楠",
+      "acceptedScientificName": "Photinia serratifolia",
+      "family": "蔷薇科",
+      "genus": "石楠属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5364029"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "photinia-serratifolia",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "黄杨",
+      "inputScientificName": "Buxus sinica",
+      "acceptedChineseName": "黄杨",
+      "acceptedScientificName": "Buxus sinica",
+      "family": "黄杨科",
+      "genus": "黄杨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7285992"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "buxus-sinica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "杜鹃",
+      "inputScientificName": "Rhododendron simsii",
+      "acceptedChineseName": "杜鹃",
+      "acceptedScientificName": "Rhododendron simsii",
+      "family": "杜鹃花科",
+      "genus": "杜鹃属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7327627"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "rhododendron-simsii",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华南",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "山茶",
+      "inputScientificName": "Camellia japonica",
+      "acceptedChineseName": "山茶",
+      "acceptedScientificName": "Camellia japonica",
+      "family": "山茶科",
+      "genus": "山茶属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3189636"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "camellia-japonica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "茉莉",
+      "inputScientificName": "Jasminum sambac",
+      "acceptedChineseName": "茉莉花",
+      "acceptedScientificName": "Jasminum sambac",
+      "family": "木犀科",
+      "genus": "素馨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7587215"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "jasminum-sambac",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华南",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "桂花",
+      "inputScientificName": "Osmanthus fragrans",
+      "acceptedChineseName": "木犀",
+      "acceptedScientificName": "Osmanthus fragrans",
+      "family": "木犀科",
+      "genus": "木犀属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3172278"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "osmanthus-fragrans",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "木槿",
+      "inputScientificName": "Hibiscus syriacus",
+      "acceptedChineseName": "木槿",
+      "acceptedScientificName": "Hibiscus syriacus",
+      "family": "锦葵科",
+      "genus": "木槿属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3152583"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "hibiscus-syriacus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "迎春",
+      "inputScientificName": "Jasminum nudiflorum",
+      "acceptedChineseName": "迎春花",
+      "acceptedScientificName": "Jasminum nudiflorum",
+      "family": "木犀科",
+      "genus": "素馨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3172266"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "jasminum-nudiflorum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "连翘",
+      "inputScientificName": "Forsythia suspensa",
+      "acceptedChineseName": "连翘",
+      "acceptedScientificName": "Forsythia suspensa",
+      "family": "木犀科",
+      "genus": "连翘属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5415056"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "forsythia-suspensa",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "锦带花",
+      "inputScientificName": "Weigela florida",
+      "acceptedChineseName": "锦带花",
+      "acceptedScientificName": "Weigela florida",
+      "family": "忍冬科",
+      "genus": "锦带花属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2888730"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "weigela-florida",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "南天竹",
+      "inputScientificName": "Nandina domestica",
+      "acceptedChineseName": "南天竹",
+      "acceptedScientificName": "Nandina domestica",
+      "family": "小檗科",
+      "genus": "南天竹属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5371712"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "nandina-domestica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "紫穗槐",
+      "inputScientificName": "Amorpha fruticosa",
+      "acceptedChineseName": "紫穗槐",
+      "acceptedScientificName": "Amorpha fruticosa",
+      "family": "豆科",
+      "genus": "紫穗槐属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5357407"
+      },
+      "requestedCoverageGroups": [
+        "灌木与绿篱"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "amorpha-fruticosa",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "万寿菊",
+      "inputScientificName": "Tagetes erecta",
+      "acceptedChineseName": "万寿菊",
+      "acceptedScientificName": "Tagetes erecta",
+      "family": "菊科",
+      "genus": "万寿菊属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3088488"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "tagetes-erecta",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "金盏菊",
+      "inputScientificName": "Calendula officinalis",
+      "acceptedChineseName": "金盏花",
+      "acceptedScientificName": "Calendula officinalis",
+      "family": "菊科",
+      "genus": "金盏菊属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5391480"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "calendula-officinalis",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "百日菊",
+      "inputScientificName": "Zinnia elegans",
+      "acceptedChineseName": "百日菊",
+      "acceptedScientificName": "Zinnia elegans",
+      "family": "菊科",
+      "genus": "百日菊属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3111754"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "zinnia-elegans",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "凤仙花",
+      "inputScientificName": "Impatiens balsamina",
+      "acceptedChineseName": "凤仙花",
+      "acceptedScientificName": "Impatiens balsamina",
+      "family": "凤仙花科",
+      "genus": "凤仙花属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2891773"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "impatiens-balsamina",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "美人蕉",
+      "inputScientificName": "Canna indica",
+      "acceptedChineseName": "美人蕉",
+      "acceptedScientificName": "Canna indica",
+      "family": "美人蕉科",
+      "genus": "美人蕉属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8034409"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "canna-indica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华南",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "鸢尾",
+      "inputScientificName": "Iris tectorum",
+      "acceptedChineseName": "鸢尾",
+      "acceptedScientificName": "Iris tectorum",
+      "family": "鸢尾科",
+      "genus": "鸢尾属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5298774"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "iris-tectorum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "萱草",
+      "inputScientificName": "Hemerocallis fulva",
+      "acceptedChineseName": "萱草",
+      "acceptedScientificName": "Hemerocallis fulva",
+      "family": "阿福花科",
+      "genus": "萱草属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2781074"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "hemerocallis-fulva",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "石蒜",
+      "inputScientificName": "Lycoris radiata",
+      "acceptedChineseName": "石蒜",
+      "acceptedScientificName": "Lycoris radiata",
+      "family": "石蒜科",
+      "genus": "石蒜属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7920353"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "lycoris-radiata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "玉簪",
+      "inputScientificName": "Hosta plantaginea",
+      "acceptedChineseName": "玉簪",
+      "acceptedScientificName": "Hosta plantaginea",
+      "family": "天门冬科",
+      "genus": "玉簪属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2771287"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "hosta-plantaginea",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "吉祥草",
+      "inputScientificName": "Reineckea carnea",
+      "acceptedChineseName": "吉祥草",
+      "acceptedScientificName": "Reineckea carnea",
+      "family": "天门冬科",
+      "genus": "吉祥草属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2772865"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "reineckea-carnea",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "三色堇",
+      "inputScientificName": "Viola tricolor",
+      "acceptedChineseName": "三色堇",
+      "acceptedScientificName": "Viola tricolor",
+      "family": "堇菜科",
+      "genus": "堇菜属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5331347"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "viola-tricolor",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "麦仙翁",
+      "inputScientificName": "Agrostemma githago",
+      "acceptedChineseName": "麦仙翁",
+      "acceptedScientificName": "Agrostemma githago",
+      "family": "石竹科",
+      "genus": "麦仙翁属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3085368"
+      },
+      "requestedCoverageGroups": [
+        "公园花卉与地被"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "agrostemma-githago",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "蒲公英",
+      "inputScientificName": "Taraxacum mongolicum",
+      "acceptedChineseName": "蒲公英",
+      "acceptedScientificName": "Taraxacum mongolicum",
+      "family": "菊科",
+      "genus": "蒲公英属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5394645"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "taraxacum-mongolicum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "苦苣菜",
+      "inputScientificName": "Sonchus oleraceus",
+      "acceptedChineseName": "苦苣菜",
+      "acceptedScientificName": "Sonchus oleraceus",
+      "family": "菊科",
+      "genus": "苦苣菜属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8228544"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "sonchus-oleraceus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "小蓬草",
+      "inputScientificName": "Erigeron canadensis",
+      "acceptedChineseName": "小蓬草",
+      "acceptedScientificName": "Erigeron canadensis",
+      "family": "菊科",
+      "genus": "飞蓬属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3146791"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "erigeron-canadensis",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "藜",
+      "inputScientificName": "Chenopodium album",
+      "acceptedChineseName": "藜",
+      "acceptedScientificName": "Chenopodium album",
+      "family": "苋科",
+      "genus": "藜属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3083838"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "chenopodium-album",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "反枝苋",
+      "inputScientificName": "Amaranthus retroflexus",
+      "acceptedChineseName": "反枝苋",
+      "acceptedScientificName": "Amaranthus retroflexus",
+      "family": "苋科",
+      "genus": "苋属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "6109534"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "amaranthus-retroflexus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "繁缕",
+      "inputScientificName": "Stellaria media",
+      "acceptedChineseName": "繁缕",
+      "acceptedScientificName": "Stellaria media",
+      "family": "石竹科",
+      "genus": "繁缕属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5384604"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "stellaria-media",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "早熟禾",
+      "inputScientificName": "Poa annua",
+      "acceptedChineseName": "早熟禾",
+      "acceptedScientificName": "Poa annua",
+      "family": "禾本科",
+      "genus": "早熟禾属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2704179"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "poa-annua",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "白茅",
+      "inputScientificName": "Imperata cylindrica",
+      "acceptedChineseName": "白茅",
+      "acceptedScientificName": "Imperata cylindrica",
+      "family": "禾本科",
+      "genus": "白茅属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8424006"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "imperata-cylindrica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "雀麦",
+      "inputScientificName": "Bromus japonicus",
+      "acceptedChineseName": "雀麦",
+      "acceptedScientificName": "Bromus japonicus",
+      "family": "禾本科",
+      "genus": "雀麦属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8113508"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "bromus-japonicus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "稗",
+      "inputScientificName": "Echinochloa crus-galli",
+      "acceptedChineseName": "稗",
+      "acceptedScientificName": "Echinochloa crus-galli",
+      "family": "禾本科",
+      "genus": "稗属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2702808"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "echinochloa-crus-galli",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "一年蓬",
+      "inputScientificName": "Erigeron annuus",
+      "acceptedChineseName": "一年蓬",
+      "acceptedScientificName": "Erigeron annuus",
+      "family": "菊科",
+      "genus": "飞蓬属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3117449"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "erigeron-annuus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "葎草",
+      "inputScientificName": "Humulus scandens",
+      "acceptedChineseName": "葎草",
+      "acceptedScientificName": "Humulus scandens",
+      "family": "大麻科",
+      "genus": "葎草属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2984537"
+      },
+      "requestedCoverageGroups": [
+        "路边及荒地草本"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "humulus-scandens",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "水稻",
+      "inputScientificName": "Oryza sativa",
+      "acceptedChineseName": "稻",
+      "acceptedScientificName": "Oryza sativa",
+      "family": "禾本科",
+      "genus": "稻属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2703459"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "oryza-sativa",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "农田"
+        ]
+      }
+    },
+    {
+      "inputName": "玉米",
+      "inputScientificName": "Zea mays",
+      "acceptedChineseName": "玉米",
+      "acceptedScientificName": "Zea mays",
+      "family": "禾本科",
+      "genus": "玉蜀黍属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5290052"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "zea-mays",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "农田"
+        ]
+      }
+    },
+    {
+      "inputName": "大豆",
+      "inputScientificName": "Glycine max",
+      "acceptedChineseName": "大豆",
+      "acceptedScientificName": "Glycine max",
+      "family": "豆科",
+      "genus": "大豆属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5359660"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "glycine-max",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "农田"
+        ]
+      }
+    },
+    {
+      "inputName": "小麦",
+      "inputScientificName": "Triticum aestivum",
+      "acceptedChineseName": "小麦",
+      "acceptedScientificName": "Triticum aestivum",
+      "family": "禾本科",
+      "genus": "小麦属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7795888"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "triticum-aestivum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "农田"
+        ]
+      }
+    },
+    {
+      "inputName": "花生",
+      "inputScientificName": "Arachis hypogaea",
+      "acceptedChineseName": "落花生",
+      "acceptedScientificName": "Arachis hypogaea",
+      "family": "豆科",
+      "genus": "落花生属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5353770"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "arachis-hypogaea",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华南"
+        ]
+      }
+    },
+    {
+      "inputName": "甘薯",
+      "inputScientificName": "Ipomoea batatas",
+      "acceptedChineseName": "番薯",
+      "acceptedScientificName": "Ipomoea batatas",
+      "family": "旋花科",
+      "genus": "番薯属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2928551"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ipomoea-batatas",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "全国",
+          "农田"
+        ]
+      }
+    },
+    {
+      "inputName": "油菜",
+      "inputScientificName": "Brassica napus",
+      "acceptedChineseName": "欧洲油菜",
+      "acceptedScientificName": "Brassica napus",
+      "family": "十字花科",
+      "genus": "芸薹属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3042636"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "brassica-napus",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华中",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "陆地棉",
+      "inputScientificName": "Gossypium hirsutum",
+      "acceptedChineseName": "陆地棉",
+      "acceptedScientificName": "Gossypium hirsutum",
+      "family": "锦葵科",
+      "genus": "棉属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3152661"
+      },
+      "requestedCoverageGroups": [
+        "农田及田边植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "gossypium-hirsutum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "爬山虎",
+      "inputScientificName": "Parthenocissus tricuspidata",
+      "acceptedChineseName": "地锦",
+      "acceptedScientificName": "Parthenocissus tricuspidata",
+      "family": "葡萄科",
+      "genus": "地锦属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3039209"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "parthenocissus-tricuspidata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "五叶地锦",
+      "inputScientificName": "Parthenocissus quinquefolia",
+      "acceptedChineseName": "五叶地锦",
+      "acceptedScientificName": "Parthenocissus quinquefolia",
+      "family": "葡萄科",
+      "genus": "地锦属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3039194"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "parthenocissus-quinquefolia",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "常春藤",
+      "inputScientificName": "Hedera helix",
+      "acceptedChineseName": "洋常春藤",
+      "acceptedScientificName": "Hedera helix",
+      "family": "五加科",
+      "genus": "常春藤属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8351737"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "hedera-helix",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "华北",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "紫藤",
+      "inputScientificName": "Wisteria sinensis",
+      "acceptedChineseName": "紫藤",
+      "acceptedScientificName": "Wisteria sinensis",
+      "family": "豆科",
+      "genus": "紫藤属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "8149049"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "wisteria-sinensis",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "牵牛",
+      "inputScientificName": "Ipomoea nil",
+      "acceptedChineseName": "牵牛",
+      "acceptedScientificName": "Ipomoea nil",
+      "family": "旋花科",
+      "genus": "番薯属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2928534"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ipomoea-nil",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "全国",
+          "室外"
+        ]
+      }
+    },
+    {
+      "inputName": "薜荔",
+      "inputScientificName": "Ficus pumila",
+      "acceptedChineseName": "薜荔",
+      "acceptedScientificName": "Ficus pumila",
+      "family": "桑科",
+      "genus": "榕属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5361930"
+      },
+      "requestedCoverageGroups": [
+        "藤本植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ficus-pumila",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "vine"
+        ],
+        "regions": [
+          "华南",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "问荆",
+      "inputScientificName": "Equisetum arvense",
+      "acceptedChineseName": "问荆",
+      "acceptedScientificName": "Equisetum arvense",
+      "family": "木贼科",
+      "genus": "木贼属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7924597"
+      },
+      "requestedCoverageGroups": [
+        "蕨类植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "equisetum-arvense",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "凤尾蕨",
+      "inputScientificName": "Pteris vittata",
+      "acceptedChineseName": "蜈蚣凤尾蕨",
+      "acceptedScientificName": "Pteris vittata",
+      "family": "凤尾蕨科",
+      "genus": "凤尾蕨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5275398"
+      },
+      "requestedCoverageGroups": [
+        "蕨类植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pteris-vittata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华南",
+          "华东"
+        ]
+      }
+    },
+    {
+      "inputName": "蕨",
+      "inputScientificName": "Pteridium aquilinum",
+      "acceptedChineseName": "欧洲蕨",
+      "acceptedScientificName": "Pteridium aquilinum",
+      "family": "蕨科",
+      "genus": "蕨属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5275012"
+      },
+      "requestedCoverageGroups": [
+        "蕨类植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pteridium-aquilinum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "近郊"
+        ]
+      }
+    },
+    {
+      "inputName": "贯众",
+      "inputScientificName": "Cyrtomium fortunei",
+      "acceptedChineseName": "贯众",
+      "acceptedScientificName": "Cyrtomium fortunei",
+      "family": "鳞毛蕨科",
+      "genus": "贯众属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2650827"
+      },
+      "requestedCoverageGroups": [
+        "蕨类植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "cyrtomium-fortunei",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "fern",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华东",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "菱",
+      "inputScientificName": "Trapa natans",
+      "acceptedChineseName": "欧菱",
+      "acceptedScientificName": "Trapa natans",
+      "family": "千屈菜科",
+      "genus": "菱属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3188757"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "trapa-natans",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "水域"
+        ]
+      }
+    },
+    {
+      "inputName": "浮萍",
+      "inputScientificName": "Lemna minor",
+      "acceptedChineseName": "浮萍",
+      "acceptedScientificName": "Lemna minor",
+      "family": "天南星科",
+      "genus": "浮萍属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2867589"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "lemna-minor",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "水域"
+        ]
+      }
+    },
+    {
+      "inputName": "凤眼莲",
+      "inputScientificName": "Pontederia crassipes",
+      "acceptedChineseName": "凤眼莲",
+      "acceptedScientificName": "Pontederia crassipes",
+      "family": "雨久花科",
+      "genus": "梭鱼草属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2765942"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pontederia-crassipes",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "华南",
+          "水域"
+        ]
+      }
+    },
+    {
+      "inputName": "空心莲子草",
+      "inputScientificName": "Alternanthera philoxeroides",
+      "acceptedChineseName": "空心莲子草",
+      "acceptedScientificName": "Alternanthera philoxeroides",
+      "family": "苋科",
+      "genus": "莲子草属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3084923"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "alternanthera-philoxeroides",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "水域"
+        ]
+      }
+    },
+    {
+      "inputName": "慈姑",
+      "inputScientificName": "Sagittaria trifolia",
+      "acceptedChineseName": "野慈姑",
+      "acceptedScientificName": "Sagittaria trifolia",
+      "family": "泽泻科",
+      "genus": "慈姑属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "5328972"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "sagittaria-trifolia",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "湿地"
+        ]
+      }
+    },
+    {
+      "inputName": "泽泻",
+      "inputScientificName": "Alisma plantago-aquatica",
+      "acceptedChineseName": "泽泻",
+      "acceptedScientificName": "Alisma plantago-aquatica",
+      "family": "泽泻科",
+      "genus": "泽泻属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2865100"
+      },
+      "requestedCoverageGroups": [
+        "水生及湿地植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "alisma-plantago-aquatica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "湿地"
+        ]
+      }
+    },
+    {
+      "inputName": "吊兰",
+      "inputScientificName": "Chlorophytum comosum",
+      "acceptedChineseName": "吊兰",
+      "acceptedScientificName": "Chlorophytum comosum",
+      "family": "天门冬科",
+      "genus": "吊兰属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2774846"
+      },
+      "requestedCoverageGroups": [
+        "室内观叶植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "chlorophytum-comosum",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室内"
+        ]
+      }
+    },
+    {
+      "inputName": "虎尾兰",
+      "inputScientificName": "Dracaena trifasciata",
+      "acceptedChineseName": "虎尾兰",
+      "acceptedScientificName": "Dracaena trifasciata",
+      "family": "天门冬科",
+      "genus": "龙血树属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "11041822"
+      },
+      "requestedCoverageGroups": [
+        "室内观叶植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "dracaena-trifasciata",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "herb"
+        ],
+        "regions": [
+          "全国",
+          "室内"
+        ]
+      }
+    },
+    {
+      "inputName": "橡皮树",
+      "inputScientificName": "Ficus elastica",
+      "acceptedChineseName": "印度榕",
+      "acceptedScientificName": "Ficus elastica",
+      "family": "桑科",
+      "genus": "榕属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7835333"
+      },
+      "requestedCoverageGroups": [
+        "室内观叶植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "ficus-elastica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "全国",
+          "室内"
+        ]
+      }
+    },
+    {
+      "inputName": "瓜栗",
+      "inputScientificName": "Pachira aquatica",
+      "acceptedChineseName": "瓜栗",
+      "acceptedScientificName": "Pachira aquatica",
+      "family": "锦葵科",
+      "genus": "瓜栗属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3152235"
+      },
+      "requestedCoverageGroups": [
+        "室内观叶植物"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "pachira-aquatica",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "全国",
+          "室内"
+        ]
+      }
+    },
+    {
+      "inputName": "腊梅",
+      "inputScientificName": "Chimonanthus praecox",
+      "acceptedChineseName": "蜡梅",
+      "acceptedScientificName": "Chimonanthus praecox",
+      "family": "蜡梅科",
+      "genus": "蜡梅属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "7275851"
+      },
+      "requestedCoverageGroups": [
+        "冲突替补"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "chimonanthus-praecox",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "合欢",
+      "inputScientificName": "Albizia julibrissin",
+      "acceptedChineseName": "合欢",
+      "acceptedScientificName": "Albizia julibrissin",
+      "family": "豆科",
+      "genus": "合欢属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "2972983"
+      },
+      "requestedCoverageGroups": [
+        "冲突替补"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "albizia-julibrissin",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "黄栌",
+      "inputScientificName": "Cotinus coggygria",
+      "acceptedChineseName": "欧黄栌",
+      "acceptedScientificName": "Cotinus coggygria",
+      "family": "漆树科",
+      "genus": "黄栌属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3190522"
+      },
+      "requestedCoverageGroups": [
+        "冲突替补"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "cotinus-coggygria",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "shrub"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    },
+    {
+      "inputName": "火炬树",
+      "inputScientificName": "Rhus typhina",
+      "acceptedChineseName": "火炬树",
+      "acceptedScientificName": "Rhus typhina",
+      "family": "漆树科",
+      "genus": "盐肤木属",
+      "source": "GBIF Species Match, verified 2026-08-16",
+      "providerMappings": {
+        "gbif": "3190538"
+      },
+      "requestedCoverageGroups": [
+        "冲突替补"
+      ],
+      "resolutionStatus": "existing",
+      "resolvedCanonicalTaxonId": "rhus-typhina",
+      "notes": "物种级候选；仅完成分类解析，尚未创建 species JSON。",
+      "planning": {
+        "taxonGroup": "angiosperm",
+        "growthForms": [
+          "tree"
+        ],
+        "regions": [
+          "华北",
+          "华中"
+        ]
+      }
+    }
+  ]
+}

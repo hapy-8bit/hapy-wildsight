@@ -1,0 +1,99 @@
+{
+  "id": "rosa-rugosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "玫瑰",
+    "scientificName": "Rosa rugosa",
+    "family": "蔷薇科",
+    "genus": "蔷薇属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "直立灌木。",
+    "stem": "茎粗壮，丛生；小枝密被绒毛，并有针刺和腺毛，有直立或弯曲、淡黄色的皮刺，皮刺外被绒毛。",
+    "leaf": "小叶5-9，连叶柄长5-13厘米；小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米，先端急尖或圆钝，基部圆形或宽楔形，边缘有尖锐锯齿，上面深绿色，无毛，叶脉下陷，有褶皱，下面灰绿色，中脉突起，网脉明显，密被绒毛和腺毛，有时腺毛不明显；叶柄和叶轴密被绒毛和腺毛；托叶大部贴生于叶柄，离生部分卵形，边缘有带腺锯齿，下面被绒毛。",
+    "flower": "花梗长5 -22 5毫米，密被绒毛和腺毛；花直径4-5.5厘米；萼片卵状披针形，先端尾状渐尖，常有羽状裂片而扩展成叶状，上面有稀疏柔毛，下面密被柔毛和腺毛；花瓣倒卵形，重瓣至半重瓣，芳香，紫红色至白色；花柱离生，被毛，稍伸出萼筒口外，比雄蕊短很多。",
+    "fruit": "果扁球形，直径2-2.5厘米，砖红色，肉质，平滑，萼片宿存。",
+    "habitat": "小叶5-9，连叶柄长5-13厘米；小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米，先端急尖或圆钝，基部圆形或宽楔形，边缘有尖锐锯齿，上面深绿色，无毛，叶脉下陷，有褶皱，下面灰绿色，中脉突起，网脉明显，密被绒毛和腺毛，有时腺毛不明显；叶柄和叶轴密被绒毛和腺毛；托叶大部贴生于叶柄，离生部分卵形，边缘有带腺锯齿，下面被绒毛。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米。",
+      "花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形，先端尾状渐尖。",
+      "果扁球形，直径2-2.5厘米，砖红色，肉质，平滑。"
+    ]
+  },
+  "knowledge": {
+    "summary": "玫瑰是直立灌木。观察时重点看小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米，并结合花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形确认。",
+    "identificationReferences": [
+      "小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米。",
+      "花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形”。"
+    ],
+    "appearance": "小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米。花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形。",
+    "growthHabit": "直立灌木。小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形。",
+    "keyCharacteristics": [
+      "小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米。",
+      "花梗长5 -22 5毫米，密被绒毛和腺毛，花直径4-5.5厘米，萼片卵状披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶5-9，连叶柄长5-13厘米，小叶片椭圆形或椭圆状倒卵形，长1.5-4.5厘米，宽1-2.5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rosa-rugosa",
+      "title": "GBIF species record: Rosa rugosa",
+      "url": "https://api.gbif.org/v1/species/3003979",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rosa-rugosa",
+      "title": "iPlant 植物智：玫瑰（Rosa rugosa）",
+      "url": "https://www.iplant.cn/info/Rosa%20rugosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3003979"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

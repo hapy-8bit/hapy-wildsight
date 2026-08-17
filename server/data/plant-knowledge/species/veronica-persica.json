@@ -1,0 +1,97 @@
+{
+  "id": "veronica-persica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "阿拉伯婆婆纳",
+    "scientificName": "Veronica persica",
+    "family": "车前科",
+    "genus": "婆婆纳属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "铺散多分枝草本。",
+    "stem": "茎密生两列柔毛。",
+    "leaf": "叶2-4对（腋内生花的称苞片）；卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆，边缘具钝齿，两面疏生柔毛；具短柄。",
+    "flower": "总状花序很长，苞片互生，与叶同形近等大，花萼果期增大，裂片卵状披针形，花冠蓝、紫或蓝紫色，裂片卵形或圆形；雄蕊短于花冠。",
+    "fruit": "蒴果肾形，宿存花柱超出凹口。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆。",
+      "总状花序很长，苞片互生，与叶同形近等大，花萼果期增大，裂片卵状披针形。",
+      "蒴果肾形，宿存花柱超出凹口。"
+    ]
+  },
+  "knowledge": {
+    "summary": "阿拉伯婆婆纳是铺散多分枝草本。观察时重点看叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆，并结合总状花序很长，苞片互生，与叶同形近等大，花萼果期增大确认。",
+    "identificationReferences": [
+      "叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆。",
+      "总状花序很长，苞片互生，与叶同形近等大，花萼果期增大。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆”。",
+      "补拍花或花序的整体与细节，核对“总状花序很长，苞片互生，与叶同形近等大，花萼果期增大”。"
+    ],
+    "appearance": "叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆。总状花序很长，苞片互生，与叶同形近等大，花萼果期增大。",
+    "growthHabit": "铺散多分枝草本。",
+    "keyCharacteristics": [
+      "叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆。",
+      "总状花序很长，苞片互生，与叶同形近等大，花萼果期增大。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶2-4对（腋内生花的称苞片），卵形或圆形，长0.6-2厘米，基部浅心形，平截或浑圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-veronica-persica",
+      "title": "GBIF species record: Veronica persica",
+      "url": "https://api.gbif.org/v1/species/3172077",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-veronica-persica",
+      "title": "iPlant 植物智：阿拉伯婆婆纳（Veronica persica）",
+      "url": "https://www.iplant.cn/info/Veronica%20persica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172077"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "plantago-asiatica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "车前",
+    "scientificName": "Plantago asiatica",
+    "family": "车前科",
+    "genus": "车前属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "花茎通常无叶，自基生叶丛抽出。",
+    "leaf": "叶基生，常为宽卵形至椭圆形，具弧形脉。",
+    "flower": "小花密集排列成穗状花序。",
+    "fruit": "蒴果。",
+    "habitat": "常见于路旁、草地和较受扰动的地面。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶丛。",
+      "叶片明显的弧形脉。",
+      "无叶花茎顶端的穗状花序。"
+    ]
+  },
+  "knowledge": {
+    "summary": "车前可从贴近地面的基生叶丛、弧形叶脉和细长花茎观察。",
+    "identificationReferences": [
+      "叶片多从基部簇生。",
+      "叶脉从叶基部向叶尖呈弧形延伸。"
+    ],
+    "howToConfirm": [
+      "拍摄整株叶丛和一片叶的叶脉。",
+      "观察无叶花茎顶端是否为密集穗状花序。"
+    ],
+    "appearance": "叶片多基生，花茎细长而通常无叶。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "基生叶丛。",
+      "弧形叶脉。"
+    ],
+    "observationTips": [
+      "叶片大小会随环境变化。",
+      "连同花茎一起观察更易确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-plantago-asiatica",
+      "title": "GBIF Species Match: Plantago asiatica L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Plantago%20asiatica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-plantago-asiatica",
+      "title": "Flora of China search: Plantago asiatica",
+      "url": "https://www.efloras.org/search.aspx?query=Plantago%20asiatica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "9118978"
+  }
+}

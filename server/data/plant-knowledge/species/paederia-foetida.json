@@ -1,0 +1,100 @@
+{
+  "id": "paederia-foetida",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸡屎藤",
+    "scientificName": "Paederia foetida",
+    "family": "茜草科",
+    "genus": "鸡屎藤属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "藤状灌木，无毛或被柔毛。",
+    "stem": "无毛或近无毛。",
+    "leaf": "叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米，顶端短尖或削尖，基部浑圆，有时心状形，叶上面无毛，在下面脉上被微毛；侧脉每边4-5条，在上面柔弱，在下面突起；叶柄长1-3厘米；托叶卵状披针形，长2-3毫米，顶部2裂。",
+    "flower": "圆锥花序腋生或顶生，长6-18厘米，扩展；小苞片微小，卵形或锥形，有小睫毛；花有小梗，生于柔弱的三歧常作蝎尾状的聚伞花序上；花萼钟形，萼檐裂片钝齿形；花冠紫蓝色，长12-16毫米，通常被绒毛，裂片短。",
+    "fruit": "果阔椭圆形，压扁，长和宽6-8毫米，光亮，顶部冠以圆锥形的花盘和微小宿存的萼檐裂片；小坚果浅黑色，具1阔翅。",
+    "habitat": "生于低海拔的疏林内。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米。",
+      "圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小，卵形或锥形。",
+      "果阔椭圆形，压扁，长和宽6-8毫米，光亮，顶部冠以圆锥形的花盘和微小宿存的萼檐裂片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸡屎藤是藤状灌木。观察时重点看叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米，并结合圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小确认。",
+    "identificationReferences": [
+      "叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米。",
+      "圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小”。"
+    ],
+    "appearance": "叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米。圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小。",
+    "growthHabit": "藤状灌木。生于低海拔的疏林内。",
+    "keyCharacteristics": [
+      "叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米。",
+      "圆锥花序腋生或顶生，长6-18厘米，扩展，小苞片微小。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，膜质，卵形或披针形，长5-10厘米，宽2-4厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-paederia-foetida",
+      "title": "GBIF species record: Paederia foetida",
+      "url": "https://api.gbif.org/v1/species/2909527",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-paederia-foetida",
+      "title": "iPlant 植物智：鸡屎藤（Paederia foetida）",
+      "url": "https://www.iplant.cn/info/Paederia%20foetida?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2909527"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

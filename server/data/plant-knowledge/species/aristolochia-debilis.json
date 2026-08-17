@@ -1,0 +1,102 @@
+{
+  "id": "aristolochia-debilis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马兜铃",
+    "scientificName": "Aristolochia debilis",
+    "family": "马兜铃科",
+    "genus": "马兜铃属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草质藤本。",
+    "stem": "茎有腐肉味。",
+    "leaf": "叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形，两面无毛；叶柄长1-2厘米。",
+    "flower": "花梗长1-1.5厘米；花被筒长3-3.5厘米，基部球形，与子房连接处具关节，径3-6毫米，向上骤缢缩成长管，管长2-2.5厘米，径2-3毫米，口部漏斗状，黄绿色，具紫斑，檐部一侧延伸成卵状披针形舌片，长2-3厘米，先端钝；花药卵圆形，合蕊柱6裂。",
+    "fruit": "蒴果近球形，长约6厘米。",
+    "habitat": "山谷、沟边、路旁阴湿处及山坡灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形。",
+      "花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节，径3-6毫米。",
+      "蒴果近球形，长约6厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马兜铃是草质藤本。观察时重点看叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形，并结合花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节确认。",
+    "identificationReferences": [
+      "叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形。",
+      "花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形”。",
+      "补拍花或花序的整体与细节，核对“花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节”。"
+    ],
+    "appearance": "叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形。花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节。",
+    "growthHabit": "草质藤本。山谷、沟边、路旁阴湿处及山坡灌丛中。",
+    "keyCharacteristics": [
+      "叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形。",
+      "花梗长1-1.5厘米，花被筒长3-3.5厘米，基部球形，与子房连接处具关节。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵状三角形、长圆状卵形或戟形，长3-6厘米，先端钝圆或短尖，基部宽1.5-3.5厘米，心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-aristolochia-debilis",
+      "title": "GBIF species record: Aristolochia debilis",
+      "url": "https://api.gbif.org/v1/species/3588727",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-aristolochia-debilis",
+      "title": "iPlant 植物智：马兜铃（Aristolochia debilis）",
+      "url": "https://www.iplant.cn/info/Aristolochia%20debilis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3588727"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

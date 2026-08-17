@@ -1,0 +1,99 @@
+{
+  "id": "lobularia-maritima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "香雪球",
+    "scientificName": "Lobularia maritima",
+    "family": "十字花科",
+    "genus": "香雪球属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，基部木质化，但栽培的不论当年生或隔年生均不木质化。",
+    "stem": "茎自基部向上分枝，常呈密丛。",
+    "leaf": "叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘。",
+    "flower": "花序伞房状，果期极伸长，花梗丝状，长2-6毫米；萼片长约1.5毫米，外轮的宽于内轮的，外轮的长圆卵形，内轮的窄椭圆形或窄卵状长圆形；花瓣淡紫色或白色，长圆形，长约3毫米，顶端钝圆，基部突然变窄成爪。",
+    "fruit": "短角果椭圆形，长3-3.5毫米，无毛或在上半部有稀疏丁字毛；果瓣扁压而稍膨胀，中脉清楚；胎座框常为淡紫色，隔膜白色，半透明，无脉；果梗长7-15毫米，斜上升或近水平展开，末端上翘。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘。",
+      "花序伞房状，果期极伸长，花梗丝状，长2-6毫米，萼片长约1.5毫米。",
+      "短角果椭圆形，长3-3.5毫米，无毛或在上半部有稀疏丁字毛，果瓣扁压而稍膨胀，中脉清楚。"
+    ]
+  },
+  "knowledge": {
+    "summary": "香雪球是多年生草本。观察时重点看叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘，并结合花序伞房状，果期极伸长，花梗丝状，长2-6毫米确认。",
+    "identificationReferences": [
+      "叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘。",
+      "花序伞房状，果期极伸长，花梗丝状，长2-6毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘”。",
+      "补拍花或花序的整体与细节，核对“花序伞房状，果期极伸长，花梗丝状，长2-6毫米”。"
+    ],
+    "appearance": "叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘。花序伞房状，果期极伸长，花梗丝状，长2-6毫米。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘。",
+      "花序伞房状，果期极伸长，花梗丝状，长2-6毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶条形或披针形，长1.5-5厘米，宽1.5-5毫米，两端渐窄，全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lobularia-maritima",
+      "title": "GBIF species record: Lobularia maritima",
+      "url": "https://api.gbif.org/v1/species/5373358",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lobularia-maritima",
+      "title": "iPlant 植物智：香雪球（Lobularia maritima）",
+      "url": "https://www.iplant.cn/info/Lobularia%20maritima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5373358"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

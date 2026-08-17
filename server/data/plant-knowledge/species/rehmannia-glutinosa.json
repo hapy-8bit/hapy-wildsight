@@ -1,0 +1,99 @@
+{
+  "id": "rehmannia-glutinosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "地黄",
+    "scientificName": "Rehmannia glutinosa",
+    "family": "列当科",
+    "genus": "地黄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高达30厘米，密被灰白色长柔毛和腺毛。",
+    "stem": "根茎肉质，鲜时黄色，在栽培条件下，径达5.5厘米；茎紫红色。",
+    "leaf": "叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生；叶卵形或长椭圆形，上面绿色，下面稍带紫色或紫红色，长2-13厘米，边缘具不规则圆齿或钝锯齿至牙齿；基部渐窄成柄。",
+    "flower": "花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5，长圆状披针形、卵状披针形或多少三角形，长0.5-0.6厘米，稀前方2枚开裂而使萼齿达7枚之多；花冠长3-4.5厘米，花冠筒多少弓曲，外面紫红色，被长柔毛，裂片5，先端钝或微凹，内面黄紫色，外面紫红色，两面均被长柔毛，长5-7毫米；雄蕊4，药室长圆形，基部叉开；子房幼时2室，老时因隔膜撕裂而成1室，无毛，花柱顶部扩大成2枚片状柱头。",
+    "fruit": "蒴果卵圆形或长卵圆形，长1-1.5厘米。",
+    "habitat": "砂质壤土、荒山坡、山脚、墙边、路旁等处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色。",
+      "花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5，长圆状披针形、卵状披针形或多少三角形。",
+      "蒴果卵圆形或长卵圆形，长1-1.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "地黄的生长形态为植株高达30厘米。观察时重点看叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色，并结合花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5确认。",
+    "identificationReferences": [
+      "叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色。",
+      "花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5”。"
+    ],
+    "appearance": "叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色。花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5。",
+    "growthHabit": "植株高达30厘米。砂质壤土、荒山坡、山脚、墙边、路旁等处。",
+    "keyCharacteristics": [
+      "叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色。",
+      "花梗长0.5-3厘米花萼长1-1.5厘米，密被长柔毛和白色长毛，具10条隆起的脉，萼齿5。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶通常在茎基部集成莲座状，向上则强烈缩小成苞片，或逐渐缩小而在茎上互生，叶卵形或长椭圆形，上面绿色”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rehmannia-glutinosa",
+      "title": "GBIF species record: Rehmannia glutinosa",
+      "url": "https://api.gbif.org/v1/species/7516558",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rehmannia-glutinosa",
+      "title": "iPlant 植物智：地黄（Rehmannia glutinosa）",
+      "url": "https://www.iplant.cn/info/Rehmannia%20glutinosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7516558"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

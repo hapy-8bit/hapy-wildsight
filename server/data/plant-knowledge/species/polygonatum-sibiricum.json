@@ -1,0 +1,102 @@
+{
+  "id": "polygonatum-sibiricum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄精",
+    "scientificName": "Polygonatum sibiricum",
+    "family": "天门冬科",
+    "genus": "黄精属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "茎高5o-90厘米，或可达1米以上，有时呈攀援状。",
+    "stem": "根状茎圆柱状，节膨大，节间一头粗、一头细，粗头有短分枝，径1-2厘米。",
+    "leaf": "叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲。",
+    "flower": "花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形，长3-5毫米，具1脉：花被乳白或淡黄色，长0.9-1.2厘米，花被筒中部稍缢缩，裂片长约4毫米：花丝长0.5-1亳米，花药长2-3毫米；子房长约3毫米，花柱长5-7毫米。",
+    "fruit": "浆果径0.7-1厘米，成熟时黑色，具4-7种子。",
+    "habitat": "林下、灌丛或山坡阴处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲。",
+      "花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形，长3-5毫米。",
+      "浆果径0.7-1厘米，成熟时黑色，具4-7种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄精的生长形态为茎高5o-90厘米。观察时重点看叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲，并结合花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形确认。",
+    "identificationReferences": [
+      "叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲。",
+      "花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲”。",
+      "补拍花或花序的整体与细节，核对“花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形”。"
+    ],
+    "appearance": "叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲。花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形。",
+    "growthHabit": "茎高5o-90厘米。林下、灌丛或山坡阴处。",
+    "keyCharacteristics": [
+      "叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲。",
+      "花梗长（0.3)0.4-1厘米，俯垂：苞片生于花梗基部，膜质，钻形或线状披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶4-6枚轮生，线状披针形，长8-15厘米，宽（0.4-)0.6-1.6厘米，先端拳卷或弯曲”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-polygonatum-sibiricum",
+      "title": "GBIF species record: Polygonatum sibiricum",
+      "url": "https://api.gbif.org/v1/species/7441849",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-polygonatum-sibiricum",
+      "title": "iPlant 植物智：黄精（Polygonatum sibiricum）",
+      "url": "https://www.iplant.cn/info/Polygonatum%20sibiricum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7441849"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

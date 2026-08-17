@@ -1,0 +1,99 @@
+{
+  "id": "elaeocarpus-decipiens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杜英",
+    "scientificName": "Elaeocarpus decipiens",
+    "family": "杜英科",
+    "genus": "杜英属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿乔木。",
+    "stem": "幼枝有微毛，旋脱落，干后黑褐色。",
+    "leaf": "叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延，两面无毛，侧脉7-9对，边缘有小钝齿；叶柄长1厘米。",
+    "flower": "花梗长4-5毫米；花白色；萼片披针形，长3.5毫米；花瓣倒卵形，与萼片等长，上半部撕裂，裂片14-16；雄蕊25-30，长3毫米，花丝极短，花药顶端无附属物；花盘5裂，有毛；子房3室，花柱长3.5毫米；每室2胚珠。",
+    "fruit": "核果椭圆形，长2-2.5厘米，外果皮无毛，内果皮骨质，有多数沟纹，1室。",
+    "habitat": "林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延。",
+      "花梗长4-5毫米，花白色，萼片披针形，长3.5毫米，花瓣倒卵形。",
+      "核果椭圆形，长2-2.5厘米，外果皮无毛，内果皮骨质，有多数沟纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杜英是常绿乔木。观察时重点看叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延，并结合花梗长4-5毫米，花白色，萼片披针形，长3.5毫米确认。",
+    "identificationReferences": [
+      "叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延。",
+      "花梗长4-5毫米，花白色，萼片披针形，长3.5毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延”。",
+      "补拍花或花序的整体与细节，核对“花梗长4-5毫米，花白色，萼片披针形，长3.5毫米”。"
+    ],
+    "appearance": "叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延。花梗长4-5毫米，花白色，萼片披针形，长3.5毫米。",
+    "growthHabit": "常绿乔木。林中。",
+    "keyCharacteristics": [
+      "叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延。",
+      "花梗长4-5毫米，花白色，萼片披针形，长3.5毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，披针形或倒披针形，长7-12厘米，先端渐尖，基部下延”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-elaeocarpus-decipiens",
+      "title": "GBIF species record: Elaeocarpus decipiens",
+      "url": "https://api.gbif.org/v1/species/7291057",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-elaeocarpus-decipiens",
+      "title": "iPlant 植物智：杜英（Elaeocarpus decipiens）",
+      "url": "https://www.iplant.cn/info/Elaeocarpus%20decipiens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7291057"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

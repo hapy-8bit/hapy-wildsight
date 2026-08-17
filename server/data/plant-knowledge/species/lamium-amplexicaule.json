@@ -1,0 +1,104 @@
+{
+  "id": "lamium-amplexicaule",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "宝盖草",
+    "scientificName": "Lamium amplexicaule",
+    "family": "唇形科",
+    "genus": "野芝麻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "茎基部多分枝，近无毛。",
+    "leaf": "叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎，具深圆齿或近掌状分裂，两面疏被糙伏毛；上部叶无柄，下部叶具长柄。",
+    "flower": "轮伞花序具6-10花；苞片长约4毫米，具缘毛；花萼管状钟形，长4-5毫米，密被长柔毛，萼齿披针状钻形，长1.5-2毫米，具缘毛；花冠紫红或粉红色，长约1.7厘米，被微柔毛，冠筒喉部径约3毫米，上唇长圆形，长约4毫米，下唇稍长，中裂片倒心形，具2小裂片；花丝无毛，花药被长硬毛。",
+    "fruit": "小坚果淡灰黄色，倒卵球形，具三棱，被白色小瘤。",
+    "habitat": "路旁、林缘、沼泽草地及宅旁等地；为田间杂草。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎。",
+      "轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形，长4-5毫米。",
+      "小坚果淡灰黄色，倒卵球形，具三棱，被白色小瘤。"
+    ]
+  },
+  "knowledge": {
+    "summary": "宝盖草是一年生或二年生草本。观察时重点看叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎，并结合轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形确认。",
+    "identificationReferences": [
+      "叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎。",
+      "轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎”。",
+      "补拍花或花序的整体与细节，核对“轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形”。"
+    ],
+    "appearance": "叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎。轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形。",
+    "growthHabit": "一年生或二年生草本。路旁、林缘、沼泽草地及宅旁等地，为田间杂草。",
+    "keyCharacteristics": [
+      "叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎。",
+      "轮伞花序具6-10花，苞片长约4毫米，具缘毛，花萼管状钟形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶圆形或肾形，长1-2厘米，先端圆，基部平截或平截宽楔形，半抱茎”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lamium-amplexicaule",
+      "title": "GBIF species record: Lamium amplexicaule",
+      "url": "https://api.gbif.org/v1/species/2926679",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lamium-amplexicaule",
+      "title": "iPlant 植物智：宝盖草（Lamium amplexicaule）",
+      "url": "https://www.iplant.cn/info/Lamium%20amplexicaule?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2926679"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "dactylis-glomerata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸭茅",
+    "scientificName": "Dactylis glomerata",
+    "family": "禾本科",
+    "genus": "鸭茅属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生。",
+    "stem": "秆高0.4-1.2米。",
+    "leaf": "叶鞘无毛，通常闭合达中部以上；叶舌薄膜质，长4-8毫米；叶片边缘或背部中脉均粗糙，长（6-)10-30厘米，宽4-8毫米。",
+    "flower": "小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色；颖片披针形，长4-5(-6.5)毫米，中脉稍凸出成脊；外稃背部粗糙或被微毛，芒长约1毫米，第一外稃近等长于小穗；内稃窄，约等长于外稃，具2脊，脊具纤毛；花药长约2.5毫米。",
+    "fruit": "果实为黄色或金黄色。",
+    "habitat": "河谷林缘草丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙。",
+      "小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色，颖片披针形。",
+      "果实为黄色或金黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸭茅是多年生。观察时重点看叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙，并结合小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色确认。",
+    "identificationReferences": [
+      "叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙。",
+      "小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙”。",
+      "补拍花或花序的整体与细节，核对“小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色”。"
+    ],
+    "appearance": "叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙。小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色。",
+    "growthHabit": "多年生。河谷林缘草丛中。",
+    "keyCharacteristics": [
+      "叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙。",
+      "小穗多聚集分枝上部，具2-5花，长5-7(-9)毫米，绿或稍带紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘无毛，通常闭合达中部以上，叶舌薄膜质，长4-8毫米，叶片边缘或背部中脉均粗糙”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dactylis-glomerata",
+      "title": "GBIF species record: Dactylis glomerata",
+      "url": "https://api.gbif.org/v1/species/2705308",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dactylis-glomerata",
+      "title": "iPlant 植物智：鸭茅（Dactylis glomerata）",
+      "url": "https://www.iplant.cn/info/Dactylis%20glomerata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-dactylis-glomerata",
+      "title": "NC State Extension Plant Toolbox: Dactylis glomerata",
+      "url": "https://plants.ces.ncsu.edu/plants/dactylis-glomerata/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2705308"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

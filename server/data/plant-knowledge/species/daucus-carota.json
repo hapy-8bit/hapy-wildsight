@@ -1,0 +1,102 @@
+{
+  "id": "daucus-carota",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "野胡萝卜",
+    "scientificName": "Daucus carota",
+    "family": "伞形科",
+    "genus": "胡萝卜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生草本。",
+    "stem": "茎单生，全体有白色粗硬毛。",
+    "leaf": "基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖；茎生叶近无柄，小裂片细小。",
+    "flower": "花白色，有时带淡红色。",
+    "fruit": "果实圆卵形，长3-4毫米，宽2毫米，棱上有白色刺毛。",
+    "habitat": "生长于山坡路旁、旷野或田间。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄。",
+      "花白色，有时带淡红色。",
+      "果实圆卵形，长3-4毫米，宽2毫米，棱上有白色刺毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "野胡萝卜是二年生草本。观察时重点看基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄，并结合花白色，有时带淡红色确认。",
+    "identificationReferences": [
+      "基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄。",
+      "花白色，有时带淡红色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄”。",
+      "补拍花或花序的整体与细节，核对“花白色，有时带淡红色”。"
+    ],
+    "appearance": "基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄。花白色，有时带淡红色。",
+    "growthHabit": "二年生草本。生长于山坡路旁、旷野或田间。",
+    "keyCharacteristics": [
+      "基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄。",
+      "花白色，有时带淡红色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶长圆形，二至三回羽状全裂，小裂片线形或披针形，先端尖，茎生叶近无柄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-daucus-carota",
+      "title": "GBIF species record: Daucus carota",
+      "url": "https://api.gbif.org/v1/species/3034742",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-daucus-carota",
+      "title": "iPlant 植物智：野胡萝卜（Daucus carota）",
+      "url": "https://www.iplant.cn/info/Daucus%20carota?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3034742"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

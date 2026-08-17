@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "taxonGroup": { "angiosperm": "被子植物", "gymnosperm": "裸子植物", "fern": "蕨类植物", "bryophyte": "苔藓植物", "other": "其他" },
+  "growthForms": { "tree": "乔木", "shrub": "灌木", "subshrub": "半灌木", "herb": "草本", "vine": "藤本" },
+  "sceneTags": { "urban-greening": "城市道路与公共绿化", "park-garden": "公园与庭院", "roadside": "路边", "wasteland": "荒地", "farmland": "农田及田边", "forest": "林地", "forest-edge": "林缘", "wetland-waterside": "湿地及水边", "aquatic": "水域", "indoor": "室内栽培" },
+  "occurrenceTypes": { "wild": "野生", "cultivated": "栽培", "naturalized": "归化" },
+  "useTags": { "street-tree": "行道树", "shade-tree": "庭荫树", "hedge": "绿篱", "groundcover": "地被", "lawn": "草坪", "ornamental-flower": "观花植物", "ornamental-foliage": "观叶植物", "ornamental-fruit": "观果植物", "climber": "攀援绿化", "crop": "农作物", "fruit-tree": "果树" },
+  "coveragePriority": { "P0": "高频核心植物", "P1": "首批500种覆盖植物", "P2": "后续长尾植物" }
+}

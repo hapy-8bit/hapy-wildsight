@@ -1,0 +1,98 @@
+{
+  "id": "chimonanthus-praecox",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蜡梅",
+    "scientificName": "Chimonanthus praecox",
+    "family": "蜡梅科",
+    "genus": "蜡梅属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶小乔木或灌木状；",
+    "stem": "鳞芽被短柔毛；",
+    "leaf": "叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微毛；",
+    "flower": "花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；",
+    "fruit": "果托坛状，近木质，高2-5厘米，径1-2.5厘米，口部缢缩；",
+    "habitat": "山地林中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微毛；",
+      "花：花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；"
+    ]
+  },
+  "knowledge": {
+    "summary": "蜡梅为落叶小乔木或灌木状；叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微毛；",
+      "花：花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微…；再以花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；交叉确认。"
+    ],
+    "appearance": "叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微…；花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；。",
+    "growthHabit": "落叶小乔木或灌木状；",
+    "keyCharacteristics": [
+      "叶：叶纸质，卵圆形、椭圆形、宽椭圆形或椭圆形，长5-29厘米，先端尖或渐尖，稀尾尖，下面脉疏被微毛；",
+      "花：花径2-4厘米，花被片15-21，黄色，无毛，内花被片较短，基部具爪；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-chimonanthus-praecox",
+      "title": "GBIF species record: Chimonanthus praecox",
+      "url": "https://api.gbif.org/v1/species/7275851",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-chimonanthus-praecox",
+      "title": "iPlant species page: Chimonanthus praecox",
+      "url": "https://www.iplant.cn/info/Chimonanthus%20praecox?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7275851"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

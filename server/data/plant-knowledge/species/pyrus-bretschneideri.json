@@ -1,0 +1,99 @@
+{
+  "id": "pyrus-bretschneideri",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白梨",
+    "scientificName": "Pyrus bretschneideri",
+    "family": "蔷薇科",
+    "genus": "梨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝幼时密被柔毛，不久脱落，老枝紫褐色，疏生皮孔；冬芽卵圆形。",
+    "leaf": "叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形，稀近圆，边缘有尖锐锯齿，齿尖有剌芒，微向内合拢，两面均有绒毛，不久脱落；托叶膜质，线形至线状披针形，疏被柔毛，早落。",
+    "flower": "花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米；和花序梗被绒毛；苞片膜质，早落。",
+    "fruit": "果卵球形或近球形，长2.5-3厘米，径2-2.5厘米，先端萼片脱落，果柄肥厚，黄色，有细密斑点，4-5室。",
+    "habitat": "适宜生长在干旱寒冷的地区或山坡阳处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形。",
+      "花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛，苞片膜质。",
+      "果卵球形或近球形，长2.5-3厘米，径2-2.5厘米，先端萼片脱落，果柄肥厚。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白梨是乔木。观察时重点看叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形，并结合花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛确认。",
+    "identificationReferences": [
+      "叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形。",
+      "花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形”。",
+      "补拍花或花序的整体与细节，核对“花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛”。"
+    ],
+    "appearance": "叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形。花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛。",
+    "growthHabit": "乔木。适宜生长在干旱寒冷的地区或山坡阳处。",
+    "keyCharacteristics": [
+      "叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形。",
+      "花7-10组成伞形总状花序，径4-7厘米，花梗长1.5-3厘米，和花序梗被绒毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或椭圆状卵形，长5-11厘米，先端渐尖，稀急尖，基部宽楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pyrus-bretschneideri",
+      "title": "GBIF species record: Pyrus bretschneideri",
+      "url": "https://api.gbif.org/v1/species/5363103",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pyrus-bretschneideri",
+      "title": "iPlant 植物智：白梨（Pyrus bretschneideri）",
+      "url": "https://www.iplant.cn/info/Pyrus%20bretschneideri?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5363103"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

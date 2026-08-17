@@ -1,0 +1,99 @@
+{
+  "id": "exochorda-racemosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白鹃梅",
+    "scientificName": "Exochorda racemosa",
+    "family": "蔷薇科",
+    "genus": "白鹃梅属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "小枝无毛；冬芽三角状卵圆形，无毛。",
+    "leaf": "叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形，全缘，稀中上部有钝齿，两面无毛；叶柄长0.5-1.5厘米，无毛或近无毛，无托叶。",
+    "flower": "花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形；花径2.5-3.5厘米；被丝托浅钟状，无毛；萼片宽三角形，长约2毫米，先端急尖或钝，有尖锐细锯齿，无毛；花瓣白色，倒卵形，长约1.5厘米，先端钝，基部缢缩成短爪；雄蕊15-20，3-4成束着生花盘边缘与花瓣对生；心皮5，花柱离生。",
+    "fruit": "蒴果倒圆锥形，有5脊，无毛；果柄长3-8毫米。",
+    "habitat": "山坡阴地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形。",
+      "花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米，被丝托浅钟状。",
+      "蒴果倒圆锥形，有5脊，无毛，果柄长3-8毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白鹃梅是灌木。观察时重点看叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形，并结合花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米确认。",
+    "identificationReferences": [
+      "叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形。",
+      "花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米”。"
+    ],
+    "appearance": "叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形。花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米。",
+    "growthHabit": "灌木。山坡阴地。",
+    "keyCharacteristics": [
+      "叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形。",
+      "花梗长3-8毫米，基部花梗较顶端花梗稍长，无毛：苞片宽披针形，花径2.5-3.5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶椭圆形、长椭圆形至长圆状倒卵形，长3.5-6.5厘米，先端圆钝或急尖，稀有突尖头，基部楔形或宽楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-exochorda-racemosa",
+      "title": "GBIF species record: Exochorda racemosa",
+      "url": "https://api.gbif.org/v1/species/3024256",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-exochorda-racemosa",
+      "title": "iPlant 植物智：白鹃梅（Exochorda racemosa）",
+      "url": "https://www.iplant.cn/info/Exochorda%20racemosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3024256"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

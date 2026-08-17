@@ -1,0 +1,98 @@
+{
+  "id": "ficus-pumila",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "薜荔",
+    "scientificName": "Ficus pumila",
+    "family": "桑科",
+    "genus": "榕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "攀援或匍匐灌木；",
+    "stem": "",
+    "leaf": "叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄很短：果枝上无不定根，叶革质，卵状椭圆形，…",
+    "flower": "",
+    "fruit": "瘦果近倒三角状球形，有粘液；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄很短：果枝上无不定根，叶革质，卵状椭圆形，…",
+      "果：瘦果近倒三角状球形，有粘液；"
+    ]
+  },
+  "knowledge": {
+    "summary": "薜荔为攀援或匍匐灌木；叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄…。观察时再结合叶、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄很短：果枝上无不定根，叶革质，卵状椭圆形，…",
+      "果：瘦果近倒三角状球形，有粘液；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果等可见结构。",
+      "先核对叶：两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄…；再以果瘦果近倒三角状球形，有粘液；交叉确认。"
+    ],
+    "appearance": "叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄…；果瘦果近倒三角状球形，有粘液；。",
+    "growthHabit": "攀援或匍匐灌木；",
+    "keyCharacteristics": [
+      "叶：叶两型，营养枝节上生不定根，叶薄革质，卵状心形，长约2.5厘米，先端渐尖，基部稍不对称，叶柄很短：果枝上无不定根，叶革质，卵状椭圆形，…",
+      "果：瘦果近倒三角状球形，有粘液；"
+    ],
+    "observationTips": [
+      "将叶、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ficus-pumila",
+      "title": "GBIF species record: Ficus pumila",
+      "url": "https://api.gbif.org/v1/species/5361930",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ficus-pumila",
+      "title": "iPlant species page: Ficus pumila",
+      "url": "https://www.iplant.cn/info/Ficus%20pumila?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5361930"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

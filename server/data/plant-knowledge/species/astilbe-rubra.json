@@ -1,0 +1,99 @@
+{
+  "id": "astilbe-rubra",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "腺萼落新妇",
+    "scientificName": "Astilbe rubra",
+    "family": "虎耳草科",
+    "genus": "落新妇属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎疏生褐色卷曲长腺毛。",
+    "leaf": "基生叶为三回三出复叶；叶轴长约62厘米，疏生褐色卷曲长腺毛；小叶片椭圆形、卵形至阔卵形，长2.3-5厘米，宽1.8-4.6厘米，先端急尖，边缘有重锯齿，基部心形至宽楔形，两面和边缘均具腺毛；茎生叶与基生叶相似，但较小。",
+    "flower": "花梗长0.5-2毫米，与托杯外面均被腺毛；萼片5，卵形，长1.5-2毫米，宽约1毫米，腹面无毛，背面和边缘具腺毛，单脉；花瓣5，粉红色至红色，线形，长4-5毫米，宽0.3-0.5毫米，单脉；雄蕊10，长约3毫米；雌蕊长约5.7毫米，心皮2，基部合生，子房半下位，花柱叉开。",
+    "fruit": "云南种子植物名录上册: 228. 1984。",
+    "habitat": "林缘。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米。",
+      "花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形，长1.5-2毫米。",
+      "云南种子植物名录上册: 228. 1984。"
+    ]
+  },
+  "knowledge": {
+    "summary": "腺萼落新妇是多年生草本。观察时重点看基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米，并结合花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形确认。",
+    "identificationReferences": [
+      "基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米。",
+      "花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形”。"
+    ],
+    "appearance": "基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米。花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形。",
+    "growthHabit": "多年生草本。林缘。",
+    "keyCharacteristics": [
+      "基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米。",
+      "花梗长0.5-2毫米，与托杯外面均被腺毛，萼片5，卵形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶为三回三出复叶，叶轴长约62厘米，疏生褐色卷曲长腺毛，小叶片椭圆形、卵形至阔卵形，长2.3-5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-astilbe-rubra",
+      "title": "GBIF species record: Astilbe rubra",
+      "url": "https://api.gbif.org/v1/species/7339513",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-astilbe-rubra",
+      "title": "iPlant 植物智：腺萼落新妇（Astilbe rubra）",
+      "url": "https://www.iplant.cn/info/Astilbe%20rubra?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7339513"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

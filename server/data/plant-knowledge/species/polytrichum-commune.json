@@ -1,0 +1,109 @@
+{
+  "id": "polytrichum-commune",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "金发藓",
+    "scientificName": "Polytrichum commune",
+    "family": "金发藓科",
+    "genus": "金发藓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "苔藓植物，植株中等至粗壮，形成疏松或较密的高丛。",
+    "stem": "茎通常长5-10厘米，直立至斜卧，多数不分枝。",
+    "leaf": "叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿。",
+    "flower": "",
+    "fruit": "以孢子繁殖。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿。",
+      "以孢子繁殖。",
+      "茎通常长5-10厘米，直立至斜卧，多数不分枝。"
+    ]
+  },
+  "knowledge": {
+    "summary": "金发藓是苔藓植物。观察时重点看叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿，并结合以孢子繁殖确认。",
+    "identificationReferences": [
+      "叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿。",
+      "以孢子繁殖。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿”。",
+      "补拍果实或孢子结构的整体与细节，核对“以孢子繁殖”。"
+    ],
+    "appearance": "叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿。以孢子繁殖。",
+    "growthHabit": "苔藓植物。",
+    "keyCharacteristics": [
+      "叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿。",
+      "以孢子繁殖。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长6-8毫米，干时直立或开展，湿时开展至明显反曲，叶片边缘具齿”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-polytrichum-commune",
+      "title": "GBIF species record: Polytrichum commune",
+      "url": "https://api.gbif.org/v1/species/2683084",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-polytrichum-commune",
+      "title": "iPlant 植物智：金发藓（Polytrichum commune）",
+      "url": "https://www.iplant.cn/info/Polytrichum%20commune?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-polytrichum-commune",
+      "title": "Flora of North America: Polytrichum commune",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200002665",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2683084"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

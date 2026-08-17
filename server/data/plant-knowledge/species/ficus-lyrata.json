@@ -1,0 +1,109 @@
+{
+  "id": "ficus-lyrata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大琴叶榕",
+    "scientificName": "Ficus lyrata",
+    "family": "桑科",
+    "genus": "榕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿大灌木或小乔木。",
+    "stem": "",
+    "leaf": "叶互生，单叶，心形，倒卵形，全缘，波状，革质。",
+    "flower": "",
+    "fruit": "果实为绿色，红色或酒红色，白色。",
+    "habitat": "喜高温多湿气候，对空气污染和尘埃的抵抗力较强。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，单叶，心形，倒卵形，全缘。",
+      "果实为绿色，红色或酒红色，白色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大琴叶榕是常绿大灌木或小乔木。观察时重点看叶互生，单叶，心形，倒卵形，全缘，并结合果实为绿色，红色或酒红色，白色确认。",
+    "identificationReferences": [
+      "叶互生，单叶，心形，倒卵形，全缘。",
+      "果实为绿色，红色或酒红色，白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，单叶，心形，倒卵形，全缘”。",
+      "补拍果实或孢子结构的整体与细节，核对“果实为绿色，红色或酒红色，白色”。"
+    ],
+    "appearance": "叶互生，单叶，心形，倒卵形，全缘。果实为绿色，红色或酒红色，白色。",
+    "growthHabit": "常绿大灌木或小乔木。喜高温多湿气候，对空气污染和尘埃的抵抗力较强。",
+    "keyCharacteristics": [
+      "叶互生，单叶，心形，倒卵形，全缘。",
+      "果实为绿色，红色或酒红色，白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，单叶，心形，倒卵形，全缘”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ficus-lyrata",
+      "title": "GBIF species record: Ficus lyrata",
+      "url": "https://api.gbif.org/v1/species/5361899",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ficus-lyrata",
+      "title": "iPlant 植物智：大琴叶榕（Ficus lyrata）",
+      "url": "https://www.iplant.cn/info/Ficus%20lyrata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-ficus-lyrata",
+      "title": "NC State Extension Plant Toolbox: Ficus lyrata",
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-lyrata/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5361899"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

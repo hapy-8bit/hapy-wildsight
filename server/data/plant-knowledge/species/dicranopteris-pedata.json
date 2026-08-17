@@ -1,0 +1,100 @@
+{
+  "id": "dicranopteris-pedata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "芒萁",
+    "scientificName": "Dicranopteris pedata",
+    "family": "里白科",
+    "genus": "芒萁属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蕨类。",
+    "stem": "根茎长而横走，密被暗锈色长毛。",
+    "leaf": "叶疏生；叶柄长24-56厘米，棕禾秆色，基部以上无毛；叶轴一至回2叉分枝，一回羽轴长约9厘米，被暗锈色毛，后渐光滑，二回羽轴长3-5厘米；腋芽卵形，被锈黄色毛，芽苞卵形，边缘具不规则裂片或粗齿牙，稀全缘；各回分叉处托叶状羽片平展，宽披针形，生于一回分叉处的羽片长9.5-16.5厘米，宽3.5-5.2厘米，生于二回分叉处的羽片长4.4-11.5厘米，宽1.6-3.6厘米；末回羽片长16-23.5厘米，宽4-5.5厘米，披针形或宽披针形，顶端尾状，基部上侧窄，篦齿状深裂几达羽轴；裂片平展，35-50对，线状披。",
+    "flower": "",
+    "fruit": "孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊。",
+    "habitat": "强酸性土的荒坡或林缘，在森林砍伐后或放荒后的坡地上常成优势的中草羣落。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝。",
+      "孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊。",
+      "根茎长而横走，密被暗锈色长毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "芒萁是蕨类。观察时重点看叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝，并结合孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊确认。",
+    "identificationReferences": [
+      "叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝。",
+      "孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊”。"
+    ],
+    "appearance": "叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝。孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊。",
+    "growthHabit": "蕨类。强酸性土的荒坡或林缘，在森林砍伐后或放荒后的坡地上常成优势的中草羣落。",
+    "keyCharacteristics": [
+      "叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝。",
+      "孢子囊群圆形，1列，着生基部上侧或上下两侧小脉弯弓处，具5-8个孢子囊。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶疏生，叶柄长24-56厘米，棕禾秆色，基部以上无毛，叶轴一至回2叉分枝”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dicranopteris-pedata",
+      "title": "GBIF species record: Dicranopteris pedata",
+      "url": "https://api.gbif.org/v1/species/5579308",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dicranopteris-pedata",
+      "title": "iPlant 植物智：芒萁（Dicranopteris pedata）",
+      "url": "https://www.iplant.cn/info/Dicranopteris%20pedata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5579308"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

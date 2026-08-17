@@ -1,0 +1,97 @@
+{
+  "id": "alcea-rosea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蜀葵",
+    "scientificName": "Alcea rosea",
+    "family": "锦葵科",
+    "genus": "蜀葵属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生直立草本。",
+    "stem": "茎枝密被星状毛和刚毛。",
+    "leaf": "叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛；叶柄长5-15厘米，被星状长硬毛；托叶卵形，长约8毫米，先端具3尖。",
+    "flower": "花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色；花期6-8月，蒴果，种子扁圆，肾形；喜阳光，耐半阴，忌涝。",
+    "fruit": "果盘状，直径约2厘米，被短柔毛，具纵槽。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛。",
+      "花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果，种子扁圆。",
+      "果盘状，直径约2厘米，被短柔毛，具纵槽。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蜀葵是二年生直立草本。观察时重点看叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛，并结合花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果确认。",
+    "identificationReferences": [
+      "叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛。",
+      "花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛”。",
+      "补拍花或花序的整体与细节，核对“花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果”。"
+    ],
+    "appearance": "叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛。花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果。",
+    "growthHabit": "二年生直立草本。",
+    "keyCharacteristics": [
+      "叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛。",
+      "花呈总状花序顶生单瓣或重瓣，有紫、粉、红、白等色，花期6-8月，蒴果。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近圆心形，直径6-16厘米，掌状5-7浅裂或波状棱角，上疏被星状柔毛、粗糙，下被星状长硬毛或绒毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-alcea-rosea",
+      "title": "GBIF species record: Alcea rosea",
+      "url": "https://api.gbif.org/v1/species/5406789",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-alcea-rosea",
+      "title": "iPlant 植物智：蜀葵（Alcea rosea）",
+      "url": "https://www.iplant.cn/info/Alcea%20rosea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5406789"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "celosia-argentea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "青葙",
+    "scientificName": "Celosia argentea",
+    "family": "苋科",
+    "genus": "青葙属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，有分枝，绿色或红色，具显明条纹。",
+    "leaf": "叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖，具小芒尖，基部渐窄；叶柄长0.2-1.5厘米，或无叶柄。",
+    "flower": "塔状或圆柱状穗状花序不分枝，长3-10厘米；苞片及小苞片披针形，白色，先端渐尖成细芒，具中脉；花被片长圆状披针形，长0.6-1厘米，花初为白色顶端带红色，或全部粉红色，后白色；花丝长2.5-3毫米，花药紫色；花柱紫色，长3-5毫米。",
+    "fruit": "胞果卵形，长3-3.5毫米，包在宿存花被片内。",
+    "habitat": "野生或栽培，生于平原、田边、丘陵、山坡，高达海拔1100米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖。",
+      "塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色，先端渐尖成细芒。",
+      "胞果卵形，长3-3.5毫米，包在宿存花被片内。"
+    ]
+  },
+  "knowledge": {
+    "summary": "青葙是一年生草本。观察时重点看叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖，并结合塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色确认。",
+    "identificationReferences": [
+      "叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖。",
+      "塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖”。",
+      "补拍花或花序的整体与细节，核对“塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色”。"
+    ],
+    "appearance": "叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖。塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色。",
+    "growthHabit": "一年生草本。野生或栽培，生于平原、田边、丘陵、山坡，高达海拔1100米。",
+    "keyCharacteristics": [
+      "叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖。",
+      "塔状或圆柱状穗状花序不分枝，长3-10厘米，苞片及小苞片披针形，白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长圆状披针形、披针形或披针状条形，长5-8厘米，宽1-3厘米，绿色常带红色，先端尖或渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-celosia-argentea",
+      "title": "GBIF species record: Celosia argentea",
+      "url": "https://api.gbif.org/v1/species/3085191",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-celosia-argentea",
+      "title": "iPlant 植物智：青葙（Celosia argentea）",
+      "url": "https://www.iplant.cn/info/Celosia%20argentea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3085191"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

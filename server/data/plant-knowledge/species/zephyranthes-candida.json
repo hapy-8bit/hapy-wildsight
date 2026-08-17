@@ -1,0 +1,99 @@
+{
+  "id": "zephyranthes-candida",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "葱莲",
+    "scientificName": "Zephyranthes candida",
+    "family": "石蒜科",
+    "genus": "葱莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "鳞茎卵形，径约2.5厘米，颈长2.5-5厘米。",
+    "leaf": "叶线形，肥厚，长20-30厘米，宽2-4毫米。",
+    "flower": "花梗长约1厘米；花白色，外面稍带淡红色，几无花被筒；花被片6，近离生或基部连合成极短的花被筒，长3-5厘米，宽约1厘米，近喉部常具小鳞片；雄蕊6，长约为花被1/2；花柱细长，柱头3凹缺。",
+    "fruit": "蒴果近球形，直径约1.2厘米，3瓣开裂。",
+    "habitat": "花茎中空；花单生于花茎顶端，下有带褐红色的佛焰苞状总苞，总苞片顶端2裂；花梗长约1厘米；花白色，外面常带淡红色；几无花被管，花被片6，长3-5厘米，顶端钝或具短尖头，宽约1厘米，近喉部常有很小的鳞片；雄蕊6，长约为花被的1/2；花柱细长，柱头不明显3裂。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶线形，肥厚，长20-30厘米，宽2-4毫米。",
+      "花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒，花被片6。",
+      "蒴果近球形，直径约1.2厘米，3瓣开裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "葱莲是多年生草本。观察时重点看叶线形，肥厚，长20-30厘米，宽2-4毫米，并结合花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒确认。",
+    "identificationReferences": [
+      "叶线形，肥厚，长20-30厘米，宽2-4毫米。",
+      "花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶线形，肥厚，长20-30厘米，宽2-4毫米”。",
+      "补拍花或花序的整体与细节，核对“花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒”。"
+    ],
+    "appearance": "叶线形，肥厚，长20-30厘米，宽2-4毫米。花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒。",
+    "growthHabit": "多年生草本。花茎中空，花单生于花茎顶端，下有带褐红色的佛焰苞状总苞。",
+    "keyCharacteristics": [
+      "叶线形，肥厚，长20-30厘米，宽2-4毫米。",
+      "花梗长约1厘米，花白色，外面稍带淡红色，几无花被筒。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶线形，肥厚，长20-30厘米，宽2-4毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zephyranthes-candida",
+      "title": "GBIF species record: Zephyranthes candida",
+      "url": "https://api.gbif.org/v1/species/2859976",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-zephyranthes-candida",
+      "title": "iPlant 植物智：葱莲（Zephyranthes candida）",
+      "url": "https://www.iplant.cn/info/Zephyranthes%20candida?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2859976"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "osmanthus-fragrans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "木犀",
+    "scientificName": "Osmanthus fragrans",
+    "family": "木犀科",
+    "genus": "木犀属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿乔木或灌木，",
+    "stem": "树皮灰褐色。",
+    "leaf": "叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖，基部渐狭呈楔形或宽楔形，全缘或通常上半部…",
+    "flower": "聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，无毛；花梗细弱，长4-10毫米，无毛；花极芳…",
+    "fruit": "果歪斜，椭圆形，长1-1.5厘米，呈紫黑色。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖，基部渐狭呈楔形或宽楔形，全缘或通常上半部…",
+      "花：聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，无毛；花梗细弱，长4-10毫米，无毛；花极芳…"
+    ]
+  },
+  "knowledge": {
+    "summary": "木犀为常绿乔木或灌木，；叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖，基部渐狭呈楔形或宽楔形，全缘或通常上半部…",
+      "花：聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，无毛；花梗细弱，长4-10毫米，无毛；花极芳…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖…；再以花聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，…交叉确认。"
+    ],
+    "appearance": "叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖…；花聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，…。",
+    "growthHabit": "常绿乔木或灌木，",
+    "keyCharacteristics": [
+      "叶：叶片革质，椭圆形、长椭圆形或椭圆状披针形，长7-14.5厘米，宽2.6-4.5厘米，先端渐尖，基部渐狭呈楔形或宽楔形，全缘或通常上半部…",
+      "花：聚伞花序簇生于叶腋，或近于帚状，每腋内有花多朵；苞片宽卵形，质厚，长2-4毫米，具小尖头，无毛；花梗细弱，长4-10毫米，无毛；花极芳…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-osmanthus-fragrans",
+      "title": "GBIF species record: Osmanthus fragrans",
+      "url": "https://api.gbif.org/v1/species/3172278",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-osmanthus-fragrans",
+      "title": "iPlant species page: Osmanthus fragrans",
+      "url": "https://www.iplant.cn/info/Osmanthus%20fragrans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172278"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

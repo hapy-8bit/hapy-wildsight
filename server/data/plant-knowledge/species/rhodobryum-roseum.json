@@ -1,0 +1,109 @@
+{
+  "id": "rhodobryum-roseum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大叶藓",
+    "scientificName": "Rhodobryum roseum",
+    "family": "真藓科",
+    "genus": "大叶藓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "苔藓植物，茎长1-3厘米，通常由近顶端细枝分枝。",
+    "stem": "茎长1-3厘米，通常由近顶端细枝分枝。",
+    "leaf": "茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖。",
+    "flower": "",
+    "fruit": "孢子直径16-20微米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖。",
+      "孢子直径16-20微米。",
+      "茎长1-3厘米，通常由近顶端细枝分枝。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大叶藓是苔藓植物。观察时重点看茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖，并结合孢子直径16-20微米确认。",
+    "identificationReferences": [
+      "茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖。",
+      "孢子直径16-20微米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢子直径16-20微米”。"
+    ],
+    "appearance": "茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖。孢子直径16-20微米。",
+    "growthHabit": "苔藓植物。",
+    "keyCharacteristics": [
+      "茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖。",
+      "孢子直径16-20微米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“茎叶较少，18-22枚聚成莲座状，叶缘反卷至叶片中部附近，先端急尖”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rhodobryum-roseum",
+      "title": "GBIF species record: Rhodobryum roseum",
+      "url": "https://api.gbif.org/v1/species/5282529",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rhodobryum-roseum",
+      "title": "iPlant 植物智：大叶藓（Rhodobryum roseum）",
+      "url": "https://www.iplant.cn/info/Rhodobryum%20roseum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-rhodobryum-roseum",
+      "title": "Flora of North America: Rhodobryum roseum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200001489",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5282529"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

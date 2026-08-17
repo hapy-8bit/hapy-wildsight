@@ -1,0 +1,104 @@
+{
+  "id": "dioscorea-polystachya",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "薯蓣",
+    "scientificName": "Dioscorea polystachya",
+    "family": "薯蓣科",
+    "genus": "薯蓣属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "缠绕草质藤本。",
+    "stem": "块茎长圆柱形，垂直生长，长达1米多，断面干后白色；茎右旋，有时带紫红色。",
+    "leaf": "叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米，宽2-7(-14)厘米，先端渐尖，基部深心形、宽心形或近平截，边缘常3浅裂至深裂，中裂片椭圆形或披针形，侧裂片长圆形或圆耳形；叶腋常有具疏刺状凸起的珠芽。",
+    "flower": "雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状；苞片和花被片有紫褐色斑点；雄花外轮花被片宽卵形，内轮卵形，较小；雄蕊6；雌花序为穗状花序，1-3序生于叶腋。",
+    "fruit": "蒴果不反折，三棱状扁圆形或三棱状圆形，长1.2-2厘米，径1.5-3厘米，有白粉；每室种子着生果轴中部。",
+    "habitat": "山坡、山谷林下，溪边、路旁的灌丛中或杂草中；为栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米。",
+      "雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状，苞片和花被片有紫褐色斑点。",
+      "蒴果不反折，三棱状扁圆形或三棱状圆形，长1.2-2厘米，径1.5-3厘米，有白粉。"
+    ]
+  },
+  "knowledge": {
+    "summary": "薯蓣是缠绕草质藤本。观察时重点看叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米，并结合雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状确认。",
+    "identificationReferences": [
+      "叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米。",
+      "雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米”。",
+      "补拍花或花序的整体与细节，核对“雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状”。"
+    ],
+    "appearance": "叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米。雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状。",
+    "growthHabit": "缠绕草质藤本。山坡、山谷林下，溪边、路旁的灌丛中或杂草中，为栽培。",
+    "keyCharacteristics": [
+      "叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米。",
+      "雄花序为穗状花序，2-8序生于叶腋，稀呈圆锥状，花序轴呈“之”字状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶在茎下部互生，在中上部有时对生，稀3叶轮生，卵状三角形、宽卵形或戟形，长3-9(-13)厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dioscorea-polystachya",
+      "title": "GBIF species record: Dioscorea polystachya",
+      "url": "https://api.gbif.org/v1/species/2754732",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dioscorea-polystachya",
+      "title": "iPlant 植物智：薯蓣（Dioscorea polystachya）",
+      "url": "https://www.iplant.cn/info/Dioscorea%20polystachya?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2754732"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

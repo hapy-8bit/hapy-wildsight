@@ -1,0 +1,98 @@
+{
+  "id": "iris-tectorum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸢尾",
+    "scientificName": "Iris tectorum",
+    "family": "鸢尾科",
+    "genus": "鸢尾属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本植物。",
+    "stem": "根状茎粗壮，二歧分枝，径约1厘米；",
+    "leaf": "叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米",
+    "flower": "花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，包1-2花；花蓝紫色，径约10厘米：花被筒…",
+    "fruit": "蒴果长椭圆形或倒卵圆形，长5-6厘米",
+    "habitat": "向阳坡地、林缘及水边湿地",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米",
+      "花：花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，包1-2花；花蓝紫色，径约10厘米：花被筒…"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸢尾为草本植物；叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米",
+      "花：花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，包1-2花；花蓝紫色，径约10厘米：花被筒…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米；再以花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，…交叉确认。"
+    ],
+    "appearance": "叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米；花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，…。",
+    "growthHabit": "草本植物。",
+    "keyCharacteristics": [
+      "叶：叶基生，黄绿色，宽剑形，无明显中脉，长15-50厘米，宽1.5-3.5厘米",
+      "花：花茎高20-40厘米，顶部常有1-2侧枝；苞片2-3，绿色，草质，披针形，长5-7.5厘米，包1-2花；花蓝紫色，径约10厘米：花被筒…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-iris-tectorum",
+      "title": "GBIF species record: Iris tectorum",
+      "url": "https://api.gbif.org/v1/species/5298774",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-iris-tectorum",
+      "title": "iPlant species page: Iris tectorum",
+      "url": "https://www.iplant.cn/info/Iris%20tectorum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5298774"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

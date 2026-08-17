@@ -1,0 +1,100 @@
+{
+  "id": "matteuccia-struthiopteris",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "荚果蕨",
+    "scientificName": "Matteuccia struthiopteris",
+    "family": "球子蕨科",
+    "genus": "荚果蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高0.7-1.1米。",
+    "stem": "根茎短而直立，木质，坚硬，深褐色，与叶柄基部密被披针形鳞片。",
+    "leaf": "叶簇生，二型；不育叶叶柄褐棕色，长6-10厘米，上面有纵沟，基部三角形，具龙骨状突起，密被鳞片；叶片椭圆状披针形或倒披针形，长0.5-1米，中部宽17-25厘米，向基部渐窄，二回深羽裂；羽片40-60对，下部的小耳形，中部羽片披针形或线状披针形，长10-15厘米，宽1-1.5厘米，无柄，羽状深裂，裂片20-25对，篦齿状排列，椭圆形或近长方形，中部以下的长5-8厘米，圆头或钝头，近全缘或具波状圆齿，反卷，叶脉明显，在裂片上羽状，小脉单一，叶干后绿或棕绿色，草质，无毛。",
+    "flower": "能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形，长20-40厘米，中部以上宽4-8厘米，一回羽状，羽片线形，两侧强度反卷成荚果状，呈念珠形，深褐色，包裹孢子囊群，小脉先端形成囊托，位于羽轴与叶边之间，孢子囊群圆形，成熟时连接而成为线形，囊群盖膜质。",
+    "fruit": "能育叶柄长12-20厘米，叶片倒披针形，长20-40厘米，中部以上宽4-8厘米，一回羽状，羽片线形，两侧反卷成念珠状，深褐色，包被孢子囊群；孢子囊群圆形，着生叶脉先端囊托，成熟时连成线形，囊群盖膜质。",
+    "habitat": "生山谷林下或河岸湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟。",
+      "能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形，长20-40厘米。",
+      "能育叶柄长12-20厘米，叶片倒披针形，长20-40厘米，中部以上宽4-8厘米，一回羽状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "荚果蕨的生长形态为植株高0.7-1.1米。观察时重点看叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟，并结合能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形确认。",
+    "identificationReferences": [
+      "叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟。",
+      "能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟”。",
+      "补拍花或花序的整体与细节，核对“能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形”。"
+    ],
+    "appearance": "叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟。能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形。",
+    "growthHabit": "植株高0.7-1.1米。生山谷林下或河岸湿地。",
+    "keyCharacteristics": [
+      "叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟。",
+      "能育叶较不育叶短，有粗壮的长柄（长12-20厘米，下部粗5-12毫米），叶片倒披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，二型，不育叶叶柄褐棕色，长6-10厘米，上面有纵沟”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-matteuccia-struthiopteris",
+      "title": "GBIF species record: Matteuccia struthiopteris",
+      "url": "https://api.gbif.org/v1/species/2650999",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-matteuccia-struthiopteris",
+      "title": "iPlant 植物智：荚果蕨（Matteuccia struthiopteris）",
+      "url": "https://www.iplant.cn/info/Matteuccia%20struthiopteris?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650999"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

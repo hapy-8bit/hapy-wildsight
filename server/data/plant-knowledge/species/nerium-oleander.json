@@ -1,0 +1,101 @@
+{
+  "id": "nerium-oleander",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "夹竹桃",
+    "scientificName": "Nerium oleander",
+    "family": "夹竹桃科",
+    "genus": "夹竹桃属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿直立大灌木。",
+    "stem": "枝条灰绿色，含水液；嫩枝条具稜，被微毛，老时毛脱落。",
+    "leaf": "叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米，宽1-3.5厘米，先端渐尖或尖，基部楔形或下延，侧脉达120对，平行；叶柄长5-8毫米。",
+    "flower": "聚伞花序组成伞房状顶生；花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米；花冠漏斗状，裂片向右覆盖，紫红、粉红、橙红、黄或白色，单瓣或重瓣，花冠筒长1.2-2.2厘米，喉部宽大；副花冠裂片5，花瓣状，流苏状撕裂；雄蕊着生花冠筒顶部，花药箭头状，附着柱头，基部耳状，药隔丝状，被长柔毛；无花盘；心皮2，离生。",
+    "fruit": "蓇葖果2，离生，圆柱形，长12-23厘米，径0.6-1厘米。",
+    "habitat": "全国各省区有栽培，尤以南方为多，常在公园、风景区、道路旁或河旁、湖旁周围栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米。",
+      "聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米，花冠漏斗状。",
+      "蓇葖果2，离生，圆柱形，长12-23厘米，径0.6-1厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "夹竹桃是常绿直立大灌木。观察时重点看叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米，并结合聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米确认。",
+    "identificationReferences": [
+      "叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米。",
+      "聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米”。"
+    ],
+    "appearance": "叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米。聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米。",
+    "growthHabit": "常绿直立大灌木。全国各省区有栽培，尤以南方为多，常在公园、风景区、道路旁或河旁、湖旁周围栽培。",
+    "keyCharacteristics": [
+      "叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米。",
+      "聚伞花序组成伞房状顶生，花芳香，花萼裂片窄三角形或窄卵形，长0.3-1厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶3片轮生，稀对生，革质，窄椭圆状披针形，长5-21厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nerium-oleander",
+      "title": "GBIF species record: Nerium oleander",
+      "url": "https://api.gbif.org/v1/species/3169756",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-nerium-oleander",
+      "title": "iPlant 植物智：夹竹桃（Nerium oleander）",
+      "url": "https://www.iplant.cn/info/Nerium%20oleander?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3169756"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

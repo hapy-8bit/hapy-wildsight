@@ -1,0 +1,97 @@
+{
+  "id": "mirabilis-jalapa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫茉莉",
+    "scientificName": "Mirabilis jalapa",
+    "family": "紫茉莉科",
+    "genus": "紫茉莉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎多分枝，节稍肿大。",
+    "leaf": "叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘。",
+    "flower": "花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色，花被筒高脚碟状，檐部5浅裂，午后开放，有香气，次日午前凋萎；雄蕊5。",
+    "fruit": "瘦果球形，黑色，革质，具皱纹。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘。",
+      "花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色，花被筒高脚碟状。",
+      "瘦果球形，黑色，革质，具皱纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫茉莉是一年生草本。观察时重点看叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘，并结合花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色确认。",
+    "identificationReferences": [
+      "叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘。",
+      "花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘”。",
+      "补拍花或花序的整体与细节，核对“花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色”。"
+    ],
+    "appearance": "叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘。花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘。",
+      "花常数朵簇生枝顶，总苞钟形，5裂，花被紫红、黄或杂色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或卵状三角形，先端渐尖，基部平截或心形，全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-mirabilis-jalapa",
+      "title": "GBIF species record: Mirabilis jalapa",
+      "url": "https://api.gbif.org/v1/species/3086240",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-mirabilis-jalapa",
+      "title": "iPlant 植物智：紫茉莉（Mirabilis jalapa）",
+      "url": "https://www.iplant.cn/info/Mirabilis%20jalapa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3086240"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

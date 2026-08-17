@@ -1,0 +1,97 @@
+{
+  "id": "catalpa-bungei",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "楸",
+    "scientificName": "Catalpa bungei",
+    "family": "紫葳科",
+    "genus": "梓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木。",
+    "stem": "",
+    "leaf": "叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形，有时基部具1-2齿，下面无毛；叶柄长2-8厘米。",
+    "flower": "顶生伞房状总状花序，有2-12花；花萼蕾时球形，2唇裂，顶端有2尖齿；花冠淡红色，内面有2黄色条纹及暗紫色斑点，长3-3.5厘米。",
+    "fruit": "蒴果线形，长25-45厘米，径约6毫米；种子窄长椭圆形，长约1厘米，宽约2毫米，两端有长毛。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形。",
+      "顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂，顶端有2尖齿。",
+      "蒴果线形，长25-45厘米，径约6毫米，种子窄长椭圆形，长约1厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "楸是小乔木。观察时重点看叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形，并结合顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂确认。",
+    "identificationReferences": [
+      "叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形。",
+      "顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形”。",
+      "补拍花或花序的整体与细节，核对“顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂”。"
+    ],
+    "appearance": "叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形。顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂。",
+    "growthHabit": "小乔木。",
+    "keyCharacteristics": [
+      "叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形。",
+      "顶生伞房状总状花序，有2-12花，花萼蕾时球形，2唇裂。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶三角状卵形、卵形或卵状长圆形，长6-15厘米，宽达8厘米，先端长渐尖，基部平截或心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-catalpa-bungei",
+      "title": "GBIF species record: Catalpa bungei",
+      "url": "https://api.gbif.org/v1/species/4094315",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-catalpa-bungei",
+      "title": "iPlant 植物智：楸（Catalpa bungei）",
+      "url": "https://www.iplant.cn/info/Catalpa%20bungei?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4094315"
+  },
+  "contentVersion": 7,
+  "reviewStatus": "reviewed"
+}

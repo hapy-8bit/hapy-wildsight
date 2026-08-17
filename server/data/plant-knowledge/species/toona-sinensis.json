@@ -1,0 +1,99 @@
+{
+  "id": "toona-sinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "香椿",
+    "scientificName": "Toona sinensis",
+    "family": "楝科",
+    "genus": "香椿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮浅纵裂，片状剥落。",
+    "leaf": "偶数羽状复叶，长30-50厘米；小叶16-20，卵状披针形或卵状长圆形，长9-15厘米，宽2.5-4厘米，先端尾尖，基部一侧圆，一侧楔形，全缘或疏生细齿，两面无毛，下面常粉绿色，侧脉18-24对；小叶柄长0.5-1厘米。",
+    "flower": "聚伞圆锥花序疏被锈色柔毛或近无毛；花萼5齿裂或浅波状，被柔毛；花瓣5，白色，长圆形，长4-5毫米；雄蕊10，5枚能育，5枚退化；花盘无毛，近念珠状。",
+    "fruit": "蒴果窄椭圆形，长2-3.5厘米，深褐色，具苍白色小皮孔。",
+    "habitat": "山坡或溪旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米。",
+      "聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5，白色。",
+      "蒴果窄椭圆形，长2-3.5厘米，深褐色，具苍白色小皮孔。"
+    ]
+  },
+  "knowledge": {
+    "summary": "香椿是落叶乔木。观察时重点看偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米，并结合聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5确认。",
+    "identificationReferences": [
+      "偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米。",
+      "聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米”。",
+      "补拍花或花序的整体与细节，核对“聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5”。"
+    ],
+    "appearance": "偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米。聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5。",
+    "growthHabit": "落叶乔木。山坡或溪旁。",
+    "keyCharacteristics": [
+      "偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米。",
+      "聚伞圆锥花序疏被锈色柔毛或近无毛，花萼5齿裂或浅波状，被柔毛，花瓣5。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“偶数羽状复叶，长30-50厘米，小叶16-20，卵状披针形或卵状长圆形，长9-15厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-toona-sinensis",
+      "title": "GBIF species record: Toona sinensis",
+      "url": "https://api.gbif.org/v1/species/7271504",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-toona-sinensis",
+      "title": "iPlant 植物智：香椿（Toona sinensis）",
+      "url": "https://www.iplant.cn/info/Toona%20sinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7271504"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

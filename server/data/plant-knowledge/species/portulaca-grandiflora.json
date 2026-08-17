@@ -1,0 +1,97 @@
+{
+  "id": "portulaca-grandiflora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大花马齿苋",
+    "scientificName": "Portulaca grandiflora",
+    "family": "马齿苋科",
+    "genus": "马齿苋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎平卧或斜升，紫红色，多分枝，节有簇生毛。",
+    "leaf": "叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米，径2-3毫米，先端钝圆，无毛；叶柄极短或近无柄，叶腋常簇生白色长柔毛。",
+    "flower": "花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭；叶状总苞8-9片，轮生，被白色长柔毛；萼片2，淡黄绿色，卵状三角形，长5-7毫米，稍具龙骨状凸起，无毛；花瓣5或重瓣，倒卵形，先端微凹，长1.2-3厘米，红、紫、黄或白色；雄蕊多数，长5-8毫米，花丝紫色，基部连合；花柱长5-8毫米，柱头5-9，线形。",
+    "fruit": "蒴果近椭圆形，盖裂。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米。",
+      "花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片，轮生。",
+      "蒴果近椭圆形，盖裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大花马齿苋是一年生草本。观察时重点看叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米，并结合花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片确认。",
+    "identificationReferences": [
+      "叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米。",
+      "花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米”。",
+      "补拍花或花序的整体与细节，核对“花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片”。"
+    ],
+    "appearance": "叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米。花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米。",
+      "花单生或数朵簇生枝顶，径2.5-4厘米，日开夜闭，叶状总苞8-9片。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶密集枝顶，较下不规则互生，叶细圆柱形，有时微弯，长1-2.5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-portulaca-grandiflora",
+      "title": "GBIF species record: Portulaca grandiflora",
+      "url": "https://api.gbif.org/v1/species/3084700",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-portulaca-grandiflora",
+      "title": "iPlant 植物智：大花马齿苋（Portulaca grandiflora）",
+      "url": "https://www.iplant.cn/info/Portulaca%20grandiflora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3084700"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

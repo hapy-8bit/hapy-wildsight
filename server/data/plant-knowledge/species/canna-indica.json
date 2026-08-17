@@ -1,0 +1,98 @@
+{
+  "id": "canna-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "美人蕉",
+    "scientificName": "Canna indica",
+    "family": "美人蕉科",
+    "genus": "美人蕉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株全绿色；",
+    "stem": "高达1.5米；",
+    "leaf": "叶卵状长圆形，长10-30厘米，宽10厘米；",
+    "flower": "总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形，长约1厘米，绿色，有时染红；花冠管长不及1…",
+    "fruit": "蒴果绿色，长卵形，有软刺，长1.2-1.8厘米；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵状长圆形，长10-30厘米，宽10厘米；",
+      "花：总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形，长约1厘米，绿色，有时染红；花冠管长不及1…"
+    ]
+  },
+  "knowledge": {
+    "summary": "美人蕉为植株全绿色；叶卵状长圆形，长10-30厘米，宽10厘米；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵状长圆形，长10-30厘米，宽10厘米；",
+      "花：总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形，长约1厘米，绿色，有时染红；花冠管长不及1…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵状长圆形，长10-30厘米，宽10厘米；；再以花总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形…交叉确认。"
+    ],
+    "appearance": "叶卵状长圆形，长10-30厘米，宽10厘米；；花总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形…。",
+    "growthHabit": "植株全绿色；",
+    "keyCharacteristics": [
+      "叶：叶卵状长圆形，长10-30厘米，宽10厘米；",
+      "花：总状花序疏花，略超出叶片之上；花红色，单生；苞片卵形，绿色，长约1.2厘米；萼片3，披针形，长约1厘米，绿色，有时染红；花冠管长不及1…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-canna-indica",
+      "title": "GBIF species record: Canna indica",
+      "url": "https://api.gbif.org/v1/species/8034409",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-canna-indica",
+      "title": "iPlant species page: Canna indica",
+      "url": "https://www.iplant.cn/info/Canna%20indica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8034409"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

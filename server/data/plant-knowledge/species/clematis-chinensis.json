@@ -1,0 +1,102 @@
+{
+  "id": "clematis-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "威灵仙",
+    "scientificName": "Clematis chinensis",
+    "family": "毛茛科",
+    "genus": "铁线莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "木质藤本，干后变黑。",
+    "stem": "枝无毛或疏被柔毛。",
+    "leaf": "羽状复叶具5小叶；小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄，基部圆、宽楔形或浅心形，全缘，上面脉疏被毛，下面无毛或脉疏被毛；叶柄长1.8-7.5厘米。",
+    "flower": "花梗长1.4-3厘米；萼片4，白色，平展，倒卵状长圆形，长0.6-1.3厘米，顶部疏被柔毛，边缘被绒毛；雄蕊无毛，花药窄长圆形或条形，长2-3.5毫米。",
+    "fruit": "瘦果椭圆形，长5-7毫米，被柔毛；宿存花柱长1.8-4厘米，羽毛状。",
+    "habitat": "山坡、山谷灌丛中或沟边、路旁草丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄。",
+      "花梗长1.4-3厘米，萼片4，白色，平展，倒卵状长圆形。",
+      "瘦果椭圆形，长5-7毫米，被柔毛，宿存花柱长1.8-4厘米，羽毛状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "威灵仙是木质藤本。观察时重点看羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄，并结合花梗长1.4-3厘米，萼片4，白色，平展确认。",
+    "identificationReferences": [
+      "羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄。",
+      "花梗长1.4-3厘米，萼片4，白色，平展。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄”。",
+      "补拍花或花序的整体与细节，核对“花梗长1.4-3厘米，萼片4，白色，平展”。"
+    ],
+    "appearance": "羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄。花梗长1.4-3厘米，萼片4，白色，平展。",
+    "growthHabit": "木质藤本。山坡、山谷灌丛中或沟边、路旁草丛中。",
+    "keyCharacteristics": [
+      "羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄。",
+      "花梗长1.4-3厘米，萼片4，白色，平展。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶具5小叶，小叶纸质，卵形、窄卵形或披针形，长1.5-9.5厘米，先端渐尖或渐窄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-clematis-chinensis",
+      "title": "GBIF species record: Clematis chinensis",
+      "url": "https://api.gbif.org/v1/species/7474713",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-clematis-chinensis",
+      "title": "iPlant 植物智：威灵仙（Clematis chinensis）",
+      "url": "https://www.iplant.cn/info/Clematis%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7474713"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

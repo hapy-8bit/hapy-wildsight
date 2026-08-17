@@ -1,0 +1,27 @@
+{
+  "name": "wildsight-identification-backend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test",
+    "build:knowledge-index": "node scripts/build-plant-knowledge-index.js",
+    "check:knowledge-index": "node scripts/build-plant-knowledge-index.js --check",
+    "check:knowledge-candidates": "node scripts/check-plant-candidates.js",
+    "report:knowledge-candidates": "node scripts/report-plant-candidates.js",
+    "audit:knowledge-500": "node scripts/audit-knowledge-500.js",
+    "validate:knowledge": "node scripts/validate-plant-knowledge.js",
+    "report:knowledge": "node scripts/report-plant-knowledge.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^2.2.0",
+    "sharp": "^0.35.3"
+  }
+}

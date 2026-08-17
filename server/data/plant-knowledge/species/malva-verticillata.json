@@ -1,0 +1,99 @@
+{
+  "id": "malva-verticillata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "野葵",
+    "scientificName": "Malva verticillata",
+    "family": "锦葵科",
+    "genus": "锦葵属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生草本。",
+    "stem": "茎被星状长柔毛。",
+    "leaf": "叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头，具钝齿，两面疏被糙伏毛或近无毛；叶柄长2-8厘米，上面槽内被绒毛，托叶卵状披针形。",
+    "flower": "花梗近无或极短；小苞片3，线状披针形，长5-6毫米，被纤毛；花萼杯状，径5-8毫米，5裂，裂片宽三角形，疏被星状毛；花冠白或淡红色，长稍超过萼片；花瓣5，长6-8毫米，先端微凹，爪无毛或具少数细毛；雄蕊柱长约4毫米，被毛；花柱分枝10-11。",
+    "fruit": "分果扁球形，径5-7毫米；分果10-11，背面无毛，两侧具网纹。",
+    "habitat": "花3-多朵簇生于叶腋，具极短柄至近无柄；小苞片3，线状披针形，长5-6毫米，被纤毛；萼杯状，直径5-8毫米，萼裂5，广三角形，疏被星状长硬毛；花冠长稍微超过萼片，淡白色至淡红色，花瓣5，长6-8毫米，先端凹入，爪无毛或具少数细毛；雄蕊柱长约4毫米，被毛；花柱分枝10-11。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头。",
+      "花梗近无或极短，小苞片3，线状披针形，长5-6毫米，被纤毛。",
+      "分果扁球形，径5-7毫米，分果10-11，背面无毛，两侧具网纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "野葵是二年生草本。观察时重点看叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头，并结合花梗近无或极短，小苞片3，线状披针形，长5-6毫米确认。",
+    "identificationReferences": [
+      "叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头。",
+      "花梗近无或极短，小苞片3，线状披针形，长5-6毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头”。",
+      "补拍花或花序的整体与细节，核对“花梗近无或极短，小苞片3，线状披针形，长5-6毫米”。"
+    ],
+    "appearance": "叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头。花梗近无或极短，小苞片3，线状披针形，长5-6毫米。",
+    "growthHabit": "二年生草本。花3-多朵簇生于叶腋，具极短柄至近无柄，小苞片3。",
+    "keyCharacteristics": [
+      "叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头。",
+      "花梗近无或极短，小苞片3，线状披针形，长5-6毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶圆肾形或圆形，径5-11厘米，通常掌状5-7裂，裂片三角形，具钝尖头”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-malva-verticillata",
+      "title": "GBIF species record: Malva verticillata",
+      "url": "https://api.gbif.org/v1/species/3152377",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-malva-verticillata",
+      "title": "iPlant 植物智：野葵（Malva verticillata）",
+      "url": "https://www.iplant.cn/info/Malva%20verticillata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152377"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

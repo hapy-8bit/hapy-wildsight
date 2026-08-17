@@ -1,0 +1,97 @@
+{
+  "id": "malus-spectabilis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "海棠花",
+    "scientificName": "Malus spectabilis",
+    "family": "蔷薇科",
+    "genus": "苹果属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝粗，幼时被短柔毛，渐脱落；冬芽微被柔毛。",
+    "leaf": "叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落，老叶无毛；叶柄长1.5-2厘米，具短柔毛，托叶膜质，窄披针形，早落。",
+    "flower": "花梗长2-3厘米，具柔毛；苞片膜质，披针形，早落；花径4-5厘米；被丝托外面无毛或有白色绒毛，萼片三角状卵形，外面无毛或偶有稀疏绒毛，内面密被白色绒毛，比被丝托稍短；花瓣白色，在蕾中呈粉红色；雄蕊20-25；花柱(4)5，基部有白色绒毛。",
+    "fruit": "果近球形，径2厘米，黄色，有宿存萼片，基部不下陷，柄洼隆起；果柄细长，近顶端肥厚，长3-4厘米。",
+    "habitat": "平原或山地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落。",
+      "花梗长2-3厘米，具柔毛，苞片膜质，披针形，早落。",
+      "果近球形，径2厘米，黄色，有宿存萼片，基部不下陷。"
+    ]
+  },
+  "knowledge": {
+    "summary": "海棠花是乔木。观察时重点看叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落，并结合花梗长2-3厘米，具柔毛，苞片膜质，披针形确认。",
+    "identificationReferences": [
+      "叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落。",
+      "花梗长2-3厘米，具柔毛，苞片膜质，披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落”。",
+      "补拍花或花序的整体与细节，核对“花梗长2-3厘米，具柔毛，苞片膜质，披针形”。"
+    ],
+    "appearance": "叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落。花梗长2-3厘米，具柔毛，苞片膜质，披针形。",
+    "growthHabit": "乔木。平原或山地。",
+    "keyCharacteristics": [
+      "叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落。",
+      "花梗长2-3厘米，具柔毛，苞片膜质，披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶椭圆形至长椭圆形，长5-8厘米，边缘有紧贴细锯齿，幼时两面有稀疏短柔毛，后脱落”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-malus-spectabilis",
+      "title": "GBIF species record: Malus spectabilis",
+      "url": "https://api.gbif.org/v1/species/3001108",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-malus-spectabilis",
+      "title": "iPlant 植物智：海棠花（Malus spectabilis）",
+      "url": "https://www.iplant.cn/info/Malus%20spectabilis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3001108"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "beta-vulgaris",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "甜菜",
+    "scientificName": "Beta vulgaris",
+    "family": "苋科",
+    "genus": "甜菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生草本，根圆锥状至纺锤状，多汁。",
+    "stem": "茎直立，多少有分枝，具条棱及色条。",
+    "leaf": "基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平，略有光泽，下面有粗壮凸出的叶脉，全缘或略呈波状，先端钝，基部楔形、截形或略呈心形；叶柄粗壮，下面凸，上面平或具槽；茎生叶互生，较小，卵形或披针状矩圆形，先端渐尖，基部渐狭入短柄。",
+    "flower": "花2-3朵团集，果时花被基底部彼此合生；花被裂片条形或狭矩圆形，果时变为革质并向内拱曲。",
+    "fruit": "胞果下部陷在硬化的花被内，上部稍肉质。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平。",
+      "花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲。",
+      "胞果下部陷在硬化的花被内，上部稍肉质。"
+    ]
+  },
+  "knowledge": {
+    "summary": "甜菜是二年生草本。观察时重点看基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平，并结合花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲确认。",
+    "identificationReferences": [
+      "基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平。",
+      "花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平”。",
+      "补拍花或花序的整体与细节，核对“花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲”。"
+    ],
+    "appearance": "基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平。花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲。",
+    "growthHabit": "二年生草本。",
+    "keyCharacteristics": [
+      "基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平。",
+      "花2-3朵团集，果时花被基底部彼此合生，花被裂片条形或狭矩圆形，果时变为革质并向内拱曲。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶矩圆形，长20-30厘米，宽10-15厘米，具长叶柄，上面皱缩不平”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-beta-vulgaris",
+      "title": "GBIF species record: Beta vulgaris",
+      "url": "https://api.gbif.org/v1/species/8971274",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-beta-vulgaris",
+      "title": "iPlant 植物智：甜菜（Beta vulgaris）",
+      "url": "https://www.iplant.cn/info/Beta%20vulgaris?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8971274"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

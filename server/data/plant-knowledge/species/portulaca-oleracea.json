@@ -1,0 +1,99 @@
+{
+  "id": "portulaca-oleracea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马齿苋",
+    "scientificName": "Portulaca oleracea",
+    "family": "马齿苋科",
+    "genus": "马齿苋属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎肉质，常平卧或斜升，分枝多。",
+    "leaf": "叶肉质，常倒卵形至匙形。",
+    "flower": "花小，常在枝端簇生。",
+    "fruit": "蒴果。",
+    "habitat": "常见于路旁、荒地、菜园和农田边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "肉质的平卧或斜升茎。",
+      "肉质叶片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马齿苋可从肉质、常贴地分枝的茎和肥厚叶片观察。",
+    "identificationReferences": [
+      "茎和叶通常肉质。",
+      "植株常平卧或斜升并多分枝。"
+    ],
+    "howToConfirm": [
+      "拍摄茎、叶和枝端小花。",
+      "观察叶片是否肥厚且成对或近对着生。"
+    ],
+    "appearance": "植株多分枝，茎叶肉质。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "肉质茎叶。",
+      "常平卧或斜升的分枝。"
+    ],
+    "observationTips": [
+      "干湿环境会影响植株大小。",
+      "不要以茎色作为唯一特征。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-portulaca-oleracea",
+      "title": "GBIF Species Match: Portulaca oleracea L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Portulaca%20oleracea",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-portulaca-oleracea",
+      "title": "Flora of China search: Portulaca oleracea",
+      "url": "https://www.efloras.org/search.aspx?query=Portulaca%20oleracea",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "3084719"
+  }
+}

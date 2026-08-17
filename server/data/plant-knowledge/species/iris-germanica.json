@@ -1,0 +1,97 @@
+{
+  "id": "iris-germanica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "德国鸢尾",
+    "scientificName": "Iris germanica",
+    "family": "鸢尾科",
+    "genus": "鸢尾属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根状茎粗壮，扁圆形，有环纹。",
+    "leaf": "叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉，长20-50厘米，宽2-4厘米。",
+    "flower": "花茎高0.6-1米，上部有1-3侧枝；苞片草质，绿色，边缘膜质，有时稍带红紫色，包1-2花；花鲜艳，径可达12厘米；花色因栽培品种而异，多淡紫、蓝紫、黄或白色；外花被裂片椭圆形或倒卵形，长6-7.5厘米，中脉有须毛状附属物，内花被裂片倒卵形或圆形，长、宽均5厘米，先端内曲；雄蕊花药乳白色，长2.5-2.8厘米；花柱分枝扁平，淡蓝、蓝紫或白色，长约5厘米，宽约1.8厘米，顶端裂片宽三角形或半圆形，子房纺锤形。",
+    "fruit": "蒴果三棱状圆柱形，长4-5厘米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉。",
+      "花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色，边缘膜质。",
+      "蒴果三棱状圆柱形，长4-5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "德国鸢尾是多年生草本。观察时重点看叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉，并结合花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色确认。",
+    "identificationReferences": [
+      "叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉。",
+      "花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉”。",
+      "补拍花或花序的整体与细节，核对“花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色”。"
+    ],
+    "appearance": "叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉。花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉。",
+      "花茎高0.6-1米，上部有1-3侧枝，苞片草质，绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶绿色、灰绿色，常具白粉，剑形，稍弯，无中脉”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-iris-germanica",
+      "title": "GBIF species record: Iris germanica",
+      "url": "https://api.gbif.org/v1/species/5298069",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-iris-germanica",
+      "title": "iPlant 植物智：德国鸢尾（Iris germanica）",
+      "url": "https://www.iplant.cn/info/Iris%20germanica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5298069"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

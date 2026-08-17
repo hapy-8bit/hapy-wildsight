@@ -1,0 +1,102 @@
+{
+  "id": "diplazium-esculentum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菜蕨",
+    "scientificName": "Diplazium esculentum",
+    "family": "蹄盖蕨科",
+    "genus": "双盖蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "根状茎直立。",
+    "stem": "根状茎直立，高达15厘米，密被鳞片；鳞片狭披针形，长约1厘米，宽约1毫米，褐色，边缘有细齿。",
+    "leaf": "能育叶长60-120厘米；叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片，向上光滑；叶片三角形或阔披针形，长60-80厘米或更长，宽30-60厘米，顶部羽裂渐尖，下部一回或二回羽状；羽片12-16对，互生，斜展，下部的有柄，阔披针形，长16-20厘米，宽6-9厘米，羽状分裂或一回羽状，上部的近无柄，线状披针形，长6-10厘米，宽1-2厘米，先端渐尖，基部截形，边缘有齿或浅羽裂（裂片有小齿）；小羽片8-10对，互生，相距1-1.5厘米，平展，近无柄，狭狭披针形，长4-6厘米，阔6-10毫米。",
+    "flower": "孢子囊群多数，线形，稍弯曲，几生于全部小脉上，达叶缘。",
+    "fruit": "孢子囊群条形，每小脉1条，伸达叶缘；囊群盖同形，膜质，全缘。",
+    "habitat": "山谷林下湿地及河沟边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片。",
+      "孢子囊群多数，线形，稍弯曲，几生于全部小脉上，达叶缘。",
+      "孢子囊群条形，每小脉1条，伸达叶缘，囊群盖同形，膜质。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菜蕨的生长形态为根状茎直立。观察时重点看能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片，并结合孢子囊群多数，线形，稍弯曲，几生于全部小脉上确认。",
+    "identificationReferences": [
+      "能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片。",
+      "孢子囊群多数，线形，稍弯曲，几生于全部小脉上。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群多数，线形，稍弯曲，几生于全部小脉上”。"
+    ],
+    "appearance": "能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片。孢子囊群多数，线形，稍弯曲，几生于全部小脉上。",
+    "growthHabit": "根状茎直立。山谷林下湿地及河沟边。",
+    "keyCharacteristics": [
+      "能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片。",
+      "孢子囊群多数，线形，稍弯曲，几生于全部小脉上。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“能育叶长60-120厘米，叶柄长50-60厘米，基部直径3-5毫米，褐禾杆色，基部疏被鳞片”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-diplazium-esculentum",
+      "title": "GBIF species record: Diplazium esculentum",
+      "url": "https://api.gbif.org/v1/species/2650858",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-diplazium-esculentum",
+      "title": "iPlant 植物智：菜蕨（Diplazium esculentum）",
+      "url": "https://www.iplant.cn/info/Diplazium%20esculentum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650858"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "carex-siderosticta",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "宽叶薹草",
+    "scientificName": "Carex siderosticta",
+    "family": "莎草科",
+    "genus": "薹草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "根状茎长。",
+    "stem": "根状茎长。",
+    "leaf": "花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米。",
+    "flower": "小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形，长1.5-3厘米，花疏生；小穗柄长2-6厘米，多伸出鞘外；雌花鳞片椭圆状长圆形或披针状长圆形，长4-5厘米，两侧透明膜质，中间绿色，3脉，疏被锈点。",
+    "fruit": "果囊倒卵形或椭圆形，三棱状，长3-4毫米，无毛，具多条凸起细脉，具短柄，短喙或近无喙，喙口平截；小坚果紧包果囊中，椭圆形，三棱状，长约2毫米；花柱宿存，基部不膨大，顶端稍伸出果囊，柱头3。",
+    "habitat": "小穗3-6 (10) 个，单生或孪生于各节，雄雌顺序，线状圆柱形，长1.5-3厘米，具疏生的花；小穗柄长2-6厘米，多伸出鞘外。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米。",
+      "小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形，长1.5-3厘米。",
+      "果囊倒卵形或椭圆形，三棱状，长3-4毫米，无毛，具多条凸起细脉。"
+    ]
+  },
+  "knowledge": {
+    "summary": "宽叶薹草的生长形态为根状茎长。观察时重点看花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米，并结合小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形确认。",
+    "identificationReferences": [
+      "花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米。",
+      "小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米”。",
+      "补拍花或花序的整体与细节，核对“小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形”。"
+    ],
+    "appearance": "花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米。小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形。",
+    "growthHabit": "根状茎长。小穗3-6 (10) 个，单生或孪生于各节，雄雌顺序。",
+    "keyCharacteristics": [
+      "花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米。",
+      "小穗3-6(-10)，单生或孪生于各节，雄雌顺序，线状圆柱形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“花茎高达30厘米，苞鞘佛焰苞状，长2-2.5厘米，苞叶长0.5-1厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-carex-siderosticta",
+      "title": "GBIF species record: Carex siderosticta",
+      "url": "https://api.gbif.org/v1/species/2729157",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-carex-siderosticta",
+      "title": "iPlant 植物智：宽叶薹草（Carex siderosticta）",
+      "url": "https://www.iplant.cn/info/Carex%20siderosticta?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2729157"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

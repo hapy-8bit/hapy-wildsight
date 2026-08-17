@@ -1,0 +1,99 @@
+{
+  "id": "quercus-acutissima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "麻栎",
+    "scientificName": "Quercus acutissima",
+    "family": "壳斗科",
+    "genus": "栎属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大落叶乔木。",
+    "stem": "树皮深纵裂。",
+    "leaf": "叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿。",
+    "flower": "雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2，连小苞片直径2-4厘米，高约1.5厘米。",
+    "fruit": "壳斗杯状，连线形苞片径2-4厘米，高约1.5厘米，苞片外曲；果卵圆形或椭圆形，长1.7-2.2厘米，径1.5-2厘米，顶端圆。",
+    "habitat": "山坡或沟谷间。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿。",
+      "雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2，连小苞片直径2-4厘米。",
+      "壳斗杯状，连线形苞片径2-4厘米，高约1.5厘米，苞片外曲，果卵圆形或椭圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "麻栎是高大落叶乔木。观察时重点看叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿，并结合雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2确认。",
+    "identificationReferences": [
+      "叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿。",
+      "雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿”。",
+      "补拍花或花序的整体与细节，核对“雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2”。"
+    ],
+    "appearance": "叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿。雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2。",
+    "growthHabit": "高大落叶乔木。山坡或沟谷间。",
+    "keyCharacteristics": [
+      "叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿。",
+      "雄花序常数个集生于当年生枝下部叶腋，有花1-3朵，花柱30壳斗杯形，包着坚果约1/2。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长椭圆状披针形，先端长渐尖，基部近圆或宽楔形，具刺芒状锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-quercus-acutissima",
+      "title": "GBIF species record: Quercus acutissima",
+      "url": "https://api.gbif.org/v1/species/2877959",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-quercus-acutissima",
+      "title": "iPlant 植物智：麻栎（Quercus acutissima）",
+      "url": "https://www.iplant.cn/info/Quercus%20acutissima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2877959"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

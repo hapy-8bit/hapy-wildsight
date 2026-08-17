@@ -1,0 +1,102 @@
+{
+  "id": "corylus-heterophylla",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "榛",
+    "scientificName": "Corylus heterophylla",
+    "family": "桦木科",
+    "genus": "榛属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木或灌木状；|高达7米。",
+    "stem": "小枝被柔毛及刺状腺体。",
+    "leaf": "叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛，上面无毛，具不规则重锯齿或浅裂，叶脉3-7对；叶柄细，长1-2(3)厘米，疏被柔毛。",
+    "flower": "雄花序2-5簇生；苞片密被柔毛；雌花序2-6成头状；苞片钟状，长1.5-2.5厘米，具纵肋，密被柔毛，近基部具刺状腺体，顶端裂片三角状卵形。",
+    "fruit": "坚果卵球形，与果苞近等长，径0.7-1.5厘米，顶端被长柔毛。",
+    "habitat": "生于海拔200-1000米的山地阴坡灌丛中，江苏有栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛。",
+      "雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状，长1.5-2.5厘米。",
+      "坚果卵球形，与果苞近等长，径0.7-1.5厘米，顶端被长柔毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "榛是小乔木或灌木状。观察时重点看叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛，并结合雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状确认。",
+    "identificationReferences": [
+      "叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛。",
+      "雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛”。",
+      "补拍花或花序的整体与细节，核对“雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状”。"
+    ],
+    "appearance": "叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛。雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状。",
+    "growthHabit": "小乔木或灌木状。生于海拔200-1000米的山地阴坡灌丛中，江苏有栽培。",
+    "keyCharacteristics": [
+      "叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛。",
+      "雄花序2-5簇生，苞片密被柔毛，雌花序2-6成头状，苞片钟状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长圆形或倒卵形，长4-13厘米，先端骤尖、尾状或近平截，基部心形，下面沿脉疏被长柔毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-corylus-heterophylla",
+      "title": "GBIF species record: Corylus heterophylla",
+      "url": "https://api.gbif.org/v1/species/2876072",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-corylus-heterophylla",
+      "title": "iPlant 植物智：榛（Corylus heterophylla）",
+      "url": "https://www.iplant.cn/info/Corylus%20heterophylla?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2876072"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

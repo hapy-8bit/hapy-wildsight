@@ -1,0 +1,97 @@
+{
+  "id": "campsis-radicans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "厚萼凌霄",
+    "scientificName": "Campsis radicans",
+    "family": "紫葳科",
+    "genus": "凌霄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "藤本，具气生根，长达10米。",
+    "stem": "",
+    "leaf": "小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖，基部楔形，边缘具齿，上面深绿色，下面淡绿色，被毛，至少沿中肋被短柔毛。",
+    "flower": "花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处，裂片齿卵状三角形，外向微卷，无凸起的纵肋；花冠筒细长，漏斗状，橙红色至鲜红色，筒部为花萼长的3倍，约6-9厘米，直径约4厘米。",
+    "fruit": "蒴果长圆柱形，长8-12厘米，顶端具喙尖，沿缝线具龙骨状突起，粗约2毫米，具柄，硬壳质。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖。",
+      "花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处，裂片齿卵状三角形。",
+      "蒴果长圆柱形，长8-12厘米，顶端具喙尖，沿缝线具龙骨状突起，粗约2毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "厚萼凌霄是藤本。观察时重点看小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖，并结合花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处确认。",
+    "identificationReferences": [
+      "小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖。",
+      "花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖”。",
+      "补拍花或花序的整体与细节，核对“花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处”。"
+    ],
+    "appearance": "小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖。花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处。",
+    "growthHabit": "藤本。",
+    "keyCharacteristics": [
+      "小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖。",
+      "花萼钟状，长约2厘米，口部直径约1厘米，5浅裂至萼筒的1/3处。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶9-11枚，椭圆形至卵状椭圆形，长3.5-6.5厘米，宽2-4厘米，顶端尾状渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-campsis-radicans",
+      "title": "GBIF species record: Campsis radicans",
+      "url": "https://api.gbif.org/v1/species/3172549",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-campsis-radicans",
+      "title": "iPlant 植物智：厚萼凌霄（Campsis radicans）",
+      "url": "https://www.iplant.cn/info/Campsis%20radicans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172549"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

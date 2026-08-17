@@ -1,0 +1,98 @@
+{
+  "id": "zelkova-serrata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "榉树",
+    "scientificName": "Zelkova serrata",
+    "family": "榆科",
+    "genus": "榉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木；",
+    "stem": "一年生枝疏被短柔毛，后渐脱落；",
+    "leaf": "叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形，上面幼时疏被糙毛，后渐脱落，下面幼时被柔…",
+    "flower": "雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；雌花近无梗，径约1.5毫米，花被片4-5(6)，被细毛；",
+    "fruit": "核果斜卵状圆锥形，上面偏斜，凹下，径2.5-3.5毫米，具背腹脊，网肋明显，被柔毛，花被宿存，几无柄；",
+    "habitat": "河谷、溪边疏林中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形，上面幼时疏被糙毛，后渐脱落，下面幼时被柔…",
+      "花：雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；雌花近无梗，径约1.5毫米，花被片4-5(6)，被细毛；"
+    ]
+  },
+  "knowledge": {
+    "summary": "榉树为乔木；叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形，上面幼时疏被糙毛，后渐脱落，下面幼时被柔…",
+      "花：雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；雌花近无梗，径约1.5毫米，花被片4-5(6)，被细毛；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形…；再以花雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；交叉确认。"
+    ],
+    "appearance": "叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形…；花雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；。",
+    "growthHabit": "乔木；",
+    "keyCharacteristics": [
+      "叶：叶卵形、椭圆形或卵状披针形，长3-10厘米，先端渐尖或尾尖，基部稍偏斜，圆或浅心形，稀宽楔形，上面幼时疏被糙毛，后渐脱落，下面幼时被柔…",
+      "花：雄花梗极短，花径约3毫米，花被裂至中部，裂片(5)6-7(8)，不等大，被细毛；雌花近无梗，径约1.5毫米，花被片4-5(6)，被细毛；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zelkova-serrata",
+      "title": "GBIF species record: Zelkova serrata",
+      "url": "https://api.gbif.org/v1/species/2984532",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-zelkova-serrata",
+      "title": "iPlant species page: Zelkova serrata",
+      "url": "https://www.iplant.cn/info/Zelkova%20serrata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2984532"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

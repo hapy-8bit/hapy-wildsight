@@ -1,0 +1,108 @@
+{
+  "id": "pontederia-crassipes",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "凤眼莲",
+    "scientificName": "Pontederia crassipes",
+    "family": "雨久花科",
+    "genus": "梭鱼草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生漂浮或挺水水生草本。",
+    "stem": "匍匐茎可产生新株并形成密集浮垫。",
+    "leaf": "叶聚生，叶柄膨大呈囊状，有助于漂浮；叶片宽卵形至近圆形。",
+    "flower": "穗状花序具蓝紫色花，花被片常有黄色斑点。",
+    "fruit": "蒴果。",
+    "habitat": "静水或缓流水面及岸边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "膨大的囊状叶柄。",
+      "蓝紫色花与花被片上的黄色斑点。"
+    ]
+  },
+  "knowledge": {
+    "summary": "凤眼莲是漂浮或挺水的多年生水生草本；膨大的囊状叶柄和蓝紫色花是野外确认的重要线索。",
+    "identificationReferences": [
+      "叶柄膨大呈囊状。",
+      "蓝紫色花的花被片常见黄色斑点。"
+    ],
+    "howToConfirm": [
+      "从安全岸边拍整体浮垫、叶丛和膨大叶柄。",
+      "花期补拍花序正面，核对蓝紫色花与黄色斑点。"
+    ],
+    "appearance": "叶丛漂浮或挺出水面，宽卵形叶由膨大叶柄托起。",
+    "growthHabit": "多年生漂浮或挺水水生草本。",
+    "keyCharacteristics": [
+      "囊状膨大的叶柄。",
+      "蓝紫色并常带黄色斑点的花。"
+    ],
+    "observationTips": [
+      "不进入水体或在湿滑岸边采样。",
+      "同时记录植株是漂浮、挺水还是附着在岸边。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pontederia-crassipes",
+      "title": "GBIF species record: Pontederia crassipes",
+      "url": "https://api.gbif.org/v1/species/2765942",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-pontederia-crassipes",
+      "title": "iPlant species page: Pontederia crassipes",
+      "url": "https://www.iplant.cn/info/Pontederia%20crassipes?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name"
+      ]
+    },
+    {
+      "id": "cabi-pontederia-crassipes",
+      "title": "CABI Invasive Species Compendium: Pontederia crassipes",
+      "url": "https://www.cabi.org/isc/datasheet/20544",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2765942"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

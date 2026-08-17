@@ -1,0 +1,99 @@
+{
+  "id": "sedum-sarmentosum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "垂盆草",
+    "scientificName": "Sedum sarmentosum",
+    "family": "景天科",
+    "genus": "景天属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "不育枝及花茎细，匍匐而节上生根，直到花序之下，长10-25厘米。",
+    "leaf": "3叶轮生，叶倒披针形或长圆形，基部骤窄，有距。",
+    "flower": "不育枝及花茎细，匍匐，节上生根，直到花序之。",
+    "fruit": "种子卵圆形。",
+    "habitat": "山坡阳处或石上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "3叶轮生，叶倒披针形或长圆形，基部骤窄，有距。",
+      "不育枝及花茎细，匍匐，节上生根，直到花序之。",
+      "种子卵圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "垂盆草是多年生草本。观察时重点看3叶轮生，叶倒披针形或长圆形，基部骤窄，有距，并结合不育枝及花茎细，匍匐，节上生根，直到花序之确认。",
+    "identificationReferences": [
+      "3叶轮生，叶倒披针形或长圆形，基部骤窄，有距。",
+      "不育枝及花茎细，匍匐，节上生根，直到花序之。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“3叶轮生，叶倒披针形或长圆形，基部骤窄，有距”。",
+      "补拍花或花序的整体与细节，核对“不育枝及花茎细，匍匐，节上生根，直到花序之”。"
+    ],
+    "appearance": "3叶轮生，叶倒披针形或长圆形，基部骤窄，有距。不育枝及花茎细，匍匐，节上生根，直到花序之。",
+    "growthHabit": "多年生草本。山坡阳处或石上。",
+    "keyCharacteristics": [
+      "3叶轮生，叶倒披针形或长圆形，基部骤窄，有距。",
+      "不育枝及花茎细，匍匐，节上生根，直到花序之。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“3叶轮生，叶倒披针形或长圆形，基部骤窄，有距”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sedum-sarmentosum",
+      "title": "GBIF species record: Sedum sarmentosum",
+      "url": "https://api.gbif.org/v1/species/5362004",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sedum-sarmentosum",
+      "title": "iPlant 植物智：垂盆草（Sedum sarmentosum）",
+      "url": "https://www.iplant.cn/info/Sedum%20sarmentosum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5362004"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

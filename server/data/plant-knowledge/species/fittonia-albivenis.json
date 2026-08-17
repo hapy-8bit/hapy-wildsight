@@ -1,0 +1,97 @@
+{
+  "id": "fittonia-albivenis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "网纹草",
+    "scientificName": "Fittonia albivenis",
+    "family": "爵床科",
+    "genus": "网纹草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生常绿草本。",
+    "stem": "茎呈匍匐状，叶柄与茎上有绒毛。",
+    "leaf": "网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色。",
+    "flower": "顶生穗状花序，花黄色。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色。",
+      "顶生穗状花序，花黄色。",
+      "茎呈匍匐状，叶柄与茎上有绒毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "网纹草是多年生常绿草本。观察时重点看网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色，并结合顶生穗状花序，花黄色确认。",
+    "identificationReferences": [
+      "网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色。",
+      "顶生穗状花序，花黄色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色”。",
+      "补拍花或花序的整体与细节，核对“顶生穗状花序，花黄色”。"
+    ],
+    "appearance": "网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色。顶生穗状花序，花黄色。",
+    "growthHabit": "多年生常绿草本。",
+    "keyCharacteristics": [
+      "网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色。",
+      "顶生穗状花序，花黄色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“网状叶脉银白色或红色，叶十字对生，卵形或椭圆形，翠绿色”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-fittonia-albivenis",
+      "title": "GBIF species record: Fittonia albivenis",
+      "url": "https://api.gbif.org/v1/species/5574508",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-fittonia-albivenis",
+      "title": "iPlant 植物智：网纹草（Fittonia albivenis）",
+      "url": "https://www.iplant.cn/info/Fittonia%20albivenis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5574508"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

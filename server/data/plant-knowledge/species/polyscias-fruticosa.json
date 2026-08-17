@@ -1,0 +1,115 @@
+{
+  "id": "polyscias-fruticosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "南洋参",
+    "scientificName": "Polyscias fruticosa",
+    "family": "五加科",
+    "genus": "南洋参属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，室内栽培植物，灌木，乔木，直立，开展。",
+    "stem": "茎红色或酒红色，光滑无毛。",
+    "leaf": "叶对生，披针形，线形，长圆形，卵形，锯齿，有光泽。",
+    "flower": "花为圆锥花序，黄色或金黄色，白色。",
+    "fruit": "果实为核果。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，披针形，线形，长圆形，卵形。",
+      "花为圆锥花序，黄色或金黄色，白色。",
+      "果实为核果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "南洋参是多年生。观察时重点看叶对生，披针形，线形，长圆形，卵形，并结合花为圆锥花序，黄色或金黄色，白色确认。",
+    "identificationReferences": [
+      "叶对生，披针形，线形，长圆形，卵形。",
+      "花为圆锥花序，黄色或金黄色，白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，披针形，线形，长圆形，卵形”。",
+      "补拍花或花序的整体与细节，核对“花为圆锥花序，黄色或金黄色，白色”。"
+    ],
+    "appearance": "叶对生，披针形，线形，长圆形，卵形。花为圆锥花序，黄色或金黄色，白色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶对生，披针形，线形，长圆形，卵形。",
+      "花为圆锥花序，黄色或金黄色，白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，披针形，线形，长圆形，卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-polyscias-fruticosa",
+      "title": "GBIF species record: Polyscias fruticosa",
+      "url": "https://api.gbif.org/v1/species/3035652",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-polyscias-fruticosa",
+      "title": "iPlant 植物智：南洋参（Polyscias fruticosa）",
+      "url": "https://www.iplant.cn/info/Polyscias%20fruticosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-polyscias-fruticosa",
+      "title": "NC State Extension Plant Toolbox: Polyscias fruticosa",
+      "url": "https://plants.ces.ncsu.edu/plants/polyscias-fruticosa/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3035652"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

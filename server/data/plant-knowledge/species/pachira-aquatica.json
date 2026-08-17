@@ -1,0 +1,99 @@
+{
+  "id": "pachira-aquatica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "瓜栗",
+    "scientificName": "Pachira aquatica",
+    "family": "锦葵科",
+    "genus": "瓜栗属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "稀一年生草本；",
+    "stem": "幼枝无毛；",
+    "leaf": "小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下面及叶柄被锈色星状茸毛；",
+    "flower": "花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-6浅齿，宿存，基部有2-3枚圆形腺体；花瓣…",
+    "fruit": "蒴果近梨形，长9-10厘米，木质，黄褐色，内面密被长绵毛，开裂，每室种子多数；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下面及叶柄被锈色星状茸毛；",
+      "花：花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-6浅齿，宿存，基部有2-3枚圆形腺体；花瓣…"
+    ]
+  },
+  "knowledge": {
+    "summary": "瓜栗为稀一年生草本；叶小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下面及叶柄被锈色星状茸毛；",
+      "花：花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-6浅齿，宿存，基部有2-3枚圆形腺体；花瓣…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下…；再以花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-…交叉确认。"
+    ],
+    "appearance": "叶小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下…；花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-…。",
+    "growthHabit": "稀一年生草本；",
+    "keyCharacteristics": [
+      "叶：小叶5-11，具短柄或近无柄，长圆形至倒卵状长圆形，先端渐尖，基部楔形，全缘，上面无毛，下面及叶柄被锈色星状茸毛；",
+      "花：花单生枝顶叶腋；花梗长2厘米，被黄色星状茸毛；花萼杯状，疏被星状柔毛，内面无毛，平截或具3-6浅齿，宿存，基部有2-3枚圆形腺体；花瓣…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pachira-aquatica",
+      "title": "GBIF species record: Pachira aquatica",
+      "url": "https://api.gbif.org/v1/species/3152235",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-pachira-aquatica",
+      "title": "iPlant species page: Pachira aquatica",
+      "url": "https://www.iplant.cn/info/Pachira%20aquatica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152235"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

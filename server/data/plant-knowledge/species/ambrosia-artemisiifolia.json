@@ -1,0 +1,101 @@
+{
+  "id": "ambrosia-artemisiifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "豚草",
+    "scientificName": "Ambrosia artemisiifolia",
+    "family": "菊科",
+    "genus": "豚草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，上部有圆锥状分枝，有棱，被疏生密糙毛。",
+    "leaf": "下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形，全缘，有明显的中脉，上面深绿色，被细短伏毛或近无毛，背面灰绿色，被密短糙毛；上部叶互生，无柄，羽状分裂。",
+    "flower": "头状花序半球形或卵形，径4-5毫米，具短梗，下垂，在枝端密集成总状花序；总苞宽半球形或碟形；总苞片全部结合，无肋，边缘具波状圆齿，稍被糙伏毛。",
+    "fruit": "瘦果倒卵形，无毛，藏于坚硬的总苞中。",
+    "habitat": "在我国长江流域已驯化野生成为路旁杂草。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形。",
+      "头状花序半球形或卵形，径4-5毫米，具短梗，下垂，在枝端密集成总状花序。",
+      "瘦果倒卵形，无毛，藏于坚硬的总苞中。"
+    ]
+  },
+  "knowledge": {
+    "summary": "豚草是一年生草本。观察时重点看下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形，并结合头状花序半球形或卵形，径4-5毫米，具短梗，下垂确认。",
+    "identificationReferences": [
+      "下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形。",
+      "头状花序半球形或卵形，径4-5毫米，具短梗，下垂。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形”。",
+      "补拍花或花序的整体与细节，核对“头状花序半球形或卵形，径4-5毫米，具短梗，下垂”。"
+    ],
+    "appearance": "下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形。头状花序半球形或卵形，径4-5毫米，具短梗，下垂。",
+    "growthHabit": "一年生草本。在我国长江流域已驯化野生成为路旁杂草。",
+    "keyCharacteristics": [
+      "下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形。",
+      "头状花序半球形或卵形，径4-5毫米，具短梗，下垂。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“下部叶对生，具短叶柄，二次羽状分裂，裂片狭小，长圆形至倒披针形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ambrosia-artemisiifolia",
+      "title": "GBIF species record: Ambrosia artemisiifolia",
+      "url": "https://api.gbif.org/v1/species/8002952",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ambrosia-artemisiifolia",
+      "title": "iPlant 植物智：豚草（Ambrosia artemisiifolia）",
+      "url": "https://www.iplant.cn/info/Ambrosia%20artemisiifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8002952"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "prunus-mume",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "梅",
+    "scientificName": "Prunus mume",
+    "family": "蔷薇科",
+    "genus": "李属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木，稀灌木。",
+    "stem": "小枝绿色，无毛。",
+    "leaf": "叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿，幼时两面被柔毛，老时下面脉腋具柔毛；叶柄长1-2厘米，幼时具毛，常有腺体。",
+    "flower": "花梗长1-3毫米，常无毛；花萼常红褐色，有些品种花萼为绿或绿紫色，萼筒宽钟形，无毛或被柔毛，萼片卵形或近圆形；花瓣倒卵形，白或粉红色。",
+    "fruit": "果近球形，径2-3厘米，熟时黄或绿白色，被柔毛，味酸；果肉粘核；核椭圆形，顶端圆，有小突尖头，基部窄楔形，腹面和背棱均有纵沟，具蜂窝状孔穴。",
+    "habitat": "花单生或有时2朵同生于1芽内，直径2-2.5厘米，香味浓，先于叶开放；花梗短，长约1-3毫米，常无毛；花萼通常红褐色，但有些品种的花萼为绿色或绿紫色；萼筒宽钟形，无毛或有时被短柔毛；萼片卵形或近圆形，先端圆钝；花瓣倒卵形，白色至粉红色；雄蕊短或稍长于花瓣；子房密被柔毛，花柱短或稍长于雄蕊。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿。",
+      "花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色，萼筒宽钟形。",
+      "果近球形，径2-3厘米，熟时黄或绿白色，被柔毛，味酸。"
+    ]
+  },
+  "knowledge": {
+    "summary": "梅是小乔木。观察时重点看叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿，并结合花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色确认。",
+    "identificationReferences": [
+      "叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿。",
+      "花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿”。",
+      "补拍花或花序的整体与细节，核对“花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色”。"
+    ],
+    "appearance": "叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿。花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色。",
+    "growthHabit": "小乔木。花单生或有时2朵同生于1芽内，直径2-2.5厘米，香味浓。",
+    "keyCharacteristics": [
+      "叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿。",
+      "花梗长1-3毫米，常无毛，花萼常红褐色，有些品种花萼为绿或绿紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或椭圆形，长4-8厘米，先端尾尖，基部宽楔形或圆，具细小锐锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-prunus-mume",
+      "title": "GBIF species record: Prunus mume",
+      "url": "https://api.gbif.org/v1/species/3021046",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-prunus-mume",
+      "title": "iPlant 植物智：梅（Prunus mume）",
+      "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3021046"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

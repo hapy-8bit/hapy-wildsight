@@ -1,0 +1,100 @@
+{
+  "id": "phaseolus-vulgaris",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菜豆",
+    "scientificName": "Phaseolus vulgaris",
+    "family": "豆科",
+    "genus": "菜豆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生、缠绕或近直立草本。",
+    "stem": "茎被短柔毛或老时无毛。",
+    "leaf": "羽状复叶具3小叶；托叶披针形，长约4毫米，基着；小叶宽卵形或卵状菱形，侧生的偏斜，长4-16厘米，先端长渐尖，有细尖，基部圆形或宽楔形，全缘，被短柔毛。",
+    "flower": "花梗长5-8毫米；小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长，宿存；花萼杯状，长3-4毫米，上方的2枚裂片连合成一微凹的裂片；花冠白色、黄色、紫堇色或红色；旗瓣近方形，宽0.9-1.2厘米，翼瓣倒卵形，龙骨瓣长约1厘米，先端旋卷；子房被短柔毛，花柱压扁；种子4-6，长椭圆形或肾形，长0.9-2厘米，宽0.3-1.2厘米，白色、褐色、蓝色或有花斑，种脐通常白色。",
+    "fruit": "荚果带状，稍弯曲，长10-15厘米，稍肿胀，通常无毛，顶有緣。",
+    "habitat": "总状花序比叶短，有数朵生于花序顶部的花；花梗长5-8毫米；小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长，宿存；花萼杯状，长3-4毫米，上方的2枚裂片连合成一微凹的裂片；花冠白色、黄色、紫堇色或红色；旗瓣近方形，宽9-12毫米，翼瓣倒卵形，龙骨瓣长约1厘米，先端旋卷，子房被短柔毛，花柱压扁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形。",
+      "花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长，宿存。",
+      "荚果带状，稍弯曲，长10-15厘米，稍肿胀，通常无毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菜豆是一年生、缠绕或近直立草本。观察时重点看羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形，并结合花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长确认。",
+    "identificationReferences": [
+      "羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形。",
+      "花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形”。",
+      "补拍花或花序的整体与细节，核对“花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长”。"
+    ],
+    "appearance": "羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形。花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长。",
+    "growthHabit": "一年生、缠绕或近直立草本。总状花序比叶短，有数朵生于花序顶部的花，花梗长5-8毫米。",
+    "keyCharacteristics": [
+      "羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形。",
+      "花梗长5-8毫米，小苞片卵形，有数条隆起的脉，约与花萼等长或稍较其为长。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶具3小叶，托叶披针形，长约4毫米，基着，小叶宽卵形或卵状菱形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine",
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-phaseolus-vulgaris",
+      "title": "GBIF species record: Phaseolus vulgaris",
+      "url": "https://api.gbif.org/v1/species/5350452",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-phaseolus-vulgaris",
+      "title": "iPlant 植物智：菜豆（Phaseolus vulgaris）",
+      "url": "https://www.iplant.cn/info/Phaseolus%20vulgaris?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5350452"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "rhus-typhina",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "火炬树",
+    "scientificName": "Rhus typhina",
+    "family": "漆树科",
+    "genus": "盐肤木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木或小乔木；",
+    "stem": "小枝粗壮，红褐色，密生绒毛；",
+    "leaf": "叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；",
+    "flower": "雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；",
+    "fruit": "核果深红色，密被毛，密集成火炬形；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；",
+      "花：雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；"
+    ]
+  },
+  "knowledge": {
+    "summary": "火炬树为落叶灌木或小乔木；叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；",
+      "花：雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；；再以花雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；交叉确认。"
+    ],
+    "appearance": "叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；；花雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；。",
+    "growthHabit": "落叶灌木或小乔木；",
+    "keyCharacteristics": [
+      "叶：叶轴无翅，小叶19～23，长椭圆状披针形，长5～12 cm，先端长渐尖，有锐锯齿；",
+      "花：雌雄异株，圆锥花序长10～20 cm，直立，密生绒毛；花白色；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rhus-typhina",
+      "title": "GBIF species record: Rhus typhina",
+      "url": "https://api.gbif.org/v1/species/3190538",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-rhus-typhina",
+      "title": "iPlant species page: Rhus typhina",
+      "url": "https://www.iplant.cn/info/Rhus%20typhina?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3190538"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

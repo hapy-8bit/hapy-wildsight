@@ -1,0 +1,99 @@
+{
+  "id": "ailanthus-altissima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "臭椿",
+    "scientificName": "Ailanthus altissima",
+    "family": "苦木科",
+    "genus": "臭椿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "嫩枝被黄或黄褐色柔毛，后脱落。",
+    "leaf": "奇数羽状复叶，长40-60厘米，叶柄长7-13厘米；小叶13-27，对生或近对生，纸质，卵状披针形，长7-13厘米，宽2.5-4厘米，先端长渐尖，基部平截或稍圆，全缘，具1-3对粗齿，齿背有腺体，下面灰绿色。",
+    "flower": "圆锥花序长达30厘米。",
+    "fruit": "翅果长椭圆形，长3-4.5厘米。",
+    "habitat": "花小，杂性；圆锥花序生于枝顶之叶腋。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生。",
+      "圆锥花序长达30厘米。",
+      "翅果长椭圆形，长3-4.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "臭椿是落叶乔木。观察时重点看奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生，并结合圆锥花序长达30厘米确认。",
+    "identificationReferences": [
+      "奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生。",
+      "圆锥花序长达30厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序长达30厘米”。"
+    ],
+    "appearance": "奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生。圆锥花序长达30厘米。",
+    "growthHabit": "落叶乔木。花小，杂性，圆锥花序生于枝顶之叶腋。",
+    "keyCharacteristics": [
+      "奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生。",
+      "圆锥花序长达30厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“奇数羽状复叶，长40-60厘米，叶柄长7-13厘米，小叶13-27，对生或近对生”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ailanthus-altissima",
+      "title": "GBIF species record: Ailanthus altissima",
+      "url": "https://api.gbif.org/v1/species/3190653",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ailanthus-altissima",
+      "title": "iPlant 植物智：臭椿（Ailanthus altissima）",
+      "url": "https://www.iplant.cn/info/Ailanthus%20altissima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3190653"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

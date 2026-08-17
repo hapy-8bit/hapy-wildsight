@@ -1,0 +1,14 @@
+# Local service credentials and dependency artifacts
+.env
+.env.*
+!.env.example
+node_modules/
+server/node_modules/
+
+# macOS and JVM crash artifacts
+.DS_Store
+hs_err_pid*.log
+
+# HarmonyOS local build artifacts
+.hvigor/
+entry/build/

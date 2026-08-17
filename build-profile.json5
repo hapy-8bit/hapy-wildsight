@@ -1,0 +1,50 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/liuhang/.ohos/config/default_WildSight_u2ADKC0MZrE_yqVCVKFfp609VehuTWFSQTAO7GMsYyU=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001A4BC0967831C5B8AB010C13451C8AB0568031019A1771366E5568FF0A8B756B3125FFF9D11EEC",
+          "profile": "/Users/liuhang/.ohos/config/WildSight_Debug_IAPDebug.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/liuhang/.ohos/config/default_WildSight_u2ADKC0MZrE_yqVCVKFfp609VehuTWFSQTAO7GMsYyU=.p12",
+          "storePassword": "0000001AB92377DAD4BC061F5FAE161C8ECE96E83E92903120F44F5506404B08A9AFB4F2BAE2B4CDFD6A"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.1.1(24)",
+        "targetSdkVersion": "6.1.1(24)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

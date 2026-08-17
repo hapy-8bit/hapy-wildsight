@@ -1,0 +1,98 @@
+{
+  "id": "fraxinus-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白蜡树",
+    "scientificName": "Fraxinus chinensis",
+    "family": "木犀科",
+    "genus": "梣属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木；",
+    "stem": "树皮灰褐色，纵裂；",
+    "leaf": "羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐尖或渐尖，基部圆纯或楔形，具整齐锯齿，上面无…",
+    "flower": "圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼长2-3毫米，无花冠；",
+    "fruit": "翅果匙形，长3-4厘米，宽4-6毫米，先端锐尖，常梨头状，翅下延至坚果中部；",
+    "habitat": "多为栽培；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐尖或渐尖，基部圆纯或楔形，具整齐锯齿，上面无…",
+      "花：圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼长2-3毫米，无花冠；"
+    ]
+  },
+  "knowledge": {
+    "summary": "白蜡树为落叶乔木；叶羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐尖或渐尖，基部圆纯或楔形，具整齐锯齿，上面无…",
+      "花：圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼长2-3毫米，无花冠；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐…；再以花圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼…交叉确认。"
+    ],
+    "appearance": "叶羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐…；花圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼…。",
+    "growthHabit": "落叶乔木；",
+    "keyCharacteristics": [
+      "叶：羽状复叶长12-35厘米；小叶3-7，硬纸质，卵形、长圆形或披针形，长3-12厘米，先端锐尖或渐尖，基部圆纯或楔形，具整齐锯齿，上面无…",
+      "花：圆锥花序花序轴无毛或被细柔毛；花雌雄异株；雄花密集，花萼长约1毫米，无花冠；雌花疏离，花萼长2-3毫米，无花冠；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-fraxinus-chinensis",
+      "title": "GBIF species record: Fraxinus chinensis",
+      "url": "https://api.gbif.org/v1/species/3172325",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-fraxinus-chinensis",
+      "title": "iPlant species page: Fraxinus chinensis",
+      "url": "https://www.iplant.cn/info/Fraxinus%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172325"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

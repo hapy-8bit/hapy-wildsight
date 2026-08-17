@@ -1,0 +1,99 @@
+{
+  "id": "juniperus-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "圆柏",
+    "scientificName": "Juniperus chinensis",
+    "family": "柏科",
+    "genus": "刺柏属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮深灰色，纵裂，成条片开裂；幼树的枝条通常斜上伸展，形成尖塔形树冠，老则下部大枝平展，形成广圆形的树冠；树皮灰褐色，纵裂，裂成不规则的薄片脱落。",
+    "leaf": "叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶。",
+    "flower": "雌雄异株，稀同株，雄球花黄色，椭圆形，长2.5-3.5毫米，雄蕊5-7对，常有3-4花药。",
+    "fruit": "球果近圆球形，径6-8毫米，两年成熟，熟时暗褐色，被白粉或白粉脱落，有1-4粒种子；种子卵圆形，扁，顶端钝，有棱脊及少数树脂槽；子叶2枚，出土，条形，长1.3-1.5厘米，宽约1毫米，先端锐尖，下面有两条白色气孔带，上面则不明显。",
+    "habitat": "中性土、钙质土及微酸性土上，各地亦多栽培，西藏也有栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶。",
+      "雌雄异株，稀同株，雄球花黄色，椭圆形，长2.5-3.5毫米。",
+      "球果近圆球形，径6-8毫米，两年成熟，熟时暗褐色，被白粉或白粉脱落。"
+    ]
+  },
+  "knowledge": {
+    "summary": "圆柏是乔木。观察时重点看叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶，并结合雌雄异株，稀同株，雄球花黄色，椭圆形确认。",
+    "identificationReferences": [
+      "叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶。",
+      "雌雄异株，稀同株，雄球花黄色，椭圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶”。",
+      "补拍花或花序的整体与细节，核对“雌雄异株，稀同株，雄球花黄色，椭圆形”。"
+    ],
+    "appearance": "叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶。雌雄异株，稀同株，雄球花黄色，椭圆形。",
+    "growthHabit": "乔木。中性土、钙质土及微酸性土上，各地亦多栽培，西藏也有栽培。",
+    "keyCharacteristics": [
+      "叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶。",
+      "雌雄异株，稀同株，雄球花黄色，椭圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶二型，刺叶生于幼树之上，老龄树则全为鳞叶，壮龄树兼有刺叶与鳞叶”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-juniperus-chinensis",
+      "title": "GBIF species record: Juniperus chinensis",
+      "url": "https://api.gbif.org/v1/species/2684363",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-juniperus-chinensis",
+      "title": "iPlant 植物智：圆柏（Juniperus chinensis）",
+      "url": "https://www.iplant.cn/info/Juniperus%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2684363"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

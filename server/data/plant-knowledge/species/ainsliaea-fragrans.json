@@ -1,0 +1,102 @@
+{
+  "id": "ainsliaea-fragrans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杏香兔儿风",
+    "scientificName": "Ainsliaea fragrans",
+    "family": "菊科",
+    "genus": "兔儿风属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根状茎短或伸长，有时可离地面近2厘米，圆柱形，直或弯曲，直径1-3毫米，根颈被褐色绒毛，具簇生细长须根。",
+    "leaf": "叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米，宽1.5-5厘米，顶端钝或中脉延伸具一小的凸尖头，基部深心形，边全缘或具疏离的胼胝体状小齿，有向上弯拱的缘毛，上面绿色，无毛或被疏毛，下面淡绿色或有时多少带紫红色，被较密的长柔毛，脉上尤甚；基出脉5条，在下面明显增粗并凸起，中脉中上部复具1-2对侧脉，网脉略明显，网眼大；叶柄长1.5-6厘米，稀更长，无翅，密被长柔毛。",
+    "flower": "冠毛多数，淡褐色，羽毛状，长约7毫米，基部联合。",
+    "fruit": "瘦果棒状圆柱形或近纺锤形，栗褐色，略压扁，长约4毫米，被8条显著的纵棱，被较密的长柔毛。",
+    "habitat": "山坡灌木林下或路旁、沟边草丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米。",
+      "冠毛多数，淡褐色，羽毛状，长约7毫米，基部联合。",
+      "瘦果棒状圆柱形或近纺锤形，栗褐色，略压扁，长约4毫米，被8条显著的纵棱。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杏香兔儿风是多年生草本。观察时重点看叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米，并结合冠毛多数，淡褐色，羽毛状，长约7毫米确认。",
+    "identificationReferences": [
+      "叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米。",
+      "冠毛多数，淡褐色，羽毛状，长约7毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米”。",
+      "补拍花或花序的整体与细节，核对“冠毛多数，淡褐色，羽毛状，长约7毫米”。"
+    ],
+    "appearance": "叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米。冠毛多数，淡褐色，羽毛状，长约7毫米。",
+    "growthHabit": "多年生草本。山坡灌木林下或路旁、沟边草丛中。",
+    "keyCharacteristics": [
+      "叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米。",
+      "冠毛多数，淡褐色，羽毛状，长约7毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶聚生于茎的基部，莲座状或呈假轮生，叶片厚纸质，卵形、狭卵形或卵状长圆形，长2-11厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ainsliaea-fragrans",
+      "title": "GBIF species record: Ainsliaea fragrans",
+      "url": "https://api.gbif.org/v1/species/3133817",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ainsliaea-fragrans",
+      "title": "iPlant 植物智：杏香兔儿风（Ainsliaea fragrans）",
+      "url": "https://www.iplant.cn/info/Ainsliaea%20fragrans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3133817"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

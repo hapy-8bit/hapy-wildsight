@@ -1,0 +1,103 @@
+{
+  "id": "lonicera-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "忍冬",
+    "scientificName": "Lonicera japonica",
+    "family": "忍冬科",
+    "genus": "忍冬属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "半常绿藤本。",
+    "stem": "幼枝暗红褐色，密被硬直糙毛、腺毛和柔毛，下部常无毛。",
+    "leaf": "叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻，长3-5(-9.5)厘米，基部圆或近心形，有糙缘毛，下面淡绿色，小枝上部叶两面均密被糙毛，下部叶常无毛，下面多少带青灰色；叶柄长4-8毫米，密被柔毛。",
+    "flower": "小苞片先端圆或平截，长约1毫米，有糙毛和腺毛；萼筒长约2毫米，无毛，萼齿卵状三角形或长:?角形，有长毛，外面和边缘有密毛；花冠白色，后黄色，长(2)3-4.5(-6)厘米，唇形，冠筒稍长于唇瓣，被倒生糙毛和长腺毛，上唇裂片先端钝，下唇带状反曲；雄蕊和花柱高出花冠。",
+    "fruit": "果圆形，径6-7毫米，熟时蓝黑色。",
+    "habitat": "生于山坡灌丛或疏林中、乱石堆、山足路旁及村庄篱笆边，海拔最高达1500米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻。",
+      "小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米，无毛。",
+      "果圆形，径6-7毫米，熟时蓝黑色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "忍冬是半常绿藤本。观察时重点看叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻，并结合小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米确认。",
+    "identificationReferences": [
+      "叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻。",
+      "小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻”。",
+      "补拍花或花序的整体与细节，核对“小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米”。"
+    ],
+    "appearance": "叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻。小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米。",
+    "growthHabit": "半常绿藤本。生于山坡灌丛或疏林中、乱石堆、山足路旁及村庄篱笆边，海拔最高达1500米。",
+    "keyCharacteristics": [
+      "叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻。",
+      "小苞片先端圆或平截，长约1毫米，有糙毛和腺毛，萼筒长约2毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，卵形或长圆状卵形，有时卵状披针形，稀圆卵状或倒卵形，极少有1至数个钝缺刻”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lonicera-japonica",
+      "title": "GBIF species record: Lonicera japonica",
+      "url": "https://api.gbif.org/v1/species/5334240",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lonicera-japonica",
+      "title": "iPlant 植物智：忍冬（Lonicera japonica）",
+      "url": "https://www.iplant.cn/info/Lonicera%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5334240"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

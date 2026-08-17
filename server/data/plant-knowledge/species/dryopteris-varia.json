@@ -1,0 +1,95 @@
+{
+  "id": "dryopteris-varia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "变异鳞毛蕨",
+    "scientificName": "Dryopteris varia",
+    "family": "鳞毛蕨科",
+    "genus": "鳞毛蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高0.3-1米。",
+    "stem": "根茎粗短，直立或斜升，连同叶柄基部密被褐棕或黑色窄披针形顶端毛发状鳞片。",
+    "leaf": "叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片；叶簇生；叶片五角状卵形或宽卵形，长13-51厘米，基部宽20-25厘米，长尾状渐尖头，基部截形，二回羽状或三回羽状全裂，羽片8-12对，披针形，基部1对长15-20厘米，基部宽10-15厘米，羽裂渐尖头，具短柄；小羽片6-10对，披针形，基部羽片的小羽片上先出，下侧羽片较大，第一片长达15厘米，基部宽达3厘米，羽状全裂；基部小羽片的末回小羽片或裂片披针形，羽状浅裂或具齿，叶脉下面明显，羽状，小脉分叉或单；叶厚纸质或近革质，干后绿色，叶轴和。",
+    "flower": "孢子囊群较大，靠近小羽片或裂片边缘着生。",
+    "fruit": "孢子獎群小，近小羽片或裂片边缘着生，在羽轴两侧常不规则多行排列；囊群盖圆肾形，棕色，全缘。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形。",
+      "孢子囊群较大，靠近小羽片或裂片边缘着生。",
+      "孢子獎群小，近小羽片或裂片边缘着生，在羽轴两侧常不规则多行排列，囊群盖圆肾形，棕色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "变异鳞毛蕨的生长形态为植株高0.3-1米。观察时重点看叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形，并结合孢子囊群较大，靠近小羽片或裂片边缘着生确认。",
+    "identificationReferences": [
+      "叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形。",
+      "孢子囊群较大，靠近小羽片或裂片边缘着生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群较大，靠近小羽片或裂片边缘着生”。"
+    ],
+    "appearance": "叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形。孢子囊群较大，靠近小羽片或裂片边缘着生。",
+    "growthHabit": "植株高0.3-1米。",
+    "keyCharacteristics": [
+      "叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形。",
+      "孢子囊群较大，靠近小羽片或裂片边缘着生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄长13-56厘米，禾秆色，基部以上被与根茎相同鳞片及棕色薄鳞片，叶簇生，叶片五角状卵形或宽卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dryopteris-varia",
+      "title": "GBIF species record: Dryopteris varia",
+      "url": "https://api.gbif.org/v1/species/5653274",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dryopteris-varia",
+      "title": "iPlant 植物智：变异鳞毛蕨（Dryopteris varia）",
+      "url": "https://www.iplant.cn/info/Dryopteris%20varia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5653274"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

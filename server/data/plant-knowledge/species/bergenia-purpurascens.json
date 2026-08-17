@@ -1,0 +1,102 @@
+{
+  "id": "bergenia-purpurascens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "岩白菜",
+    "scientificName": "Bergenia purpurascens",
+    "family": "虎耳草科",
+    "genus": "岩白菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根状茎粗壮，被鳞片。",
+    "leaf": "叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘，基部楔形，两面具小腺窝，无毛；叶柄长2-7厘米，托叶鞘无毛。",
+    "flower": "聚伞花序圆锥状，长3-23厘米；花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛；托杯被长柄腺毛；萼片革质，近窄卵形，长6.5-7毫米，上面和边缘无毛，下面密被长柄腺毛；花瓣紫红色，宽卵形，长1-1.7厘米，先端钝或微四，基部爪变窄，成长2-2.5毫米之爪，多脉；雄蕊长0.6-1.1厘米；子房卵圆形，长6.7-7.5毫米，花柱长5.3-7.5毫米。",
+    "fruit": "云南种子植物名录上册: 228. 1984。",
+    "habitat": "林下、灌丛、高山草甸和高山碎石隙。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘。",
+      "聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛，托杯被长柄腺毛。",
+      "云南种子植物名录上册: 228. 1984。"
+    ]
+  },
+  "knowledge": {
+    "summary": "岩白菜是多年生草本。观察时重点看叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘，并结合聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛确认。",
+    "identificationReferences": [
+      "叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘。",
+      "聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛”。"
+    ],
+    "appearance": "叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘。聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛。",
+    "growthHabit": "多年生草本。林下、灌丛、高山草甸和高山碎石隙。",
+    "keyCharacteristics": [
+      "叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘。",
+      "聚伞花序圆锥状，长3-23厘米，花梗长0.8-1.3厘米，与花序分枝均密被长柄腺毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶倒卵形、窄倒卵形或近椭圆形，稀宽倒卵形或近长圆形，长5.5-16厘米，先端钝圆，边缘具波状齿或近全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bergenia-purpurascens",
+      "title": "GBIF species record: Bergenia purpurascens",
+      "url": "https://api.gbif.org/v1/species/7339454",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-bergenia-purpurascens",
+      "title": "iPlant 植物智：岩白菜（Bergenia purpurascens）",
+      "url": "https://www.iplant.cn/info/Bergenia%20purpurascens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7339454"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

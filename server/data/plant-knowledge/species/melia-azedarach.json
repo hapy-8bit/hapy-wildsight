@@ -1,0 +1,102 @@
+{
+  "id": "melia-azedarach",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "楝",
+    "scientificName": "Melia azedarach",
+    "family": "楝科",
+    "genus": "楝属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮灰褐色，纵裂。",
+    "leaf": "二至三回奇数羽状复叶，长20-40厘米；小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米，先端渐尖，基部楔形或圆，具钝齿，幼时被星状毛，后脱落，侧脉12-16对。",
+    "flower": "花芳香；花萼5深裂，裂片卵形或长圆状卵形；花瓣淡紫色，倒卵状匙形，长约1厘米，两面均被毛；花丝筒紫色，长7-8毫米，具10窄裂片，每裂片2-3齿裂，花药10，着生于裂片内侧：子房5-6室。",
+    "fruit": "核果球形或椭圆形，长1-2厘米，径0.8-1.5厘米。",
+    "habitat": "生于低海拔旷野、路旁或疏林中，目前已广泛引为栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米。",
+      "花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色，倒卵状匙形。",
+      "核果球形或椭圆形，长1-2厘米，径0.8-1.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "楝是落叶乔木。观察时重点看二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米，并结合花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色确认。",
+    "identificationReferences": [
+      "二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米。",
+      "花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米”。",
+      "补拍花或花序的整体与细节，核对“花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色”。"
+    ],
+    "appearance": "二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米。花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色。",
+    "growthHabit": "落叶乔木。生于低海拔旷野、路旁或疏林中，目前已广泛引为栽培。",
+    "keyCharacteristics": [
+      "二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米。",
+      "花芳香，花萼5深裂，裂片卵形或长圆状卵形，花瓣淡紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“二至三回奇数羽状复叶，长20-40厘米，小叶卵形、椭圆形或披针形，长3-7厘米，宽2-3厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-melia-azedarach",
+      "title": "GBIF species record: Melia azedarach",
+      "url": "https://api.gbif.org/v1/species/5914287",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-melia-azedarach",
+      "title": "iPlant 植物智：楝（Melia azedarach）",
+      "url": "https://www.iplant.cn/info/Melia%20azedarach?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5914287"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

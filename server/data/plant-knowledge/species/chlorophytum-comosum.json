@@ -1,0 +1,99 @@
+{
+  "id": "chlorophytum-comosum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "吊兰",
+    "scientificName": "Chlorophytum comosum",
+    "family": "天门冬科",
+    "genus": "吊兰属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本植物。",
+    "stem": "根状茎短；",
+    "leaf": "叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；",
+    "flower": "花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成疏散总状或圆锥花序；",
+    "fruit": "蒴果三棱状扁球形，长约5毫米，径约8毫米，每室种子3-5；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；",
+      "花：花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成疏散总状或圆锥花序；"
+    ]
+  },
+  "knowledge": {
+    "summary": "吊兰为草本植物；叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；",
+      "花：花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成疏散总状或圆锥花序；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；；再以花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成…交叉确认。"
+    ],
+    "appearance": "叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；；花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成…。",
+    "growthHabit": "草本植物。",
+    "keyCharacteristics": [
+      "叶：叶剑形，绿色或有黄色条纹，长10-30厘米，宽1-2厘米，两端稍窄；",
+      "花：花葶比叶长，有时长达50厘米，常为匍枝，近顶部具叶簇或幼小植株，花白色，常2-4朵簇生，排成疏散总状或圆锥花序；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-chlorophytum-comosum",
+      "title": "GBIF species record: Chlorophytum comosum",
+      "url": "https://api.gbif.org/v1/species/2774846",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-chlorophytum-comosum",
+      "title": "iPlant species page: Chlorophytum comosum",
+      "url": "https://www.iplant.cn/info/Chlorophytum%20comosum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2774846"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

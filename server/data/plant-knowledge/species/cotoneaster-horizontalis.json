@@ -1,0 +1,99 @@
+{
+  "id": "cotoneaster-horizontalis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "平枝栒子",
+    "scientificName": "Cotoneaster horizontalis",
+    "family": "蔷薇科",
+    "genus": "栒子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶或半常绿匍匐灌木。",
+    "stem": "枝水平开张成整齐二列状，幼枝被糙伏毛，老时脱落。",
+    "leaf": "叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形，全缘，上面无毛，下面有疏平贴柔毛；叶柄长1-3毫米，被柔毛，托叶钻形，早落。",
+    "flower": "花1-2朵，近无梗，径5-7毫米；花萼具疏柔毛，萼筒钟状，萼片三角形；花瓣直立，倒卵形，长约4毫米，粉红色：雄蕊约12，短于花瓣；花柱(2)3，离生，短于雄蕊：子房顶端有柔毛。",
+    "fruit": "果近球形，径5-7毫米，成熟时鲜红色，小核(2)3。",
+    "habitat": "生于灌木丛中或岩石坡上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形。",
+      "花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛，萼筒钟状。",
+      "果近球形，径5-7毫米，成熟时鲜红色，小核(2)3。"
+    ]
+  },
+  "knowledge": {
+    "summary": "平枝栒子是落叶或半常绿匍匐灌木。观察时重点看叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形，并结合花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛确认。",
+    "identificationReferences": [
+      "叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形。",
+      "花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛”。"
+    ],
+    "appearance": "叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形。花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛。",
+    "growthHabit": "落叶或半常绿匍匐灌木。生于灌木丛中或岩石坡上。",
+    "keyCharacteristics": [
+      "叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形。",
+      "花1-2朵，近无梗，径5-7毫米，花萼具疏柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近圆形或宽椭圆形，稀倒卵形，长0.5-1.4厘米，先端急尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cotoneaster-horizontalis",
+      "title": "GBIF species record: Cotoneaster horizontalis",
+      "url": "https://api.gbif.org/v1/species/3025617",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cotoneaster-horizontalis",
+      "title": "iPlant 植物智：平枝栒子（Cotoneaster horizontalis）",
+      "url": "https://www.iplant.cn/info/Cotoneaster%20horizontalis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3025617"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

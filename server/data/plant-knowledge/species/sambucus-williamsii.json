@@ -1,0 +1,103 @@
+{
+  "id": "sambucus-williamsii",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "接骨木",
+    "scientificName": "Sambucus williamsii",
+    "family": "荚蒾科",
+    "genus": "接骨木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木或小乔木。",
+    "stem": "老枝淡红褐色，具明显的长椭圆形皮孔，髓部淡褐色。",
+    "leaf": "羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米，顶端尖、渐尖至尾尖，边缘具不整齐锯齿，有时基部或中部以下具1至数枚腺齿，基部楔形或圆形，有时心形，两侧不对称，最下一对小叶有时具长0.5厘米的柄，顶生小叶卵形或倒卵形，顶端渐尖或尾尖，基部楔形，具长约2厘米的柄，初时小叶上面及中脉被稀疏短柔毛，后光滑无毛，叶搓揉后有臭气；托叶狭带形，或退化成带蓝色的突起。",
+    "flower": "花与叶同出，圆锥形聚伞花序顶生，花小而密；花冠蕾时带粉红色，开后白色或淡黄色。",
+    "fruit": "果实红色，极少蓝紫黑色，卵圆形或近圆形，直径3-5毫米；分核2-3枚，卵圆形至椭圆形，长2.5-3.5毫米，略有皱纹。",
+    "habitat": "山坡、灌丛、沟边、路旁、宅边等地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米。",
+      "花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色，开后白色或淡黄色。",
+      "果实红色，极少蓝紫黑色，卵圆形或近圆形，直径3-5毫米，分核2-3枚。"
+    ]
+  },
+  "knowledge": {
+    "summary": "接骨木是落叶灌木或小乔木。观察时重点看羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米，并结合花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色确认。",
+    "identificationReferences": [
+      "羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米。",
+      "花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米”。",
+      "补拍花或花序的整体与细节，核对“花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色”。"
+    ],
+    "appearance": "羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米。花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色。",
+    "growthHabit": "落叶灌木或小乔木。山坡、灌丛、沟边、路旁、宅边等地。",
+    "keyCharacteristics": [
+      "羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米。",
+      "花与叶同出，圆锥形聚伞花序顶生，花小而密，花冠蕾时带粉红色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶有小叶2-3对，有时仅1对或多达5对，侧生小叶片卵圆形、狭椭圆形至倒矩圆状披针形，长5-15厘米，宽1.2-7厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sambucus-williamsii",
+      "title": "GBIF species record: Sambucus williamsii",
+      "url": "https://api.gbif.org/v1/species/7272554",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sambucus-williamsii",
+      "title": "iPlant 植物智：接骨木（Sambucus williamsii）",
+      "url": "https://www.iplant.cn/info/Sambucus%20williamsii?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7272554"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

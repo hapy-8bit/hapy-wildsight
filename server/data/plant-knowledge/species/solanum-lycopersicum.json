@@ -1,0 +1,97 @@
+{
+  "id": "solanum-lycopersicum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "番茄",
+    "scientificName": "Solanum lycopersicum",
+    "family": "茄科",
+    "genus": "茄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎易倒伏。",
+    "leaf": "羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形，长5-7厘米，基部楔形，偏斜，具不规则锯齿或缺裂；叶柄长2-5厘米。",
+    "flower": "花梗长1-1.5厘米；花萼辐状钟形，裂片披针形，宿存；花冠辐状，径2-2.5厘米，黄色，裂片窄长圆形，长0.8-1厘米，常反折；花丝长约1毫米，花药长0.6-1厘米。",
+    "fruit": "浆果扁球形或近球形，肉质多汁液，桔黄或鲜红色，光滑。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形。",
+      "花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存，花冠辐状。",
+      "浆果扁球形或近球形，肉质多汁液，桔黄或鲜红色，光滑。"
+    ]
+  },
+  "knowledge": {
+    "summary": "番茄是一年生草本。观察时重点看羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形，并结合花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存确认。",
+    "identificationReferences": [
+      "羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形。",
+      "花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形”。",
+      "补拍花或花序的整体与细节，核对“花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存”。"
+    ],
+    "appearance": "羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形。花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形。",
+      "花梗长1-1.5厘米，花萼辐状钟形，裂片披针形，宿存。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶或羽状深裂，长10-40厘米，小叶5-9，大小不等，卵形或长圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-solanum-lycopersicum",
+      "title": "GBIF species record: Solanum lycopersicum",
+      "url": "https://api.gbif.org/v1/species/2930137",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-solanum-lycopersicum",
+      "title": "iPlant 植物智：番茄（Solanum lycopersicum）",
+      "url": "https://www.iplant.cn/info/Solanum%20lycopersicum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2930137"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

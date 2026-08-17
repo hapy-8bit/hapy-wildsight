@@ -1,0 +1,110 @@
+{
+  "id": "rosa-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "月季花",
+    "scientificName": "Rosa chinensis",
+    "family": "蔷薇科",
+    "genus": "蔷薇属",
+    "aliases": [
+      "月季"
+    ]
+  },
+  "sourceFacts": {
+    "lifeForm": "落叶或半常绿灌木。",
+    "stem": "枝条通常有皮刺。",
+    "leaf": "叶为羽状复叶，小叶常有锯齿。",
+    "flower": "花单生或成伞房状花序，花瓣数会因栽培品种而变化。",
+    "fruit": "蔷薇果。",
+    "habitat": "常见于园林和庭院栽培环境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "有皮刺的枝条。",
+      "具锯齿小叶的羽状复叶。"
+    ]
+  },
+  "knowledge": {
+    "summary": "月季花应结合带皮刺的枝条、羽状复叶和花部结构观察，而非只依据花色或重瓣程度。",
+    "identificationReferences": [
+      "枝条通常有皮刺。",
+      "叶为羽状复叶，小叶边缘常有锯齿。"
+    ],
+    "howToConfirm": [
+      "拍下枝条、复叶和花的正面及侧面。",
+      "园艺品种差异很大，应以枝叶和花部特征组合判断。"
+    ],
+    "appearance": "叶为羽状复叶，枝条通常有皮刺；花的颜色和花瓣数量在栽培品种间差异较大。",
+    "growthHabit": "落叶或半常绿灌木。",
+    "keyCharacteristics": [
+      "有皮刺的枝条。",
+      "具锯齿小叶的羽状复叶。"
+    ],
+    "observationTips": [
+      "同时记录枝条与叶片，避免只拍花朵。",
+      "花色和重瓣程度受园艺品种影响，不宜作为唯一特征。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-flower"
+    ],
+    "coveragePriority": "P0"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rosa-chinensis",
+      "title": "GBIF Species Match: Rosa chinensis Jacq.",
+      "url": "https://api.gbif.org/v1/species/match?name=Rosa%20chinensis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus"
+      ]
+    },
+    {
+      "id": "foc-rosa-chinensis",
+      "title": "Flora of China: Rosa chinensis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011298",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "iplant-rosa-chinensis",
+      "title": "iPlant 植物智：Rosa chinensis（月季花）",
+      "url": "https://www.iplant.cn/info/Rosa%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese alias review"
+      ]
+    }
+  ],
+  "contentVersion": 2,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "3005039"
+  }
+}

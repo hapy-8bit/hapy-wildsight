@@ -1,0 +1,101 @@
+{
+  "id": "cercis-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫荆",
+    "scientificName": "Cercis chinensis",
+    "family": "豆科",
+    "genus": "紫荆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "小枝灰白色，无毛。",
+    "leaf": "叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛，叶缘膜质透明；叶柄长2.5-4厘米，无毛。",
+    "flower": "花梗长3-9毫米；龙骨瓣基部有深紫色斑纹；子房嫩绿色，花蕾时光亮无毛，后期则密被短柔毛，胚珠6-7。",
+    "fruit": "荚果扁，窄长圆形，绿色，长4-8厘米，宽1-1.2厘米，翅宽约1.5毫米，顶端急尖或短渐尖，喙细而弯曲，基部长渐尖，两侧缝线对称或近对称；果颈长2-4毫米。",
+    "habitat": "为一常见的栽培植物，多植于庭园、屋旁、寺街边，少数密林或石灰岩地区。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛。",
+      "花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛，后期则密被短柔毛。",
+      "荚果扁，窄长圆形，绿色，长4-8厘米，宽1-1.2厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫荆是灌木。观察时重点看叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛，并结合花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛确认。",
+    "identificationReferences": [
+      "叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛。",
+      "花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛”。"
+    ],
+    "appearance": "叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛。花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛。",
+    "growthHabit": "灌木。为一常见的栽培植物，多植于庭园、屋旁、寺街边，少数密林或石灰岩地区。",
+    "keyCharacteristics": [
+      "叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛。",
+      "花梗长3-9毫米，龙骨瓣基部有深紫色斑纹，子房嫩绿色，花蕾时光亮无毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近圆形或三角状圆形，长5-10厘米，先端急尖，基部浅或深心形，两面通常无毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cercis-chinensis",
+      "title": "GBIF species record: Cercis chinensis",
+      "url": "https://api.gbif.org/v1/species/5353599",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cercis-chinensis",
+      "title": "iPlant 植物智：紫荆（Cercis chinensis）",
+      "url": "https://www.iplant.cn/info/Cercis%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5353599"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

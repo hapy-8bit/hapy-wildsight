@@ -1,0 +1,98 @@
+{
+  "id": "koelreuteria-paniculata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "栾",
+    "scientificName": "Koelreuteria paniculata",
+    "family": "无患子科",
+    "genus": "栾树属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木或灌木；",
+    "stem": "树皮厚，灰褐至灰黑色，老时纵裂；",
+    "leaf": "一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形、宽卵形或卵状披针形，长(3-)5-10厘米…",
+    "flower": "聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；",
+    "fruit": "蒴果圆锥形，具3棱，长4-6厘米，顶端渐尖，果瓣卵形，有网纹；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形、宽卵形或卵状披针形，长(3-)5-10厘米…",
+      "花：聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；"
+    ]
+  },
+  "knowledge": {
+    "summary": "栾为落叶乔木或灌木；叶一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形、宽卵形或卵状披针形，长(3-)5-10厘米…",
+      "花：聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形…；再以花聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；交叉确认。"
+    ],
+    "appearance": "叶一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形…；花聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；。",
+    "growthHabit": "落叶乔木或灌木；",
+    "keyCharacteristics": [
+      "叶：一回或不完全二回或偶为二回羽状复叶，小叶(7-)11-18，无柄或柄极短，对生或互生，卵形、宽卵形或卵状披针形，长(3-)5-10厘米…",
+      "花：聚伞圆锥花序长达40厘米，密被微柔毛，分枝长而广展；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-koelreuteria-paniculata",
+      "title": "GBIF species record: Koelreuteria paniculata",
+      "url": "https://api.gbif.org/v1/species/5421180",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-koelreuteria-paniculata",
+      "title": "iPlant species page: Koelreuteria paniculata",
+      "url": "https://www.iplant.cn/info/Koelreuteria%20paniculata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5421180"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

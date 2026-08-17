@@ -1,0 +1,99 @@
+{
+  "id": "euryale-ferox",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "芡",
+    "scientificName": "Euryale ferox",
+    "family": "睡莲科",
+    "genus": "芡属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生水生草本，具剌。",
+    "stem": "根茎粗壮；茎不明显。",
+    "leaf": "叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺；次生叶为浮水叶，革质，椭圆状肾形或圆形，径0.65-1.3米，盾状，全缘，上面深绿色，具蜡被，下面带紫色，被短柔毛，两面在叶脉分枝处具锐刺；叶柄及花梗粗壮，长达25厘米，均被硬刺。",
+    "flower": "花单生，伸出水面；萼片4，披针形，绿色，密被刺，内面紫色；花瓣多数，较萼片小，紫红色，数轮排列，向内渐变成雄蕊；雄蕊多数，花丝条形，花药内向，长圆形，药隔顶端平截；心皮8-10，子房下位，无花柱，柱头盘内凹，红色，边缘与萼筒愈合，每室胚珠少数。",
+    "fruit": "浆果球形，径3-5(-10)厘米，暗紫红色，密被硬刺，顶端具宿存直立萼片。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶。",
+      "花单生，伸出水面，萼片4，披针形，绿色。",
+      "浆果球形，径3-5(-10)厘米，暗紫红色，密被硬刺，顶端具宿存直立萼片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "芡是一年生水生草本。观察时重点看叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶，并结合花单生，伸出水面，萼片4，披针形确认。",
+    "identificationReferences": [
+      "叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶。",
+      "花单生，伸出水面，萼片4，披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶”。",
+      "补拍花或花序的整体与细节，核对“花单生，伸出水面，萼片4，披针形”。"
+    ],
+    "appearance": "叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶。花单生，伸出水面，萼片4，披针形。",
+    "growthHabit": "一年生水生草本。",
+    "keyCharacteristics": [
+      "叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶。",
+      "花单生，伸出水面，萼片4，披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶二型：初生叶为沉水叶，箭形或椭圆形，长4-10厘米，两面无刺，次生叶为浮水叶”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-euryale-ferox",
+      "title": "GBIF species record: Euryale ferox",
+      "url": "https://api.gbif.org/v1/species/7795516",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-euryale-ferox",
+      "title": "iPlant 植物智：芡（Euryale ferox）",
+      "url": "https://www.iplant.cn/info/Euryale%20ferox?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7795516"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

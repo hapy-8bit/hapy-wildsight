@@ -1,0 +1,97 @@
+{
+  "id": "rudbeckia-hirta",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黑心菊",
+    "scientificName": "Rudbeckia hirta",
+    "family": "菊科",
+    "genus": "金光菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本，一说二年生或有限多年生草本（FNA）。",
+    "stem": "茎密被硬毛，茎于基部或近中部至中高部(原变种)分支。",
+    "leaf": "叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉，边缘有细锯齿，上部叶长圆状披针形，长3-5厘米，两面被白色密刺毛，边缘有疏齿或全缘，无柄或具短柄。",
+    "flower": "头状花序径5-7厘米，花序梗长；总苞片外层长圆形，长1.2-1.7厘米，内层披针状线形，被白色刺毛；花托圆锥形，托片线形，对折呈龙骨瓣状，长约5毫米，边缘有纤毛；舌状花鲜黄色，舌片长圆形，10-14个，长2-4厘米，先端有2-3不整齐短齿；管状花褐紫或黑紫色。",
+    "fruit": "瘦果四棱形，黑褐色，约2mm，无冠毛。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉。",
+      "头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米，内层披针状线形。",
+      "瘦果四棱形，黑褐色，约2mm，无冠毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黑心菊是一年生或二年生草本。观察时重点看叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉，并结合头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米确认。",
+    "identificationReferences": [
+      "叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉。",
+      "头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉”。",
+      "补拍花或花序的整体与细节，核对“头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米”。"
+    ],
+    "appearance": "叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉。头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米。",
+    "growthHabit": "一年生或二年生草本。",
+    "keyCharacteristics": [
+      "叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉。",
+      "头状花序径5-7厘米，花序梗长，总苞片外层长圆形，长1.2-1.7厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄具翅，下部叶长卵圆形、长圆形或匙形，8-12厘米，基部楔形下延，3出脉”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rudbeckia-hirta",
+      "title": "GBIF species record: Rudbeckia hirta",
+      "url": "https://api.gbif.org/v1/species/3114225",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rudbeckia-hirta",
+      "title": "iPlant 植物智：黑心菊（Rudbeckia hirta）",
+      "url": "https://www.iplant.cn/info/Rudbeckia%20hirta?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3114225"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

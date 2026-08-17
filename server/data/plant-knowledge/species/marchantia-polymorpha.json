@@ -1,0 +1,109 @@
+{
+  "id": "marchantia-polymorpha",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "地钱",
+    "scientificName": "Marchantia polymorpha",
+    "family": "地钱科",
+    "genus": "地钱属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "叶状体苔藓植物，在土壤表面形成叶状垫片。",
+    "stem": "植物体为叶状体，不分化为真正的茎、根和叶，由假根固着于土壤。",
+    "leaf": "叶状体在土壤表面平展并形成垫片。",
+    "flower": "",
+    "fruit": "以孢子及杯状结构内形成的芽胞繁殖。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶状体在土壤表面平展并形成垫片。",
+      "以孢子及杯状结构内形成的芽胞繁殖。",
+      "植物体为叶状体，不分化为真正的茎、根和叶，由假根固着于土壤。"
+    ]
+  },
+  "knowledge": {
+    "summary": "地钱是叶状体苔藓植物。观察时重点看叶状体在土壤表面平展并形成垫片，并结合以孢子及杯状结构内形成的芽胞繁殖确认。",
+    "identificationReferences": [
+      "叶状体在土壤表面平展并形成垫片。",
+      "以孢子及杯状结构内形成的芽胞繁殖。"
+    ],
+    "howToConfirm": [
+      "近拍叶状体正反面、边缘及附属结构，核对“叶状体在土壤表面平展并形成垫片”。",
+      "补拍果实或孢子结构的整体与细节，核对“以孢子及杯状结构内形成的芽胞繁殖”。"
+    ],
+    "appearance": "叶状体在土壤表面平展并形成垫片。以孢子及杯状结构内形成的芽胞繁殖。",
+    "growthHabit": "叶状体苔藓植物。",
+    "keyCharacteristics": [
+      "叶状体在土壤表面平展并形成垫片。",
+      "以孢子及杯状结构内形成的芽胞繁殖。"
+    ],
+    "observationTips": [
+      "记录叶状体的形状、表面和附属结构，重点核对“叶状体在土壤表面平展并形成垫片”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-marchantia-polymorpha",
+      "title": "GBIF species record: Marchantia polymorpha",
+      "url": "https://api.gbif.org/v1/species/2688570",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-marchantia-polymorpha",
+      "title": "iPlant 植物智：地钱（Marchantia polymorpha）",
+      "url": "https://www.iplant.cn/info/Marchantia%20polymorpha?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-marchantia-polymorpha",
+      "title": "NC State Extension Plant Toolbox: Marchantia polymorpha",
+      "url": "https://plants.ces.ncsu.edu/plants/marchantia-polymorpha/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2688570"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

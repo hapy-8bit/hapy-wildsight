@@ -1,0 +1,100 @@
+{
+  "id": "weigela-florida",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "锦带花",
+    "scientificName": "Weigela florida",
+    "family": "忍冬科",
+    "genus": "锦带花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "树皮灰色；",
+    "leaf": "叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面疏生短柔毛，脉上毛较密，下面密生短柔毛或绒…",
+    "flower": "花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深达萼檐中部；花冠紫红色或玫瑰红色，长3-4…",
+    "fruit": "果实长1.5-2.5厘米，顶有短柄状喙，疏生柔毛；种子无翅；",
+    "habitat": "杂木林下或山顶灌木丛中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面疏生短柔毛，脉上毛较密，下面密生短柔毛或绒…",
+      "花：花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深达萼檐中部；花冠紫红色或玫瑰红色，长3-4…"
+    ]
+  },
+  "knowledge": {
+    "summary": "锦带花为落叶灌木；叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面疏生短柔毛，脉上毛较密，下面密生短柔毛或绒…",
+      "花：花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深达萼檐中部；花冠紫红色或玫瑰红色，长3-4…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面…；再以花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深…交叉确认。"
+    ],
+    "appearance": "叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面…；花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深…。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：叶矩圆形、椭圆形至倒卵状椭圆形，长5-10厘米，顶端渐尖，基部阔楔形至圆形，边缘有锯齿，上面疏生短柔毛，脉上毛较密，下面密生短柔毛或绒…",
+      "花：花单生或成聚伞花序生于侧生短枝的叶腋或枝顶；萼筒长圆柱形，疏被柔毛，萼齿长约1厘米，不等，深达萼檐中部；花冠紫红色或玫瑰红色，长3-4…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-weigela-florida",
+      "title": "GBIF species record: Weigela florida",
+      "url": "https://api.gbif.org/v1/species/2888730",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-weigela-florida",
+      "title": "iPlant species page: Weigela florida",
+      "url": "https://www.iplant.cn/info/Weigela%20florida?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2888730"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

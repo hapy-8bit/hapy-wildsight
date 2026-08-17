@@ -1,0 +1,97 @@
+{
+  "id": "trachelospermum-jasminoides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "络石",
+    "scientificName": "Trachelospermum jasminoides",
+    "family": "夹竹桃科",
+    "genus": "络石属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "藤本，长达10米。",
+    "stem": "小枝被短柔毛，老时无毛。",
+    "leaf": "叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛；叶柄长0.3-1.2厘米。",
+    "flower": "聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛；花萼裂片窄长圆形，长2-5毫米，反曲，被短柔毛及缘毛；花冠白色，裂片倒卵形，长0.5-1厘米，花冠-与裂片等长，中部膨大，喉部无毛或在雄蕊着生处疏被柔毛，雄蕊内藏；子房无毛。",
+    "fruit": "蓇葖果线状披针形，长10-25厘米，径0.3-1厘米。",
+    "habitat": "山野岩石上和攀伏在墙壁或树上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米。",
+      "聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛，花萼裂片窄长圆形。",
+      "蓇葖果线状披针形，长10-25厘米，径0.3-1厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "络石是藤本。观察时重点看叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米，并结合聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛确认。",
+    "identificationReferences": [
+      "叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米。",
+      "聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛”。"
+    ],
+    "appearance": "叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米。聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛。",
+    "growthHabit": "藤本。山野岩石上和攀伏在墙壁或树上。",
+    "keyCharacteristics": [
+      "叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米。",
+      "聚伞花序圆锥状，顶生及腋生，花序梗长2-6厘米，被微柔毛或无毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，卵形、倒卵形或窄椭圆形，长2-10厘米，无毛或下面疏被短柔毛，叶柄长0.3-1.2厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-trachelospermum-jasminoides",
+      "title": "GBIF species record: Trachelospermum jasminoides",
+      "url": "https://api.gbif.org/v1/species/3169713",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-trachelospermum-jasminoides",
+      "title": "iPlant 植物智：络石（Trachelospermum jasminoides）",
+      "url": "https://www.iplant.cn/info/Trachelospermum%20jasminoides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3169713"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

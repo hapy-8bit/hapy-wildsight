@@ -1,0 +1,102 @@
+{
+  "id": "lysimachia-christinae",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "过路黄",
+    "scientificName": "Lysimachia christinae",
+    "family": "报春花科",
+    "genus": "珍珠菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎柔弱，平卧延伸。",
+    "leaf": "叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形。",
+    "flower": "花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生，质地稍厚，具黑色长腺条；花丝下半部合生成筒，子房卵珠形。",
+    "fruit": "蒴果球形，有稀疏黑色腺条。",
+    "habitat": "生于沟边、路旁阴湿处和山坡林下，垂直分布上限可达。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形。",
+      "花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生，质地稍厚。",
+      "蒴果球形，有稀疏黑色腺条。"
+    ]
+  },
+  "knowledge": {
+    "summary": "过路黄是多年生草本。观察时重点看叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形，并结合花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生确认。",
+    "identificationReferences": [
+      "叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形。",
+      "花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形”。",
+      "补拍花或花序的整体与细节，核对“花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生”。"
+    ],
+    "appearance": "叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形。花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生。",
+    "growthHabit": "多年生草本。生于沟边、路旁阴湿处和山坡林下，垂直分布上限可达。",
+    "keyCharacteristics": [
+      "叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形。",
+      "花单生叶腋，花萼分裂至近基部，花冠黄色，基部合生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，卵圆形至肾圆形，先端锐尖或圆钝至圆形，基部截形至浅心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lysimachia-christinae",
+      "title": "GBIF species record: Lysimachia christinae",
+      "url": "https://api.gbif.org/v1/species/7290577",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lysimachia-christinae",
+      "title": "iPlant 植物智：过路黄（Lysimachia christinae）",
+      "url": "https://www.iplant.cn/info/Lysimachia%20christinae?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7290577"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

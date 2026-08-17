@@ -1,0 +1,114 @@
+{
+  "id": "angelonia-angustifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "香彩雀",
+    "scientificName": "Angelonia angustifolia",
+    "family": "车前科",
+    "genus": "香彩雀属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生，多年生，一年生草本，多年生草本，灌木，直立。",
+    "stem": "茎绿色。",
+    "leaf": "叶对生，单叶，披针形，长圆形，齿状。",
+    "flower": "花为穗状花序，唇形，蓝色，粉红色，紫色或淡紫色，白色。",
+    "fruit": "",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，单叶，披针形，长圆形，齿状。",
+      "花为穗状花序，唇形，蓝色，粉红色，紫色或淡紫色。",
+      "茎绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "香彩雀是一年生。观察时重点看叶对生，单叶，披针形，长圆形，齿状，并结合花为穗状花序，唇形，蓝色，粉红色确认。",
+    "identificationReferences": [
+      "叶对生，单叶，披针形，长圆形，齿状。",
+      "花为穗状花序，唇形，蓝色，粉红色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，单叶，披针形，长圆形，齿状”。",
+      "补拍花或花序的整体与细节，核对“花为穗状花序，唇形，蓝色，粉红色”。"
+    ],
+    "appearance": "叶对生，单叶，披针形，长圆形，齿状。花为穗状花序，唇形，蓝色，粉红色。",
+    "growthHabit": "一年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶对生，单叶，披针形，长圆形，齿状。",
+      "花为穗状花序，唇形，蓝色，粉红色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，单叶，披针形，长圆形，齿状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-angelonia-angustifolia",
+      "title": "GBIF species record: Angelonia angustifolia",
+      "url": "https://api.gbif.org/v1/species/3171809",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-angelonia-angustifolia",
+      "title": "iPlant 植物智：香彩雀（Angelonia angustifolia）",
+      "url": "https://www.iplant.cn/info/Angelonia%20angustifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-angelonia-angustifolia",
+      "title": "NC State Extension Plant Toolbox: Angelonia angustifolia",
+      "url": "https://plants.ces.ncsu.edu/plants/angelonia-angustifolia/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3171809"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "viola-patrinii",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白花地丁",
+    "scientificName": "Viola patrinii",
+    "family": "堇菜科",
+    "genus": "堇菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，无地上茎。",
+    "stem": "根状茎粗短而垂直，与根均深褐或带黑色。",
+    "leaf": "叶3-5枚或较多，均基生；叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米，宽0.6-2厘米，先端圆钝，基部平截、稍心形或宽楔形，疏生波状齿或近全缘，无毛或沿叶脉有毛；叶柄较叶片长2-3倍，无毛或疏生毛，上部具翅，托叶2/3与叶柄合生，离生部分线状披针形。",
+    "flower": "花梗高于叶或与叶近等长，无毛或疏生毛；萼片卵状披针形或披针形，基部附属物短而钝；上方花瓣倒卵形，长约1.2厘米，基部较窄，侧瓣长圆状倒卵形，内面基部有细须毛，下瓣连距长约1.3厘米，距浅囊状；柱头顶部三角形，两侧具较窄的缘边，前方具斜生短喙，柱头孔较细。",
+    "fruit": "蒴。",
+    "habitat": "沼泽化草甸、草甸、河岸湿地、灌丛及林缘较阴湿地带。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米。",
+      "花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝，上方花瓣倒卵形。",
+      "蒴。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白花地丁是多年生草本。观察时重点看叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米，并结合花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝确认。",
+    "identificationReferences": [
+      "叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米。",
+      "花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝”。"
+    ],
+    "appearance": "叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米。花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝。",
+    "growthHabit": "多年生草本。沼泽化草甸、草甸、河岸湿地、灌丛及林缘较阴湿地带。",
+    "keyCharacteristics": [
+      "叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米。",
+      "花梗高于叶或与叶近等长，无毛或疏生毛，萼片卵状披针形或披针形，基部附属物短而钝。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶3-5枚或较多，均基生，叶较薄，椭圆形、窄卵形或长圆状披针形，长1.5-6厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-viola-patrinii",
+      "title": "GBIF species record: Viola patrinii",
+      "url": "https://api.gbif.org/v1/species/7390250",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-viola-patrinii",
+      "title": "iPlant 植物智：白花地丁（Viola patrinii）",
+      "url": "https://www.iplant.cn/info/Viola%20patrinii?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7390250"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

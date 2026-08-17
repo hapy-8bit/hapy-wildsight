@@ -1,0 +1,102 @@
+{
+  "id": "tridax-procumbens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "羽芒菊",
+    "scientificName": "Tridax procumbens",
+    "family": "菊科",
+    "genus": "羽芒菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生铺地草本。",
+    "stem": "茎长达1米，被倒向糙毛或脱毛。",
+    "leaf": "中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形，长2-3厘米，有粗齿或基部近浅裂，具短柄。",
+    "flower": "头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米，被白色疏毛；总苞钟形，长7-9毫米，总苞片2-3层，外层绿色，卵形或卵状长圆形，背面被密毛，内层长圆形，无毛，最内层线形，鳞片状；雌花1层，舌状，舌片长圆形，长约4毫米，先端2-3浅裂；两性花多数，花冠管状，被柔毛。",
+    "fruit": "瘦果陀螺形或倒圆锥形，稀圆柱状，密被疏毛；冠毛上部污白色，下部黄褐色。",
+    "habitat": "生于低海拔旷野、荒地、坡地以及路旁阳处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形。",
+      "头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米，被白色疏毛。",
+      "瘦果陀螺形或倒圆锥形，稀圆柱状，密被疏毛，冠毛上部污白色，下部黄褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "羽芒菊是多年生铺地草本。观察时重点看中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形，并结合头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米确认。",
+    "identificationReferences": [
+      "中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形。",
+      "头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形”。",
+      "补拍花或花序的整体与细节，核对“头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米”。"
+    ],
+    "appearance": "中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形。头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米。",
+    "growthHabit": "多年生铺地草本。生于低海拔旷野、荒地、坡地以及路旁阳处。",
+    "keyCharacteristics": [
+      "中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形。",
+      "头状花序少数，径1-1.4厘米，单生茎、枝顶端，花序梗长10-20(-30)厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“中部叶披针形或卵状披针形，长4-8厘米，边缘有粗齿和细齿，基部渐窄或近楔形，叶柄长达1厘米：上部叶卵状披针形或窄披针形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-tridax-procumbens",
+      "title": "GBIF species record: Tridax procumbens",
+      "url": "https://api.gbif.org/v1/species/3149462",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-tridax-procumbens",
+      "title": "iPlant 植物智：羽芒菊（Tridax procumbens）",
+      "url": "https://www.iplant.cn/info/Tridax%20procumbens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3149462"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

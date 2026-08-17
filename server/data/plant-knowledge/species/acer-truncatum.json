@@ -1,0 +1,99 @@
+{
+  "id": "acer-truncatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "元宝槭",
+    "scientificName": "Acer truncatum",
+    "family": "无患子科",
+    "genus": "槭属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮灰褐色或深褐色，深纵裂。",
+    "leaf": "单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形，基部平截，稀微心形，全缘，幼叶下面脉腋具簇生毛，基脉5，掌状；叶柄长3-13厘米。",
+    "flower": "伞房花序顶生；雄花与两性花同株；萼片5，黄绿色；花瓣5，黄或白色，矩圆状倒卵形；雄蕊8，着生于花盘内缘。",
+    "fruit": "小坚果果核扁平，脉纹明显，基部平截或稍圆，翅矩圆形，常与果核近等长，两翅成钝角。",
+    "habitat": "疏林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形。",
+      "伞房花序顶生，雄花与两性花同株，萼片5，黄绿色，花瓣5。",
+      "小坚果果核扁平，脉纹明显，基部平截或稍圆，翅矩圆形，常与果核近等长。"
+    ]
+  },
+  "knowledge": {
+    "summary": "元宝槭是落叶乔木。观察时重点看单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形，并结合伞房花序顶生，雄花与两性花同株，萼片5，黄绿色确认。",
+    "identificationReferences": [
+      "单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形。",
+      "伞房花序顶生，雄花与两性花同株，萼片5，黄绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形”。",
+      "补拍花或花序的整体与细节，核对“伞房花序顶生，雄花与两性花同株，萼片5，黄绿色”。"
+    ],
+    "appearance": "单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形。伞房花序顶生，雄花与两性花同株，萼片5，黄绿色。",
+    "growthHabit": "落叶乔木。疏林中。",
+    "keyCharacteristics": [
+      "单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形。",
+      "伞房花序顶生，雄花与两性花同株，萼片5，黄绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“单叶，5(7)深裂，长5-12厘米，宽8-12厘米，裂片三角状卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acer-truncatum",
+      "title": "GBIF species record: Acer truncatum",
+      "url": "https://api.gbif.org/v1/species/7263012",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acer-truncatum",
+      "title": "iPlant 植物智：元宝槭（Acer truncatum）",
+      "url": "https://www.iplant.cn/info/Acer%20truncatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7263012"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

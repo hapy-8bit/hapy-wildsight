@@ -1,0 +1,97 @@
+{
+  "id": "zizania-latifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菰",
+    "scientificName": "Zizania latifolia",
+    "family": "禾本科",
+    "genus": "菰属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，具匍匐根茎。",
+    "stem": "秆高1-2米，径约1厘米，多节，基部节生不定根。",
+    "leaf": "叶鞘长于节间，肥厚，有小横脉；叶舌膜质，长约1.5厘米，顶端尖；叶片长50-90厘米，宽1.5-3厘米。",
+    "flower": "雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色，外稃具5脉，先端渐尖具小尖头，内稃具3脉，中脉成脊，具毛，花药长0.5-1厘米；雌小穗圆筒形，长1.8-2.5厘米，宽1.5-2毫米，着生花序上部和分枝下方与主轴贴生处，外稃5脉粗糙，芒长2-3厘米，内稃具3脉。",
+    "fruit": "颖果圆柱形，长约1.2厘米，胚小形，为果体1/8。",
+    "habitat": "圆锥花序长30-50厘米，分枝多数簇生，上升，果期开展；雄小穗长10-15毫米，两侧压扁，着生于花序下部或分枝之上部，带紫色，外稃具5脉，顶端渐尖具小尖头，内稃具3脉，中脉成脊，具毛，雄蕊6枚，花药长5-10毫米；雌小穗圆筒形，长18-25毫米，宽1.5-2毫米，着生于花序上部和分枝下方与主轴贴生处，外稃之5脉粗糙，芒长20-30毫米，内稃具3脉。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米。",
+      "雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色，外稃具5脉。",
+      "颖果圆柱形，长约1.2厘米，胚小形，为果体1/8。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菰是多年生。观察时重点看叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米，并结合雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色确认。",
+    "identificationReferences": [
+      "叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米。",
+      "雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米”。",
+      "补拍花或花序的整体与细节，核对“雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色”。"
+    ],
+    "appearance": "叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米。雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色。",
+    "growthHabit": "多年生。圆锥花序长30-50厘米，分枝多数簇生，上升。",
+    "keyCharacteristics": [
+      "叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米。",
+      "雄小穗长1-1.5厘米，两侧扁，着生花序下部或分枝上部，带紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘长于节间，肥厚，有小横脉，叶舌膜质，长约1.5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zizania-latifolia",
+      "title": "GBIF species record: Zizania latifolia",
+      "url": "https://api.gbif.org/v1/species/10919373",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-zizania-latifolia",
+      "title": "iPlant 植物智：菰（Zizania latifolia）",
+      "url": "https://www.iplant.cn/info/Zizania%20latifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "10919373"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

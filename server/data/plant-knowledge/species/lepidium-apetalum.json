@@ -1,0 +1,101 @@
+{
+  "id": "lepidium-apetalum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "独行菜",
+    "scientificName": "Lepidium apetalum",
+    "family": "十字花科",
+    "genus": "独行菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "茎直立，有分枝，被头状腺毛。",
+    "leaf": "基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米；茎生叶向上渐由窄披针形至线形，有疏齿或全缘，疏被头状腺毛；无柄。",
+    "flower": "总状花序；萼片卵形，长约0.8毫米，早落；花瓣无或退化成丝状，短于萼片；雄蕊2或4。",
+    "fruit": "短角果近圆形或宽椭圆形，长2-3毫米，顶端微凹，有窄翅；果柄弧形，长约3毫米，被头状腺毛。",
+    "habitat": "山坡、山沟、路旁及村庄附近。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形。",
+      "总状花序，萼片卵形，长约0.8毫米，早落，花瓣无或退化成丝状。",
+      "短角果近圆形或宽椭圆形，长2-3毫米，顶端微凹，有窄翅，果柄弧形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "独行菜是一年生或二年生草本。观察时重点看基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形，并结合总状花序，萼片卵形，长约0.8毫米，早落确认。",
+    "identificationReferences": [
+      "基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形。",
+      "总状花序，萼片卵形，长约0.8毫米，早落。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形”。",
+      "补拍花或花序的整体与细节，核对“总状花序，萼片卵形，长约0.8毫米，早落”。"
+    ],
+    "appearance": "基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形。总状花序，萼片卵形，长约0.8毫米，早落。",
+    "growthHabit": "一年生或二年生草本。山坡、山沟、路旁及村庄附近。",
+    "keyCharacteristics": [
+      "基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形。",
+      "总状花序，萼片卵形，长约0.8毫米，早落。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶窄匙形，1回羽状浅裂或深裂，长3-5厘米，叶柄长1-2厘米，茎生叶向上渐由窄披针形至线形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lepidium-apetalum",
+      "title": "GBIF species record: Lepidium apetalum",
+      "url": "https://api.gbif.org/v1/species/5376835",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lepidium-apetalum",
+      "title": "iPlant 植物智：独行菜（Lepidium apetalum）",
+      "url": "https://www.iplant.cn/info/Lepidium%20apetalum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5376835"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

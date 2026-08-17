@@ -1,0 +1,98 @@
+{
+  "id": "sagittaria-trifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "野慈姑",
+    "scientificName": "Sagittaria trifolia",
+    "family": "泽泻科",
+    "genus": "慈姑属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生沼生草本；",
+    "stem": "具匍匐茎或球茎；球茎小，最长2-3厘米；",
+    "leaf": "叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值约1:1.2-1:1.5，基部裂片尾端线尖…",
+    "flower": "花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合生；",
+    "fruit": "瘦果两侧扁，倒卵圆形，具翅，背翅宽于腹翅，具微齿，喙顶生，直立；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值约1:1.2-1:1.5，基部裂片尾端线尖…",
+      "花：花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合生；"
+    ]
+  },
+  "knowledge": {
+    "summary": "野慈姑为多年生沼生草本；叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值约1:1.2-1:1.5，基部裂片尾端线尖…",
+      "花：花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合生；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值…；再以花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合…交叉确认。"
+    ],
+    "appearance": "叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值…；花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合…。",
+    "growthHabit": "多年生沼生草本；",
+    "keyCharacteristics": [
+      "叶：叶基生，挺水；叶片箭形，大小变异很大，顶端裂片与基部裂片间不缢缩，顶端裂片短于基部裂片，比值约1:1.2-1:1.5，基部裂片尾端线尖…",
+      "花：花序圆锥状或总状，总花梗长20-70厘米，花多轮，最下一轮常具1-2分枝：苞片3，基部多少合生；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sagittaria-trifolia",
+      "title": "GBIF species record: Sagittaria trifolia",
+      "url": "https://api.gbif.org/v1/species/5328972",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-sagittaria-trifolia",
+      "title": "iPlant species page: Sagittaria trifolia",
+      "url": "https://www.iplant.cn/info/Sagittaria%20trifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5328972"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

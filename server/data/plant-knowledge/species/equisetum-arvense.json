@@ -1,0 +1,98 @@
+{
+  "id": "equisetum-arvense",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "问荆",
+    "scientificName": "Equisetum arvense",
+    "family": "木贼科",
+    "genus": "木贼属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "中小型蕨类；",
+    "stem": "根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；",
+    "leaf": "",
+    "flower": "",
+    "fruit": "能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊不明显，有密纵沟；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "果：能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊不明显，有密纵沟；",
+      "茎：根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；"
+    ]
+  },
+  "knowledge": {
+    "summary": "问荆为中小型蕨类；果能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊…。观察时再结合果、茎、枝等结构确认。",
+    "identificationReferences": [
+      "果：能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊不明显，有密纵沟；",
+      "茎：根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍果、茎、枝等可见结构。",
+      "先核对果：能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊…；再以茎根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；交叉确认。"
+    ],
+    "appearance": "果能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊…；茎根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；。",
+    "growthHabit": "中小型蕨类；",
+    "keyCharacteristics": [
+      "果：能育枝春季萌发，高5-35厘米，中部径3-5毫米，节间长2-6厘米，黄棕色，无轮茎分枝，脊不明显，有密纵沟；",
+      "茎：根茎斜升、直立和横走，黑棕色，节和根密生黄棕色长毛或无毛；"
+    ],
+    "observationTips": [
+      "将果、茎、枝放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-equisetum-arvense",
+      "title": "GBIF species record: Equisetum arvense",
+      "url": "https://api.gbif.org/v1/species/7924597",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-equisetum-arvense",
+      "title": "iPlant species page: Equisetum arvense",
+      "url": "https://www.iplant.cn/info/Equisetum%20arvense?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7924597"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

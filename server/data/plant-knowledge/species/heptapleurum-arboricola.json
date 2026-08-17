@@ -1,0 +1,103 @@
+{
+  "id": "heptapleurum-arboricola",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鹅掌藤",
+    "scientificName": "Heptapleurum arboricola",
+    "family": "五加科",
+    "genus": "鹅掌柴属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木，稀藤本。",
+    "stem": "小枝无毛，长约5毫米，具5-6棱；果柄长3-6毫米。",
+    "leaf": "小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形，全缘，两面无毛，侧脉4-6对，网脉明显；叶柄长10-20厘米，小叶柄长1.5-3厘米。",
+    "flower": "花梗长1.5-2.5毫米，疏被星状绒毛；花白色，萼筒近全缘；花瓣5-6，无毛；子房5-6室，柱头5-6，无花柱。",
+    "fruit": "果近球形。",
+    "habitat": "谷地密林下或溪边较湿润处；常附树上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形。",
+      "花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘，花瓣5-6。",
+      "果近球形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鹅掌藤是灌木。观察时重点看小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形，并结合花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘确认。",
+    "identificationReferences": [
+      "小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形。",
+      "花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形”。",
+      "补拍花或花序的整体与细节，核对“花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘”。"
+    ],
+    "appearance": "小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形。花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘。",
+    "growthHabit": "灌木。谷地密林下或溪边较湿润处，常附树上。",
+    "keyCharacteristics": [
+      "小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形。",
+      "花梗长1.5-2.5毫米，疏被星状绒毛，花白色，萼筒近全缘。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶7-9，倒卵状长圆形，稀长圆形，长6-10厘米，基部楔形或宽楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-heptapleurum-arboricola",
+      "title": "GBIF species record: Heptapleurum arboricola",
+      "url": "https://api.gbif.org/v1/species/3038724",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-heptapleurum-arboricola",
+      "title": "iPlant 植物智：鹅掌藤（Heptapleurum arboricola）",
+      "url": "https://www.iplant.cn/info/Heptapleurum%20arboricola?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3038724"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

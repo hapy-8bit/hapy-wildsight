@@ -1,0 +1,99 @@
+{
+  "id": "helianthus-tuberosus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菊芋",
+    "scientificName": "Helianthus tuberosus",
+    "family": "菊科",
+    "genus": "向日葵属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎高达3米，有分枝，被白色糙毛或刚毛。",
+    "leaf": "叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉，上面被白色粗毛，下面被柔毛，叶脉有硬毛，有长柄；上部叶长椭圆形或宽披针形，基部下延成短翅状。",
+    "flower": "头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米；总苞片多层，披针形，长1.4-1.7厘米，背面被伏毛；舌状花12-20，舌片黄色，长椭圆形，长1.7-3厘米；管状花花冠黄色，长6毫米。",
+    "fruit": "瘦果小，楔形，上端有2-4有毛的锥状扁芒。",
+    "habitat": "头状花序较大，少数或多数，单生于枝端，有1-2个线状披针形的苞叶，直立，径2-5厘米，总苞片多层，披针形，长14-17毫米、宽2-3毫米，顶端长渐尖，背面被短伏毛，边缘被开展的缘毛；托片长圆形，长8毫米，背面有肋、上端不等三浅裂。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉。",
+      "头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米，总苞片多层。",
+      "瘦果小，楔形，上端有2-4有毛的锥状扁芒。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菊芋是多年生草本。观察时重点看叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉，并结合头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米确认。",
+    "identificationReferences": [
+      "叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉。",
+      "头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米”。"
+    ],
+    "appearance": "叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉。头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米。",
+    "growthHabit": "多年生草本。头状花序较大，少数或多数，单生于枝端。",
+    "keyCharacteristics": [
+      "叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉。",
+      "头状花序单生枝端，有1-2线状披针形苞片，直立，径2-5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，卵圆形或卵状椭圆形，长10-16厘米，有粗锯齿，离基3出脉”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-helianthus-tuberosus",
+      "title": "GBIF species record: Helianthus tuberosus",
+      "url": "https://api.gbif.org/v1/species/3119175",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-helianthus-tuberosus",
+      "title": "iPlant 植物智：菊芋（Helianthus tuberosus）",
+      "url": "https://www.iplant.cn/info/Helianthus%20tuberosus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3119175"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

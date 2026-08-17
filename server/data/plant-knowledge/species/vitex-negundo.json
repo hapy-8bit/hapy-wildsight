@@ -1,0 +1,102 @@
+{
+  "id": "vitex-negundo",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄荆",
+    "scientificName": "Vitex negundo",
+    "family": "唇形科",
+    "genus": "牡荆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木或灌木状。",
+    "stem": "小枝密被灰白色绒毛。",
+    "leaf": "掌状复叶，小叶(3)5；小叶长圆状披针形或披针形，先端渐尖，基部楔形，全缘或具少数锯齿，下面密被绒毛。",
+    "flower": "聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛；花萼钟状，具5齿；花冠淡紫色，被绒毛，5裂，二唇形；雄蕊伸出花冠。",
+    "fruit": "核果近球形。",
+    "habitat": "溪边、山坡或灌木丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形。",
+      "聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿，花冠淡紫色。",
+      "核果近球形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄荆是小乔木或灌木状。观察时重点看掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形，并结合聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿确认。",
+    "identificationReferences": [
+      "掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形。",
+      "聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿”。"
+    ],
+    "appearance": "掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形。聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿。",
+    "growthHabit": "小乔木或灌木状。溪边、山坡或灌木丛中。",
+    "keyCharacteristics": [
+      "掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形。",
+      "聚伞圆锥花序长10-27厘米，花序梗密被灰色绒毛，花萼钟状，具5齿。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“掌状复叶，小叶(3)5，小叶长圆状披针形或披针形，先端渐尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vitex-negundo",
+      "title": "GBIF species record: Vitex negundo",
+      "url": "https://api.gbif.org/v1/species/2925564",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vitex-negundo",
+      "title": "iPlant 植物智：黄荆（Vitex negundo）",
+      "url": "https://www.iplant.cn/info/Vitex%20negundo?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2925564"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

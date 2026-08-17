@@ -1,0 +1,99 @@
+{
+  "id": "viburnum-dilatatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "荚蒾",
+    "scientificName": "Viburnum dilatatum",
+    "family": "荚蒾科",
+    "genus": "荚蒾属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木。",
+    "stem": "芽鳞疏被小糙伏毛。",
+    "leaf": "叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖，上面被叉状或单伏毛，下面被带黄色叉状或簇状毛，脉毛密，脉腋集聚簇状毛，有带黄色或近无色透明腺点，脱落后有痕迹，近基部两侧有少数腺体，侧脉6-8对，直达齿端，上面凹陷；叶柄长(0.5-M-1.5厘米，无托叶。",
+    "flower": "花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛；萼筒窄筒状，长约1毫米，有暗红色微细腺点，萼齿卵形；花冠白色，辐状，径约5毫米，裂片圆卵形；雄蕊高出花冠，花药乳白色。",
+    "fruit": "果熟时红色，椭圆状卵圆形，长7-8毫米；核扁，卵形，有3浅腹沟和2浅背沟。",
+    "habitat": "灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖。",
+      "花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米，有暗红色微细腺点。",
+      "果熟时红色，椭圆状卵圆形，长7-8毫米，核扁，卵形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "荚蒾是落叶灌木。观察时重点看叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖，并结合花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米确认。",
+    "identificationReferences": [
+      "叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖。",
+      "花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖”。",
+      "补拍花或花序的整体与细节，核对“花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米”。"
+    ],
+    "appearance": "叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖。花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米。",
+    "growthHabit": "落叶灌木。灌丛中。",
+    "keyCharacteristics": [
+      "叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖。",
+      "花生于第3-4级辐射枝，萼和花冠外面均有簇状糙毛，萼筒窄筒状，长约1毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，宽倒卵形、倒卵形或宽卵形，长3-10(-13)厘米，有牙齿状锯齿，齿端突尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-viburnum-dilatatum",
+      "title": "GBIF species record: Viburnum dilatatum",
+      "url": "https://api.gbif.org/v1/species/2888584",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-viburnum-dilatatum",
+      "title": "iPlant 植物智：荚蒾（Viburnum dilatatum）",
+      "url": "https://www.iplant.cn/info/Viburnum%20dilatatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2888584"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

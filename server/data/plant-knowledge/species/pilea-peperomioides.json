@@ -1,0 +1,101 @@
+{
+  "id": "pilea-peperomioides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "镜面草",
+    "scientificName": "Pilea peperomioides",
+    "family": "荨麻科",
+    "genus": "冷水花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生丛生小草本。",
+    "stem": "节密集，叶聚生茎顶，茎上部密生鳞片状托叶，叶痕半圆形。",
+    "leaf": "叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆，基部圆或微缺，全缘或浅波状，钟乳体细杆状，基出脉3，弧曲，侧脉不明显；叶柄长2-17厘米，托叶鳞片状，三角状卵形，长约7毫米，先端短尾尖，密布线形钟乳体。",
+    "flower": "花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗，长5-14厘米；雄花具梗，带紫红色；花被片4，倒卵形，近先端有短角。",
+    "fruit": "瘦果卵圆形，稍扁，歪斜，有紫红色细疣。",
+    "habitat": "山谷林下阴湿处，西南与华北的一些公园常有栽培作观赏用。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆。",
+      "花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗，长5-14厘米。",
+      "瘦果卵圆形，稍扁，歪斜，有紫红色细疣。"
+    ]
+  },
+  "knowledge": {
+    "summary": "镜面草是多年生丛生小草本。观察时重点看叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆，并结合花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗确认。",
+    "identificationReferences": [
+      "叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆。",
+      "花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆”。",
+      "补拍花或花序的整体与细节，核对“花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗”。"
+    ],
+    "appearance": "叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆。花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗。",
+    "growthHabit": "多年生丛生小草本。山谷林下阴湿处，西南与华北的一些公园常有栽培作观赏用。",
+    "keyCharacteristics": [
+      "叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆。",
+      "花序单生于顶端叶腋，聚伞圆锥状，长10-28厘米，花序梗粗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶肉质，近圆形或圆卵形，长2.5-9厘米，盾状着生，先端钝或圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pilea-peperomioides",
+      "title": "GBIF species record: Pilea peperomioides",
+      "url": "https://api.gbif.org/v1/species/5669632",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pilea-peperomioides",
+      "title": "iPlant 植物智：镜面草（Pilea peperomioides）",
+      "url": "https://www.iplant.cn/info/Pilea%20peperomioides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5669632"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

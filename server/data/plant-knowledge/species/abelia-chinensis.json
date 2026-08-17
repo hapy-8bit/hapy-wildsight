@@ -1,0 +1,97 @@
+{
+  "id": "abelia-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "糯米条",
+    "scientificName": "Abelia chinensis",
+    "family": "忍冬科",
+    "genus": "糯米条属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶多分枝灌木。",
+    "stem": "嫩枝红褐色，被柔毛，老枝皮纵裂。",
+    "leaf": "叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿，上面初疏被柔毛，下面基部主脉及侧脉密被白色长柔毛，花枝上部叶向上渐小。",
+    "flower": "花芳香，具3对小苞片；小苞片长圆形或披针形，具睫毛；萼筒圆柱形，被柔毛，稍扁，具纵纹，萼檐5裂，裂片椭圆形或倒卵状长圆形，长5-6毫米，果期红色；花冠白或红色，漏斗状，长1-1.2厘米，为萼齿1倍，外面被柔毛，裂片5，圆卵形；雄蕊着生花冠筒基部，花丝细长，伸出花冠筒外；花柱细长，柱头盘形。",
+    "fruit": "果具宿存稍增大萼裂片。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿。",
+      "花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛，萼筒圆柱形。",
+      "果具宿存稍增大萼裂片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "糯米条是落叶多分枝灌木。观察时重点看叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿，并结合花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛确认。",
+    "identificationReferences": [
+      "叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿。",
+      "花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿”。",
+      "补拍花或花序的整体与细节，核对“花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛”。"
+    ],
+    "appearance": "叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿。花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛。",
+    "growthHabit": "落叶多分枝灌木。",
+    "keyCharacteristics": [
+      "叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿。",
+      "花芳香，具3对小苞片，小苞片长圆形或披针形，具睫毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶有时3枚轮生，圆卵形或椭圆状卵形，基部圆或心形，长2-5M氷，疏牛-锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-abelia-chinensis",
+      "title": "GBIF species record: Abelia chinensis",
+      "url": "https://api.gbif.org/v1/species/5599251",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-abelia-chinensis",
+      "title": "iPlant 植物智：糯米条（Abelia chinensis）",
+      "url": "https://www.iplant.cn/info/Abelia%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5599251"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

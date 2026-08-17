@@ -1,0 +1,102 @@
+{
+  "id": "potamogeton-crispus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菹草",
+    "scientificName": "Potamogeton crispus",
+    "family": "眼子菜科",
+    "genus": "眼子菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生沉水草本。",
+    "stem": "根茎圆柱形；茎稍扁，多分枝，近基部常匍匐地面，节生须根。",
+    "leaf": "叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生，不形成叶鞘，叶缘多少浅波状，具细锯齿，叶脉3-5，平行，顶端连接，中脉近基部两侧伴有通气组织形成的细纹；无柄，托叶薄膜质，长0.5-1厘米，早落；休眠芽腋生，松果状，长1-3厘米，革质叶2列密生，基部肥厚，坚硬，具细齿。",
+    "flower": "花序梗棒状，较茎细；花小，花被片4，淡绿色，雌蕊4，基部合生。",
+    "fruit": "果基部连合，卵圆形，长约3.5毫米，果喙长达2毫米，稍弯，背脊约1/2以下具齿。",
+    "habitat": "池塘、水沟、水稻田、灌渠及缓流河水中，水体多呈微酸至中性。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生。",
+      "花序梗棒状，较茎细，花小，花被片4，淡绿色。",
+      "果基部连合，卵圆形，长约3.5毫米，果喙长达2毫米，稍弯。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菹草是多年生沉水草本。观察时重点看叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生，并结合花序梗棒状，较茎细，花小，花被片4确认。",
+    "identificationReferences": [
+      "叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生。",
+      "花序梗棒状，较茎细，花小，花被片4。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生”。",
+      "补拍花或花序的整体与细节，核对“花序梗棒状，较茎细，花小，花被片4”。"
+    ],
+    "appearance": "叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生。花序梗棒状，较茎细，花小，花被片4。",
+    "growthHabit": "多年生沉水草本。池塘、水沟、水稻田、灌渠及缓流河水中，水体多呈微酸至中性。",
+    "keyCharacteristics": [
+      "叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生。",
+      "花序梗棒状，较茎细，花小，花被片4。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶条形，长3-8厘米，宽0.5-1厘米，先端钝圆，基部约1毫米与托叶合生”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-potamogeton-crispus",
+      "title": "GBIF species record: Potamogeton crispus",
+      "url": "https://api.gbif.org/v1/species/5301162",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-potamogeton-crispus",
+      "title": "iPlant 植物智：菹草（Potamogeton crispus）",
+      "url": "https://www.iplant.cn/info/Potamogeton%20crispus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5301162"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

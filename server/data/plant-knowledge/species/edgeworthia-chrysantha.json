@@ -1,0 +1,97 @@
+{
+  "id": "edgeworthia-chrysantha",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "结香",
+    "scientificName": "Edgeworthia chrysantha",
+    "family": "瑞香科",
+    "genus": "结香属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木。",
+    "stem": "茎皮极强韧；小枝粗，常3叉分枝，棕红或褐色，幼时被绢状毛，叶迹大，径达5毫米。",
+    "leaf": "叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米，先端急尖，基部楔形，两面被灰白色丝状柔毛，侧脉10-20对；叶柄长1-1.5厘米，被毛。",
+    "flower": "花黄色，芳香；厘米，密被丝状毛，内面无毛；裂片4，近圆形，长约3.5毫米；雄蕊8，2轮，上轮4枚与花萼裂片对生，下轮与花萼裂片互生，花丝短，花药近卵形；子房椭圆形，顶部丛生白色丝状毛，花柱线形，长约2毫米，柱头棒状，具乳突。",
+    "fruit": "果卵形，长约8毫米，绿色，顶端有毛。",
+    "habitat": "日本及引入（？）美国东南部佐治亚州也有分布，喜阴湿肥沃地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米。",
+      "花黄色，芳香，厘米，密被丝状毛，内面无毛。",
+      "果卵形，长约8毫米，绿色，顶端有毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "结香是落叶灌木。观察时重点看叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米，并结合花黄色，芳香，厘米，密被丝状毛确认。",
+    "identificationReferences": [
+      "叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米。",
+      "花黄色，芳香，厘米，密被丝状毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米”。",
+      "补拍花或花序的整体与细节，核对“花黄色，芳香，厘米，密被丝状毛”。"
+    ],
+    "appearance": "叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米。花黄色，芳香，厘米，密被丝状毛。",
+    "growthHabit": "落叶灌木。日本及引入（。",
+    "keyCharacteristics": [
+      "叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米。",
+      "花黄色，芳香，厘米，密被丝状毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，纸质，椭圆状长圆形、披针形或倒披针形，长6-12厘米，宽1.8-5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-edgeworthia-chrysantha",
+      "title": "GBIF species record: Edgeworthia chrysantha",
+      "url": "https://api.gbif.org/v1/species/5420855",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-edgeworthia-chrysantha",
+      "title": "iPlant 植物智：结香（Edgeworthia chrysantha）",
+      "url": "https://www.iplant.cn/info/Edgeworthia%20chrysantha?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5420855"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

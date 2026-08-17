@@ -1,0 +1,97 @@
+{
+  "id": "platycerium-bifurcatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "二歧鹿角蕨",
+    "scientificName": "Platycerium bifurcatum",
+    "family": "水龙骨科",
+    "genus": "鹿角蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "附生树上或岩石上，成簇。",
+    "stem": "",
+    "leaf": "鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖，红棕色，中肋线形或狭三角形，基生不育叶无柄，直立或贴生，长18-60厘米，宽8-45厘米；边缘全缘，浅裂直到四回分叉，裂片不等长，叶脉下陷，具贮水组织；正常能育叶 (生孢子囊或不生孢子囊)，直立，伸展或下垂，通常不对称到多少对称，楔形，长25-100厘米，二至五回叉裂，孢子囊群斑块1到10个，位于裂片先端，狭长，长1-22厘米，宽0.5-7.5厘米。",
+    "flower": "正常能育叶 (生孢子囊或不生孢子囊)，直立，伸展或下垂，通常不对称到多少对称，楔形，长25-100厘米，二至五回叉裂，孢子囊群斑块1到10个，位于裂片先端，狭长，长1-22厘米，宽0.5-7.5厘米。",
+    "fruit": "孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子；孢子黄色。",
+    "habitat": "原产澳大利亚东北部沿海地区的亚热带森林中，以及新几内亚岛、小巽他群岛及爪哇等地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖。",
+      "正常能育叶 (生孢子囊或不生孢子囊)，直立，伸展或下垂，通常不对称到多少对称，楔形。",
+      "孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "二歧鹿角蕨是附生树上或岩石上。观察时重点看鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖，并结合孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色确认。",
+    "identificationReferences": [
+      "鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖。",
+      "孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色”。"
+    ],
+    "appearance": "鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖。孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色。",
+    "growthHabit": "附生树上或岩石上。原产澳大利亚东北部沿海地区的亚热带森林中，以及新几内亚岛、小巽他群岛及爪哇等地。",
+    "keyCharacteristics": [
+      "鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖。",
+      "孢子囊环带加原细胞 (16-) 18-22个，孢子囊柄2至3裂细胞，每孢子囊有64个孢子，孢子黄色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“鳞片基部着生到盾状着生，长1.5-11毫米，宽0.3-1.3毫米，基部截形或心形，顶端尖头或渐尖”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-platycerium-bifurcatum",
+      "title": "GBIF species record: Platycerium bifurcatum",
+      "url": "https://api.gbif.org/v1/species/7126767",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-platycerium-bifurcatum",
+      "title": "iPlant 植物智：二歧鹿角蕨（Platycerium bifurcatum）",
+      "url": "https://www.iplant.cn/info/Platycerium%20bifurcatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7126767"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

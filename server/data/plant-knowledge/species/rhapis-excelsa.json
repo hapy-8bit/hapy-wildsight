@@ -1,0 +1,99 @@
+{
+  "id": "rhapis-excelsa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "棕竹",
+    "scientificName": "Rhapis excelsa",
+    "family": "棕榈科",
+    "genus": "棕竹属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "丛生灌木。",
+    "stem": "茎圆柱形，有节，径2-3厘米。",
+    "leaf": "叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉，先端平截，边缘有不规则锯齿，横脉多而明显；叶柄长8-20厘米，稍扁平，截面椭圆形，顶端小戟突常半圆形，叶鞘淡黑色，裂成粗纤维质网状。",
+    "flower": "肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞；佛焰苞管状，被棕色弯卷绒毛；花单性，雌雄异株；雄花长约3毫米，淡黄色，无梗，成熟时花冠管伸长，花时棍棒状椭圆形，长5-6毫米；花萼杯状，3深裂，裂片半卵形；花冠3裂，裂片三角形；雌花卵状球形，长约4毫米。",
+    "fruit": "浆果球形，径0.8-1厘米，宿存花冠管不成实心柱状体。",
+    "habitat": "花序长约30厘米，总花序梗及分枝花序基部各有1枚佛焰苞包着，密被褐色弯卷绒毛；2-3个分枝花序，其上有1-2次分枝小花穗，花枝近无毛，花螺旋状着生于小花枝上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉。",
+      "肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞，佛焰苞管状。",
+      "浆果球形，径0.8-1厘米，宿存花冠管不成实心柱状体。"
+    ]
+  },
+  "knowledge": {
+    "summary": "棕竹是丛生灌木。观察时重点看叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉，并结合肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞确认。",
+    "identificationReferences": [
+      "叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉。",
+      "肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉”。",
+      "补拍花或花序的整体与细节，核对“肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞”。"
+    ],
+    "appearance": "叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉。肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞。",
+    "growthHabit": "丛生灌木。花序长约30厘米，总花序梗及分枝花序基部各有1枚佛焰苞包着，密被褐色弯卷绒毛。",
+    "keyCharacteristics": [
+      "叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉。",
+      "肉穗花序长达30厘米，具2-3分枝花序，每分枝花序具一至二回分枝，总花序梗及分枝花序梗基部各有1枚佛焰苞。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶掌状，4-10深裂，裂片条状披针形，长20-30厘米，具2-5肋脉”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rhapis-excelsa",
+      "title": "GBIF species record: Rhapis excelsa",
+      "url": "https://api.gbif.org/v1/species/2736747",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rhapis-excelsa",
+      "title": "iPlant 植物智：棕竹（Rhapis excelsa）",
+      "url": "https://www.iplant.cn/info/Rhapis%20excelsa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2736747"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

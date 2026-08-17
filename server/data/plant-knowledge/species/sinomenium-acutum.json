@@ -1,0 +1,99 @@
+{
+  "id": "sinomenium-acutum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "风龙",
+    "scientificName": "Sinomenium acutum",
+    "family": "防己科",
+    "genus": "风龙属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "木质大藤本。",
+    "stem": "枝条细长，是制藤椅等藤器的原料。",
+    "leaf": "叶常卵形，掌状脉3-5，叶柄非盾状着生。",
+    "flower": "总状花序或窄圆锥花序，腋生；雄花萼片6，外轮小，内轮大，覆瓦状排列，花瓣6，较小，基部二侧反折呈耳状，包花丝，先端不裂；雄蕊6，分离，花药肥大，药室横裂；雌花萼片及花瓣与雄花相似，退化雄蕊6，较花瓣短，心皮3，—侧肿胀，花柱外弯。",
+    "fruit": "核果倒卵圆形或近球形，稍扁，花柱迹近基部；果核骨质，肾状圆形，两侧稍凹，胎座迹小，近匙形；种子弯。",
+    "habitat": "林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶常卵形，掌状脉3-5，叶柄非盾状着生。",
+      "总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小，内轮大。",
+      "核果倒卵圆形或近球形，稍扁，花柱迹近基部，果核骨质，肾状圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "风龙是木质大藤本。观察时重点看叶常卵形，掌状脉3-5，叶柄非盾状着生，并结合总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小确认。",
+    "identificationReferences": [
+      "叶常卵形，掌状脉3-5，叶柄非盾状着生。",
+      "总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶常卵形，掌状脉3-5，叶柄非盾状着生”。",
+      "补拍花或花序的整体与细节，核对“总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小”。"
+    ],
+    "appearance": "叶常卵形，掌状脉3-5，叶柄非盾状着生。总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小。",
+    "growthHabit": "木质大藤本。林中。",
+    "keyCharacteristics": [
+      "叶常卵形，掌状脉3-5，叶柄非盾状着生。",
+      "总状花序或窄圆锥花序，腋生，雄花萼片6，外轮小。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶常卵形，掌状脉3-5，叶柄非盾状着生”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sinomenium-acutum",
+      "title": "GBIF species record: Sinomenium acutum",
+      "url": "https://api.gbif.org/v1/species/7268694",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sinomenium-acutum",
+      "title": "iPlant 植物智：风龙（Sinomenium acutum）",
+      "url": "https://www.iplant.cn/info/Sinomenium%20acutum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7268694"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

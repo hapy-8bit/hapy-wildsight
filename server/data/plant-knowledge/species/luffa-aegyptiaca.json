@@ -1,0 +1,97 @@
+{
+  "id": "luffa-aegyptiaca",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "丝瓜",
+    "scientificName": "Luffa aegyptiaca",
+    "family": "葫芦科",
+    "genus": "丝瓜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生攀援藤本。",
+    "stem": "卷须2-4歧，叶柄长10-12厘米；叶三角形或近圆形，长、宽均10-20厘米，通常掌状5-7裂。",
+    "leaf": "雄花15-20朵生于总状花序上部。",
+    "flower": "花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形，长0.8-1.3厘米，具3脉；花冠黄色，辐状，径5-9厘米，裂片长圆形，长2-4厘米；雄蕊通常5，稀3，花丝长6-8毫米，药室多回折曲；雌花单生。",
+    "fruit": "果圆柱状，直或稍弯，有深色纵纹，未熟时肉质，成熟后干燥，内面呈网状纤维，顶端盖裂。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "雄花15-20朵生于总状花序上部。",
+      "花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形，长0.8-1.3厘米。",
+      "果圆柱状，直或稍弯，有深色纵纹，未熟时肉质，成熟后干燥。"
+    ]
+  },
+  "knowledge": {
+    "summary": "丝瓜是一年生攀援藤本。观察时重点看雄花15-20朵生于总状花序上部，并结合花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形确认。",
+    "identificationReferences": [
+      "雄花15-20朵生于总状花序上部。",
+      "花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“雄花15-20朵生于总状花序上部”。",
+      "补拍花或花序的整体与细节，核对“花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形”。"
+    ],
+    "appearance": "雄花15-20朵生于总状花序上部。花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形。",
+    "growthHabit": "一年生攀援藤本。",
+    "keyCharacteristics": [
+      "雄花15-20朵生于总状花序上部。",
+      "花梗长1-2厘米，萼筒宽钟形，径5-9毫米，裂片卵状披针形或近三角形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“雄花15-20朵生于总状花序上部”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-luffa-aegyptiaca",
+      "title": "GBIF species record: Luffa aegyptiaca",
+      "url": "https://api.gbif.org/v1/species/2874599",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-luffa-aegyptiaca",
+      "title": "iPlant 植物智：丝瓜（Luffa aegyptiaca）",
+      "url": "https://www.iplant.cn/info/Luffa%20aegyptiaca?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2874599"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "osmunda-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫萁",
+    "scientificName": "Osmunda japonica",
+    "family": "紫萁科",
+    "genus": "紫萁属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高50-80厘米或更高。",
+    "stem": "根茎粗短，或稍弯短树干状。",
+    "leaf": "叶簇生，直立；叶柄长20-30厘米，禾秆色，幼时密被绒毛，全脱落；叶片三角状宽卵形，长30-50厘米，宽20-40厘米，顶部一回羽状，其下二回羽状；羽片3-5对，对生，长圆形，长15-25厘米，基部宽8-11厘米，基部一对稍大，柄长1-1.5厘米，斜上，奇数羽状；小羽片5-9对，对生或近对生，无柄，分离，长4-7厘米，宽1.5-1.8厘米，长圆形或长圆状披针形，向基部稍宽，圆，或近平截，相距1.5-2厘米，向上部稍小，顶生的同形，有柄，基部具1-2合生圆裂片，或宽披针形小裂片，具细锯齿；叶脉两面明显，自中。",
+    "flower": "",
+    "fruit": "能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形，长1.5-2厘米，孢子囊密生于小脉。",
+    "habitat": "生于林下或溪边酸性土上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛。",
+      "能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形，长1.5-2厘米。",
+      "根茎粗短，或稍弯短树干状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫萁的生长形态为植株高50-80厘米或更高。观察时重点看叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛，并结合能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形确认。",
+    "identificationReferences": [
+      "叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛。",
+      "能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛”。",
+      "补拍果实或孢子结构的整体与细节，核对“能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形”。"
+    ],
+    "appearance": "叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛。能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形。",
+    "growthHabit": "植株高50-80厘米或更高。生于林下或溪边酸性土上。",
+    "keyCharacteristics": [
+      "叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛。",
+      "能育叶与不育叶等高，或稍高，羽片与小羽片均短，小羽片线形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，直立，叶柄长20-30厘米，禾秆色，幼时密被绒毛”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-osmunda-japonica",
+      "title": "GBIF species record: Osmunda japonica",
+      "url": "https://api.gbif.org/v1/species/3645928",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-osmunda-japonica",
+      "title": "iPlant 植物智：紫萁（Osmunda japonica）",
+      "url": "https://www.iplant.cn/info/Osmunda%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3645928"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

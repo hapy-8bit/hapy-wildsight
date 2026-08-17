@@ -1,0 +1,114 @@
+{
+  "id": "haworthiopsis-attenuata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "渐狭十二卷",
+    "scientificName": "Haworthiopsis attenuata",
+    "family": "阿福花科",
+    "genus": "十二卷属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，室内栽培植物，多年生草本，多肉植物，丛生，匍匐，直立。",
+    "stem": "",
+    "leaf": "叶莲座状排列，单叶，披针形，线形，全缘，肉质，光滑。",
+    "flower": "花为总状花序，管状，粉红色，白色。",
+    "fruit": "果实为蒴果。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶莲座状排列，单叶，披针形，线形，全缘。",
+      "花为总状花序，管状，粉红色，白色。",
+      "果实为蒴果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "渐狭十二卷是多年生。观察时重点看叶莲座状排列，单叶，披针形，线形，全缘，并结合花为总状花序，管状，粉红色，白色确认。",
+    "identificationReferences": [
+      "叶莲座状排列，单叶，披针形，线形，全缘。",
+      "花为总状花序，管状，粉红色，白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶莲座状排列，单叶，披针形，线形，全缘”。",
+      "补拍花或花序的整体与细节，核对“花为总状花序，管状，粉红色，白色”。"
+    ],
+    "appearance": "叶莲座状排列，单叶，披针形，线形，全缘。花为总状花序，管状，粉红色，白色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶莲座状排列，单叶，披针形，线形，全缘。",
+      "花为总状花序，管状，粉红色，白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶莲座状排列，单叶，披针形，线形，全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-haworthiopsis-attenuata",
+      "title": "GBIF species record: Haworthiopsis attenuata",
+      "url": "https://api.gbif.org/v1/species/9388529",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-haworthiopsis-attenuata",
+      "title": "iPlant 植物智：渐狭十二卷（Haworthiopsis attenuata）",
+      "url": "https://www.iplant.cn/info/Haworthiopsis%20attenuata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-haworthiopsis-attenuata",
+      "title": "NC State Extension Plant Toolbox: Haworthiopsis attenuata",
+      "url": "https://plants.ces.ncsu.edu/plants/haworthiopsis-attenuata/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "9388529"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

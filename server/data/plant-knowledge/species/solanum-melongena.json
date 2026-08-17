@@ -1,0 +1,98 @@
+{
+  "id": "solanum-melongena",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "茄",
+    "scientificName": "Solanum melongena",
+    "family": "茄科",
+    "genus": "茄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本或亚灌木状。",
+    "stem": "小枝、叶、叶柄、花梗、花萼、花冠、子房顶端及花柱中下部均被星状毛；小枝多紫色，老时毛脱落。",
+    "leaf": "叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂，侧脉4-5对；叶抦长2-4.5厘米。",
+    "flower": "花多单生，稀总状花序；能孕花花梗长1-1.8厘米，常下垂；花萼近钟形，径约2.5厘米，被长约3毫米小刺，裂片披针形，花冠辐状，裂片内面先端疏被星状毛，冠筒长约2毫米，冠檐长约2.1厘米，裂片三角形，长约1厘米；花丝长约2.5毫米，花药长约7.5毫米；花柱长4-7毫米，柱头浅裂。",
+    "fruit": "果形状大小变异极大，色泽多样。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂。",
+      "花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂，花萼近钟形。",
+      "果形状大小变异极大，色泽多样。"
+    ]
+  },
+  "knowledge": {
+    "summary": "茄是草本或亚灌木状。观察时重点看叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂，并结合花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂确认。",
+    "identificationReferences": [
+      "叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂。",
+      "花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂”。",
+      "补拍花或花序的整体与细节，核对“花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂”。"
+    ],
+    "appearance": "叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂。花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂。",
+    "growthHabit": "草本或亚灌木状。",
+    "keyCharacteristics": [
+      "叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂。",
+      "花多单生，稀总状花序，能孕花花梗长1-1.8厘米，常下垂。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或长圆状卵形，长6-18厘米，先端钝，基部不对称，浅波状或深波状圆裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-solanum-melongena",
+      "title": "GBIF species record: Solanum melongena",
+      "url": "https://api.gbif.org/v1/species/2930617",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-solanum-melongena",
+      "title": "iPlant 植物智：茄（Solanum melongena）",
+      "url": "https://www.iplant.cn/info/Solanum%20melongena?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2930617"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

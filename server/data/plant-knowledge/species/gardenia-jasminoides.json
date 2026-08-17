@@ -1,0 +1,103 @@
+{
+  "id": "gardenia-jasminoides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "栀子",
+    "scientificName": "Gardenia jasminoides",
+    "family": "茜草科",
+    "genus": "栀子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "嫩枝常被短毛，枝圆柱形，灰色。",
+    "leaf": "叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖，基部楔形，两面无毛，侧脉8-15对；叶柄长0.2-1厘米；托叶膜质，基部合生成鞘。",
+    "flower": "花芳香，单朵生于枝顶，萼筒宿存；花冠白或乳黄色，高脚碟状。",
+    "fruit": "果卵形、近球形、椭圆形或长圆形，黄或橙红色，长1.5-7厘米，径1.2-2厘米，有翅状纵棱5-9，宿存萼裂片长达4厘米，宽6毫米；种子多数，近圆形。",
+    "habitat": "旷野、丘陵、山谷、山坡、溪边的灌丛或林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖。",
+      "花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色，高脚碟状。",
+      "果卵形、近球形、椭圆形或长圆形，黄或橙红色，长1.5-7厘米，径1.2-2厘米，有翅状纵棱5-9。"
+    ]
+  },
+  "knowledge": {
+    "summary": "栀子是灌木。观察时重点看叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖，并结合花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色确认。",
+    "identificationReferences": [
+      "叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖。",
+      "花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖”。",
+      "补拍花或花序的整体与细节，核对“花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色”。"
+    ],
+    "appearance": "叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖。花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色。",
+    "growthHabit": "灌木。旷野、丘陵、山谷、山坡、溪边的灌丛或林中。",
+    "keyCharacteristics": [
+      "叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖。",
+      "花芳香，单朵生于枝顶，萼筒宿存，花冠白或乳黄色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生或3枚轮生，长圆状披针形、倒卵状长圆形、倒卵形或椭圆形，长3-25厘米，宽1.5-8厘米，先端渐尖或短尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-gardenia-jasminoides",
+      "title": "GBIF species record: Gardenia jasminoides",
+      "url": "https://api.gbif.org/v1/species/5335125",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-gardenia-jasminoides",
+      "title": "iPlant 植物智：栀子（Gardenia jasminoides）",
+      "url": "https://www.iplant.cn/info/Gardenia%20jasminoides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5335125"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

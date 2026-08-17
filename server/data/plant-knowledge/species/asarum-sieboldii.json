@@ -1,0 +1,102 @@
+{
+  "id": "asarum-sieboldii",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "汉城细辛",
+    "scientificName": "Asarum sieboldii",
+    "family": "马兜铃科",
+    "genus": "细辛属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根状茎直立或横走，直径2-3毫米，节间长1-2厘米，有多条须根。",
+    "leaf": "叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密，下面仅脉被毛；叶柄长8-18厘米，无毛，芽苞叶肾圆形，边缘疏被柔毛。",
+    "flower": "花梗长2-4厘米；花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶，花被片三角状卵形，长约7毫米，直伸或近平展；花丝与花药近等长或稍长，药隔短锥形，子房半下位或近上位，花柱6，较短，顶端2裂，柱头侧生。",
+    "fruit": "果近球形，褐黄色。",
+    "habitat": "林下及山沟湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密。",
+      "花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶，花被片三角状卵形。",
+      "果近球形，褐黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "汉城细辛是多年生草本。观察时重点看叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密，并结合花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶确认。",
+    "identificationReferences": [
+      "叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密。",
+      "花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密”。",
+      "补拍花或花序的整体与细节，核对“花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶”。"
+    ],
+    "appearance": "叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密。花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶。",
+    "growthHabit": "多年生草本。林下及山沟湿地。",
+    "keyCharacteristics": [
+      "叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密。",
+      "花梗长2-4厘米，花被筒钟状，径1-1.5厘米，内壁具疏离纵皱褶。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶心形或卵状心形，长4-11厘米，先端渐尖或尖，上面疏被短毛，脉上较密”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-asarum-sieboldii",
+      "title": "GBIF species record: Asarum sieboldii",
+      "url": "https://api.gbif.org/v1/species/7313629",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-asarum-sieboldii",
+      "title": "iPlant 植物智：汉城细辛（Asarum sieboldii）",
+      "url": "https://www.iplant.cn/info/Asarum%20sieboldii?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7313629"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

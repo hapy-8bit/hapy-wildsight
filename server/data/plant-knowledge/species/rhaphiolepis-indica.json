@@ -1,0 +1,104 @@
+{
+  "id": "rhaphiolepis-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "石斑木",
+    "scientificName": "Rhaphiolepis indica",
+    "family": "蔷薇科",
+    "genus": "石斑木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "或常绿灌木，稀小乔木。",
+    "stem": "幼枝初被褐色绒毛。",
+    "leaf": "叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米，先端圆纯、急尖、渐尖或长尾尖，基部渐窄下延叶柄，具细钝锯齿，上面无毛，网脉常明显下陷，下面无毛或被稀疏绒毛，网脉明显；叶柄长0.5-1.8厘米，近无毛，托叶钻形，早落。",
+    "flower": "花序梗和花梗均被锈色绒毛；苞片和小苞片窄披针形，近无毛；花径1-1.3厘米；被丝托筒状，长4-5毫米，边缘及内外面有褐色绒毛或无毛，萼片三角状披针形至线形，长4.5-6毫米，两面被疏绒毛或无毛；花瓣白色或淡红色，倒卵形或披针形，长5-7毫米，基部具柔毛；雄蕊15；花柱2-3，基部合生，近无毛。",
+    "fruit": "果球形，紫黑色，径约5毫米，果柄长0.5-1厘米。",
+    "habitat": "生于山坡、路边或溪边灌木林中，海拔150-1600米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米。",
+      "花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米，被丝托筒状。",
+      "果球形，紫黑色，径约5毫米，果柄长0.5-1厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "石斑木是或常绿灌木。观察时重点看叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米，并结合花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米确认。",
+    "identificationReferences": [
+      "叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米。",
+      "花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米”。",
+      "补拍花或花序的整体与细节，核对“花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米”。"
+    ],
+    "appearance": "叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米。花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米。",
+    "growthHabit": "或常绿灌木。生于山坡、路边或溪边灌木林中，海拔150-1600米。",
+    "keyCharacteristics": [
+      "叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米。",
+      "花序梗和花梗均被锈色绒毛，苞片和小苞片窄披针形，近无毛，花径1-1.3厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶集生于枝顶，卵形或长圆形，稀倒卵形或长圆状披针形，长(2-)4-8厘米，宽1.5-4厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rhaphiolepis-indica",
+      "title": "GBIF species record: Rhaphiolepis indica",
+      "url": "https://api.gbif.org/v1/species/5371542",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rhaphiolepis-indica",
+      "title": "iPlant 植物智：石斑木（Rhaphiolepis indica）",
+      "url": "https://www.iplant.cn/info/Rhaphiolepis%20indica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5371542"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

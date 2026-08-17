@@ -1,0 +1,97 @@
+{
+  "id": "marsilea-quadrifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蘋",
+    "scientificName": "Marsilea quadrifolia",
+    "family": "蘋科",
+    "genus": "蘋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高5-20厘米。",
+    "stem": "根茎细长横走，分枝顶端被淡棕色毛，莲节疏离，向上生出1至数叶。",
+    "leaf": "叶柄长5-20厘米；叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形，基部楔形，全缘，幼时被毛，草质，叶脉自小叶基部向上辐射状分叉，成窄长网眼，伸向叶缘，无内藏小脉。",
+    "flower": "",
+    "fruit": "孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛，褐色，木质，坚硬；每个孢子果有单生孢子囊，大小孢子个大孢子囊有囊同生于孢子囊托，1个大孢子，1个小孢子囊有多数小孢子。",
+    "habitat": "水田或沟塘中，是水田中的有害杂草，可作饲料。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形。",
+      "孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛，褐色。",
+      "根茎细长横走，分枝顶端被淡棕色毛，莲节疏离，向上生出1至数叶。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蘋的生长形态为植株高5-20厘米。观察时重点看叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形，并结合孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛确认。",
+    "identificationReferences": [
+      "叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形。",
+      "孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛”。"
+    ],
+    "appearance": "叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形。孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛。",
+    "growthHabit": "植株高5-20厘米。水田或沟塘中，是水田中的有害杂草，可作饲料。",
+    "keyCharacteristics": [
+      "叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形。",
+      "孢子果双生或单生于短柄，短柄着生叶柄基部，长椭圆形，幼时被毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄长5-20厘米，叶片具4片倒三角形小叶，呈十字形，长宽均1-2.5厘米，外缘半圆形”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-marsilea-quadrifolia",
+      "title": "GBIF species record: Marsilea quadrifolia",
+      "url": "https://api.gbif.org/v1/species/5274875",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-marsilea-quadrifolia",
+      "title": "iPlant 植物智：蘋（Marsilea quadrifolia）",
+      "url": "https://www.iplant.cn/info/Marsilea%20quadrifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5274875"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "cedrus-deodara",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "雪松",
+    "scientificName": "Cedrus deodara",
+    "family": "松科",
+    "genus": "雪松属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木，在原产地高达75米，胸径4.3米，枝下高很低；树皮深灰色，裂成不规则的鳞状块片；大枝平展，枝梢微下垂，树冠宽塔形；",
+    "stem": "树皮深灰色，裂成不规则的鳞状块片；",
+    "leaf": "针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，下面有4-6条气孔线，幼叶气孔线被白粉；",
+    "flower": "",
+    "fruit": "球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，下面有4-6条气孔线，幼叶气孔线被白粉；",
+      "果：球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；"
+    ]
+  },
+  "knowledge": {
+    "summary": "雪松为乔木，在原产地高达75米，胸径4.3米，枝下高很低；树皮深灰色，裂成不规则的鳞状块片；大枝平展，枝梢微下垂，树冠宽塔形；叶针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，…。观察时再结合叶、果、茎等结构确认。",
+    "identificationReferences": [
+      "叶：针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，下面有4-6条气孔线，幼叶气孔线被白粉；",
+      "果：球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果、茎等可见结构。",
+      "先核对叶：针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，…；再以果球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；交叉确认。"
+    ],
+    "appearance": "叶针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，…；果球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；。",
+    "growthHabit": "乔木，在原产地高达75米，胸径4.3米，枝下高很低；树皮深灰色，裂成不规则的鳞状块片；大枝平展，枝梢微下垂，树冠宽塔形；",
+    "keyCharacteristics": [
+      "叶：针叶长2.5-5厘米，宽1-1.5毫米，先端锐尖，常呈三棱状，上面两侧各有2-3条气孔线，下面有4-6条气孔线，幼叶气孔线被白粉；",
+      "果：球果卵圆形、宽椭圆形或近球形，长7-12厘米，熟前淡绿色，微被白粉，熟时褐或栗褐色；"
+    ],
+    "observationTips": [
+      "将叶、果、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cedrus-deodara",
+      "title": "GBIF species record: Cedrus deodara",
+      "url": "https://api.gbif.org/v1/species/5284698",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-cedrus-deodara",
+      "title": "iPlant species page: Cedrus deodara",
+      "url": "https://www.iplant.cn/info/Cedrus%20deodara?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5284698"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

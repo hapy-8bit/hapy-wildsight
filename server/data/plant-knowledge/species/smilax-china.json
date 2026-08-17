@@ -1,0 +1,104 @@
+{
+  "id": "smilax-china",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菝葜",
+    "scientificName": "Smilax china",
+    "family": "菝葜科",
+    "genus": "菝葜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "攀援灌木。",
+    "stem": "根状茎不规则块状，径2-3厘米；茎长1-5米，疏生刺。",
+    "leaf": "叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落，常淡绿色；叶柄长0.5-1.5厘米，鞘一侧宽0.5-1毫米，长为叶柄1/2-2/3，与叶柄近等宽，几全部具卷须，脱落点近卷须。",
+    "flower": "花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄；雄花花药比花丝稍宽，常弯曲；雌花与雄花大小相似，有6枚退化雄蕊。",
+    "fruit": "浆果径0.6-1.5厘米，熟时红色，有粉霜。",
+    "habitat": "林下、灌丛中、路旁、河谷或山坡上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落。",
+      "花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄，雄花花药比花丝稍宽。",
+      "浆果径0.6-1.5厘米，熟时红色，有粉霜。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菝葜是攀援灌木。观察时重点看叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落，并结合花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄确认。",
+    "identificationReferences": [
+      "叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落。",
+      "花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落”。",
+      "补拍花或花序的整体与细节，核对“花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄”。"
+    ],
+    "appearance": "叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落。花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄。",
+    "growthHabit": "攀援灌木。林下、灌丛中、路旁、河谷或山坡上。",
+    "keyCharacteristics": [
+      "叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落。",
+      "花绿黄色，外花被片长3.5-4.5毫米，宽1.5-2毫米，内花被片稍窄。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶薄革质，干后常红褐或近古铜色，圆形、卵形或宽卵形，长3-10厘米，下面粉霜多少可脱落”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-smilax-china",
+      "title": "GBIF species record: Smilax china",
+      "url": "https://api.gbif.org/v1/species/5295472",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-smilax-china",
+      "title": "iPlant 植物智：菝葜（Smilax china）",
+      "url": "https://www.iplant.cn/info/Smilax%20china?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5295472"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

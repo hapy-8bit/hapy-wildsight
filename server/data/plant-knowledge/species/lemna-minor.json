@@ -1,0 +1,98 @@
+{
+  "id": "lemna-minor",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "浮萍",
+    "scientificName": "Lemna minor",
+    "family": "天南星科",
+    "genus": "浮萍属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "飘浮植物；",
+    "stem": "",
+    "leaf": "叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5毫米，宽2-3毫米，脉3条，下面垂生丝状根…",
+    "flower": "",
+    "fruit": "果近陀螺状；",
+    "habitat": "生湖边、水池、池塘、沟渠、缓流小溪；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5毫米，宽2-3毫米，脉3条，下面垂生丝状根…",
+      "果：果近陀螺状；"
+    ]
+  },
+  "knowledge": {
+    "summary": "浮萍为飘浮植物；叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5…。观察时再结合叶、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5毫米，宽2-3毫米，脉3条，下面垂生丝状根…",
+      "果：果近陀螺状；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果等可见结构。",
+      "先核对叶：状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5…；再以果近陀螺状；交叉确认。"
+    ],
+    "appearance": "叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5…；果近陀螺状；。",
+    "growthHabit": "飘浮植物；",
+    "keyCharacteristics": [
+      "叶：叶状体对称，上面绿色，下面浅黄、绿白或紫色，近圆形、倒卵形或倒卵状椭圆形，全缘，长1.5-5毫米，宽2-3毫米，脉3条，下面垂生丝状根…",
+      "果：果近陀螺状；"
+    ],
+    "observationTips": [
+      "将叶、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lemna-minor",
+      "title": "GBIF species record: Lemna minor",
+      "url": "https://api.gbif.org/v1/species/2867589",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-lemna-minor",
+      "title": "iPlant species page: Lemna minor",
+      "url": "https://www.iplant.cn/info/Lemna%20minor?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2867589"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

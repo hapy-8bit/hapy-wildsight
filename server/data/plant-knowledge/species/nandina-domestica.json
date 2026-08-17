@@ -1,0 +1,100 @@
+{
+  "id": "nandina-domestica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "南天竹",
+    "scientificName": "Nandina domestica",
+    "family": "小檗科",
+    "genus": "南天竹属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿小灌木；",
+    "stem": "茎常丛生而少分枝，高1-3米，光滑无毛，幼枝常为红色，老后呈灰色；",
+    "leaf": "叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；",
+    "flower": "圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状三角形，长1-2毫米，向内各轮渐大，最内轮萼…",
+    "fruit": "果柄长4-8毫米；浆果球形，直径5-8毫米，熟时鲜红色，稀橙红色；",
+    "habitat": "山地林下沟旁、路边或灌丛中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；",
+      "花：圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状三角形，长1-2毫米，向内各轮渐大，最内轮萼…"
+    ]
+  },
+  "knowledge": {
+    "summary": "南天竹为常绿小灌木；叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；",
+      "花：圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状三角形，长1-2毫米，向内各轮渐大，最内轮萼…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：互生，集生于茎的上部，三回羽状复叶，长30-50厘米；；再以花圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状…交叉确认。"
+    ],
+    "appearance": "叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；；花圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状…。",
+    "growthHabit": "常绿小灌木；",
+    "keyCharacteristics": [
+      "叶：叶互生，集生于茎的上部，三回羽状复叶，长30-50厘米；",
+      "花：圆锥花序直立，长20-35厘米；花小，白色，具芳香，直径6-7毫米；萼片多轮，外轮萼片卵状三角形，长1-2毫米，向内各轮渐大，最内轮萼…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nandina-domestica",
+      "title": "GBIF species record: Nandina domestica",
+      "url": "https://api.gbif.org/v1/species/5371712",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-nandina-domestica",
+      "title": "iPlant species page: Nandina domestica",
+      "url": "https://www.iplant.cn/info/Nandina%20domestica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5371712"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

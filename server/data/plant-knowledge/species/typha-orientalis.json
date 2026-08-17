@@ -1,0 +1,99 @@
+{
+  "id": "typha-orientalis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "香蒲",
+    "scientificName": "Typha orientalis",
+    "family": "香蒲科",
+    "genus": "香蒲属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生挺水草本。",
+    "stem": "地下茎发达，地上茎直立。",
+    "leaf": "叶片狭长，基部成丛。",
+    "flower": "雌雄花序上下相连，成熟时雌花序呈褐色圆柱形。",
+    "fruit": "果实细小，成熟后随花序散开。",
+    "habitat": "生于浅水、沼泽和水边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片狭长且成丛。",
+      "雌雄花序上下相连。",
+      "成熟雌花序呈褐色圆柱形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "香蒲是水边常见的挺水草本，可从狭长叶和褐色圆柱形雌花序辨认。",
+    "identificationReferences": [
+      "叶片狭长，常从基部成丛抽出。",
+      "花序分为上下相连的雄、雌两段；成熟雌花序为褐色圆柱形。"
+    ],
+    "howToConfirm": [
+      "拍摄整株、叶基部和完整花序。",
+      "结合浅水、沼泽或岸边生境判断。"
+    ],
+    "appearance": "植株直立，叶片长而狭，花序醒目。",
+    "growthHabit": "多年生挺水草本，常在水边形成丛生植株。",
+    "keyCharacteristics": [
+      "狭长叶片成丛。",
+      "褐色圆柱形雌花序。"
+    ],
+    "observationTips": [
+      "花序在不同成熟阶段颜色和质地会变化，可同时记录全株与近景。",
+      "水边拍摄应选择稳固岸边，不进入深水或软泥。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-typha-orientalis",
+      "title": "GBIF Species Match: Typha orientalis C. Presl",
+      "url": "https://api.gbif.org/v1/species/match?name=Typha%20orientalis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-typha-orientalis",
+      "title": "Flora of China search: Typha orientalis",
+      "url": "https://www.efloras.org/search.aspx?query=Typha%20orientalis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "5289521"
+  }
+}

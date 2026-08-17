@@ -1,0 +1,97 @@
+{
+  "id": "cyrtomium-falcatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "全缘贯众",
+    "scientificName": "Cyrtomium falcatum",
+    "family": "鳞毛蕨科",
+    "genus": "贯众属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根茎直立，密被披针形棕色鳞片。",
+    "leaf": "叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑；叶片宽披针形，长22-35厘米，宽12-15厘米，奇数一回羽状，侧生羽片5-14对，互生，平展或略向上斜展，有短柄，斜卵形或镰状披针形，常上弯，中部的长6-10厘米，宽2.5-3厘米，基部上侧圆，下侧宽楔形或弧形，边缘常波状，顶生羽片镰状披针形，2叉或3叉状，长4.5-8厘米，宽2-4厘米，叶脉羽状，上面不显，下面微隆起，侧脉联成网状，在主脉两侧各有3-4行网眼；叶革质，两面光滑；叶轴上面具纵沟，叶轴上面具纵沟，下面疏被具锯齿披针形棕色鳞片或近光滑。",
+    "flower": "孢子囊群遍布羽片背面。",
+    "fruit": "孢子囊群着生内藏小脉，密布羽片下面；囊群盖圆盾形，边缘具细齿。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形。",
+      "孢子囊群遍布羽片背面。",
+      "孢子囊群着生内藏小脉，密布羽片下面，囊群盖圆盾形，边缘具细齿。"
+    ]
+  },
+  "knowledge": {
+    "summary": "全缘贯众是多年生草本。观察时重点看叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形，并结合孢子囊群遍布羽片背面确认。",
+    "identificationReferences": [
+      "叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形。",
+      "孢子囊群遍布羽片背面。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群遍布羽片背面”。"
+    ],
+    "appearance": "叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形。孢子囊群遍布羽片背面。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形。",
+      "孢子囊群遍布羽片背面。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生：叶柄长15-27厘米，禾秆色，密被卵形棕色或中间带黑棕色边缘流苏状鳞片，向上近光滑，叶片宽披针形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cyrtomium-falcatum",
+      "title": "GBIF species record: Cyrtomium falcatum",
+      "url": "https://api.gbif.org/v1/species/2650829",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cyrtomium-falcatum",
+      "title": "iPlant 植物智：全缘贯众（Cyrtomium falcatum）",
+      "url": "https://www.iplant.cn/info/Cyrtomium%20falcatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650829"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

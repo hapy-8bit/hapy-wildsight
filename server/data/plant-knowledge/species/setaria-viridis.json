@@ -1,0 +1,99 @@
+{
+  "id": "setaria-viridis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "狗尾草",
+    "scientificName": "Setaria viridis",
+    "family": "禾本科",
+    "genus": "狗尾草属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "秆直立或基部膝曲。",
+    "leaf": "叶片线形，叶鞘口常有毛。",
+    "flower": "圆锥花序紧密，具刚毛。",
+    "fruit": "颖果。",
+    "habitat": "常见于路旁、荒地和农田边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "穗状、密集的圆锥花序。",
+      "小穗周围的刚毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "狗尾草可从紧密的穗状花序和包围小穗的刚毛观察。",
+    "identificationReferences": [
+      "花序紧密，常呈穗状。",
+      "小穗周围有明显刚毛。"
+    ],
+    "howToConfirm": [
+      "拍下完整花序和花序局部。",
+      "观察秆、叶鞘口和小穗周围刚毛。"
+    ],
+    "appearance": "花序紧密，成熟时常呈细长的穗状外观。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "刚毛围绕小穗。",
+      "紧密的圆锥花序。"
+    ],
+    "observationTips": [
+      "花序颜色会随成熟度变化。",
+      "避免只以俗称或单一穗色判断。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-setaria-viridis",
+      "title": "GBIF Species Match: Setaria viridis (L.) P.Beauv.",
+      "url": "https://api.gbif.org/v1/species/match?name=Setaria%20viridis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-setaria-viridis",
+      "title": "Flora of China search: Setaria viridis",
+      "url": "https://www.efloras.org/search.aspx?query=Setaria%20viridis",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "5289684"
+  }
+}

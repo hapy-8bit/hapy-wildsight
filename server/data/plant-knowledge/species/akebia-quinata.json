@@ -1,0 +1,99 @@
+{
+  "id": "akebia-quinata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "木通",
+    "scientificName": "Akebia quinata",
+    "family": "木通科",
+    "genus": "木通属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶或半常绿木质藤本，长达10米。",
+    "stem": "幼枝淡红褐色，老枝具灰或银白色皮孔。",
+    "leaf": "小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米；小叶倒卵形或倒卵状椭圆形，顶生小叶长(1.6)2.5-5(6.8)厘米，宽(0.8)1.2-2.4(3.2)厘米，侧生小叶较小，先端圆而稍凹入，基部阔楔形或圆形，全缘或浅波状，叶薄革质。",
+    "flower": "总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)，生于上部，雌花2，生于花序基部或无；雄花：花梗长(0.5-)0.8-1.5厘米，萼片3(4-5)，淡紫色，卵形或椭圆形，长(3)5-8毫米；雄蕊6(7)，紫黑色，长4-5毫米；雌花：花梗长2.5-5厘米，萼片3或4，紫红色，长0.9-1.7(2.2)厘米，卵形或卵圆形；退化雄蕊常与雌蕊同数互生；雌蕊5-7(-9)，紫红色。",
+    "fruit": "蓇葖果淡紫色，长6-9厘米，径3-5厘米。",
+    "habitat": "山地灌木丛、林缘和沟谷中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形。",
+      "总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)，生于上部。",
+      "蓇葖果淡紫色，长6-9厘米，径3-5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "木通是落叶或半常绿木质藤本。观察时重点看小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形，并结合总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)确认。",
+    "identificationReferences": [
+      "小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形。",
+      "总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形”。",
+      "补拍花或花序的整体与细节，核对“总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)”。"
+    ],
+    "appearance": "小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形。总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)。",
+    "growthHabit": "落叶或半常绿木质藤本。山地灌木丛、林缘和沟谷中。",
+    "keyCharacteristics": [
+      "小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形。",
+      "总状花序或伞房状花序，腋生，长（3)6-13厘米，每花序具雄花4-8(11)。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶5，稀3、4、6或7，叶柄长(2.5)3-14厘米，小叶柄长(0.4)0.7-1.7(2.3)厘米，小叶倒卵形或倒卵状椭圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-akebia-quinata",
+      "title": "GBIF species record: Akebia quinata",
+      "url": "https://api.gbif.org/v1/species/3033965",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-akebia-quinata",
+      "title": "iPlant 植物智：木通（Akebia quinata）",
+      "url": "https://www.iplant.cn/info/Akebia%20quinata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3033965"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

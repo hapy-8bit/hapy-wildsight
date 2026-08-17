@@ -1,0 +1,98 @@
+{
+  "id": "hosta-plantaginea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "玉簪",
+    "scientificName": "Hosta plantaginea",
+    "family": "天门冬科",
+    "genus": "玉簪属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本植物。",
+    "stem": "根状茎粗厚，径1.5-3厘米；",
+    "leaf": "叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-10对；叶柄长20-40厘米；",
+    "flower": "花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘米，内苞片很小；",
+    "fruit": "蒴果圆柱状，有3棱，长约6厘米，径约1厘米；",
+    "habitat": "林下、草坡或岩石边；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-10对；叶柄长20-40厘米；",
+      "花：花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘米，内苞片很小；"
+    ]
+  },
+  "knowledge": {
+    "summary": "玉簪为草本植物；叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-1…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-10对；叶柄长20-40厘米；",
+      "花：花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘米，内苞片很小；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-1…；再以花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘…交叉确认。"
+    ],
+    "appearance": "叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-1…；花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘…。",
+    "growthHabit": "草本植物。",
+    "keyCharacteristics": [
+      "叶：叶卵状心形、卵形或卵圆形，长14-24厘米，宽8-16厘米，先端近渐尖，基部心形，侧脉6-10对；叶柄长20-40厘米；",
+      "花：花葶高40-80厘米，具几花至10余花，外苞片卵形或披针形，长2.5-7厘米，宽1-1.5厘米，内苞片很小；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hosta-plantaginea",
+      "title": "GBIF species record: Hosta plantaginea",
+      "url": "https://api.gbif.org/v1/species/2771287",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-hosta-plantaginea",
+      "title": "iPlant species page: Hosta plantaginea",
+      "url": "https://www.iplant.cn/info/Hosta%20plantaginea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2771287"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

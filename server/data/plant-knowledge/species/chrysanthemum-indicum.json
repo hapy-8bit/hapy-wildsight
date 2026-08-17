@@ -1,0 +1,104 @@
+{
+  "id": "chrysanthemum-indicum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "野菊",
+    "scientificName": "Chrysanthemum indicum",
+    "family": "菊科",
+    "genus": "菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎枝疏被毛。",
+    "leaf": "中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形，裂片先端尖，叶柄长1-2厘米，柄基无耳或有分裂叶耳，两面淡绿色，或干后两面橄榄色，疏生柔毛。",
+    "flower": "头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序；总苞片约5层，边缘白或褐色宽膜质，先端钝或圆，外层卵形或卵状三角形，长2.5-3毫米，中层卵形，内层长椭圆形，长1；1厘米；舌状花黄色，舌片长1-1.3厘米，先端全缘或2-3齿。",
+    "fruit": "瘦果长1.5-1.8毫米。",
+    "habitat": "生于山坡草地、灌丛、河边水湿地、滨海盐渍地、田边及路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形。",
+      "头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质，先端钝或圆。",
+      "瘦果长1.5-1.8毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "野菊是多年生草本。观察时重点看中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形，并结合头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质确认。",
+    "identificationReferences": [
+      "中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形。",
+      "头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形”。",
+      "补拍花或花序的整体与细节，核对“头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质”。"
+    ],
+    "appearance": "中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形。头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质。",
+    "growthHabit": "多年生草本。生于山坡草地、灌丛、河边水湿地、滨海盐渍地、田边及路旁。",
+    "keyCharacteristics": [
+      "中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形。",
+      "头状花序径1.5-2.5厘米，排成疏散伞房圆锥花序或伞房状花序，总苞片约5层，边缘白或褐色宽膜质。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“中部茎生叶卵形、长卵形或椭圆状卵形，长3-7(-10)厘米，羽状半裂、浅裂，有浅锯齿，基部平截、稍心形或宽楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-chrysanthemum-indicum",
+      "title": "GBIF species record: Chrysanthemum indicum",
+      "url": "https://api.gbif.org/v1/species/3150814",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-chrysanthemum-indicum",
+      "title": "iPlant 植物智：野菊（Chrysanthemum indicum）",
+      "url": "https://www.iplant.cn/info/Chrysanthemum%20indicum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3150814"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

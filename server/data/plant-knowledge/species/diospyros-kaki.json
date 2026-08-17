@@ -1,0 +1,97 @@
+{
+  "id": "diospyros-kaki",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "柿",
+    "scientificName": "Diospyros kaki",
+    "family": "柿科",
+    "genus": "柿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "冬芽卵圆形，先端钝。",
+    "leaf": "叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽，无毛，下面绿色，有柔毛或无毛，中脉在上面凹下，有微柔毛。",
+    "flower": "聚伞花序腋生；雄花序长1-1.5厘米，弯垂，被柔毛或绒毛，有3(-5)花；花序梗长约5毫米，有微小苞片；雄花长0.5-1厘米，花梗长约3毫米；花萼钟状，两面有毛，4深裂，裂片卵形，长约7毫米，有睫毛；花冠钟形，不长过花萼2倍，黄白色，被毛，4裂，裂片卵形或心形，开展；雄蕊16-24；退化子房微小。",
+    "fruit": "果形种种，有球形，扁球形，球形而略呈方形，卵形等，基部通常有棱，嫩时绿色，后变黄色，橙黄色，果肉较脆硬，老熟时果肉变成柔软多汁，呈橙红色或大红色等，有种子数颗。",
+    "habitat": "柿树是深根性树种，又是阳性树种，喜温暖气候，充足阳光和深厚、肥沃、湿润、排水良好的土壤，适中性土壤，较能耐寒，较能耐瘠薄，抗旱性强，但不耐盐碱土。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽。",
+      "聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛，有3(-5)花。",
+      "果形种种，有球形，扁球形，球形而略呈方形，卵形等。"
+    ]
+  },
+  "knowledge": {
+    "summary": "柿是落叶乔木。观察时重点看叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽，并结合聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛确认。",
+    "identificationReferences": [
+      "叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽。",
+      "聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛”。"
+    ],
+    "appearance": "叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽。聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛。",
+    "growthHabit": "落叶乔木。柿树是深根性树种，又是阳性树种，喜温暖气候。",
+    "keyCharacteristics": [
+      "叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽。",
+      "聚伞花序腋生，雄花序长1-1.5厘米，弯垂，被柔毛或绒毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，卵状椭圆形、倒卵形或近圆形，新叶疏被柔毛，老叶上面深绿色，有光泽”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-diospyros-kaki",
+      "title": "GBIF species record: Diospyros kaki",
+      "url": "https://api.gbif.org/v1/species/3032984",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-diospyros-kaki",
+      "title": "iPlant 植物智：柿（Diospyros kaki）",
+      "url": "https://www.iplant.cn/info/Diospyros%20kaki?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3032984"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

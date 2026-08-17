@@ -1,0 +1,101 @@
+{
+  "id": "ottelia-alismoides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "龙舌草",
+    "scientificName": "Ottelia alismoides",
+    "family": "水鳖科",
+    "genus": "水车前属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "沉水草本。",
+    "stem": "根状茎短。",
+    "leaf": "叶基生，膜质；幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米，全缘或有细齿；叶柄长短随水体深浅而异，通常长2-40厘米，无鞘。",
+    "flower": "花两性，偶单性；佛焰苞椭圆形或卵形，具1花，长2.5-4厘米，顶端2-3浅裂，有3-6纵翅，翅有时呈摺叠波状，有时极窄，在翅不发达的脊上有时具瘤状凸起；总花梗长40-50厘米；花无梗，单生；花瓣白、淡紫或浅蓝色；雄蕊3-9(-12)，花丝具腺毛，花药条形，长2-4毫米，药隔扁平；子房下位，心皮3-9(-10)，花柱6-10，2深裂。",
+    "fruit": "果圆锥形，长2-5厘米。",
+    "habitat": "湖泊、沟渠、水塘、水田以及积水洼地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米。",
+      "花两性，偶单性，佛焰苞椭圆形或卵形，具1花，长2.5-4厘米。",
+      "果圆锥形，长2-5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "龙舌草是沉水草本。观察时重点看叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米，并结合花两性，偶单性，佛焰苞椭圆形或卵形，具1花确认。",
+    "identificationReferences": [
+      "叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米。",
+      "花两性，偶单性，佛焰苞椭圆形或卵形，具1花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米”。",
+      "补拍花或花序的整体与细节，核对“花两性，偶单性，佛焰苞椭圆形或卵形，具1花”。"
+    ],
+    "appearance": "叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米。花两性，偶单性，佛焰苞椭圆形或卵形，具1花。",
+    "growthHabit": "沉水草本。湖泊、沟渠、水塘、水田以及积水洼地。",
+    "keyCharacteristics": [
+      "叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米。",
+      "花两性，偶单性，佛焰苞椭圆形或卵形，具1花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生，膜质，幼叶线形或披针形，成熟叶多宽卵形、卵状椭圆形、近圆形或心形，长约20厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland",
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ottelia-alismoides",
+      "title": "GBIF species record: Ottelia alismoides",
+      "url": "https://api.gbif.org/v1/species/5329515",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ottelia-alismoides",
+      "title": "iPlant 植物智：龙舌草（Ottelia alismoides）",
+      "url": "https://www.iplant.cn/info/Ottelia%20alismoides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5329515"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

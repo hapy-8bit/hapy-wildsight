@@ -1,0 +1,103 @@
+{
+  "id": "arisaema-erubescens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "一把伞南星",
+    "scientificName": "Arisaema erubescens",
+    "family": "天南星科",
+    "genus": "天南星属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "块茎扁球形，径达6厘米。",
+    "stem": "块茎扁球形，径达6厘米。",
+    "leaf": "鳞叶绿白或粉红色，有紫褐色斑纹；叶1，极稀2；叶放射状分裂，幼株裂片3-4，多年生植株裂片多至20，披针形、长圆形或椭圆形，无柄，长（6-)8-24厘米，长渐尖，具线形长尾或无；叶柄长40-80厘米，中部以下具鞘，红或深绿色，具褐色斑块。",
+    "flower": "佛焰苞绿色，背面有白色或淡紫色条纹；雄肉穗花序花密，雄花淡绿至暗褐色，雄蕊2-4，附属器下部光滑；雌花序附属器棒状或圆柱形。",
+    "fruit": "浆果红色，种子1-2。",
+    "habitat": "林下、灌丛、草坡、荒地均有生长。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂。",
+      "佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色，雄蕊2-4。",
+      "浆果红色，种子1-2。"
+    ]
+  },
+  "knowledge": {
+    "summary": "一把伞南星的生长形态为块茎扁球形。观察时重点看鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂，并结合佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色确认。",
+    "identificationReferences": [
+      "鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂。",
+      "佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂”。",
+      "补拍花或花序的整体与细节，核对“佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色”。"
+    ],
+    "appearance": "鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂。佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色。",
+    "growthHabit": "块茎扁球形。林下、灌丛、草坡、荒地均有生长。",
+    "keyCharacteristics": [
+      "鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂。",
+      "佛焰苞绿色，背面有白色或淡紫色条纹，雄肉穗花序花密，雄花淡绿至暗褐色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“鳞叶绿白或粉红色，有紫褐色斑纹，叶1，极稀2，叶放射状分裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland",
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-arisaema-erubescens",
+      "title": "GBIF species record: Arisaema erubescens",
+      "url": "https://api.gbif.org/v1/species/2867313",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-arisaema-erubescens",
+      "title": "iPlant 植物智：一把伞南星（Arisaema erubescens）",
+      "url": "https://www.iplant.cn/info/Arisaema%20erubescens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2867313"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

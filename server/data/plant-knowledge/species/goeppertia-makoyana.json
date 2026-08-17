@@ -1,0 +1,96 @@
+{
+  "id": "goeppertia-makoyana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "孔雀竹芋",
+    "scientificName": "Goeppertia makoyana",
+    "family": "竹芋科",
+    "genus": "肖竹芋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生常绿草本，株高30-60cm。",
+    "stem": "",
+    "leaf": "叶柄紫红色；叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹，对应的叶背为紫色，叶片先端尖，基部圆，叶长可达30cm。",
+    "flower": "花白色。",
+    "fruit": "",
+    "habitat": "喜温暖、湿润环境，喜稍蔽荫环境，在全日照下也可生长，耐热，不耐寒；喜疏松、肥沃的微酸性壤土；生长适温20-28℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹。",
+      "花白色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "孔雀竹芋是多年生常绿草本。观察时重点看叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹，并结合花白色确认。",
+    "identificationReferences": [
+      "叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹。",
+      "花白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹”。",
+      "补拍花或花序的整体与细节，核对“花白色”。"
+    ],
+    "appearance": "叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹。花白色。",
+    "growthHabit": "多年生常绿草本。喜温暖、湿润环境，喜稍蔽荫环境，在全日照下也可生长。",
+    "keyCharacteristics": [
+      "叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹。",
+      "花白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄紫红色，叶片薄革质，卵状椭圆形，黄绿色，在主脉侧交互排列有羽状暗绿色的长椭圆形斑纹”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-goeppertia-makoyana",
+      "title": "GBIF species record: Goeppertia makoyana",
+      "url": "https://api.gbif.org/v1/species/7708211",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-goeppertia-makoyana",
+      "title": "iPlant 植物智：孔雀竹芋（Goeppertia makoyana）",
+      "url": "https://www.iplant.cn/info/Goeppertia%20makoyana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7708211"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

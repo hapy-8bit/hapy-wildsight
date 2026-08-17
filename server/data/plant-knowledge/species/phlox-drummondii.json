@@ -1,0 +1,97 @@
+{
+  "id": "phlox-drummondii",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "福禄考",
+    "scientificName": "Phlox drummondii",
+    "family": "花荵科",
+    "genus": "福禄考属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，单一或分枝，被腺毛。",
+    "leaf": "下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖，基部渐窄或稍抱茎，全缘，上面被毛；无柄。",
+    "flower": "花梗极短；花萼筒状，裂片披针状钻形，长2-3毫米，被柔毛，果时开展或外弯；花冠淡红、深红、紫、白或淡黄色，径1-2厘米，冠檐裂片圆形，稍短于冠筒；雄蕊及花柱短于花冠。",
+    "fruit": "蒴果椭圆形，长约5毫米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖。",
+      "花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米，被柔毛。",
+      "蒴果椭圆形，长约5毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "福禄考是一年生草本。观察时重点看下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖，并结合花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米确认。",
+    "identificationReferences": [
+      "下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖。",
+      "花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖”。",
+      "补拍花或花序的整体与细节，核对“花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米”。"
+    ],
+    "appearance": "下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖。花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖。",
+      "花梗极短，花萼筒状，裂片披针状钻形，长2-3毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“下部叶对生，上部叶互生，宽卵形、长圆形或披针形，长2-7.5厘米，先端尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-phlox-drummondii",
+      "title": "GBIF species record: Phlox drummondii",
+      "url": "https://api.gbif.org/v1/species/2927723",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-phlox-drummondii",
+      "title": "iPlant 植物智：福禄考（Phlox drummondii）",
+      "url": "https://www.iplant.cn/info/Phlox%20drummondii?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2927723"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

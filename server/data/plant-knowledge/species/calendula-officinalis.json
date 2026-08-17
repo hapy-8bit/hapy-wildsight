@@ -1,0 +1,98 @@
+{
+  "id": "calendula-officinalis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "金盏花",
+    "scientificName": "Calendula officinalis",
+    "family": "菊科",
+    "genus": "金盏菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎常自基部分枝，绿色或多少被腺状柔毛；",
+    "leaf": "基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；",
+    "flower": "头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，先端渐尖；小花黄或橙黄色，长于总苞2倍，舌片…",
+    "fruit": "瘦果全部弯曲，淡黄或淡褐色，外层瘦果多内弯，外面常具小针刺，顶端具喙，两侧具翅，脊部具规则横折皱；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；",
+      "花：头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，先端渐尖；小花黄或橙黄色，长于总苞2倍，舌片…"
+    ]
+  },
+  "knowledge": {
+    "summary": "金盏花为一年生草本；叶基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；",
+      "花：头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，先端渐尖；小花黄或橙黄色，长于总苞2倍，舌片…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；；再以花头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，…交叉确认。"
+    ],
+    "appearance": "叶基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；；花头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，…。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：基生叶长圆状倒卵形或匙形，长15-20厘米，全缘或具疏细齿，具柄；",
+      "花：头状花序单生茎枝顶端，径4-5厘米；总苞片1-2层，外层稍长于内层，披针形或长圆状披针形，先端渐尖；小花黄或橙黄色，长于总苞2倍，舌片…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-calendula-officinalis",
+      "title": "GBIF species record: Calendula officinalis",
+      "url": "https://api.gbif.org/v1/species/5391480",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-calendula-officinalis",
+      "title": "iPlant species page: Calendula officinalis",
+      "url": "https://www.iplant.cn/info/Calendula%20officinalis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5391480"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

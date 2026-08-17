@@ -1,0 +1,98 @@
+{
+  "id": "erigeron-annuus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "一年蓬",
+    "scientificName": "Erigeron annuus",
+    "family": "菊科",
+    "genus": "飞蓬属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "—年生或二年生草本；",
+    "stem": "茎下部被长硬毛，上部被上弯短硬毛；",
+    "leaf": "基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；",
+    "flower": "头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面密被腺毛和疏长毛：外围雌花舌状，2层，长6-…",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；",
+      "花：头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面密被腺毛和疏长毛：外围雌花舌状，2层，长6-…"
+    ]
+  },
+  "knowledge": {
+    "summary": "一年蓬为—年生或二年生草本；叶基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；",
+      "花：头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面密被腺毛和疏长毛：外围雌花舌状，2层，长6-…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；；再以花头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面…交叉确认。"
+    ],
+    "appearance": "叶基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；；花头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面…。",
+    "growthHabit": "—年生或二年生草本；",
+    "keyCharacteristics": [
+      "叶：基部叶长圆形或宽卵形，稀近圆形，长4-17厘米，基部窄成具翅长柄，具粗齿；",
+      "花：头状花序数个或多数，排成疏圆锥花序，总苞半球形，总苞片3层，披针形，淡绿色或多少褐色，背面密被腺毛和疏长毛：外围雌花舌状，2层，长6-…"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-erigeron-annuus",
+      "title": "GBIF species record: Erigeron annuus",
+      "url": "https://api.gbif.org/v1/species/3117449",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-erigeron-annuus",
+      "title": "iPlant species page: Erigeron annuus",
+      "url": "https://www.iplant.cn/info/Erigeron%20annuus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3117449"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

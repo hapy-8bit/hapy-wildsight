@@ -1,0 +1,98 @@
+{
+  "id": "parthenocissus-quinquefolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "五叶地锦",
+    "scientificName": "Parthenocissus quinquefolia",
+    "family": "葡萄科",
+    "genus": "地锦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "木质藤本；",
+    "stem": "小枝无毛；嫩芽为红或淡红色；卷须总状5-9分枝，嫩时顶端尖细而卷曲，遇附着物时扩大为吸盘；",
+    "leaf": "5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖，基部楔形或宽楔形，有粗锯齿，两面无毛或下面…",
+    "flower": "圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；花萼碟形，边缘全缘，无毛；花瓣长椭圆形；",
+    "fruit": "果球形，径1-1.2厘米，有种子1-4；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖，基部楔形或宽楔形，有粗锯齿，两面无毛或下面…",
+      "花：圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；花萼碟形，边缘全缘，无毛；花瓣长椭圆形；"
+    ]
+  },
+  "knowledge": {
+    "summary": "五叶地锦为木质藤本；叶5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖，基部楔形或宽楔形，有粗锯齿，两面无毛或下面…",
+      "花：圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；花萼碟形，边缘全缘，无毛；花瓣长椭圆形；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖…；再以花圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；交叉确认。"
+    ],
+    "appearance": "叶5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖…；花圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；。",
+    "growthHabit": "木质藤本；",
+    "keyCharacteristics": [
+      "叶：5小叶掌状复叶，小叶倒卵圆形、倒卵状椭圆形或外侧小叶椭圆形，长5.5-15厘米，先端短尾尖，基部楔形或宽楔形，有粗锯齿，两面无毛或下面…",
+      "花：圆锥状多歧聚伞花序假顶生，序轴明显，长8-20厘米，花序梗长3-5厘米；花萼碟形，边缘全缘，无毛；花瓣长椭圆形；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-parthenocissus-quinquefolia",
+      "title": "GBIF species record: Parthenocissus quinquefolia",
+      "url": "https://api.gbif.org/v1/species/3039194",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-parthenocissus-quinquefolia",
+      "title": "iPlant species page: Parthenocissus quinquefolia",
+      "url": "https://www.iplant.cn/info/Parthenocissus%20quinquefolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3039194"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

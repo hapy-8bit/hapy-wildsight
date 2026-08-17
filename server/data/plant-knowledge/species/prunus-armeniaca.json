@@ -1,0 +1,97 @@
+{
+  "id": "prunus-armeniaca",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杏",
+    "scientificName": "Prunus armeniaca",
+    "family": "蔷薇科",
+    "genus": "李属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝无毛。",
+    "leaf": "叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿，两面无毛或下面脉腋具柔毛；叶柄长2-3.5厘米，无毛，基部常具1-6腺体。",
+    "flower": "花梗长1-3毫米，被柔毛；花萼紫绿色，萼筒圆筒形，基部被柔毛，萼片卵形或卵状长圆形，花后反折：花瓣圆形或倒卵形，白色带红晕；花柱下部具柔毛。",
+    "fruit": "核果球形，稀倒卵圆形，径约2.5厘米以上，熟时白、黄或黄红色，常具红晕，微被柔毛；果肉多汁，熟时不裂；核卵圆形或椭圆形，两侧扁平，顶端钝圆，基部对称，稀不对称，稍粗糙或平滑，腹棱较钝圆，背棱较直，腹面具龙骨状棱。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿。",
+      "花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形，基部被柔毛。",
+      "核果球形，稀倒卵圆形，径约2.5厘米以上，熟时白、黄或黄红色，常具红晕。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杏是乔木。观察时重点看叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿，并结合花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形确认。",
+    "identificationReferences": [
+      "叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿。",
+      "花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿”。",
+      "补拍花或花序的整体与细节，核对“花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形”。"
+    ],
+    "appearance": "叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿。花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形。",
+    "growthHabit": "乔木。",
+    "keyCharacteristics": [
+      "叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿。",
+      "花梗长1-3毫米，被柔毛，花萼紫绿色，萼筒圆筒形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶宽卵形或圆卵形，长5-9厘米，先端尖或短渐尖，基部圆或近心形，有钝圆锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-prunus-armeniaca",
+      "title": "GBIF species record: Prunus armeniaca",
+      "url": "https://api.gbif.org/v1/species/7818643",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-prunus-armeniaca",
+      "title": "iPlant 植物智：杏（Prunus armeniaca）",
+      "url": "https://www.iplant.cn/info/Prunus%20armeniaca?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7818643"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

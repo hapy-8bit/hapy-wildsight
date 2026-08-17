@@ -1,0 +1,102 @@
+{
+  "id": "cichorium-intybus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菊苣",
+    "scientificName": "Cichorium intybus",
+    "family": "菊科",
+    "genus": "菊苣属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎枝绿色，疏被弯曲糙毛或刚毛或几无毛。",
+    "leaf": "基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿，侧裂片3-6对或更多，侧裂片镰形或三角形，基部渐窄有翼柄；茎生叶卵状倒披针形或披针形，基部圆或戟形半抱茎，叶质薄，两面疏被长节毛，无柄。",
+    "flower": "头状花序单生或集生茎枝端，或排成穗状花序；总苞圆柱状，长0.8-1.2厘米，总苞片2层，有长缘毛，背面有极稀疏的长腺毛或单毛，外层披针形，长0.8-1.3厘米，上部绿色，草质，下半部淡黄白色，革质；内层线状披针形，长达1.2厘米；舌状小花蓝色。",
+    "fruit": "瘦果倒卵圆形、椭圆形或倒楔形，褐色，有棕黑色色斑；冠毛长0.2-0.3毫米。",
+    "habitat": "滨海荒地、河边、水沟边或山坡。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿。",
+      "头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米，总苞片2层。",
+      "瘦果倒卵圆形、椭圆形或倒楔形，褐色，有棕黑色色斑，冠毛长0.2-0.3毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菊苣是多年生草本。观察时重点看基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿，并结合头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米确认。",
+    "identificationReferences": [
+      "基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿。",
+      "头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米”。"
+    ],
+    "appearance": "基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿。头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米。",
+    "growthHabit": "多年生草本。滨海荒地、河边、水沟边或山坡。",
+    "keyCharacteristics": [
+      "基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿。",
+      "头状花序单生或集生茎枝端，或排成穗状花序，总苞圆柱状，长0.8-1.2厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶莲座状，倒披针状长椭圆形，长15-34厘米，大头状倒向羽状深裂或羽状深裂或不裂，疏生尖锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cichorium-intybus",
+      "title": "GBIF species record: Cichorium intybus",
+      "url": "https://api.gbif.org/v1/species/5392252",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cichorium-intybus",
+      "title": "iPlant 植物智：菊苣（Cichorium intybus）",
+      "url": "https://www.iplant.cn/info/Cichorium%20intybus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5392252"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

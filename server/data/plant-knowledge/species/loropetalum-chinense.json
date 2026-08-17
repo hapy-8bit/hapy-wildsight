@@ -1,0 +1,102 @@
+{
+  "id": "loropetalum-chinense",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "檵木",
+    "scientificName": "Loropetalum chinense",
+    "family": "金缕梅科",
+    "genus": "檵木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木或小乔木。",
+    "stem": "灌木，有时为小乔木，多分枝，小枝有星毛。",
+    "leaf": "叶革质，卵形，先端尖锐，基部钝，歪斜。",
+    "flower": "花3-8朵簇生，有短花梗，白色，比新叶先开放，或与嫩叶同时开放，花序柄被毛，萼筒杯状，花瓣4片，带状；雄蕊4，退化雄蕊4，鳞片状，与雄蕊互生，子房完全下位。",
+    "fruit": "蒴果卵圆形，先端圆。",
+    "habitat": "喜向阳的丘陵及山地，亦常出现在马尾松林及杉林下，是1种常见的灌木，惟在北回归线以南则未见它的踪迹。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，卵形，先端尖锐，基部钝，歪斜。",
+      "花3-8朵簇生，有短花梗，白色，比新叶先开放，或与嫩叶同时开放。",
+      "蒴果卵圆形，先端圆。"
+    ]
+  },
+  "knowledge": {
+    "summary": "檵木是灌木或小乔木。观察时重点看叶革质，卵形，先端尖锐，基部钝，歪斜，并结合花3-8朵簇生，有短花梗，白色，比新叶先开放确认。",
+    "identificationReferences": [
+      "叶革质，卵形，先端尖锐，基部钝，歪斜。",
+      "花3-8朵簇生，有短花梗，白色，比新叶先开放。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，卵形，先端尖锐，基部钝，歪斜”。",
+      "补拍花或花序的整体与细节，核对“花3-8朵簇生，有短花梗，白色，比新叶先开放”。"
+    ],
+    "appearance": "叶革质，卵形，先端尖锐，基部钝，歪斜。花3-8朵簇生，有短花梗，白色，比新叶先开放。",
+    "growthHabit": "灌木或小乔木。喜向阳的丘陵及山地，亦常出现在马尾松林及杉林下，是1种常见的灌木。",
+    "keyCharacteristics": [
+      "叶革质，卵形，先端尖锐，基部钝，歪斜。",
+      "花3-8朵簇生，有短花梗，白色，比新叶先开放。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，卵形，先端尖锐，基部钝，歪斜”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-loropetalum-chinense",
+      "title": "GBIF species record: Loropetalum chinense",
+      "url": "https://api.gbif.org/v1/species/7329104",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-loropetalum-chinense",
+      "title": "iPlant 植物智：檵木（Loropetalum chinense）",
+      "url": "https://www.iplant.cn/info/Loropetalum%20chinense?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7329104"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

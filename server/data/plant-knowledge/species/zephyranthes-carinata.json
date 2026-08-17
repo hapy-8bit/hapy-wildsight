@@ -1,0 +1,99 @@
+{
+  "id": "zephyranthes-carinata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "韭莲",
+    "scientificName": "Zephyranthes carinata",
+    "family": "石蒜科",
+    "genus": "葱莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "鳞茎卵球形，直径2-3厘米。",
+    "leaf": "基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米。",
+    "flower": "花梗长2-3厘米；花玫瑰红色或粉红色；花被管长1-2.5厘米，花被裂片6，裂片倒卵形，顶端略尖，长3-6厘米；雄蕊6，长约为花被的2/3-4/5，花药丁字形着生；子房下位，3室，胚珠多数，花柱细长，柱头深3裂。",
+    "fruit": "蒴果近球形；种子黑色。",
+    "habitat": "花单生于花茎顶端，下有佛焰苞状总苞，总苞片常带淡紫红色，长4-5厘米，下部合生成管；花梗长2-3厘米；花玫瑰红色或粉红色；花被管长1-2.5厘米，花被裂片6，裂片倒卵形，顶端略尖，长3-6厘米；雄蕊6，长约为花被的2/3-4/5，花药丁字形着生；子房下位，3室，胚珠多数，花柱细长，柱头深3裂。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米。",
+      "花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6，裂片倒卵形。",
+      "蒴果近球形，种子黑色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "韭莲是多年生草本。观察时重点看基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米，并结合花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6确认。",
+    "identificationReferences": [
+      "基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米。",
+      "花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米”。",
+      "补拍花或花序的整体与细节，核对“花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6”。"
+    ],
+    "appearance": "基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米。花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6。",
+    "growthHabit": "多年生草本。花单生于花茎顶端，下有佛焰苞状总苞，总苞片常带淡紫红色。",
+    "keyCharacteristics": [
+      "基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米。",
+      "花梗长2-3厘米，花玫瑰红色或粉红色，花被管长1-2.5厘米，花被裂片6。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶常数枚簇生，线形，扁平，长15-30厘米，宽6-8毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zephyranthes-carinata",
+      "title": "GBIF species record: Zephyranthes carinata",
+      "url": "https://api.gbif.org/v1/species/2859952",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-zephyranthes-carinata",
+      "title": "iPlant 植物智：韭莲（Zephyranthes carinata）",
+      "url": "https://www.iplant.cn/info/Zephyranthes%20carinata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2859952"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

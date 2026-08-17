@@ -1,0 +1,106 @@
+{
+  "id": "pteridium-aquilinum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "欧洲蕨",
+    "scientificName": "Pteridium aquilinum",
+    "family": "蕨科",
+    "genus": "蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生陆生蕨类。",
+    "stem": "根茎粗壮而横走，可在地下延伸。",
+    "leaf": "叶柄直立，叶片大而近三角形，通常二至三回羽状分裂。",
+    "flower": "",
+    "fruit": "",
+    "habitat": "常见于林缘、开阔地或受扰动生境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "横走根茎与疏生的大型叶。",
+      "近三角形、二至三回羽状分裂的叶片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "欧洲蕨是多年生陆生蕨类；大型近三角形叶片通常二至三回羽状分裂，并由横走根茎抽出。",
+    "identificationReferences": [
+      "叶片大而近三角形，通常二至三回羽状分裂。",
+      "根茎粗壮横走，叶不密集成簇。"
+    ],
+    "howToConfirm": [
+      "拍摄完整叶片轮廓和叶柄基部，记录叶片的分裂层次。",
+      "在不挖掘植株的前提下观察叶是否由地下横走根茎间隔抽生。"
+    ],
+    "appearance": "叶片大型近三角形，常见二至三回羽状分裂。",
+    "growthHabit": "多年生陆生蕨类。",
+    "keyCharacteristics": [
+      "横走根茎。",
+      "疏生的大型三角形多回羽状叶。"
+    ],
+    "observationTips": [
+      "拍整叶轮廓并补拍羽片边缘和叶背。",
+      "不要为查看根茎而挖掘或破坏群落。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pteridium-aquilinum",
+      "title": "GBIF species record: Pteridium aquilinum",
+      "url": "https://api.gbif.org/v1/species/5275012",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-pteridium-aquilinum",
+      "title": "iPlant species page: Pteridium aquilinum",
+      "url": "https://www.iplant.cn/info/Pteridium%20aquilinum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name"
+      ]
+    },
+    {
+      "id": "illinoiswildflowers-pteridium-aquilinum",
+      "title": "Illinois Wildflowers: Bracken Fern (Pteridium aquilinum)",
+      "url": "https://www.illinoiswildflowers.info/grasses/plants/bracken_fern.htm",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5275012"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

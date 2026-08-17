@@ -1,0 +1,114 @@
+{
+  "id": "spirodela-polyrhiza",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫萍",
+    "scientificName": "Spirodela polyrhiza",
+    "family": "天南星科",
+    "genus": "紫萍属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生水生草本，叶状体漂浮于水面。",
+    "stem": "",
+    "leaf": "叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆，上面绿色、下面紫色；叶状体下面中央生5-11条根，根旁一侧囊内可形成圆形新芽。",
+    "flower": "花未见，据记载，肉穗花序有2个雄花和1个雌花。",
+    "fruit": "",
+    "habitat": "生于水田、水塘、湖湾和水沟。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶状体扁平、宽倒卵形，上面绿色、下面紫色。",
+      "叶状体下面中央生5-11条根，根旁一侧囊内可形成圆形新芽。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫萍是多年生水生草本。观察时重点看叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆，并结合花未见，据记载，肉穗花序有2个雄花和1个雌花确认。",
+    "identificationReferences": [
+      "叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆。",
+      "花未见，据记载，肉穗花序有2个雄花和1个雌花。"
+    ],
+    "howToConfirm": [
+      "近拍叶状体正反面、边缘及附属结构，核对“叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆”。",
+      "补拍花或花序的整体与细节，核对“花未见，据记载，肉穗花序有2个雄花和1个雌花”。"
+    ],
+    "appearance": "叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆。花未见，据记载，肉穗花序有2个雄花和1个雌花。",
+    "growthHabit": "多年生水生草本。生于水田、水塘、湖湾和水沟。",
+    "keyCharacteristics": [
+      "叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆。",
+      "花未见，据记载，肉穗花序有2个雄花和1个雌花。"
+    ],
+    "observationTips": [
+      "记录叶状体的形状、表面和附属结构，重点核对“叶状体扁平，宽倒卵形，长5-8毫米，宽4-6毫米，先端钝圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland",
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-spirodela-polyrhiza",
+      "title": "GBIF species record: Spirodela polyrhiza",
+      "url": "https://api.gbif.org/v1/species/4097481",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-spirodela-polyrhiza",
+      "title": "iPlant 植物智：紫萍（Spirodela polyrhiza）",
+      "url": "https://www.iplant.cn/info/Spirodela%20polyrhiza?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-spirodela-polyrhiza",
+      "title": "NC State Extension Plant Toolbox: Spirodela polyrhiza",
+      "url": "https://plants.ces.ncsu.edu/plants/spirodela-polyrhiza/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4097481"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

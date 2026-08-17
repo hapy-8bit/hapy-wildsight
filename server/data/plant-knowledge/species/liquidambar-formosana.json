@@ -1,0 +1,99 @@
+{
+  "id": "liquidambar-formosana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "枫香树",
+    "scientificName": "Liquidambar formosana",
+    "family": "蕈树科",
+    "genus": "枫香树属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "大乔木。",
+    "stem": "小枝被柔毛。",
+    "leaf": "叶宽卵形，掌状3裂，基部心形具锯齿；托叶线形，早落。",
+    "flower": "短穗状雄花序多个组成总状，雄蕊多数，花丝不等长；头状雌花序具花24-43，花序梗长3-6厘米，萼齿4-7，针形，长4-8毫米，子房被柔毛，花柱长0.6-1厘米，卷曲。",
+    "fruit": "头状果序球形，木质，蒴果下部藏于果序轴内。",
+    "habitat": "多生于平地，村落附近及低山的次生林，萌生力极强。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落。",
+      "短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43，花序梗长3-6厘米。",
+      "头状果序球形，木质，蒴果下部藏于果序轴内。"
+    ]
+  },
+  "knowledge": {
+    "summary": "枫香树是大乔木。观察时重点看叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落，并结合短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43确认。",
+    "identificationReferences": [
+      "叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落。",
+      "短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落”。",
+      "补拍花或花序的整体与细节，核对“短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43”。"
+    ],
+    "appearance": "叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落。短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43。",
+    "growthHabit": "大乔木。多生于平地，村落附近及低山的次生林，萌生力极强。",
+    "keyCharacteristics": [
+      "叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落。",
+      "短穗状雄花序多个组成总状，雄蕊多数，花丝不等长，头状雌花序具花24-43。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶宽卵形，掌状3裂，基部心形具锯齿，托叶线形，早落”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-liquidambar-formosana",
+      "title": "GBIF species record: Liquidambar formosana",
+      "url": "https://api.gbif.org/v1/species/3702542",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-liquidambar-formosana",
+      "title": "iPlant 植物智：枫香树（Liquidambar formosana）",
+      "url": "https://www.iplant.cn/info/Liquidambar%20formosana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3702542"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "echinochloa-crus-galli",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "稗",
+    "scientificName": "Echinochloa crus-galli",
+    "family": "禾本科",
+    "genus": "稗属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本",
+    "stem": "秆高40-90厘米；",
+    "leaf": "叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；",
+    "flower": "圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；",
+    "fruit": "",
+    "habitat": "田野水湿处；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；",
+      "花：圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；"
+    ]
+  },
+  "knowledge": {
+    "summary": "稗为一年生草本；叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；",
+      "花：圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；；再以花圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；交叉确认。"
+    ],
+    "appearance": "叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；；花圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；。",
+    "growthHabit": "一年生草本",
+    "keyCharacteristics": [
+      "叶：叶鞘平滑无毛；叶舌缺；叶片扁平，线形，长10-30厘米，宽6-12毫米；",
+      "花：圆锥花序狭窄，长5-15厘米，宽1-1.5厘米，分枝上不具小枝，有时中部轮生；"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-echinochloa-crus-galli",
+      "title": "GBIF species record: Echinochloa crus-galli",
+      "url": "https://api.gbif.org/v1/species/2702808",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-echinochloa-crus-galli",
+      "title": "iPlant species page: Echinochloa crus-galli",
+      "url": "https://www.iplant.cn/info/Echinochloa%20crus-galli?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2702808"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

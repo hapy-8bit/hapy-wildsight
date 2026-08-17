@@ -1,0 +1,101 @@
+{
+  "id": "commelina-communis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸭跖草",
+    "scientificName": "Commelina communis",
+    "family": "鸭跖草科",
+    "genus": "鸭跖草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "—年生披散草本。",
+    "stem": "茎匍匐生根，多分枝，长达1米，下部无毛，上部被短毛。",
+    "leaf": "叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米。",
+    "flower": "花梗花期长3毫米，果期弯曲，长不及6毫米；萼片膜质，长约5毫米，内面2枚常靠近或合生；花瓣深蓝色，内面2枚具爪，长约1厘米。",
+    "fruit": "蒴果椭圆形，长5-7毫米，2室，2月裂，种子4。",
+    "habitat": "常见，湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米。",
+      "花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质，长约5毫米。",
+      "蒴果椭圆形，长5-7毫米，2室，2月裂，种子4。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸭跖草是—年生披散草本。观察时重点看叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米，并结合花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质确认。",
+    "identificationReferences": [
+      "叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米。",
+      "花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质”。"
+    ],
+    "appearance": "叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米。花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质。",
+    "growthHabit": "—年生披散草本。常见，湿地。",
+    "keyCharacteristics": [
+      "叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米。",
+      "花梗花期长3毫米，果期弯曲，长不及6毫米，萼片膜质。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶披针形或卵状披针形，长3-9厘米，宽1.5-2厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-commelina-communis",
+      "title": "GBIF species record: Commelina communis",
+      "url": "https://api.gbif.org/v1/species/2764179",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-commelina-communis",
+      "title": "iPlant 植物智：鸭跖草（Commelina communis）",
+      "url": "https://www.iplant.cn/info/Commelina%20communis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2764179"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

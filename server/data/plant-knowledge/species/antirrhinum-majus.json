@@ -1,0 +1,97 @@
+{
+  "id": "antirrhinum-majus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "金鱼草",
+    "scientificName": "Antirrhinum majus",
+    "family": "车前科",
+    "genus": "金鱼草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常作一、二年生花卉栽培。",
+    "stem": "茎直立，高30-80cm。",
+    "leaf": "茎下部的叶对生，上部的互生；叶片披针形至长圆状披针形，长3-7cm，先端渐尖，基部楔形，全缘。",
+    "flower": "总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色。",
+    "fruit": "蒴果卵形。",
+    "habitat": "较耐寒，不耐热；喜阳光，也耐半阴；喜肥沃、疏松和排水良好的微酸性砂质壤土；对光照长短反应不敏感；生长适温16℃-26℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖。",
+      "总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色。",
+      "蒴果卵形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "金鱼草是常作一、二年生花卉栽培。观察时重点看茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖，并结合总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色确认。",
+    "identificationReferences": [
+      "茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖。",
+      "总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖”。",
+      "补拍花或花序的整体与细节，核对“总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色”。"
+    ],
+    "appearance": "茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖。总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色。",
+    "growthHabit": "常作一、二年生花卉栽培。较耐寒，不耐热，喜阳光。",
+    "keyCharacteristics": [
+      "茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖。",
+      "总状花序顶生，花冠二唇瓣，基部膨大，有火红、金黄、艳粉、纯白和复色等色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“茎下部的叶对生，上部的互生，叶片披针形至长圆状披针形，长3-7cm，先端渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-antirrhinum-majus",
+      "title": "GBIF species record: Antirrhinum majus",
+      "url": "https://api.gbif.org/v1/species/3172001",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-antirrhinum-majus",
+      "title": "iPlant 植物智：金鱼草（Antirrhinum majus）",
+      "url": "https://www.iplant.cn/info/Antirrhinum%20majus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172001"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

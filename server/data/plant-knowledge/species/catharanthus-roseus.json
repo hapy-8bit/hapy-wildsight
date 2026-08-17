@@ -1,0 +1,100 @@
+{
+  "id": "catharanthus-roseus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "长春花",
+    "scientificName": "Catharanthus roseus",
+    "family": "夹竹桃科",
+    "genus": "长春花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "半灌木。",
+    "stem": "茎近方形，有条纹，灰绿色；节间长1-3.5厘米。",
+    "leaf": "叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆，有短尖头，基部广楔形至楔形，渐狭而成叶柄；叶脉在叶面扁平，在叶背略隆起，侧脉约8对。",
+    "flower": "聚伞花序腋生或顶生，有花2-3朵；花萼5深裂，内面无腺体或腺体不明显，萼片披针形或钻状渐尖，长约3毫米；花冠红色，高脚碟状，花冠筒圆筒状，长约2.6厘米，内面具疏柔毛，喉部紧缩，具刚毛；花冠裂片宽倒卵形，长和宽约1.5厘米；雄蕊着生于花冠筒的上半部，但花药隐藏于花喉之内，与柱头离生；子房和花盘与属的特征相同。",
+    "fruit": "蓇葖双生，直立，平行或略叉开，长约2.5厘米，直径3毫米；外果皮厚纸质，有条纹，被柔毛；种子黑色，长圆状圆筒形，两端截形，具有颗粒状小瘤。",
+    "habitat": "生于空旷荒芜地方。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆。",
+      "聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显，萼片披针形或钻状渐尖。",
+      "蓇葖双生，直立，平行或略叉开，长约2.5厘米，直径3毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "长春花是半灌木。观察时重点看叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆，并结合聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显确认。",
+    "identificationReferences": [
+      "叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆。",
+      "聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显”。"
+    ],
+    "appearance": "叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆。聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显。",
+    "growthHabit": "半灌木。生于空旷荒芜地方。",
+    "keyCharacteristics": [
+      "叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆。",
+      "聚伞花序腋生或顶生，有花2-3朵，花萼5深裂，内面无腺体或腺体不明显。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶膜质，倒卵状长圆形，长3-4厘米，宽1.5-2.5厘米，先端浑圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "subshrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-catharanthus-roseus",
+      "title": "GBIF species record: Catharanthus roseus",
+      "url": "https://api.gbif.org/v1/species/3169830",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-catharanthus-roseus",
+      "title": "iPlant 植物智：长春花（Catharanthus roseus）",
+      "url": "https://www.iplant.cn/info/Catharanthus%20roseus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3169830"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

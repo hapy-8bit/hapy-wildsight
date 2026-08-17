@@ -1,0 +1,107 @@
+{
+  "id": "hedera-helix",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "洋常春藤",
+    "scientificName": "Hedera helix",
+    "family": "五加科",
+    "genus": "常春藤属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿木质藤本。",
+    "stem": "茎可攀援，借不定根附着于支撑物。",
+    "leaf": "幼枝叶常3—5裂；开花枝叶通常不裂而呈卵形或菱状卵形。",
+    "flower": "花小，黄绿色，常聚成伞形花序。",
+    "fruit": "果为近球形浆果，成熟呈深色。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "攀援茎上的不定根。",
+      "幼枝裂叶与开花枝不裂叶的差异。"
+    ]
+  },
+  "knowledge": {
+    "summary": "洋常春藤为常绿木质藤本，能以茎上的不定根攀附；幼枝常见裂叶，开花枝叶多不裂。",
+    "identificationReferences": [
+      "攀援茎具有附着用不定根。",
+      "幼枝裂叶、开花枝不裂叶是重要观察线索。"
+    ],
+    "howToConfirm": [
+      "拍摄攀援茎和与墙面或树干相接处，观察不定根。",
+      "分别记录幼枝与成熟开花枝的叶形，避免只用一类叶片判断。"
+    ],
+    "appearance": "幼枝叶常裂，开花枝叶多为不裂的卵形或菱状卵形。",
+    "growthHabit": "常绿木质藤本。",
+    "keyCharacteristics": [
+      "攀援茎上的不定根。",
+      "不同枝龄的叶形差异。"
+    ],
+    "observationTips": [
+      "拍摄叶片正反面、叶柄和攀附茎。",
+      "若有花果，再补拍伞形花序或深色浆果。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hedera-helix",
+      "title": "GBIF species record: Hedera helix",
+      "url": "https://api.gbif.org/v1/species/8351737",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-hedera-helix",
+      "title": "iPlant species page: Hedera helix",
+      "url": "https://www.iplant.cn/info/Hedera%20helix?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name"
+      ]
+    },
+    {
+      "id": "rhs-hedera-helix",
+      "title": "Royal Horticultural Society: Hedera helix",
+      "url": "https://www.rhs.org.uk/plants/8726/hedera-helix/details",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8351737"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

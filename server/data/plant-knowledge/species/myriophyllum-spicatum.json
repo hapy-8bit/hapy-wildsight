@@ -1,0 +1,101 @@
+{
+  "id": "myriophyllum-spicatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "穗状狐尾藻",
+    "scientificName": "Myriophyllum spicatum",
+    "family": "小二仙草科",
+    "genus": "狐尾藻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生沉水草本。",
+    "stem": "根状茎发达；茎长1-2.5米，多分枝。",
+    "leaf": "叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形，长1-1.5厘米；叶柄极短或缺。",
+    "flower": "单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生，由多花组成顶生或腋生穗状花序，长6-10厘米；如为单性花，则上部为雄花，下部为雌花，中部有时为两性花，基部有1对苞片，其中1片稍大，宽椭圆形，长1-3毫米，全缘或羽状齿裂；雄花萼筒宽钟状，顶端4深裂，平滑；花瓣4，宽匙形，凹入，长2.5毫米，顶端圆，粉红色；雄蕊8，花药长椭圆形，长2毫米，淡黄色；无花梗。",
+    "fruit": "果爿宽卵形或卵状楠圆形，长2-3毫米，具4纵深沟，沟缘光滑或有时具小瘤。",
+    "habitat": "花两性，单性或杂性，雌雄同株，单生于苞片状叶腋内，常4朵轮生，由多数花排成近裸颓的顶生或腋生的穗状花序，长6-10厘米，生于水面上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形。",
+      "单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生，由多花组成顶生或腋生穗状花序。",
+      "果爿宽卵形或卵状楠圆形，长2-3毫米，具4纵深沟，沟缘光滑或有时具小瘤。"
+    ]
+  },
+  "knowledge": {
+    "summary": "穗状狐尾藻是多年生沉水草本。观察时重点看叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形，并结合单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生确认。",
+    "identificationReferences": [
+      "叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形。",
+      "单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形”。",
+      "补拍花或花序的整体与细节，核对“单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生”。"
+    ],
+    "appearance": "叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形。单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生。",
+    "growthHabit": "多年生沉水草本。花两性，单性或杂性，雌雄同株。",
+    "keyCharacteristics": [
+      "叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形。",
+      "单性或杂性，雌雄同株，单生于水上枝苞片状叶腋，常4花轮生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶(3-4)5(4-6)片轮生，长3.5厘米，丝状细裂，裂片约13对，线形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-myriophyllum-spicatum",
+      "title": "GBIF species record: Myriophyllum spicatum",
+      "url": "https://api.gbif.org/v1/species/5361760",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-myriophyllum-spicatum",
+      "title": "iPlant 植物智：穗状狐尾藻（Myriophyllum spicatum）",
+      "url": "https://www.iplant.cn/info/Myriophyllum%20spicatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5361760"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

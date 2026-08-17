@@ -1,0 +1,100 @@
+{
+  "id": "lagerstroemia-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫薇",
+    "scientificName": "Lagerstroemia indica",
+    "family": "千屈菜科",
+    "genus": "紫薇属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "落叶灌木或小乔木。",
+    "stem": "树皮较光滑，常呈片状剥落。",
+    "leaf": "叶通常对生，偶有近对生；叶片椭圆形至倒卵形。",
+    "flower": "花成顶生圆锥花序；花瓣具明显皱褶。",
+    "fruit": "蒴果。",
+    "habitat": "常见于园林栽培环境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "枝干上较光滑、易剥落的树皮。",
+      "顶端成簇的皱褶花瓣。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫薇可从成簇开放的皱褶花瓣和较光滑的树皮开始观察。",
+    "identificationReferences": [
+      "留意顶生、分枝的花序。",
+      "花瓣通常有明显褶皱，枝干树皮较光滑。"
+    ],
+    "howToConfirm": [
+      "同时拍下花序、单朵花和树干，避免只依据花色判断。",
+      "观察叶片是否以对生或近对生方式着生。"
+    ],
+    "appearance": "花序位于枝端，花瓣皱褶明显；叶片多为椭圆形至倒卵形。",
+    "growthHabit": "落叶灌木或小乔木。",
+    "keyCharacteristics": [
+      "皱褶花瓣形成的顶生花序。",
+      "较光滑、常片状剥落的树皮。"
+    ],
+    "observationTips": [
+      "记录花、叶和树皮的组合特征。",
+      "园艺品种的花色会变化，花色不宜作为唯一依据。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "street-tree",
+      "ornamental-flower"
+    ],
+    "coveragePriority": "P0"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lagerstroemia-indica",
+      "title": "GBIF Species Match: Lagerstroemia indica L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Lagerstroemia%20indica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus"
+      ]
+    },
+    {
+      "id": "foc-lagerstroemia-indica",
+      "title": "Flora of China: Lagerstroemia indica",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242421565",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "bark",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "3188725"
+  }
+}

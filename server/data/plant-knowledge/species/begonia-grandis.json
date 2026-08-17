@@ -1,0 +1,101 @@
+{
+  "id": "begonia-grandis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "秋海棠",
+    "scientificName": "Begonia grandis",
+    "family": "秋海棠科",
+    "genus": "秋海棠属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎高达60厘米，近无毛。",
+    "leaf": "茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿，齿尖带短芒，上面常有红晕，幼时散生硬毛，老时近无毛，下面带红晕或紫红色，沿脉散生硬毛或近无毛：叶柄长4-13.5厘米，近无毛。",
+    "flower": "花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状，花葶基部常有1小叶，无毛；苞片长圆形，早落；雄花花梗长约8毫米，无毛，花被片4，外面2枚宽卵形或近圆形，长1.1-1.3厘米，内面2枚倒卵形或倒卵状长圆形，长7-9毫米，无毛；花丝基部合生：雌花花梗长约2.5厘米，无毛，花被片3，外面2枚近圆形或扁圆形，长宽约1.2厘米，内面1枚倒卵形，长约8毫米；子房无毛，3室，中轴胎座，每室胎座具2裂片，花柱3，柱头常2裂或头状或肾状，螺旋状扭曲，或U字形带刺状乳头。",
+    "fruit": "蒴果下垂，长圆形，长1-1.2厘米，无毛，具不等3翅，大翅斜长圆形或三角状长圆形，长约1.8厘米，另2翅窄三角形，或2窄翅呈窄檐状或无翅，近无毛。",
+    "habitat": "生于林下潮湿处，海拔2200米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿。",
+      "花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状，花葶基部常有1小叶。",
+      "蒴果下垂，长圆形，长1-1.2厘米，无毛，具不等3翅。"
+    ]
+  },
+  "knowledge": {
+    "summary": "秋海棠是多年生草本。观察时重点看茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿，并结合花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状确认。",
+    "identificationReferences": [
+      "茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿。",
+      "花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿”。",
+      "补拍花或花序的整体与细节，核对“花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状”。"
+    ],
+    "appearance": "茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿。花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状。",
+    "growthHabit": "多年生草本。生于林下潮湿处，海拔2200米。",
+    "keyCharacteristics": [
+      "茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿。",
+      "花葶高达9厘米，无毛:花粉红色，较多，（2)3-4回二歧聚伞状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“茎生叶宽卵形或卵形，长10-18厘米，先端渐尖，基部心形，具不等大三角形浅齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-begonia-grandis",
+      "title": "GBIF species record: Begonia grandis",
+      "url": "https://api.gbif.org/v1/species/8414451",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-begonia-grandis",
+      "title": "iPlant 植物智：秋海棠（Begonia grandis）",
+      "url": "https://www.iplant.cn/info/Begonia%20grandis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8414451"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

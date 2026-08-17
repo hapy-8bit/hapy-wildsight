@@ -1,0 +1,97 @@
+{
+  "id": "hydrocharis-dubia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "水鳖",
+    "scientificName": "Hydrocharis dubia",
+    "family": "水鳖科",
+    "genus": "水鳖属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "浮水草本。",
+    "stem": "匍匐茎顶端生芽。",
+    "leaf": "叶簇生，多漂浮，有时伸出水面；叶心形或圆形，长4.5-5厘米，先端圆，基部心形，全缘，远轴面有蜂窝状贮气组织。",
+    "flower": "花序梗长0.5-3.5厘米；佛焰苞2，膜质透明，具红紫色条纹，苞内具雄花5-6，每次1花开放；花梗长5-6.5厘米；萼片3，离生，长椭圆形，长约6毫米；花瓣3，黄色，与萼片互生，近圆形，长约1.3厘米：雄蕊4轮，每轮3枚，最内轮3枚为退化雄蕊；雌佛焰苞小，苞内雌花1朵：花梗长4-8.5厘米；花径约3厘米：萼片3，长约1.1厘米；花瓣3，白色，基部黄色，宽倒卵形或圆形，长约1.5厘米：退化雄蕊6，成对并列：腺体3，与萼片互生；子房下位，不完全6屮，花柱6，2深裂，密被腺毛。",
+    "fruit": "果浆果状，球形或倒卵圆形，长0.8-1厘米种子多数，椭岡形。",
+    "habitat": "静水池沼中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米。",
+      "花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹，苞内具雄花5-6。",
+      "果浆果状，球形或倒卵圆形，长0.8-1厘米种子多数，椭岡形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "水鳖是浮水草本。观察时重点看叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米，并结合花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹确认。",
+    "identificationReferences": [
+      "叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米。",
+      "花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米”。",
+      "补拍花或花序的整体与细节，核对“花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹”。"
+    ],
+    "appearance": "叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米。花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹。",
+    "growthHabit": "浮水草本。静水池沼中。",
+    "keyCharacteristics": [
+      "叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米。",
+      "花序梗长0.5-3.5厘米，佛焰苞2，膜质透明，具红紫色条纹。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，多漂浮，有时伸出水面，叶心形或圆形，长4.5-5厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hydrocharis-dubia",
+      "title": "GBIF species record: Hydrocharis dubia",
+      "url": "https://api.gbif.org/v1/species/5329272",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-hydrocharis-dubia",
+      "title": "iPlant 植物智：水鳖（Hydrocharis dubia）",
+      "url": "https://www.iplant.cn/info/Hydrocharis%20dubia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5329272"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pinus-massoniana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马尾松",
+    "scientificName": "Pinus massoniana",
+    "family": "松科",
+    "genus": "松属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮红褐色，下部灰褐色，裂成不规则的鳞状块片。",
+    "leaf": "针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔，下垂或微下垂，两面有气孔线，边缘有细齿，树脂道4-7，边生。",
+    "flower": "花期4-5月，球果第二年10-12月成熟。",
+    "fruit": "球果卵圆形或圆锥状卵圆形，长4-7厘米，径2.5-4厘米，有短柄，熟时栗褐色，种鳞张开；鳞盾菱形，微隆起或平，横脊微明显，鳞脐微凹，无刺，稀生于干燥环境时有极短的刺。",
+    "habitat": "雄球花淡红褐色，圆柱形，弯垂，长1-1.5厘米，聚生于新枝下部苞腋，穗状，长6-15厘米；雌球花单生或2-4个聚生于新枝近顶端，淡紫红色，一年生小球果圆球形或卵圆形，径约2厘米，褐色或紫褐色，上部珠鳞的鳞脐具向上直立的短刺，下部珠鳞的鳞脐平钝无刺。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔。",
+      "花期4-5月，球果第二年10-12月成熟。",
+      "球果卵圆形或圆锥状卵圆形，长4-7厘米，径2.5-4厘米，有短柄，熟时栗褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马尾松是乔木。观察时重点看针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔，并结合花期4-5月，球果第二年10-12月成熟确认。",
+    "identificationReferences": [
+      "针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔。",
+      "花期4-5月，球果第二年10-12月成熟。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔”。",
+      "补拍花或花序的整体与细节，核对“花期4-5月，球果第二年10-12月成熟”。"
+    ],
+    "appearance": "针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔。花期4-5月，球果第二年10-12月成熟。",
+    "growthHabit": "乔木。雄球花淡红褐色，圆柱形，弯垂。",
+    "keyCharacteristics": [
+      "针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔。",
+      "花期4-5月，球果第二年10-12月成熟。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“针叶2针一束，极稀3针一束，长12-30厘米，宽约1毫米，细柔”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pinus-massoniana",
+      "title": "GBIF species record: Pinus massoniana",
+      "url": "https://api.gbif.org/v1/species/5285215",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pinus-massoniana",
+      "title": "iPlant 植物智：马尾松（Pinus massoniana）",
+      "url": "https://www.iplant.cn/info/Pinus%20massoniana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5285215"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

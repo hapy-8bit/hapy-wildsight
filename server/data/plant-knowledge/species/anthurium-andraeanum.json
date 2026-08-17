@@ -1,0 +1,97 @@
+{
+  "id": "anthurium-andraeanum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "花烛",
+    "scientificName": "Anthurium andraeanum",
+    "family": "天南星科",
+    "genus": "花烛属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎矮。",
+    "leaf": "叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm，宽10-20cm，先端钝或渐尖，基部深心形。",
+    "flower": "肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形，先端有细长尖尾，基部心形，肉穗花序淡黄色，直立，圆柱形，花多数，密生轴上。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm。",
+      "肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形，先端有细长尖尾。",
+      "茎矮。"
+    ]
+  },
+  "knowledge": {
+    "summary": "花烛是多年生草本。观察时重点看叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm，并结合肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形确认。",
+    "identificationReferences": [
+      "叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm。",
+      "肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm”。",
+      "补拍花或花序的整体与细节，核对“肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形”。"
+    ],
+    "appearance": "叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm。肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm。",
+      "肉穗花序有细长花序梗，佛焰苞深红色或橘红色，园艺种还有其他色泽，心形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，叶片革质，有光泽，阔心形、圆心形，长12-30cm”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-anthurium-andraeanum",
+      "title": "GBIF species record: Anthurium andraeanum",
+      "url": "https://api.gbif.org/v1/species/2872695",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-anthurium-andraeanum",
+      "title": "iPlant 植物智：花烛（Anthurium andraeanum）",
+      "url": "https://www.iplant.cn/info/Anthurium%20andraeanum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2872695"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "triticum-aestivum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "小麦",
+    "scientificName": "Triticum aestivum",
+    "family": "禾本科",
+    "genus": "小麦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年或越年生草本，秆丛生；",
+    "stem": "秆丛生；|高0.6-1.2米，6-7节；",
+    "leaf": "叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1厘米；",
+    "flower": "穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖卵圆形，长6-8毫米，背面主脉上部呈脊，先端…",
+    "fruit": "颖果长6-8毫米；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1厘米；",
+      "花：穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖卵圆形，长6-8毫米，背面主脉上部呈脊，先端…"
+    ]
+  },
+  "knowledge": {
+    "summary": "小麦为一年或越年生草本，秆丛生；叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1厘米；",
+      "花：穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖卵圆形，长6-8毫米，背面主脉上部呈脊，先端…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1…；再以花穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖…交叉确认。"
+    ],
+    "appearance": "叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1…；花穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖…。",
+    "growthHabit": "一年或越年生草本，秆丛生；",
+    "keyCharacteristics": [
+      "叶：叶鞘无毛，下部者长于节间，叶舌长约1毫米，膜质；叶片长披针形，长10-20厘米，宽0.5-1厘米；",
+      "花：穗状花序长0.5-1厘米，宽1-1.5厘米；小穗具3-9小花，长约1厘米，顶生小花不孕；颖卵圆形，长6-8毫米，背面主脉上部呈脊，先端…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-triticum-aestivum",
+      "title": "GBIF species record: Triticum aestivum",
+      "url": "https://api.gbif.org/v1/species/7795888",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-triticum-aestivum",
+      "title": "iPlant species page: Triticum aestivum",
+      "url": "https://www.iplant.cn/info/Triticum%20aestivum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7795888"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

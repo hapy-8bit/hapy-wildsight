@@ -1,0 +1,98 @@
+{
+  "id": "ipomoea-nil",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "牵牛",
+    "scientificName": "Ipomoea nil",
+    "family": "旋花科",
+    "genus": "番薯属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎缠绕；",
+    "leaf": "叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；",
+    "flower": "花序腋生，具1至少花，花序梗长1.5-18.5厘米；",
+    "fruit": "蒴果近球形，径0.8-1.3厘米；种子卵状三棱形，黑揭或米黄色，长5-6毫米，被微柔毛；",
+    "habitat": "山坡灌丛、干燥河谷路边、园边宅旁、山地路边，或为栽培；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；",
+      "花：花序腋生，具1至少花，花序梗长1.5-18.5厘米；"
+    ]
+  },
+  "knowledge": {
+    "summary": "牵牛为一年生草本；叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；",
+      "花：花序腋生，具1至少花，花序梗长1.5-18.5厘米；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；；再以花序腋生，具1至少花，花序梗长1.5-18.5厘米；交叉确认。"
+    ],
+    "appearance": "叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；；花序腋生，具1至少花，花序梗长1.5-18.5厘米；。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：叶宽卵形或近圆形，长4-15厘米，3(-5)裂，先端渐尖，基部心形；叶柄长2-15厘米；",
+      "花：花序腋生，具1至少花，花序梗长1.5-18.5厘米；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ipomoea-nil",
+      "title": "GBIF species record: Ipomoea nil",
+      "url": "https://api.gbif.org/v1/species/2928534",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ipomoea-nil",
+      "title": "iPlant species page: Ipomoea nil",
+      "url": "https://www.iplant.cn/info/Ipomoea%20nil?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2928534"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

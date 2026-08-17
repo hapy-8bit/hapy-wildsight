@@ -1,0 +1,100 @@
+{
+  "id": "periploca-sepium",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杠柳",
+    "scientificName": "Periploca sepium",
+    "family": "夹竹桃科",
+    "genus": "杠柳属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶蔓性灌木，长达4米。",
+    "stem": "茎灰褐色；小枝常对生，具纵纹及皮孔。",
+    "leaf": "叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形，侧脉20-25对；叶柄长约3毫米。",
+    "flower": "花梗长约2厘米；花萼裂片三角状卵形，长约3毫米；花冠紫色，辐状，径约1.5厘米，花冠筒长约3毫米，裂片椭圆形，长约8毫米，中间加厚呈纺锤状，反折，无毛，内面被长柔毛；副花冠裂片无毛。",
+    "fruit": "蓇葖果2，圆柱形，长7-12厘米，径约5毫米，顶端常相连。",
+    "habitat": "平原及低山丘的林缘、沟坡、河边沙质地或地埂等处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形。",
+      "花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色，辐状。",
+      "蓇葖果2，圆柱形，长7-12厘米，径约5毫米，顶端常相连。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杠柳是落叶蔓性灌木。观察时重点看叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形，并结合花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色确认。",
+    "identificationReferences": [
+      "叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形。",
+      "花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色”。"
+    ],
+    "appearance": "叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形。花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色。",
+    "growthHabit": "落叶蔓性灌木。平原及低山丘的林缘、沟坡、河边沙质地或地埂等处。",
+    "keyCharacteristics": [
+      "叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形。",
+      "花梗长约2厘米，花萼裂片三角状卵形，长约3毫米，花冠紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶膜质，披针状长圆形，长5-9厘米，先端渐尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-periploca-sepium",
+      "title": "GBIF species record: Periploca sepium",
+      "url": "https://api.gbif.org/v1/species/5526185",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-periploca-sepium",
+      "title": "iPlant 植物智：杠柳（Periploca sepium）",
+      "url": "https://www.iplant.cn/info/Periploca%20sepium?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5526185"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

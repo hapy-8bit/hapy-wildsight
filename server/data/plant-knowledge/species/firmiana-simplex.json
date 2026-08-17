@@ -1,0 +1,99 @@
+{
+  "id": "firmiana-simplex",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "梧桐",
+    "scientificName": "Firmiana simplex",
+    "family": "锦葵科",
+    "genus": "梧桐属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮青绿色，光滑。",
+    "leaf": "叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖，基部深心形，两面无毛或微被柔毛，基生脉7；叶柄与叶片等长。",
+    "flower": "花梗与花近等长；雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端，退化子房梨形且甚小；雌花子房球形，被毛。",
+    "fruit": "蓇葖果膜质，有柄，成熟前开裂成叶状，长6 -11厘米、宽1.5-2.5厘米，外面被短茸毛或几无毛，每蓇葖果有种子2-4个；种子圆球形，表面有绉纹，直径约7毫米。",
+    "habitat": "多为人工栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖。",
+      "花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端，退化子房梨形且甚小。",
+      "蓇葖果膜质，有柄，成熟前开裂成叶状，长6 -11厘米、宽1.5-2.5厘米，外面被短茸毛或几无毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "梧桐是落叶乔木。观察时重点看叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖，并结合花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端确认。",
+    "identificationReferences": [
+      "叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖。",
+      "花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖”。",
+      "补拍花或花序的整体与细节，核对“花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端”。"
+    ],
+    "appearance": "叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖。花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端。",
+    "growthHabit": "落叶乔木。多为人工栽培。",
+    "keyCharacteristics": [
+      "叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖。",
+      "花梗与花近等长，雄花的雌雄荡柄与花萼等长，无毛，花药15枚不规则聚集在雌雄蕊柄的顶端。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶心形，掌状3-5裂，宽15-30厘米，裂片三角形，先端渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-firmiana-simplex",
+      "title": "GBIF species record: Firmiana simplex",
+      "url": "https://api.gbif.org/v1/species/3152111",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-firmiana-simplex",
+      "title": "iPlant 植物智：梧桐（Firmiana simplex）",
+      "url": "https://www.iplant.cn/info/Firmiana%20simplex?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152111"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

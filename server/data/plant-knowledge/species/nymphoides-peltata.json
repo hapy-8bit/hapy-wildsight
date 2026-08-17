@@ -1,0 +1,100 @@
+{
+  "id": "nymphoides-peltata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "荇菜",
+    "scientificName": "Nymphoides peltata",
+    "family": "睡菜科",
+    "genus": "荇菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生水生草本。",
+    "stem": "茎圆柱形，多分枝，密生褐色斑点。",
+    "leaf": "上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形，直径1.5-8cm，基部心形，全缘，有不明显的掌状叶脉，下面紫褐色。",
+    "flower": "花常多数，簇生节上，5数；花萼分裂近基部，裂片椭圆形或椭圆状披针形；花冠金黄色，冠筒短，喉部具5束长柔毛，裂片宽倒卵形。",
+    "fruit": "蒴果无柄，椭圆形，种子大，褐色，椭圆形。",
+    "habitat": "池塘或不甚流动的河溪中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形。",
+      "花常多数，簇生节上，5数，花萼分裂近基部，裂片椭圆形或椭圆状披针形。",
+      "蒴果无柄，椭圆形，种子大，褐色，椭圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "荇菜是多年生水生草本。观察时重点看上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形，并结合花常多数，簇生节上，5数，花萼分裂近基部确认。",
+    "identificationReferences": [
+      "上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形。",
+      "花常多数，簇生节上，5数，花萼分裂近基部。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形”。",
+      "补拍花或花序的整体与细节，核对“花常多数，簇生节上，5数，花萼分裂近基部”。"
+    ],
+    "appearance": "上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形。花常多数，簇生节上，5数，花萼分裂近基部。",
+    "growthHabit": "多年生水生草本。池塘或不甚流动的河溪中。",
+    "keyCharacteristics": [
+      "上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形。",
+      "花常多数，簇生节上，5数，花萼分裂近基部。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“上部叶对生，下部叶互生，叶片飘浮，近革质，圆形或卵圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nymphoides-peltata",
+      "title": "GBIF species record: Nymphoides peltata",
+      "url": "https://api.gbif.org/v1/species/8810827",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-nymphoides-peltata",
+      "title": "iPlant 植物智：荇菜（Nymphoides peltata）",
+      "url": "https://www.iplant.cn/info/Nymphoides%20peltata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8810827"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

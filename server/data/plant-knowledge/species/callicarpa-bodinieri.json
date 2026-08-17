@@ -1,0 +1,102 @@
+{
+  "id": "callicarpa-bodinieri",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫珠",
+    "scientificName": "Callicarpa bodinieri",
+    "family": "唇形科",
+    "genus": "紫珠属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "小枝、叶柄和花序均被粗糠状星状毛。",
+    "leaf": "叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿，上面被短柔毛，下面被星状绒毛，两面被深红色腺点；叶柄长0.5-1厘米。",
+    "flower": "灌木；小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点。",
+    "fruit": "果球形，紫色。",
+    "habitat": "生于海拔200-2300米的林中、林缘及灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿。",
+      "灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点。",
+      "果球形，紫色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫珠是灌木。观察时重点看叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿，并结合灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点确认。",
+    "identificationReferences": [
+      "叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿。",
+      "灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿”。",
+      "补拍花或花序的整体与细节，核对“灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点”。"
+    ],
+    "appearance": "叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿。灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点。",
+    "growthHabit": "灌木。生于海拔200-2300米的林中、林缘及灌丛中。",
+    "keyCharacteristics": [
+      "叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿。",
+      "灌木，小枝、叶和花序均被粗糠状星状毛及暗红色或红色腺点。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵状长椭圆形或椭圆形，长7-18厘米，先端渐尖或尾尖，基部楔形，具细锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-callicarpa-bodinieri",
+      "title": "GBIF species record: Callicarpa bodinieri",
+      "url": "https://api.gbif.org/v1/species/7309012",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-callicarpa-bodinieri",
+      "title": "iPlant 植物智：紫珠（Callicarpa bodinieri）",
+      "url": "https://www.iplant.cn/info/Callicarpa%20bodinieri?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7309012"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

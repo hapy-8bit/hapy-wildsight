@@ -1,0 +1,96 @@
+{
+  "id": "pteris-multifida",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "井栏边草",
+    "scientificName": "Pteris multifida",
+    "family": "凤尾蕨科",
+    "genus": "凤尾蕨属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生蕨类植物。",
+    "stem": "根茎短而直立或斜升。",
+    "leaf": "叶簇生，叶片羽状深裂。",
+    "flower": "",
+    "fruit": "孢子囊群沿裂片边缘分布。",
+    "habitat": "常见于墙边、路旁和较湿润的石隙环境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状深裂的叶片。",
+      "沿裂片边缘的孢子囊群。"
+    ]
+  },
+  "knowledge": {
+    "summary": "井栏边草可从羽状深裂的叶片和叶片边缘的孢子囊群观察。",
+    "identificationReferences": [
+      "叶片常羽状深裂。",
+      "观察裂片边缘是否有连续或近连续的孢子囊群。"
+    ],
+    "howToConfirm": [
+      "拍摄叶片正反两面。",
+      "在不破坏植株的前提下观察裂片边缘。"
+    ],
+    "appearance": "叶片簇生，羽状深裂。",
+    "growthHabit": "多年生蕨类植物。",
+    "keyCharacteristics": [
+      "羽状深裂叶。",
+      "边缘孢子囊群。"
+    ],
+    "observationTips": [
+      "蕨类不具花，宜观察叶形与孢子囊群。",
+      "湿润阴处的叶片通常更完整。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pteris-multifida",
+      "title": "GBIF Species Match: Pteris multifida Poir.",
+      "url": "https://api.gbif.org/v1/species/match?name=Pteris%20multifida",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-pteris-multifida",
+      "title": "Flora of China search: Pteris multifida",
+      "url": "https://www.efloras.org/search.aspx?query=Pteris%20multifida",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "sporangia",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "5275415"
+  }
+}

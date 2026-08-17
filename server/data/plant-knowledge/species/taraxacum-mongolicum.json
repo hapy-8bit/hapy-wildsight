@@ -1,0 +1,98 @@
+{
+  "id": "taraxacum-mongolicum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蒲公英",
+    "scientificName": "Taraxacum mongolicum",
+    "family": "菊科",
+    "genus": "蒲公英属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本；",
+    "stem": "",
+    "leaf": "叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向羽状深裂或大头羽状深裂，顶端裂片较大，三角…",
+    "flower": "花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞片2-3层，外层卵状披针形或披针形，长0.…",
+    "fruit": "瘦果倒卵状披针形，暗褐色，长约4-5毫米，上部具小刺，下部具成行小瘤，顶端渐收缩成长约1毫米圆锥形或圆柱形喙基，喙长0.6-1厘米，纤…",
+    "habitat": "广泛生于中、低海拔地区的山坡草地、路边、田野、河滩；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向羽状深裂或大头羽状深裂，顶端裂片较大，三角…",
+      "花：花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞片2-3层，外层卵状披针形或披针形，长0.…"
+    ]
+  },
+  "knowledge": {
+    "summary": "蒲公英为多年生草本；叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向羽状深裂或大头羽状深裂，顶端裂片较大，三角…",
+      "花：花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞片2-3层，外层卵状披针形或披针形，长0.…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向…；再以花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞…交叉确认。"
+    ],
+    "appearance": "叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向…；花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞…。",
+    "growthHabit": "多年生草本；",
+    "keyCharacteristics": [
+      "叶：叶倒卵状披针形、倒披针形或长圆状披针形，长4-20厘米，边缘有时具波状齿或羽状深裂，有时倒向羽状深裂或大头羽状深裂，顶端裂片较大，三角…",
+      "花：花葶1至数个，高10-25厘米，上部紫红色，密被总苞钟状，长1.2-1.4厘米，淡绿色，总苞片2-3层，外层卵状披针形或披针形，长0.…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-taraxacum-mongolicum",
+      "title": "GBIF species record: Taraxacum mongolicum",
+      "url": "https://api.gbif.org/v1/species/5394645",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-taraxacum-mongolicum",
+      "title": "iPlant species page: Taraxacum mongolicum",
+      "url": "https://www.iplant.cn/info/Taraxacum%20mongolicum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5394645"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

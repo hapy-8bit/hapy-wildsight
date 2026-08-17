@@ -1,0 +1,98 @@
+{
+  "id": "humulus-scandens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "葎草",
+    "scientificName": "Humulus scandens",
+    "family": "大麻科",
+    "genus": "葎草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "缠绕草本，茎、枝、叶柄均具倒钩刺；",
+    "stem": "茎、枝、叶柄均具倒钩刺；",
+    "leaf": "叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下面被柔毛及黄色腺体，裂片卵状三角形，具锯齿；",
+    "flower": "雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房为苞片包被，柱头2，伸出苞片外；",
+    "fruit": "瘦果成熟时露出苞片外；",
+    "habitat": "沟边、荒地、废墟、林缘边；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下面被柔毛及黄色腺体，裂片卵状三角形，具锯齿；",
+      "花：雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房为苞片包被，柱头2，伸出苞片外；"
+    ]
+  },
+  "knowledge": {
+    "summary": "葎草为缠绕草本，茎、枝、叶柄均具倒钩刺；叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下面被柔毛及黄色腺体，裂片卵状三角形，具锯齿；",
+      "花：雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房为苞片包被，柱头2，伸出苞片外；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下…；再以花雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房…交叉确认。"
+    ],
+    "appearance": "叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下…；花雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房…。",
+    "growthHabit": "缠绕草本，茎、枝、叶柄均具倒钩刺；",
+    "keyCharacteristics": [
+      "叶：叶纸质，肾状五角形，掌状5-7深裂，稀3裂，长宽均7-10厘米，基部心形，上面疏被糙伏毛，下面被柔毛及黄色腺体，裂片卵状三角形，具锯齿；",
+      "花：雄花小，黄绿色，花序长15-25厘米；雌花序径约5毫米，苞片纸质，三角形，被白色绒毛；子房为苞片包被，柱头2，伸出苞片外；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-humulus-scandens",
+      "title": "GBIF species record: Humulus scandens",
+      "url": "https://api.gbif.org/v1/species/2984537",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-humulus-scandens",
+      "title": "iPlant species page: Humulus scandens",
+      "url": "https://www.iplant.cn/info/Humulus%20scandens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2984537"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

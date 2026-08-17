@@ -1,0 +1,99 @@
+{
+  "id": "pseudognaphalium-affine",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鼠曲草",
+    "scientificName": "Pseudognaphalium affine",
+    "family": "菊科",
+    "genus": "鼠曲草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立或基部有匍匐或斜上分枝，被白色厚棉毛。",
+    "leaf": "叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米，宽2-5毫米，基部渐狭，稍下延，顶端圆，具刺尖头，两面被白色棉毛，上面常较薄，叶脉1条，在下面不明显。",
+    "flower": "头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序，花黄色至淡黄色。",
+    "fruit": "瘦果倒卵形或倒卵状圆柱形，长约0.5毫米，有乳突；冠毛粗糙，污白色，易脱落，基部联合成2束。",
+    "habitat": "生于低海拔干地或湿润草地上，尤以稻田最常见。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米。",
+      "头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序，花黄色至淡黄色。",
+      "瘦果倒卵形或倒卵状圆柱形，长约0.5毫米，有乳突，冠毛粗糙，污白色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鼠曲草是一年生草本。观察时重点看叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米，并结合头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序确认。",
+    "identificationReferences": [
+      "叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米。",
+      "头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米”。",
+      "补拍花或花序的整体与细节，核对“头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序”。"
+    ],
+    "appearance": "叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米。头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序。",
+    "growthHabit": "一年生草本。生于低海拔干地或湿润草地上，尤以稻田最常见。",
+    "keyCharacteristics": [
+      "叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米。",
+      "头状花序较多或较少数，径2-3毫米，近无柄，在枝顶密集成伞房花序。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶无柄，匙状倒披针形或倒卵状匙形，长5-7厘米，宽11-14毫米，上部叶长15-20毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pseudognaphalium-affine",
+      "title": "GBIF species record: Pseudognaphalium affine",
+      "url": "https://api.gbif.org/v1/species/3100918",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pseudognaphalium-affine",
+      "title": "iPlant 植物智：鼠曲草（Pseudognaphalium affine）",
+      "url": "https://www.iplant.cn/info/Pseudognaphalium%20affine?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3100918"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "cinnamomum-camphora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "樟",
+    "scientificName": "Cinnamomum camphora",
+    "family": "樟科",
+    "genus": "樟属",
+    "aliases": []
+  },
+  "scientificSynonyms": [
+    "Camphora officinarum"
+  ],
+  "sourceFacts": {
+    "lifeForm": "乔木；",
+    "stem": "树皮黄褐色，不规则纵裂；",
+    "leaf": "叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有时微波状，离基三出脉，侧脉及支脉脉腋具腺窝；",
+    "flower": "圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛，节上毛较密；",
+    "fruit": "果卵圆形或近球形，径6-8毫米，紫黑色；果托杯状，高约5毫米，顶端平截，径达4毫米；",
+    "habitat": "常野生于山坡或沟谷中；各地常见栽培的；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有时微波状，离基三出脉，侧脉及支脉脉腋具腺窝；",
+      "花：圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛，节上毛较密；"
+    ]
+  },
+  "knowledge": {
+    "summary": "樟为乔木；叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有时微波状，离基三出脉，侧脉及支脉脉腋具腺窝；",
+      "花：圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛，节上毛较密；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有…；再以花圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛…交叉确认。"
+    ],
+    "appearance": "叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有…；花圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛…。",
+    "growthHabit": "乔木；",
+    "keyCharacteristics": [
+      "叶：叶卵状椭圆形，长6-12厘米，先端骤尖，基部宽楔形或近圆，两面无毛或下面初稍被微柔毛，边缘有时微波状，离基三出脉，侧脉及支脉脉腋具腺窝；",
+      "花：圆锥花序长达7厘米，具多花，花序梗长2.5-4.5厘米，与序轴均无毛或被灰白或黄褐色微柔毛，节上毛较密；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cinnamomum-camphora",
+      "title": "GBIF species record: Cinnamomum camphora",
+      "url": "https://api.gbif.org/v1/species/3033991",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-cinnamomum-camphora",
+      "title": "iPlant species page: Cinnamomum camphora",
+      "url": "https://www.iplant.cn/info/Cinnamomum%20camphora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3033991"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

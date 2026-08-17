@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "groups": [
+    { "id": "common-trees", "label": "常见乔木", "all": { "growthForms": ["tree"] }, "any": { "coveragePriority": ["P0", "P1"] } },
+    { "id": "common-shrubs", "label": "常见灌木", "all": { "growthForms": ["shrub"] }, "any": { "coveragePriority": ["P0", "P1"] } },
+    { "id": "urban-ornamental-flowers", "label": "城市绿化花卉", "all": { "sceneTags": ["urban-greening"], "useTags": ["ornamental-flower"] } },
+    { "id": "roadside-wild-herbs", "label": "路边野草", "all": { "sceneTags": ["roadside"], "growthForms": ["herb"] }, "any": { "occurrenceTypes": ["wild", "naturalized"] } },
+    { "id": "vines", "label": "藤本植物", "all": { "growthForms": ["vine"] } },
+    { "id": "common-ferns", "label": "常见蕨类", "all": { "taxonGroup": ["fern"] }, "any": { "coveragePriority": ["P0", "P1"] } },
+    { "id": "indoor-foliage", "label": "室内观叶", "all": { "sceneTags": ["indoor"], "useTags": ["ornamental-foliage"] } },
+    { "id": "aquatic-wetland", "label": "水生及湿地植物", "any": { "sceneTags": ["aquatic", "wetland-waterside"] } }
+  ]
+}

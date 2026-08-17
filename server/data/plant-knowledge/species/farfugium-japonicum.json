@@ -1,0 +1,101 @@
+{
+  "id": "farfugium-japonicum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大吴风草",
+    "scientificName": "Farfugium japonicum",
+    "family": "菊科",
+    "genus": "大吴风草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生葶状草本。",
+    "stem": "根茎粗壮，直径达1.2厘米。",
+    "leaf": "基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆，全缘或有小齿或掌状浅裂，基部弯缺宽，两面幼时被灰白色柔毛，后无毛；叶柄长15-25厘米，幼时密被淡黄色柔毛，后多脱落，基部短鞘，抱茎，鞘内被密毛；茎生叶1-3，苞叶状，长圆形或线状披针形，长1-2厘米。",
+    "flower": "花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛。",
+    "fruit": "瘦果圆柱形，长达7毫米，有纵肋，被成行短毛。",
+    "habitat": "生于低海拔地区的林下，山谷及草丛。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆。",
+      "花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛。",
+      "瘦果圆柱形，长达7毫米，有纵肋，被成行短毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大吴风草是多年生葶状草本。观察时重点看基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆，并结合花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛确认。",
+    "identificationReferences": [
+      "基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆。",
+      "花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆”。",
+      "补拍花或花序的整体与细节，核对“花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛”。"
+    ],
+    "appearance": "基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆。花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛。",
+    "growthHabit": "多年生葶状草本。生于低海拔地区的林下，山谷及草丛。",
+    "keyCharacteristics": [
+      "基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆。",
+      "花葶高达70厘米，幼时密被淡黄色柔毛，后多少脱落，基部被极密柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶莲座状，肾形，长9-13厘米，宽11-22厘米，先端圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-farfugium-japonicum",
+      "title": "GBIF species record: Farfugium japonicum",
+      "url": "https://api.gbif.org/v1/species/3101212",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-farfugium-japonicum",
+      "title": "iPlant 植物智：大吴风草（Farfugium japonicum）",
+      "url": "https://www.iplant.cn/info/Farfugium%20japonicum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3101212"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

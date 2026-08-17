@@ -1,0 +1,98 @@
+{
+  "id": "alisma-plantago-aquatica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "泽泻",
+    "scientificName": "Alisma plantago-aquatica",
+    "family": "泽泻科",
+    "genus": "泽泻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生水生或沼生草本；",
+    "stem": "块茎直径1-3.5厘米，或更大；",
+    "leaf": "叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘米，先端渐尖，稀急尖，基部宽楔形、浅心形，…",
+    "flower": "花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7脉，边缘膜质，内轮花被片近圆形，远大于外轮…",
+    "fruit": "瘦果椭圆形，或近矩圆形，长约2.5毫米，宽约1.5毫米，背部具1-2条不明显浅沟，下部平，果喙自腹侧伸出，喙基部凸起，膜质；",
+    "habitat": "湖泊、河湾、溪流、水塘的浅水带，沼泽、沟渠及低洼湿地亦有生长；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘米，先端渐尖，稀急尖，基部宽楔形、浅心形，…",
+      "花：花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7脉，边缘膜质，内轮花被片近圆形，远大于外轮…"
+    ]
+  },
+  "knowledge": {
+    "summary": "泽泻为多年生水生或沼生草本；叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘米，先端渐尖，稀急尖，基部宽楔形、浅心形，…",
+      "花：花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7脉，边缘膜质，内轮花被片近圆形，远大于外轮…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘…；再以花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7…交叉确认。"
+    ],
+    "appearance": "叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘…；花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7…。",
+    "growthHabit": "多年生水生或沼生草本；",
+    "keyCharacteristics": [
+      "叶：叶通常多数；沉水叶条形或披针形；挺水叶宽披针形、椭圆形至卵形，长2-11厘米，宽1.3-7厘米，先端渐尖，稀急尖，基部宽楔形、浅心形，…",
+      "花：花两性，花梗长1-3.5厘米；外轮花被片广卵形，长2.5-3.5毫米，宽2-3毫米，通常具7脉，边缘膜质，内轮花被片近圆形，远大于外轮…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-alisma-plantago-aquatica",
+      "title": "GBIF species record: Alisma plantago-aquatica",
+      "url": "https://api.gbif.org/v1/species/2865100",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-alisma-plantago-aquatica",
+      "title": "iPlant species page: Alisma plantago-aquatica",
+      "url": "https://www.iplant.cn/info/Alisma%20plantago-aquatica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2865100"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

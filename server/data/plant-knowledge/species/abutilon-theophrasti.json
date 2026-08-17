@@ -1,0 +1,103 @@
+{
+  "id": "abutilon-theophrasti",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "苘麻",
+    "scientificName": "Abutilon theophrasti",
+    "family": "锦葵科",
+    "genus": "苘麻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生亚灌木状直立草本。",
+    "stem": "茎枝被柔毛。",
+    "leaf": "叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形，具细圆锯齿，两面密被星状柔毛；叶柄长3-12厘米，被星状柔毛；托叶披针形，早落。",
+    "flower": "花梗长0.5-3厘米，被柔毛，近顶端具节；花萼杯状，密被绒毛，裂片5，卵状批针形，长约6毫米；花冠黄色，花瓣5，倒卵形，长约1厘米；雄蕊柱无毛；心皮15-20，顶端平截，轮状排列，密被软毛。",
+    "fruit": "分果半球形，径约2厘米，长约1.2厘米，分果；H15-20，被粗毛，顶端具2长芒，芒长3毫米以上。",
+    "habitat": "常见于路旁、荒地和田野间。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形。",
+      "花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状，密被绒毛。",
+      "分果半球形，径约2厘米，长约1.2厘米，分果，H15-20。"
+    ]
+  },
+  "knowledge": {
+    "summary": "苘麻是一年生亚灌木状直立草本。观察时重点看叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形，并结合花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状确认。",
+    "identificationReferences": [
+      "叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形。",
+      "花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状”。"
+    ],
+    "appearance": "叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形。花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状。",
+    "growthHabit": "一年生亚灌木状直立草本。常见于路旁、荒地和田野间。",
+    "keyCharacteristics": [
+      "叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形。",
+      "花梗长0.5-3厘米，被柔毛，近顶端具节，花萼杯状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，圆心形，长3-12厘米，先端长渐尖，基部心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-abutilon-theophrasti",
+      "title": "GBIF species record: Abutilon theophrasti",
+      "url": "https://api.gbif.org/v1/species/3152614",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-abutilon-theophrasti",
+      "title": "iPlant 植物智：苘麻（Abutilon theophrasti）",
+      "url": "https://www.iplant.cn/info/Abutilon%20theophrasti?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152614"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

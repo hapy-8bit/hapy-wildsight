@@ -1,0 +1,100 @@
+{
+  "id": "dalbergia-hupeana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄檀",
+    "scientificName": "Dalbergia hupeana",
+    "family": "豆科",
+    "genus": "黄檀属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮暗灰色，呈薄片状剥落。",
+    "leaf": "羽状复叶长15-25厘米；托叶披针形，小；小叶3-5对，椭圆形或长圆状椭圆形，长3.5-6厘米，先端钝或微凹，基部圆或宽楔形，两面无毛。",
+    "flower": "花萼钟状，萼齿5，最下1枚披针形，较长，上面2枚宽卵形，连合，两侧2枚卵形，较短，有诱色柔毛；花冠白或淡紫色，花瓣具瓣柄，旗瓣圆形，基部无附属体，翼瓣倒卵形，龙骨瓣半月形；雄蕊10，二体(5+5)；子房具短柄，胚珠2-3。",
+    "fruit": "荚果长圆形或宽舌状，长4-7厘米，宽1.3-1.5厘米，果瓣对种子部分有网纹，具1-2(3)种子。",
+    "habitat": "山地林中或灌丛中；山沟溪旁及有小树林的坡地常见。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形。",
+      "花萼钟状，萼齿5，最下1枚披针形，较长，上面2枚宽卵形。",
+      "荚果长圆形或宽舌状，长4-7厘米，宽1.3-1.5厘米，果瓣对种子部分有网纹，具1-2(3)种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄檀是乔木。观察时重点看羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形，并结合花萼钟状，萼齿5，最下1枚披针形，较长确认。",
+    "identificationReferences": [
+      "羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形。",
+      "花萼钟状，萼齿5，最下1枚披针形，较长。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形”。",
+      "补拍花或花序的整体与细节，核对“花萼钟状，萼齿5，最下1枚披针形，较长”。"
+    ],
+    "appearance": "羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形。花萼钟状，萼齿5，最下1枚披针形，较长。",
+    "growthHabit": "乔木。山地林中或灌丛中，山沟溪旁及有小树林的坡地常见。",
+    "keyCharacteristics": [
+      "羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形。",
+      "花萼钟状，萼齿5，最下1枚披针形，较长。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶长15-25厘米，托叶披针形，小，小叶3-5对，椭圆形或长圆状椭圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dalbergia-hupeana",
+      "title": "GBIF species record: Dalbergia hupeana",
+      "url": "https://api.gbif.org/v1/species/2968584",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dalbergia-hupeana",
+      "title": "iPlant 植物智：黄檀（Dalbergia hupeana）",
+      "url": "https://www.iplant.cn/info/Dalbergia%20hupeana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2968584"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

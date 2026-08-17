@@ -1,0 +1,97 @@
+{
+  "id": "cupressus-funebris",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "柏木",
+    "scientificName": "Cupressus funebris",
+    "family": "柏科",
+    "genus": "柏木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木。",
+    "stem": "树皮淡褐灰色，裂成窄长条片；小枝绿色，较老暗褐紫色。",
+    "leaf": "鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊。",
+    "flower": "雄球花椭圆形或卵圆形，雄蕊通常6对；雌球花近球形。",
+    "fruit": "球果圆球形，熟时暗褐色；种子宽倒卵状菱形或近圆形，扁，熟时淡褐色，有光泽，边缘具窄翅。",
+    "habitat": "喜温暖湿润的各种土壤地带，尤以在石灰岩山地钙质土上生长良好。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊。",
+      "雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形。",
+      "球果圆球形，熟时暗褐色，种子宽倒卵状菱形或近圆形，扁，熟时淡褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "柏木是高大乔木。观察时重点看鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊，并结合雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形确认。",
+    "identificationReferences": [
+      "鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊。",
+      "雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊”。",
+      "补拍花或花序的整体与细节，核对“雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形”。"
+    ],
+    "appearance": "鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊。雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形。",
+    "growthHabit": "高大乔木。喜温暖湿润的各种土壤地带，尤以在石灰岩山地钙质土上生长良好。",
+    "keyCharacteristics": [
+      "鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊。",
+      "雄球花椭圆形或卵圆形，雄蕊通常6对，雌球花近球形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“鳞叶二型，先端锐尖，两侧的叶对折，背部有棱脊”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cupressus-funebris",
+      "title": "GBIF species record: Cupressus funebris",
+      "url": "https://api.gbif.org/v1/species/2684076",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cupressus-funebris",
+      "title": "iPlant 植物智：柏木（Cupressus funebris）",
+      "url": "https://www.iplant.cn/info/Cupressus%20funebris?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2684076"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "cynodon-dactylon",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "狗牙根",
+    "scientificName": "Cynodon dactylon",
+    "family": "禾本科",
+    "genus": "狗牙根属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生低矮草本。",
+    "stem": "秆细而坚韧，直立或下部匍匍，节生不定根，蔓延生长，秆无毛。",
+    "leaf": "叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛；叶线形，长1-12厘米，宽1-3毫米，通常无毛。",
+    "flower": "小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米；颖长1.5-2毫米，第二颖稍长，均具1脉，边缘膜质；外稃舟形，5脉，背部成脊，脊被柔毛；内稃与外稃等长，2脉；鳞被上缘近平截；花药淡紫色。",
+    "fruit": "颖果长圆柱形。",
+    "habitat": "广布于我国黄河以南各省，近年北京附近已有栽培；多生长于村庄附近、道旁河岸、荒地山坡，其根茎蔓延力很强，广铺地面，为良好的固堤保土植物，常用以铺建草坪或球场；唯生长于果园或耕地时，则为难除灭的有害杂草。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形。",
+      "小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米，颖长1.5-2毫米。",
+      "颖果长圆柱形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "狗牙根是多年生低矮草本。观察时重点看叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形，并结合小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米确认。",
+    "identificationReferences": [
+      "叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形。",
+      "小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形”。",
+      "补拍花或花序的整体与细节，核对“小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米”。"
+    ],
+    "appearance": "叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形。小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米。",
+    "growthHabit": "多年生低矮草本。广布于我国黄河以南各省，近年北京附近已有栽培，多生长于村庄附近、道旁河岸、荒地山坡。",
+    "keyCharacteristics": [
+      "叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形。",
+      "小穗灰绿色，稀带紫色，具1小花，长2-2.5毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘微具脊，无毛或被疏柔毛，鞘口常具柔毛，叶舌有一轮纤毛，叶线形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cynodon-dactylon",
+      "title": "GBIF species record: Cynodon dactylon",
+      "url": "https://api.gbif.org/v1/species/6109637",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cynodon-dactylon",
+      "title": "iPlant 植物智：狗牙根（Cynodon dactylon）",
+      "url": "https://www.iplant.cn/info/Cynodon%20dactylon?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "6109637"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

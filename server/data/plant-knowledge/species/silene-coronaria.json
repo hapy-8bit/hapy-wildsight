@@ -1,0 +1,97 @@
+{
+  "id": "silene-coronaria",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "毛剪秋罗",
+    "scientificName": "Silene coronaria",
+    "family": "石竹科",
+    "genus": "蝇子草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎直立，粗壮，分枝稀疏。",
+    "leaf": "基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状；莲生叶无柄，宽披针形。",
+    "flower": "花梗较花萼长2至几倍；花萼椭圆状钟形，长1.5-2.5厘米，近革质，萼齿钻形，常扭转；花瓣深红色，长2-3厘米，爪倒披针形，瓣片宽倒卵形，先端微凹；喉部2鳞片窄披针形，长1.5-2.5毫米：雄蕊内藏；雌雄蕊柄短。",
+    "fruit": "蒴果卵圆形，长约1.5厘米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄。",
+      "花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质，萼齿钻形。",
+      "蒴果卵圆形，长约1.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "毛剪秋罗是多年生草本。观察时重点看基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄，并结合花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质确认。",
+    "identificationReferences": [
+      "基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄。",
+      "花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄”。",
+      "补拍花或花序的整体与细节，核对“花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质”。"
+    ],
+    "appearance": "基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄。花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄。",
+      "花梗较花萼长2至几倍，花萼椭圆状钟形，长1.5-2.5厘米，近革质。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶倒披针形，长5-10厘米，宽1-3厘米，基部渐窄成柄状，莲生叶无柄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-silene-coronaria",
+      "title": "GBIF species record: Silene coronaria",
+      "url": "https://api.gbif.org/v1/species/5384741",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-silene-coronaria",
+      "title": "iPlant 植物智：毛剪秋罗（Silene coronaria）",
+      "url": "https://www.iplant.cn/info/Silene%20coronaria?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5384741"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

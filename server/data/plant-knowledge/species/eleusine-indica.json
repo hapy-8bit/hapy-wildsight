@@ -1,0 +1,99 @@
+{
+  "id": "eleusine-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "牛筋草",
+    "scientificName": "Eleusine indica",
+    "family": "禾本科",
+    "genus": "穇属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "秆丛生，基部常膝曲。",
+    "leaf": "叶片线形，叶鞘扁平。",
+    "flower": "花序由数枚指状排列的穗状分枝组成。",
+    "fruit": "颖果。",
+    "habitat": "常见于路旁、荒地和受踩踏地面。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "花序分枝自顶端呈指状放射。",
+      "秆丛生且基部常膝曲。"
+    ]
+  },
+  "knowledge": {
+    "summary": "牛筋草可从顶端呈手指状放射的花序分枝观察。",
+    "identificationReferences": [
+      "数枚花序分枝常从顶端呈指状排列。",
+      "秆多丛生，基部常膝曲。"
+    ],
+    "howToConfirm": [
+      "拍摄完整花序，确认分枝排列方式。",
+      "连同基部和叶鞘一起观察。"
+    ],
+    "appearance": "花序分枝常呈指状放射。",
+    "growthHabit": "一年生草本，秆丛生。",
+    "keyCharacteristics": [
+      "指状排列的花序分枝。",
+      "丛生秆。"
+    ],
+    "observationTips": [
+      "花序成熟度会影响颜色。",
+      "避免只依据草坪环境判断。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-eleusine-indica",
+      "title": "GBIF Species Match: Eleusine indica (L.) Gaertn.",
+      "url": "https://api.gbif.org/v1/species/match?name=Eleusine%20indica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-eleusine-indica",
+      "title": "Flora of China search: Eleusine indica",
+      "url": "https://www.efloras.org/search.aspx?query=Eleusine%20indica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2705953"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "gossypium-hirsutum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "陆地棉",
+    "scientificName": "Gossypium hirsutum",
+    "family": "锦葵科",
+    "genus": "棉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本或亚灌木；",
+    "stem": "小枝疏被长柔毛；",
+    "leaf": "叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片深达叶片之半，裂片宽三角状卵形，先端尖，基…",
+    "flower": "花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘米，宽约2.5厘米，被长硬毛和纤毛；花萼杯…",
+    "fruit": "蒴果卵圆形，3-5室，长3.5-5厘米，具喙；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片深达叶片之半，裂片宽三角状卵形，先端尖，基…",
+      "花：花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘米，宽约2.5厘米，被长硬毛和纤毛；花萼杯…"
+    ]
+  },
+  "knowledge": {
+    "summary": "陆地棉为一年生草本或亚灌木；叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片深达叶片之半，裂片宽三角状卵形，先端尖，基…",
+      "花：花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘米，宽约2.5厘米，被长硬毛和纤毛；花萼杯…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片…；再以花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘…交叉确认。"
+    ],
+    "appearance": "叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片…；花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘…。",
+    "growthHabit": "一年生草本或亚灌木；",
+    "keyCharacteristics": [
+      "叶：叶宽卵形，径5-12厘米，长、宽近相等或宽略大于长，基部心形或平截，常3裂，稀5裂，41裂片深达叶片之半，裂片宽三角状卵形，先端尖，基…",
+      "花：花单生叶腋；花梗常较叶柄略短；小苞片3，分离，基部心形，具1个腺体，具7-9齿，连齿长达4厘米，宽约2.5厘米，被长硬毛和纤毛；花萼杯…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-gossypium-hirsutum",
+      "title": "GBIF species record: Gossypium hirsutum",
+      "url": "https://api.gbif.org/v1/species/3152661",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-gossypium-hirsutum",
+      "title": "iPlant species page: Gossypium hirsutum",
+      "url": "https://www.iplant.cn/info/Gossypium%20hirsutum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152661"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

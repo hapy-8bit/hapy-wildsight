@@ -1,0 +1,101 @@
+{
+  "id": "buxus-megistophylla",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大叶黄杨",
+    "scientificName": "Buxus megistophylla",
+    "family": "黄杨科",
+    "genus": "黄杨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "小枝无毛，节间长2-3.5厘米。",
+    "leaf": "叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖，有时稍钝，基部楔形或宽楔形，上面中脉凸起，被微毛或无毛，侧脉多而密；叶柄长2-3毫米，被微毛。",
+    "flower": "花序短穗状，长5-9毫米，腋生，具花约10朵；苞片宽卵形，基部被毛；雄花萼片宽卵形或近圆形，长2-2.5毫米，无毛，雄蕊长约6毫米，不育雌蕊高约1毫米；雌花萼片卵状椭圆形，长约3毫米，子房长约2毫米，花柱与子房等长或稍长。",
+    "fruit": "蒴果近球形，径6-7毫米，角状宿存花柱较果稍短。",
+    "habitat": "山地、山谷、河岸或山坡林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖。",
+      "花序短穗状，长5-9毫米，腋生，具花约10朵，苞片宽卵形。",
+      "蒴果近球形，径6-7毫米，角状宿存花柱较果稍短。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大叶黄杨是灌木。观察时重点看叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖，并结合花序短穗状，长5-9毫米，腋生，具花约10朵确认。",
+    "identificationReferences": [
+      "叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖。",
+      "花序短穗状，长5-9毫米，腋生，具花约10朵。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖”。",
+      "补拍花或花序的整体与细节，核对“花序短穗状，长5-9毫米，腋生，具花约10朵”。"
+    ],
+    "appearance": "叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖。花序短穗状，长5-9毫米，腋生，具花约10朵。",
+    "growthHabit": "灌木。山地、山谷、河岸或山坡林下。",
+    "keyCharacteristics": [
+      "叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖。",
+      "花序短穗状，长5-9毫米，腋生，具花约10朵。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，窄卵形、卵状椭圆形或披针形，长4-9厘米，宽1.5-3.5厘米，先端渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-buxus-megistophylla",
+      "title": "GBIF species record: Buxus megistophylla",
+      "url": "https://api.gbif.org/v1/species/3988037",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-buxus-megistophylla",
+      "title": "iPlant 植物智：大叶黄杨（Buxus megistophylla）",
+      "url": "https://www.iplant.cn/info/Buxus%20megistophylla?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3988037"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

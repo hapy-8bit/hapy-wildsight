@@ -1,0 +1,101 @@
+{
+  "id": "fatsia-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "八角金盘",
+    "scientificName": "Fatsia japonica",
+    "family": "五加科",
+    "genus": "八角金盘属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "常绿灌木。",
+    "stem": "枝粗壮，常少分枝。",
+    "leaf": "叶大，掌状分裂，裂片常为七至九。",
+    "flower": "伞形花序再组成圆锥状花序，花小。",
+    "fruit": "果实成熟时呈深色。",
+    "habitat": "常栽培于庭园和较阴湿环境，也可作室内观叶植物。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片大且掌状深裂。",
+      "裂片常为七至九。",
+      "常绿灌木，枝条较粗壮。"
+    ]
+  },
+  "knowledge": {
+    "summary": "八角金盘是常见观叶灌木，醒目的大掌状裂叶是主要观察点。",
+    "identificationReferences": [
+      "叶片大而掌状分裂，裂片通常较多。",
+      "枝条较粗壮，整体为常绿灌木。"
+    ],
+    "howToConfirm": [
+      "拍摄完整大叶、叶柄与植株整体。",
+      "观察叶片是否为明显掌状深裂，而非单纯掌状复叶。"
+    ],
+    "appearance": "叶片宽大、光泽明显，呈掌状裂。",
+    "growthHabit": "常绿灌木，常栽培于庭园阴湿处或作为室内观叶植物。",
+    "keyCharacteristics": [
+      "大而掌状深裂的叶。",
+      "较粗壮的常绿灌木枝条。"
+    ],
+    "observationTips": [
+      "叶片裂数会有变化，宜记录叶形、叶柄和植株整体。",
+      "光照不足时拍摄容易丢失叶脉细节，可避免强逆光。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-fatsia-japonica",
+      "title": "GBIF Species Match: Fatsia japonica (Thunb.) Decne. & Planch.",
+      "url": "https://api.gbif.org/v1/species/match?name=Fatsia%20japonica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-fatsia-japonica",
+      "title": "Flora of China search: Fatsia japonica",
+      "url": "https://www.efloras.org/search.aspx?query=Fatsia%20japonica",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "3039046"
+  }
+}

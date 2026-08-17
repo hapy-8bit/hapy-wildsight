@@ -1,0 +1,112 @@
+{
+  "id": "euonymus-japonicus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "冬青卫矛",
+    "scientificName": "Euonymus japonicus",
+    "family": "卫矛科",
+    "genus": "卫矛属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "常绿灌木或小乔木。",
+    "stem": "枝条多而密集。",
+    "leaf": "叶对生，革质，椭圆形至倒卵形，边缘具细锯齿。",
+    "flower": "花小，常成聚伞花序。",
+    "fruit": "蒴果，成熟后裂开。",
+    "habitat": "常作园林绿篱及绿化灌木栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生而革质。",
+      "叶缘有细锯齿。",
+      "常绿且枝条密集，常作绿篱。"
+    ]
+  },
+  "knowledge": {
+    "summary": "冬青卫矛是园林常见常绿绿篱植物，可从对生革质叶和细锯齿叶缘观察。",
+    "identificationReferences": [
+      "叶片对生，质地较厚。",
+      "叶缘常有细锯齿，枝条密集。"
+    ],
+    "howToConfirm": [
+      "拍摄一段枝条以显示叶对生关系。",
+      "近拍叶缘，并补拍未经重度修剪的株形。"
+    ],
+    "appearance": "枝叶浓密，叶片厚且有光泽。",
+    "growthHabit": "常绿灌木或小乔木，园林中常修剪成绿篱。",
+    "keyCharacteristics": [
+      "对生的革质叶。",
+      "叶缘细锯齿。"
+    ],
+    "observationTips": [
+      "绿篱长期修剪后花果少见，应优先记录枝叶细节。",
+      "拍摄叶序可减少仅凭叶形带来的不确定性。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "hedge",
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-euonymus-japonicus",
+      "title": "GBIF Species Match: Euonymus japonicus Thunb.",
+      "url": "https://api.gbif.org/v1/species/match?name=Euonymus%20japonicus",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-euonymus-japonicus",
+      "title": "Flora of China search: Euonymus japonicus",
+      "url": "https://www.efloras.org/search.aspx?query=Euonymus%20japonicus",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "iplant-euonymus-japonicus",
+      "title": "iPlant 植物智：Euonymus japonicus（冬青卫矛）",
+      "url": "https://www.iplant.cn/info/Euonymus%20japonicus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese alias review"
+      ]
+    }
+  ],
+  "contentVersion": 3,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "7102937"
+  }
+}

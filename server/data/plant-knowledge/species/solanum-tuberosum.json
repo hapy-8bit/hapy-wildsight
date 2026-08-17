@@ -1,0 +1,97 @@
+{
+  "id": "solanum-tuberosum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马铃薯",
+    "scientificName": "Solanum tuberosum",
+    "family": "茄科",
+    "genus": "茄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本。",
+    "stem": "地下茎块状，扁圆形或长圆形，淡黄、白色、淡红或紫色。",
+    "leaf": "奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘，两面疏被白色柔毛，侧脉6-8对。",
+    "flower": "花白或蓝白色；花萼钟形，径约1厘米，疏被柔毛，5中裂，裂片披针形；花冠辐状，径2.5-3厘米，冠檐长约1.5厘米，裂片三角形，长约5毫米；雄蕊长约6毫米，花药长5毫米；花柱长约8毫米。",
+    "fruit": "浆果球形，无毛，径约15厘米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘。",
+      "花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛，5中裂。",
+      "浆果球形，无毛，径约15厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马铃薯是草本。观察时重点看奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘，并结合花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛确认。",
+    "identificationReferences": [
+      "奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘。",
+      "花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘”。",
+      "补拍花或花序的整体与细节，核对“花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛”。"
+    ],
+    "appearance": "奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘。花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛。",
+    "growthHabit": "草本。",
+    "keyCharacteristics": [
+      "奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘。",
+      "花白或蓝白色，花萼钟形，径约1厘米，疏被柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“奇数羽状复叶，小叶常大小相间，先端尖，基部稍不对称，全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-solanum-tuberosum",
+      "title": "GBIF species record: Solanum tuberosum",
+      "url": "https://api.gbif.org/v1/species/2930262",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-solanum-tuberosum",
+      "title": "iPlant 植物智：马铃薯（Solanum tuberosum）",
+      "url": "https://www.iplant.cn/info/Solanum%20tuberosum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2930262"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

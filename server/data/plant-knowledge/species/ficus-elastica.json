@@ -1,0 +1,99 @@
+{
+  "id": "ficus-elastica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "印度榕",
+    "scientificName": "Ficus elastica",
+    "family": "桑科",
+    "genus": "榕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木；",
+    "stem": "树皮灰白色，平滑；",
+    "leaf": "叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1级侧脉均不明显，平行展出；",
+    "flower": "",
+    "fruit": "榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落后基部有环状痕；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1级侧脉均不明显，平行展出；",
+      "果：榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落后基部有环状痕；"
+    ]
+  },
+  "knowledge": {
+    "summary": "印度榕为乔木；叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1…。观察时再结合叶、果、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1级侧脉均不明显，平行展出；",
+      "果：榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落后基部有环状痕；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果、茎等可见结构。",
+      "先核对叶：厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1…；再以果榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落…交叉确认。"
+    ],
+    "appearance": "叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1…；果榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落…。",
+    "growthHabit": "乔木；",
+    "keyCharacteristics": [
+      "叶：叶厚革质，长圆形或椭圆形，长8-30厘米，先端骤尖，基部宽楔形，全缘，下面具钟乳体，2级及1级侧脉均不明显，平行展出；",
+      "果：榕果成对生于落叶枝叶腋，卵状长椭圆形，长1厘米，径5-8毫米，黄绿色，基生苞片风帽状，脱落后基部有环状痕；"
+    ],
+    "observationTips": [
+      "将叶、果、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ficus-elastica",
+      "title": "GBIF species record: Ficus elastica",
+      "url": "https://api.gbif.org/v1/species/7835333",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ficus-elastica",
+      "title": "iPlant species page: Ficus elastica",
+      "url": "https://www.iplant.cn/info/Ficus%20elastica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7835333"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "acalypha-australis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "铁苋菜",
+    "scientificName": "Acalypha australis",
+    "family": "大戟科",
+    "genus": "铁苋菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "小枝被平伏柔毛。",
+    "leaf": "叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿，基脉3出，侧脉3-4对；叶柄长2-6厘米，被柔毛，托叶披针形，具柔毛。",
+    "flower": "花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花；雌花苞片1-2(-4)，卵状心形，长1.5-2.5厘米，具齿；雄花花萼无毛；雌花1-3朵生于苞腋；萼片3，长1毫米；花柱长约2毫米，撕裂。",
+    "fruit": "蒴果绿色，径4毫米，疏生毛和小瘤体；种子卵形，长1.5-2毫米，光滑，假种阜细长。",
+    "habitat": "平原或山坡较湿润耕地和空旷草地，有时石灰岩山疏林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿。",
+      "花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花，雌花苞片1-2(-4)。",
+      "蒴果绿色，径4毫米，疏生毛和小瘤体，种子卵形，长1.5-2毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "铁苋菜是一年生草本。观察时重点看叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿，并结合花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花确认。",
+    "identificationReferences": [
+      "叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿。",
+      "花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿”。",
+      "补拍花或花序的整体与细节，核对“花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花”。"
+    ],
+    "appearance": "叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿。花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花。",
+    "growthHabit": "一年生草本。平原或山坡较湿润耕地和空旷草地，有时石灰岩山疏林下。",
+    "keyCharacteristics": [
+      "叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿。",
+      "花序长1.5-5厘米，雄花集成穗状或头状，生于花序上部，下部具雌花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长卵形、近菱状卵形或宽披针形，长3-9厘米，先端短渐尖，基部楔形，具圆齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acalypha-australis",
+      "title": "GBIF species record: Acalypha australis",
+      "url": "https://api.gbif.org/v1/species/3056835",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acalypha-australis",
+      "title": "iPlant 植物智：铁苋菜（Acalypha australis）",
+      "url": "https://www.iplant.cn/info/Acalypha%20australis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3056835"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

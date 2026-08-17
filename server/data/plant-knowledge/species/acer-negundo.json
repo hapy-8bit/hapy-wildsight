@@ -1,0 +1,97 @@
+{
+  "id": "acer-negundo",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "梣叶槭",
+    "scientificName": "Acer negundo",
+    "family": "无患子科",
+    "genus": "槭属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "树皮黄褐色或灰褐色。",
+    "leaf": "羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米，宽2-4厘米，先端渐尖，基部楔形，具3-5对粗锯齿，下面淡绿色，脉腋被族生毛，侧脉5-7对；叶柄长5-7厘米。",
+    "flower": "花梗长1.5-3厘米；无花瓣，无花盘；雄蕊4-6，花丝长；子房无毛。",
+    "fruit": "小坚果凸起，近于长圆形或长圆卵形，无毛；翅宽8-10毫米，稍向内弯，连同小坚果长3-3.5厘米，张开成锐角或近于直角。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米。",
+      "花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6，花丝长。",
+      "小坚果凸起，近于长圆形或长圆卵形，无毛，翅宽8-10毫米，稍向内弯。"
+    ]
+  },
+  "knowledge": {
+    "summary": "梣叶槭是落叶乔木。观察时重点看羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米，并结合花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6确认。",
+    "identificationReferences": [
+      "羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米。",
+      "花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6”。"
+    ],
+    "appearance": "羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米。花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6。",
+    "growthHabit": "落叶乔木。",
+    "keyCharacteristics": [
+      "羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米。",
+      "花梗长1.5-3厘米，无花瓣，无花盘，雄蕊4-6。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶，小叶3-5(7-9)，小叶纸质，卵圆形或椭圆状披针形，长8-10厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acer-negundo",
+      "title": "GBIF species record: Acer negundo",
+      "url": "https://api.gbif.org/v1/species/3189866",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acer-negundo",
+      "title": "iPlant 植物智：梣叶槭（Acer negundo）",
+      "url": "https://www.iplant.cn/info/Acer%20negundo?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189866"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

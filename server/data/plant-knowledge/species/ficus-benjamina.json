@@ -1,0 +1,101 @@
+{
+  "id": "ficus-benjamina",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "垂叶榕",
+    "scientificName": "Ficus benjamina",
+    "family": "桑科",
+    "genus": "榕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮灰色。",
+    "leaf": "叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘，叶脉两面凸起，侧脉极多数，1级与2级侧脉难区分，细脉平行，直达近叶缘，网结成边脉，两面无毛；叶柄长1-2厘米，上面具沟槽，托叶披针形，长约6毫米。",
+    "flower": "雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形，雄蕊1，花丝短；瘿花具梗，多数，花被片(4)5，窄匙形，花柱侧生；雌花无梗，花被片短匙形。",
+    "fruit": "榕果成对或单生叶腋，基部缢缩成柄，球形或扁球形，光滑，熟时红或黄色，径0.8-1.5厘米，基生苞片不明显。",
+    "habitat": "在云南生于海拔500-800米湿润的杂木林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘。",
+      "雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形，雄蕊1。",
+      "榕果成对或单生叶腋，基部缢缩成柄，球形或扁球形，光滑，熟时红或黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "垂叶榕是乔木。观察时重点看叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘，并结合雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形确认。",
+    "identificationReferences": [
+      "叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘。",
+      "雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘”。",
+      "补拍花或花序的整体与细节，核对“雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形”。"
+    ],
+    "appearance": "叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘。雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形。",
+    "growthHabit": "乔木。在云南生于海拔500-800米湿润的杂木林中。",
+    "keyCharacteristics": [
+      "叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘。",
+      "雄花、瘿花、雌花同生一榕果内：雄花极少数，具梗，花被片4，宽卵形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶薄革质，卵形或卵状椭圆形/长4-8厘米，先端短渐尖，基部圆或宽楔形，全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ficus-benjamina",
+      "title": "GBIF species record: Ficus benjamina",
+      "url": "https://api.gbif.org/v1/species/5361932",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ficus-benjamina",
+      "title": "iPlant 植物智：垂叶榕（Ficus benjamina）",
+      "url": "https://www.iplant.cn/info/Ficus%20benjamina?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5361932"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

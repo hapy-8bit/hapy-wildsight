@@ -1,0 +1,98 @@
+{
+  "id": "metasequoia-glyptostroboides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "水杉",
+    "scientificName": "Metasequoia glyptostroboides",
+    "family": "柏科",
+    "genus": "水杉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木；",
+    "stem": "树干基部常膨大；树皮灰色、灰褐色或暗灰色，幼树裂成薄片脱落，大树裂成长条状脱落，内皮淡紫褐色；",
+    "leaf": "叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.5厘米，上面中脉凹下，下面沿中脉两侧有4-…",
+    "flower": "雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊约20，花药3，药隔显著；",
+    "fruit": "球果下垂，当年成熟，近球形，张开后微具四棱，稀长圆状球形，长1.6-2.5厘米，径1.5-2.2厘米；",
+    "habitat": "在河流两旁、湿润山坡及沟谷中栽培很多，也有少数野生树木，常与杉木、茅栗、锥栗、枫香、漆树、灯台树、响叶杨、利川润楠等树种混生；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.5厘米，上面中脉凹下，下面沿中脉两侧有4-…",
+      "花：雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊约20，花药3，药隔显著；"
+    ]
+  },
+  "knowledge": {
+    "summary": "水杉为落叶乔木；叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.5厘米，上面中脉凹下，下面沿中脉两侧有4-…",
+      "花：雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊约20，花药3，药隔显著；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.…；再以花雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊…交叉确认。"
+    ],
+    "appearance": "叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.…；花雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊…。",
+    "growthHabit": "落叶乔木；",
+    "keyCharacteristics": [
+      "叶：叶、芽鳞、雄球花、雄蕊、珠鳞与种鳞均交互对生；叶线形，质软，在侧枝上排成羽状，长0.8-1.5厘米，上面中脉凹下，下面沿中脉两侧有4-…",
+      "花：雄球花在枝条顶部的花序轴上交互对生及顶生，排成总状或圆锥状花序，通常长15-25厘米，雄蕊约20，花药3，药隔显著；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-metasequoia-glyptostroboides",
+      "title": "GBIF species record: Metasequoia glyptostroboides",
+      "url": "https://api.gbif.org/v1/species/5284231",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-metasequoia-glyptostroboides",
+      "title": "iPlant species page: Metasequoia glyptostroboides",
+      "url": "https://www.iplant.cn/info/Metasequoia%20glyptostroboides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5284231"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

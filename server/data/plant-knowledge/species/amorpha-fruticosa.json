@@ -1,0 +1,100 @@
+{
+  "id": "amorpha-fruticosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫穗槐",
+    "scientificName": "Amorpha fruticosa",
+    "family": "豆科",
+    "genus": "紫穗槐属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "茎丛生，高1-4米；",
+    "leaf": "奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭圆形，长1-4厘米，先端圆、急尖或微凹，有短…",
+    "flower": "穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；",
+    "fruit": "荚果长圆形，下垂，长0.6-1厘米，微弯曲，具小突尖，成熟时棕褐色，有疣状腺点；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭圆形，长1-4厘米，先端圆、急尖或微凹，有短…",
+      "花：穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫穗槐为落叶灌木；叶奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭圆形，长1-4厘米，先端圆、急尖或微凹，有短…",
+      "花：穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭…；再以花穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；交叉确认。"
+    ],
+    "appearance": "叶奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭…；花穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：奇数羽状复叶长10-15厘米；叶柄长1-2厘米；托叶线形，脱落；小叶11-25片，卵形或椭圆形，长1-4厘米，先端圆、急尖或微凹，有短…",
+      "花：穗状花序顶生或生于枝条上部叶腋，长7-15厘米，花序梗与序轴均密被短柔毛；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-amorpha-fruticosa",
+      "title": "GBIF species record: Amorpha fruticosa",
+      "url": "https://api.gbif.org/v1/species/5357407",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-amorpha-fruticosa",
+      "title": "iPlant species page: Amorpha fruticosa",
+      "url": "https://www.iplant.cn/info/Amorpha%20fruticosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5357407"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

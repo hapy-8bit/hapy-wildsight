@@ -1,0 +1,101 @@
+{
+  "id": "vigna-radiata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "绿豆",
+    "scientificName": "Vigna radiata",
+    "family": "豆科",
+    "genus": "豇豆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生直立草本。",
+    "stem": "茎被褐色长硬毛。",
+    "leaf": "羽状复叶具3小叶；托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛；小托叶显著，披针形；小叶卵形，长5-16厘米，侧生的多少偏斜，全缘，先端渐尖，基部宽楔形或圆，两面被疏长毛，基部3脉明显；叶柄长5-21厘米；叶轴长1.5-4厘米。",
+    "flower": "花序梗长2.5-9.5厘米：小苞片近宿存；花萼管无毛，长3-4毫米，裂片窄三角形，长1.5-4毫米，上方的一对合生；旗瓣近方形，长1.2厘米，外面黄绿色，里面带粉红，先端微凹，内弯，无毛，翼瓣卵形，黄色，龙骨瓣镰刀状，绿色而染粉红，右侧有显著的囊。",
+    "fruit": "荚果线状圆柱形，平展，长4-9厘米，宽5-6毫米，被淡褐色散生长硬毛，种子间多少收缩。",
+    "habitat": "洗净置流水中，遮光发芽，可制成芽菜，供蔬食。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛。",
+      "花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形，长1.5-4毫米。",
+      "荚果线状圆柱形，平展，长4-9厘米，宽5-6毫米，被淡褐色散生长硬毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "绿豆是一年生直立草本。观察时重点看羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛，并结合花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形确认。",
+    "identificationReferences": [
+      "羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛。",
+      "花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛”。",
+      "补拍花或花序的整体与细节，核对“花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形”。"
+    ],
+    "appearance": "羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛。花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形。",
+    "growthHabit": "一年生直立草本。洗净置流水中，遮光发芽，可制成芽菜。",
+    "keyCharacteristics": [
+      "羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛。",
+      "花序梗长2.5-9.5厘米：小苞片近宿存，花萼管无毛，长3-4毫米，裂片窄三角形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状复叶具3小叶，托叶盾状着生，卵形，长0.8-1.2厘米，具缘毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vigna-radiata",
+      "title": "GBIF species record: Vigna radiata",
+      "url": "https://api.gbif.org/v1/species/2982380",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vigna-radiata",
+      "title": "iPlant 植物智：绿豆（Vigna radiata）",
+      "url": "https://www.iplant.cn/info/Vigna%20radiata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2982380"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

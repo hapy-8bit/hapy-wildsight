@@ -1,0 +1,100 @@
+{
+  "id": "pilea-cadierei",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "花叶冷水花",
+    "scientificName": "Pilea cadierei",
+    "family": "荨麻科",
+    "genus": "冷水花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本或灌木状，高达40厘米，无毛。",
+    "stem": "茎肉质，下部多少木质化，高15-40厘米。",
+    "leaf": "叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆，有数对不整齐浅牙齿或啮蚀状，上面中央有2条(有时边缘有2条)间断白斑，钟乳体梭形，两面明显，基出脉3，二级脉在上部约3对；叶柄长0.7-1.5厘米，托叶长圆形，长1-1.3厘米，早落。",
+    "flower": "花雌雄异株；雄花序头状，常成对腋生，花序梗长1.5-4厘米，团伞花簇径0.6-1厘米；雄花倒梨形，花被片4，合生至中部，近兜状，近先端有长角状突起；雌花花被片4，近等长，稍短于子房。",
+    "fruit": "",
+    "habitat": "花雌雄异株；雄花序头状，常成对生于叶腋，花序梗长1.5-4厘米，团伞花簇径6-10毫米；苞片外层的扁圆形，长约3毫米，内层的圆卵形，稍小。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆。",
+      "花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米，团伞花簇径0.6-1厘米。",
+      "茎肉质，下部多少木质化，高15-40厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "花叶冷水花是多年生草本或灌木状。观察时重点看叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆，并结合花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米确认。",
+    "identificationReferences": [
+      "叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆。",
+      "花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆”。",
+      "补拍花或花序的整体与细节，核对“花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米”。"
+    ],
+    "appearance": "叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆。花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米。",
+    "growthHabit": "多年生草本或灌木状。花雌雄异株，雄花序头状，常成对生于叶腋。",
+    "keyCharacteristics": [
+      "叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆。",
+      "花雌雄异株，雄花序头状，常成对腋生，花序梗长1.5-4厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶同对的近等大，倒卵形，长2.5-6厘米，先端骤凸，基部楔形或钝圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pilea-cadierei",
+      "title": "GBIF species record: Pilea cadierei",
+      "url": "https://api.gbif.org/v1/species/5671157",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pilea-cadierei",
+      "title": "iPlant 植物智：花叶冷水花（Pilea cadierei）",
+      "url": "https://www.iplant.cn/info/Pilea%20cadierei?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5671157"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

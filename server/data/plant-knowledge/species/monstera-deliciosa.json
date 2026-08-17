@@ -1,0 +1,109 @@
+{
+  "id": "monstera-deliciosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "龟背竹",
+    "scientificName": "Monstera deliciosa",
+    "family": "天南星科",
+    "genus": "龟背竹属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "常绿攀援植物。",
+    "stem": "茎粗壮，节上常见气生根。",
+    "leaf": "成熟叶片大，常有羽状裂和穿孔；幼叶可能尚未形成裂孔。",
+    "flower": "肉穗花序外具佛焰苞。",
+    "fruit": "肉穗花序成熟后形成聚合果。",
+    "habitat": "原生于热带美洲的湿润森林环境，常作为室内观叶植物栽培。",
+    "distribution": "原产于墨西哥南部至巴拿马一带。",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "攀援茎节上的气生根。",
+      "成熟叶的裂片和穿孔。"
+    ]
+  },
+  "knowledge": {
+    "summary": "龟背竹可从粗壮攀援茎的气生根，以及成熟叶片上的裂片和穿孔综合观察。",
+    "identificationReferences": [
+      "茎节常有气生根，可借此攀附。",
+      "成熟叶片常同时出现裂片和穿孔；幼叶外形可能不同。"
+    ],
+    "howToConfirm": [
+      "同时拍摄叶片、茎节和气生根。",
+      "比较不同叶龄：不要因幼叶没有穿孔而直接排除。"
+    ],
+    "appearance": "成熟叶片大，常有裂片和穿孔；幼叶的开裂程度可能较低。",
+    "growthHabit": "常绿攀援植物，借气生根攀附。",
+    "keyCharacteristics": [
+      "茎节气生根。",
+      "成熟叶片的裂片和穿孔。"
+    ],
+    "observationTips": [
+      "拍摄全叶和茎节细节，便于保留生长阶段信息。",
+      "室内栽培时，光照和叶龄会影响叶片裂孔的明显程度。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage",
+      "climber"
+    ],
+    "coveragePriority": "P0"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-monstera-deliciosa",
+      "title": "GBIF Species Match: Monstera deliciosa Liebm.",
+      "url": "https://api.gbif.org/v1/species/match?name=Monstera%20deliciosa",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus"
+      ]
+    },
+    {
+      "id": "powo-monstera-deliciosa",
+      "title": "Plants of the World Online: Monstera deliciosa Liebm.",
+      "url": "https://powo.science.kew.org/results?q=Monstera%20deliciosa",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "native range",
+        "habit",
+        "taxonomy"
+      ]
+    },
+    {
+      "id": "missouri-botanical-garden-monstera",
+      "title": "Missouri Botanical Garden Plant Finder: Monstera deliciosa",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280930",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "leaf",
+        "stem",
+        "aerial roots",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2868241"
+  }
+}

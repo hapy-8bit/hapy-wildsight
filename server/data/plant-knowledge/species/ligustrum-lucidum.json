@@ -1,0 +1,98 @@
+{
+  "id": "ligustrum-lucidum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "女贞",
+    "scientificName": "Ligustrum lucidum",
+    "family": "木犀科",
+    "genus": "女贞属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木或乔木，高可达25米；树皮灰褐色。",
+    "stem": "枝黄褐色、灰色或紫红色，圆柱形，疏生圆形或长圆形皮孔。",
+    "leaf": "叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖或钝，基部圆形或近圆形，有时宽楔形或渐狭，…",
+    "flower": "圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色或黄棕色，果时具棱；花序基部苞片常与叶同型，…",
+    "fruit": "果肾形或近肾形，长7-10毫米，径4-6毫米，深蓝黑色，成熟时呈红黑色，被白粉；果梗长0-5毫米。",
+    "habitat": "疏、密林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖或钝，基部圆形或近圆形，有时宽楔形或渐狭，…",
+      "花：圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色或黄棕色，果时具棱；花序基部苞片常与叶同型，…"
+    ]
+  },
+  "knowledge": {
+    "summary": "女贞为灌木或乔木，高可达25米；树皮灰褐色；叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖或钝，基部圆形或近圆形，有时宽楔形或渐狭，…",
+      "花：圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色或黄棕色，果时具棱；花序基部苞片常与叶同型，…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖…；再以花圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色…交叉确认。"
+    ],
+    "appearance": "叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖…；花圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色…。",
+    "growthHabit": "灌木或乔木，高可达25米；树皮灰褐色。",
+    "keyCharacteristics": [
+      "叶：叶片常绿，革质，卵形、长卵形或椭圆形至宽椭圆形，长6-17厘米，宽3-8厘米，先端锐尖至渐尖或钝，基部圆形或近圆形，有时宽楔形或渐狭，…",
+      "花：圆锥花序顶生，长8-20厘米，宽8-25厘米；花序梗长0-3厘米；花序轴及分枝轴无毛，紫色或黄棕色，果时具棱；花序基部苞片常与叶同型，…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ligustrum-lucidum",
+      "title": "GBIF species record: Ligustrum lucidum",
+      "url": "https://api.gbif.org/v1/species/3172297",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ligustrum-lucidum",
+      "title": "iPlant species page: Ligustrum lucidum",
+      "url": "https://www.iplant.cn/info/Ligustrum%20lucidum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172297"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

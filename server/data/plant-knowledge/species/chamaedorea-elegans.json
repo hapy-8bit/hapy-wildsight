@@ -1,0 +1,97 @@
+{
+  "id": "chamaedorea-elegans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "袖珍椰子",
+    "scientificName": "Chamaedorea elegans",
+    "family": "棕榈科",
+    "genus": "竹节椰属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿灌木，单干型，一般高不及1 m，最高达4～5 m。",
+    "stem": "茎干细长，深绿色，具不规则花纹。",
+    "leaf": "叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状，嫩叶绿色，老叶墨绿色。",
+    "flower": "雌雄异株；肉穗花序腋生，花黄色，呈小球状。",
+    "fruit": "桨果球形，橙黄色。",
+    "habitat": "喜温暖湿润，耐荫性强，高温季节忌阳光直射，生长适温20-30 ℃，低于13 ℃进入休眠状态。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状。",
+      "雌雄异株，肉穗花序腋生，花黄色，呈小球状。",
+      "桨果球形，橙黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "袖珍椰子是常绿灌木。观察时重点看叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状，并结合雌雄异株，肉穗花序腋生，花黄色，呈小球状确认。",
+    "identificationReferences": [
+      "叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状。",
+      "雌雄异株，肉穗花序腋生，花黄色，呈小球状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状”。",
+      "补拍花或花序的整体与细节，核对“雌雄异株，肉穗花序腋生，花黄色，呈小球状”。"
+    ],
+    "appearance": "叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状。雌雄异株，肉穗花序腋生，花黄色，呈小球状。",
+    "growthHabit": "常绿灌木。喜温暖湿润，耐荫性强，高温季节忌阳光直射。",
+    "keyCharacteristics": [
+      "叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状。",
+      "雌雄异株，肉穗花序腋生，花黄色，呈小球状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶生于干顶，羽状全裂，裂片披针形，有光泽，顶端两片羽叶的基部常合生为鱼尾状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-chamaedorea-elegans",
+      "title": "GBIF species record: Chamaedorea elegans",
+      "url": "https://api.gbif.org/v1/species/2734661",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-chamaedorea-elegans",
+      "title": "iPlant 植物智：袖珍椰子（Chamaedorea elegans）",
+      "url": "https://www.iplant.cn/info/Chamaedorea%20elegans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2734661"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

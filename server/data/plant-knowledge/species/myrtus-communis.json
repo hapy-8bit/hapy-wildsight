@@ -1,0 +1,100 @@
+{
+  "id": "myrtus-communis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "香桃木",
+    "scientificName": "Myrtus communis",
+    "family": "桃金娘科",
+    "genus": "香桃木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿灌木，或有时为高达5米的小乔木；枝四棱，幼嫩部分稍被腺毛。",
+    "stem": "枝四棱，幼嫩部分稍被腺毛。",
+    "leaf": "叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米，宽0.5-1厘米，顶端渐尖，基部楔形，上面深绿色，下面暗晦，除中脉和边缘有柔毛外，余皆无毛；叶柄极短，长不及3毫米。",
+    "flower": "花梗细长；萼片5，细小，三角状卵形，短尖或渐尖，扩展，外弯；花瓣5，白色或淡红色，较大，倒卵形，顶端钝或圆，被腺毛，边缘毛较密；雄蕊多数（达50枚），离生，与花瓣等长，花药黄色，短椭圆形。",
+    "fruit": "浆果圆形或椭圆形，大如豌豆，蓝黑色或白色，顶部有宿萼。",
+    "habitat": "花芳香，中等大，被腺毛，通常单生于叶腋，稀2朵丛生；花梗细长；萼片5，细小，三角状卵形，短尖或渐尖，扩展，外弯；花瓣5,白色或淡红色，较大，倒卵形，顶端钝或圆，被腺毛，边缘毛较密；雄蕊多数（达50枚），离生，与花瓣等长，花药黄色，短椭圆形。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米。",
+      "花梗细长，萼片5，细小，三角状卵形，短尖或渐尖。",
+      "浆果圆形或椭圆形，大如豌豆，蓝黑色或白色，顶部有宿萼。"
+    ]
+  },
+  "knowledge": {
+    "summary": "香桃木是常绿灌木。观察时重点看叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米，并结合花梗细长，萼片5，细小，三角状卵形确认。",
+    "identificationReferences": [
+      "叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米。",
+      "花梗细长，萼片5，细小，三角状卵形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗细长，萼片5，细小，三角状卵形”。"
+    ],
+    "appearance": "叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米。花梗细长，萼片5，细小，三角状卵形。",
+    "growthHabit": "常绿灌木。花芳香，中等大，被腺毛。",
+    "keyCharacteristics": [
+      "叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米。",
+      "花梗细长，萼片5，细小，三角状卵形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶芳香，革质，交互对生或3叶轮生，叶片卵形至披针形，长1-3厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-myrtus-communis",
+      "title": "GBIF species record: Myrtus communis",
+      "url": "https://api.gbif.org/v1/species/3180085",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-myrtus-communis",
+      "title": "iPlant 植物智：香桃木（Myrtus communis）",
+      "url": "https://www.iplant.cn/info/Myrtus%20communis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3180085"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

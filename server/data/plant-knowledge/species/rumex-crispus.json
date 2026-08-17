@@ -1,0 +1,101 @@
+{
+  "id": "rumex-crispus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "皱叶酸模",
+    "scientificName": "Rumex crispus",
+    "family": "蓼科",
+    "genus": "酸模属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎常不分枝，无毛。",
+    "leaf": "基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形，边缘皱波状，无毛，叶柄稍短于片；茎生叶窄披针形，具短柄。",
+    "flower": "花梗细，中下部具关节：外花被片椭圆形，长约1毫米；内花被片果时增大，宽卵形，长4-5毫米，基部近平截，近全缘，全部具小瘤，稀1片具小瘤，小瘤卵形，长1.5-2毫米。",
+    "fruit": "瘦果卵形，具3锐棱。",
+    "habitat": "河滩、沟边湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形。",
+      "花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大，宽卵形。",
+      "瘦果卵形，具3锐棱。"
+    ]
+  },
+  "knowledge": {
+    "summary": "皱叶酸模是多年生草本。观察时重点看基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形，并结合花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大确认。",
+    "identificationReferences": [
+      "基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形。",
+      "花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大”。"
+    ],
+    "appearance": "基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形。花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大。",
+    "growthHabit": "多年生草本。河滩、沟边湿地。",
+    "keyCharacteristics": [
+      "基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形。",
+      "花梗细，中下部具关节：外花被片椭圆形，长约1毫米，内花被片果时增大。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶披针形或窄披针形，长10-25厘米，宽2-5厘米，先端尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rumex-crispus",
+      "title": "GBIF species record: Rumex crispus",
+      "url": "https://api.gbif.org/v1/species/8195144",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rumex-crispus",
+      "title": "iPlant 植物智：皱叶酸模（Rumex crispus）",
+      "url": "https://www.iplant.cn/info/Rumex%20crispus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8195144"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

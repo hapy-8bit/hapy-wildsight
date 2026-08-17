@@ -1,0 +1,97 @@
+{
+  "id": "pinus-bungeana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白皮松",
+    "scientificName": "Pinus bungeana",
+    "family": "松科",
+    "genus": "松属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木。",
+    "stem": "主干明显，或从树干近基部分生数干；幼树树皮灰绿色，平滑，长大后树皮裂成不规则块片脱落，内皮淡黄绿色，老树树皮淡褐灰色或灰白色，块片脱落露出粉白色内皮，白褐相间或斑鳞状。",
+    "leaf": "针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线，边缘有细齿，树脂道4-7，边生，或边生与中生并存。",
+    "flower": "花期4-5月，球果第二年10-11月成熟。",
+    "fruit": "球果卵圆形或圆锥状卵圆形，长5-7厘米，径4-6厘米，熟时淡黄褐色；种鳞的鳞盾多为菱形，有横脊，鳞脐有三角状短尖剌，尖头向下反曲。",
+    "habitat": "在气候温凉、土层深厚、肥润的钙质土和黄土上生长良好耐瘠薄土壤及较干冷的气候。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线。",
+      "花期4-5月，球果第二年10-11月成熟。",
+      "球果卵圆形或圆锥状卵圆形，长5-7厘米，径4-6厘米，熟时淡黄褐色，种鳞的鳞盾多为菱形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白皮松是高大乔木。观察时重点看针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线，并结合花期4-5月，球果第二年10-11月成熟确认。",
+    "identificationReferences": [
+      "针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线。",
+      "花期4-5月，球果第二年10-11月成熟。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线”。",
+      "补拍花或花序的整体与细节，核对“花期4-5月，球果第二年10-11月成熟”。"
+    ],
+    "appearance": "针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线。花期4-5月，球果第二年10-11月成熟。",
+    "growthHabit": "高大乔木。在气候温凉、土层深厚、肥润的钙质土和黄土上生长良好耐瘠薄土壤及较干冷的气候。",
+    "keyCharacteristics": [
+      "针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线。",
+      "花期4-5月，球果第二年10-11月成熟。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“针叶3针一束，粗硬，长5-10厘米，径1.5-2毫米，背部及腹面两侧有气孔线”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pinus-bungeana",
+      "title": "GBIF species record: Pinus bungeana",
+      "url": "https://api.gbif.org/v1/species/5285775",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pinus-bungeana",
+      "title": "iPlant 植物智：白皮松（Pinus bungeana）",
+      "url": "https://www.iplant.cn/info/Pinus%20bungeana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5285775"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

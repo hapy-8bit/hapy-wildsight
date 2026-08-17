@@ -1,0 +1,102 @@
+{
+  "id": "actinidia-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "中华猕猴桃",
+    "scientificName": "Actinidia chinensis",
+    "family": "猕猴桃科",
+    "genus": "猕猴桃属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶藤本。",
+    "stem": "幼枝被灰白色绒毛、褐色长硬毛或锈色硬刺毛，后脱落无毛；髓心白至淡褐色，片层状；芽鳞密被褐色绒毛。",
+    "leaf": "叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖；花枝之叶近圆形，先端钝圆、微凹或平截；叶长6-17厘米，宽7-15厘米，基部楔状稍圆、平截至浅心形，具睫状细齿，上面无毛或中脉及侧脉疏被毛，下面密被灰白或淡褐色星状绒毛；叶柄长3-6(-12.7)厘米，被灰白或黄褐色毛。",
+    "flower": "花梗长0.9-1.5厘米；萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米，密被平伏黄褐色绒毛；花瓣（3-)5(-7)，宽倒卵形，具短矩，长1-2厘米；花药长1.5-2毫米；子房密被黄色绒毛或糙毛。",
+    "fruit": "果黄褐色，近球形，长4-6厘米，被灰白色绒毛，易脱落，具淡褐色斑点，宿萼反折。",
+    "habitat": "生于海拔200-600米低山区的山林中，一般多出现于高草灌丛、灌木林或次生疏林中，喜欢腐植质丰富、排水良好的土壤；分布于较北的地区者喜生于温暖湿润，背风向阳环境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截。",
+      "花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米，密被平伏黄褐色绒毛。",
+      "果黄褐色，近球形，长4-6厘米，被灰白色绒毛，易脱落。"
+    ]
+  },
+  "knowledge": {
+    "summary": "中华猕猴桃是落叶藤本。观察时重点看叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截，并结合花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米确认。",
+    "identificationReferences": [
+      "叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截。",
+      "花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米”。"
+    ],
+    "appearance": "叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截。花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米。",
+    "growthHabit": "落叶藤本。生于海拔200-600米低山区的山林中，一般多出现于高草灌丛、灌木林或次生疏林中，喜欢腐植质丰富、排水良好的土壤。",
+    "keyCharacteristics": [
+      "叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截。",
+      "花梗长0.9-1.5厘米，萼片(3-)5(-7)，宽卵形或卵状长圆形，长0.6-1厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，营养枝之叶宽卵圆形或椭圆形，先端短渐尖或骤尖，花枝之叶近圆形，先端钝圆、微凹或平截”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-actinidia-chinensis",
+      "title": "GBIF species record: Actinidia chinensis",
+      "url": "https://api.gbif.org/v1/species/3189694",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-actinidia-chinensis",
+      "title": "iPlant 植物智：中华猕猴桃（Actinidia chinensis）",
+      "url": "https://www.iplant.cn/info/Actinidia%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189694"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

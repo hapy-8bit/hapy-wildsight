@@ -1,0 +1,98 @@
+{
+  "id": "salvia-splendens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "一串红",
+    "scientificName": "Salvia splendens",
+    "family": "唇形科",
+    "genus": "鼠尾草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本或亚灌木状。",
+    "stem": "茎钝四稜形，具浅槽，无毛。",
+    "leaf": "叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿，两面无毛，下面被腺点；叶柄长3-4.5厘米，无毛。",
+    "flower": "花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛；花萼钟形，红色，开花时长约1.6厘米，花后增大达2厘米，外面沿脉上被染红的具腺柔毛，内面在上半部被微硬伏毛，二唇形，唇裂达花萼长1/3，上唇三角状卵圆形，长5-6毫米，宽10毫米，先端具小尖头，下唇比上唇略长，深2裂，裂片三角形，先端渐尖。",
+    "fruit": "小坚果暗褐色，顶端不规则绉褶，边缘具窄翅。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿。",
+      "花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形，红色。",
+      "小坚果暗褐色，顶端不规则绉褶，边缘具窄翅。"
+    ]
+  },
+  "knowledge": {
+    "summary": "一串红是草本或亚灌木状。观察时重点看叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿，并结合花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形确认。",
+    "identificationReferences": [
+      "叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿。",
+      "花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿”。",
+      "补拍花或花序的整体与细节，核对“花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形”。"
+    ],
+    "appearance": "叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿。花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形。",
+    "growthHabit": "草本或亚灌木状。",
+    "keyCharacteristics": [
+      "叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿。",
+      "花梗长4-7毫米，密被染红的具腺柔毛，花序轴被微柔毛，花萼钟形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或三角状卵形，长2.5-7厘米，先端渐尖，基部平截或近圆，具锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-salvia-splendens",
+      "title": "GBIF species record: Salvia splendens",
+      "url": "https://api.gbif.org/v1/species/8249932",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-salvia-splendens",
+      "title": "iPlant 植物智：一串红（Salvia splendens）",
+      "url": "https://www.iplant.cn/info/Salvia%20splendens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8249932"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

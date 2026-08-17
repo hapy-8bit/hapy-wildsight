@@ -1,0 +1,102 @@
+{
+  "id": "pittosporum-tobira",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "海桐",
+    "scientificName": "Pittosporum tobira",
+    "family": "海桐花科",
+    "genus": "海桐花属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "常绿灌木或小乔木。",
+    "stem": "枝条密集。",
+    "leaf": "叶革质，常在枝端簇生，倒卵形或倒披针形。",
+    "flower": "花小，常集成顶生聚伞花序。",
+    "fruit": "蒴果成熟后裂开，露出黏性种子。",
+    "habitat": "可作园林绿篱和观叶灌木栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "常绿，枝端叶片簇生。",
+      "叶革质，常为倒卵形或倒披针形。",
+      "果实成熟后裂开并露出种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "海桐是园林常见常绿灌木，可从枝端簇生的革质叶和密集枝条识别。",
+    "identificationReferences": [
+      "叶片革质，常集中在枝端。",
+      "植株多分枝而紧密，常被修剪用于绿篱。"
+    ],
+    "howToConfirm": [
+      "拍摄枝端叶簇、完整株形及花果（如有）。",
+      "在绿篱环境中观察叶片是否厚而有光泽。"
+    ],
+    "appearance": "植株枝叶浓密，叶片厚而常绿。",
+    "growthHabit": "常绿灌木或小乔木，园林中常栽培并修剪成绿篱。",
+    "keyCharacteristics": [
+      "枝端簇生的革质叶。",
+      "枝叶浓密的常绿灌木株形。"
+    ],
+    "observationTips": [
+      "修剪会改变株形，叶片和花果细节更有助于确认。",
+      "拍摄时保留叶序与枝端结构。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "hedge",
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pittosporum-tobira",
+      "title": "GBIF Species Match: Pittosporum tobira (Thunb.) W.T. Aiton",
+      "url": "https://api.gbif.org/v1/species/match?name=Pittosporum%20tobira",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-pittosporum-tobira",
+      "title": "Flora of China search: Pittosporum tobira",
+      "url": "https://www.efloras.org/search.aspx?query=Pittosporum%20tobira",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "8677924"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "dryopteris-crassirhizoma",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "粗茎鳞毛蕨",
+    "scientificName": "Dryopteris crassirhizoma",
+    "family": "鳞毛蕨科",
+    "genus": "鳞毛蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高达1米。",
+    "stem": "根茎粗壮，直立或斜升，连同叶柄密被淡褐或栗棕色、边缘具刺、卵状披针形或窄披针形鳞片，向上为线形或钻形而扭曲窄披针形鳞片。",
+    "leaf": "叶簇生；叶柄深禾杆色，短于叶片；叶片长圆形或倒披针形，长0.5-1.2米，宽15-30厘米，二回羽状深裂，羽片30对以上，无柄，线状披针形，下部羽片缩短，中部稍上的长8-15厘米，宽1.5-3厘米，向两端渐短，羽状深裂，裂片长圆形，宽2-5毫米，基部与羽轴合生，全缘或具浅钝齿；叶脉羽状，侧脉分叉，偶单一；叶厚草质或纸质，下面淡绿色，沿羽轴具鳞片，裂片两面散生扭卷鳞片和鳞毛。",
+    "flower": "孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对。",
+    "fruit": "孢子囊群圆形，着生叶片上部1/3-1/2小脉中下部，每裂片1-4对；囊群盖圆肾形或马蹄形，近全缘，棕色，成熟时不完全覆盖孢子囊群；孢子具周壁。",
+    "habitat": "山地林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米。",
+      "孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对。",
+      "孢子囊群圆形，着生叶片上部1/3-1/2小脉中下部，每裂片1-4对，囊群盖圆肾形或马蹄形，近全缘。"
+    ]
+  },
+  "knowledge": {
+    "summary": "粗茎鳞毛蕨的生长形态为植株高达1米。观察时重点看叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米，并结合孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对确认。",
+    "identificationReferences": [
+      "叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米。",
+      "孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对”。"
+    ],
+    "appearance": "叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米。孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对。",
+    "growthHabit": "植株高达1米。山地林下。",
+    "keyCharacteristics": [
+      "叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米。",
+      "孢子囊群圆形，通常孢生于叶片背面上部1/3-1/2处，背生于小脉中下部，每裂片1-4对。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，叶柄深禾杆色，短于叶片，叶片长圆形或倒披针形，长0.5-1.2米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dryopteris-crassirhizoma",
+      "title": "GBIF species record: Dryopteris crassirhizoma",
+      "url": "https://api.gbif.org/v1/species/7319342",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dryopteris-crassirhizoma",
+      "title": "iPlant 植物智：粗茎鳞毛蕨（Dryopteris crassirhizoma）",
+      "url": "https://www.iplant.cn/info/Dryopteris%20crassirhizoma?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7319342"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

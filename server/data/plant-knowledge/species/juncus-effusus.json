@@ -1,0 +1,101 @@
+{
+  "id": "juncus-effusus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "灯芯草",
+    "scientificName": "Juncus effusus",
+    "family": "灯芯草科",
+    "genus": "灯芯草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根状茎粗壮横走；茎丛生，直立。",
+    "leaf": "叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状。",
+    "flower": "聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖，背脊增厚突出，黄绿色，边缘膜质，外轮者稍长于内轮；雄蕊3枚，花药黄色，雌蕊花柱极短，柱头3分叉。",
+    "fruit": "蒴果长圆形或卵形，黄褐色。",
+    "habitat": "河边、池旁、水沟，稻田旁、草地及沼泽湿处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状。",
+      "聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖，背脊增厚突出。",
+      "蒴果长圆形或卵形，黄褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "灯芯草是多年生草本。观察时重点看叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状，并结合聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖确认。",
+    "identificationReferences": [
+      "叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状。",
+      "聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖”。"
+    ],
+    "appearance": "叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状。聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖。",
+    "growthHabit": "多年生草本。河边、池旁、水沟，稻田旁、草地及沼泽湿处。",
+    "keyCharacteristics": [
+      "叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状。",
+      "聚伞花序假侧生，含多花，花被片线状披针形，顶端锐尖。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶全部为低出叶，呈鞘状或鳞片状，包围在茎的基部，叶片退化为刺芒状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-juncus-effusus",
+      "title": "GBIF species record: Juncus effusus",
+      "url": "https://api.gbif.org/v1/species/2701311",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-juncus-effusus",
+      "title": "iPlant 植物智：灯芯草（Juncus effusus）",
+      "url": "https://www.iplant.cn/info/Juncus%20effusus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2701311"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

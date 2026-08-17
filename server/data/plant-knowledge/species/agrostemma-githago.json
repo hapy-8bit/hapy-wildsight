@@ -1,0 +1,98 @@
+{
+  "id": "agrostemma-githago",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "麦仙翁",
+    "scientificName": "Agrostemma githago",
+    "family": "石竹科",
+    "genus": "麦仙翁属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎单生，直立，不分枝或上部分枝；",
+    "leaf": "叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；",
+    "flower": "花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长2-3厘米；花瓣紫红色，较花萼短，爪窄楔形…",
+    "fruit": "蒴果卵圆形，长1.2-1.8厘米，微长于宿萼，裂齿5，外卷；",
+    "habitat": "麦田中或路旁草地，为田间杂草；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；",
+      "花：花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长2-3厘米；花瓣紫红色，较花萼短，爪窄楔形…"
+    ]
+  },
+  "knowledge": {
+    "summary": "麦仙翁为一年生草本；叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；",
+      "花：花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长2-3厘米；花瓣紫红色，较花萼短，爪窄楔形…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；；再以花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长…交叉确认。"
+    ],
+    "appearance": "叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；；花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长…。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：叶线形或线状披针形，长4-13厘米，宽(0.2)0.5-1厘米，基部微合生，中脉明显；",
+      "花：花单生，径达3厘米；花梗长；萼筒椭圆状卵形，长1.2-1.5厘米，后期微膨大，萼裂片线形，长2-3厘米；花瓣紫红色，较花萼短，爪窄楔形…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-agrostemma-githago",
+      "title": "GBIF species record: Agrostemma githago",
+      "url": "https://api.gbif.org/v1/species/3085368",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-agrostemma-githago",
+      "title": "iPlant species page: Agrostemma githago",
+      "url": "https://www.iplant.cn/info/Agrostemma%20githago?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3085368"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

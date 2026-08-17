@@ -1,0 +1,98 @@
+{
+  "id": "viola-tricolor",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "三色堇",
+    "scientificName": "Viola tricolor",
+    "family": "堇菜科",
+    "genus": "堇菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一、二年生或多年生草本；",
+    "stem": "高达40厘米，地上茎伸长，具开展而互生的叶；",
+    "leaf": "基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏生圆齿或钝锯齿，上部叶叶柄较长，下部者较短，…",
+    "flower": "花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，长1.2-2.2厘米，基部附属物长3-6毫…",
+    "fruit": "蒴果椭圆形，无毛；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏生圆齿或钝锯齿，上部叶叶柄较长，下部者较短，…",
+      "花：花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，长1.2-2.2厘米，基部附属物长3-6毫…"
+    ]
+  },
+  "knowledge": {
+    "summary": "三色堇为一、二年生或多年生草本；叶基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏生圆齿或钝锯齿，上部叶叶柄较长，下部者较短，…",
+      "花：花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，长1.2-2.2厘米，基部附属物长3-6毫…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏…；再以花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，…交叉确认。"
+    ],
+    "appearance": "叶基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏…；花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，…。",
+    "growthHabit": "一、二年生或多年生草本；",
+    "keyCharacteristics": [
+      "叶：基生叶长卵形或披针形，具长柄；茎生叶卵形，长圆状卵形或长圆状披针形，先端圆或钝，基部圆，疏生圆齿或钝锯齿，上部叶叶柄较长，下部者较短，…",
+      "花：花径3.5-6厘米，每花有紫、白、黄三色；花梗稍粗，上部有2枚对生小苞片；萼片长圆状披针形，长1.2-2.2厘米，基部附属物长3-6毫…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-viola-tricolor",
+      "title": "GBIF species record: Viola tricolor",
+      "url": "https://api.gbif.org/v1/species/5331347",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-viola-tricolor",
+      "title": "iPlant species page: Viola tricolor",
+      "url": "https://www.iplant.cn/info/Viola%20tricolor?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5331347"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

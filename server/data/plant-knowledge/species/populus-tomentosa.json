@@ -1,0 +1,97 @@
+{
+  "id": "populus-tomentosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "毛白杨",
+    "scientificName": "Populus tomentosa",
+    "family": "杨柳科",
+    "genus": "杨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "幼枝被灰毡毛，后光滑；芽卵形，花芽卵圆形或近球形，微被毡毛。",
+    "leaf": "长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截，具深牙齿或波状牙齿，上面光滑，下面密生毡毛，后渐脱落；叶柄上部侧扁，长3-7厘米，近顶端常有2(3-4)腺点；短枝叶卵形或三角状卵形，长7-11(-18)厘米，先端渐尖，下面光滑，具深波状牙齿；叶柄稍短于叶片，侧扁，近顶端无腺点。",
+    "flower": "雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12；雌花序长4-7厘米，苞片褐色，尖裂，沿边缘有长毛；柱头粉红色。",
+    "fruit": "果序长达14厘米；蒴果圆锥形或长卵形，2瓣裂。",
+    "habitat": "喜温和平原地区。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截。",
+      "雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12，雌花序长4-7厘米。",
+      "果序长达14厘米，蒴果圆锥形或长卵形，2瓣裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "毛白杨是乔木。观察时重点看长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截，并结合雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12确认。",
+    "identificationReferences": [
+      "长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截。",
+      "雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截”。",
+      "补拍花或花序的整体与细节，核对“雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12”。"
+    ],
+    "appearance": "长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截。雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12。",
+    "growthHabit": "乔木。喜温和平原地区。",
+    "keyCharacteristics": [
+      "长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截。",
+      "雄花序长10-14(20)厘米，雄花苞片约具10个尖头，密生长毛，雄蕊6-12。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“长枝叶宽卵形或三角状卵形，长10-15厘米，宽6.5-10.5(-15)厘米，先端短渐尖，基部心形或平截”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-populus-tomentosa",
+      "title": "GBIF species record: Populus tomentosa",
+      "url": "https://api.gbif.org/v1/species/3040195",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-populus-tomentosa",
+      "title": "iPlant 植物智：毛白杨（Populus tomentosa）",
+      "url": "https://www.iplant.cn/info/Populus%20tomentosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3040195"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "pyracantha-fortuneana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "火棘",
+    "scientificName": "Pyracantha fortuneana",
+    "family": "蔷薇科",
+    "genus": "火棘属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿灌木。",
+    "stem": "侧枝短，先端刺状，幼时被锈色短柔毛，后无毛。",
+    "leaf": "叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄，有钝锯齿。",
+    "flower": "复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形，花瓣白色，近圆形；雄蕊20，花柱5，离生。",
+    "fruit": "果近球形，径约5毫米，桔红或深红色。",
+    "habitat": "山地、丘陵地阳坡灌丛草地及河沟路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄。",
+      "复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形，花瓣白色。",
+      "果近球形，径约5毫米，桔红或深红色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "火棘是常绿灌木。观察时重点看叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄，并结合复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形确认。",
+    "identificationReferences": [
+      "叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄。",
+      "复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄”。",
+      "补拍花或花序的整体与细节，核对“复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形”。"
+    ],
+    "appearance": "叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄。复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形。",
+    "growthHabit": "常绿灌木。山地、丘陵地阳坡灌丛草地及河沟路旁。",
+    "keyCharacteristics": [
+      "叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄。",
+      "复伞房花序，花径约1厘米，被丝托钟状，萼片三角状卵形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶倒卵形或倒卵状长圆形，先端圆钝或微凹，有时具短尖头，基部楔形，下延至叶柄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pyracantha-fortuneana",
+      "title": "GBIF species record: Pyracantha fortuneana",
+      "url": "https://api.gbif.org/v1/species/2988224",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pyracantha-fortuneana",
+      "title": "iPlant 植物智：火棘（Pyracantha fortuneana）",
+      "url": "https://www.iplant.cn/info/Pyracantha%20fortuneana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2988224"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

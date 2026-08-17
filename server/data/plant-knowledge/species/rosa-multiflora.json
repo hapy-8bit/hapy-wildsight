@@ -1,0 +1,103 @@
+{
+  "id": "rosa-multiflora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "野蔷薇",
+    "scientificName": "Rosa multiflora",
+    "family": "蔷薇科",
+    "genus": "蔷薇属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "攀援灌木。",
+    "stem": "小枝无毛，有粗短稍弯曲皮刺。",
+    "leaf": "小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿。",
+    "flower": "圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色，宽倒卵形，先端微凹；花柱结合成束，稍长于雄蕊。",
+    "fruit": "蔷薇果近球形，径6-8毫米，熟时红褐或紫褐色，有光泽，无毛，萼片脱落。",
+    "habitat": "多生于山坡、灌丛或河边等处，海拔可达1300米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿。",
+      "圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色，宽倒卵形。",
+      "蔷薇果近球形，径6-8毫米，熟时红褐或紫褐色，有光泽，无毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "野蔷薇是攀援灌木。观察时重点看小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿，并结合圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色确认。",
+    "identificationReferences": [
+      "小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿。",
+      "圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色”。"
+    ],
+    "appearance": "小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿。圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色。",
+    "growthHabit": "攀援灌木。多生于山坡、灌丛或河边等处，海拔可达1300米。",
+    "keyCharacteristics": [
+      "小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿。",
+      "圆锥花序，萼片披针形，有时中部具2个线形裂片，花瓣白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“小叶5-9，倒卵形、长圆形或卵形，有尖锐单锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rosa-multiflora",
+      "title": "GBIF species record: Rosa multiflora",
+      "url": "https://api.gbif.org/v1/species/3003244",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rosa-multiflora",
+      "title": "iPlant 植物智：野蔷薇（Rosa multiflora）",
+      "url": "https://www.iplant.cn/info/Rosa%20multiflora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3003244"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

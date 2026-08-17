@@ -1,0 +1,97 @@
+{
+  "id": "oenothera-lindheimeri",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山桃草",
+    "scientificName": "Oenothera lindheimeri",
+    "family": "柳叶菜科",
+    "genus": "月见草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生粗壮草本，常丛生；茎直立。",
+    "stem": "茎直立，高60-100厘米，常多分枝，入秋变红色，被长柔毛与曲柔毛。",
+    "leaf": "叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小，先端锐尖，基部楔形，边缘具远离的齿突或波状齿，两面被近贴生的长柔毛。",
+    "flower": "花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立，长20-50厘米；苞片狭椭圆形、披针形或线形，长0.8-3厘米，宽2-5毫米。",
+    "fruit": "蒴果坚果状，狭纺锤形，长6-9毫米，径2-3毫米，熟时褐色，具明显的棱。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小。",
+      "花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立，长20-50厘米。",
+      "蒴果坚果状，狭纺锤形，长6-9毫米，径2-3毫米，熟时褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "山桃草是多年生粗壮草本。观察时重点看叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小，并结合花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立确认。",
+    "identificationReferences": [
+      "叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小。",
+      "花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小”。",
+      "补拍花或花序的整体与细节，核对“花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立”。"
+    ],
+    "appearance": "叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小。花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立。",
+    "growthHabit": "多年生粗壮草本。",
+    "keyCharacteristics": [
+      "叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小。",
+      "花序长穗状，生茎枝顶部，不分枝或有少数分枝，直立。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶无柄，椭圆状披针形或倒披针形，长3-9厘米，宽5-11毫米，向上渐变小”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-oenothera-lindheimeri",
+      "title": "GBIF species record: Oenothera lindheimeri",
+      "url": "https://api.gbif.org/v1/species/3664589",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-oenothera-lindheimeri",
+      "title": "iPlant 植物智：山桃草（Oenothera lindheimeri）",
+      "url": "https://www.iplant.cn/info/Oenothera%20lindheimeri?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3664589"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

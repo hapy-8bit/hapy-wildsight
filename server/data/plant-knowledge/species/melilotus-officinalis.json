@@ -1,0 +1,102 @@
+{
+  "id": "melilotus-officinalis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄香草木犀",
+    "scientificName": "Melilotus officinalis",
+    "family": "豆科",
+    "genus": "草木犀属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生草本。",
+    "stem": "茎直立，粗壮，多分枝，具纵棱，微被柔毛。",
+    "leaf": "羽状三出复叶；托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿；叶柄细长；小叶倒卵形、阔卵形、倒披针形至线形，长15-25 (-30) 毫米，宽5-15毫米，先端钝圆或截形，基部阔楔形，边缘具不整齐疏浅齿，上面无毛，粗糙，下面散生短柔毛，侧脉8-12对，平行直达齿尖，两面均不隆起，顶生小叶稍大，具较长的小叶柄，侧小叶的小叶柄短。",
+    "flower": "花长3.5-7毫米；花萼钟形，萼齿三角状披针形，稍不等长，短于萼筒；花冠黄色，旗瓣倒卵形，与翼瓣近等长，龙骨瓣稍短或三者均近等长雄蕊筒在花后常宿存包于果外；子房卵状披针形，胚珠4-8，花柱长于子房。",
+    "fruit": "荚果卵形，长3-5毫米，宽约2毫米，先端具宿存花柱，表面具凹凸不平的横向细网纹，棕黑色；有种子1-2粒。",
+    "habitat": "山坡、河岸、路旁、砂质草地及林缘。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿。",
+      "花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长，短于萼筒。",
+      "荚果卵形，长3-5毫米，宽约2毫米，先端具宿存花柱，表面具凹凸不平的横向细网纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄香草木犀是二年生草本。观察时重点看羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿，并结合花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长确认。",
+    "identificationReferences": [
+      "羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿。",
+      "花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿”。",
+      "补拍花或花序的整体与细节，核对“花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长”。"
+    ],
+    "appearance": "羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿。花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长。",
+    "growthHabit": "二年生草本。山坡、河岸、路旁、砂质草地及林缘。",
+    "keyCharacteristics": [
+      "羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿。",
+      "花长3.5-7毫米，花萼钟形，萼齿三角状披针形，稍不等长。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状三出复叶，托叶镰状线形，长3-5 (-7) 毫米，中央有1条脉纹，全缘或基部有1尖齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-melilotus-officinalis",
+      "title": "GBIF species record: Melilotus officinalis",
+      "url": "https://api.gbif.org/v1/species/8193111",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-melilotus-officinalis",
+      "title": "iPlant 植物智：黄香草木犀（Melilotus officinalis）",
+      "url": "https://www.iplant.cn/info/Melilotus%20officinalis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8193111"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

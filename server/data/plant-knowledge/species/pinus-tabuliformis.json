@@ -1,0 +1,97 @@
+{
+  "id": "pinus-tabuliformis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "油松",
+    "scientificName": "Pinus tabuliformis",
+    "family": "松科",
+    "genus": "松属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "树皮灰褐色或褐灰色，裂成不规则较厚的鳞状块片，裂缝及上部树皮红褐色。",
+    "leaf": "叶二针一束，粗硬。",
+    "flower": "雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状。",
+    "fruit": "球果卵形或圆卵形，长4-9厘米，有短梗，向下弯垂，成熟前绿色，熟时淡黄色或淡褐黄色，常宿存树上近数年之久；中部种鳞近矩圆状倒卵形，长1.6-2厘米，宽约1.4厘米，鳞盾肥厚、隆起或微隆起，扁菱形或菱状多角形，横脊显著，鳞脐凸起有尖刺；种子卵圆形或长卵圆形，淡褐色有斑纹，长6-8毫米，径4-5毫米，连翅长1.5-1.8厘米；子叶8-12枚，长3.5-5.5厘米；初生叶窄条形，长约4.5厘米，先端尖，边缘有细锯齿。",
+    "habitat": "多组成单纯林；辽宁、山东、河北、山西、陕西等省有人工林；为喜光、深根性树种，喜干冷气候，在土层深厚、排水良好的酸性、中性或钙质黄土上均能生长良好。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶二针一束，粗硬。",
+      "雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状。",
+      "球果卵形或圆卵形，长4-9厘米，有短梗，向下弯垂，成熟前绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "油松是乔木。观察时重点看叶二针一束，粗硬，并结合雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状确认。",
+    "identificationReferences": [
+      "叶二针一束，粗硬。",
+      "雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶二针一束，粗硬”。",
+      "补拍花或花序的整体与细节，核对“雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状”。"
+    ],
+    "appearance": "叶二针一束，粗硬。雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状。",
+    "growthHabit": "乔木。多组成单纯林，辽宁、山东、河北、山西、陕西等省有人工林，为喜光、深根性树种。",
+    "keyCharacteristics": [
+      "叶二针一束，粗硬。",
+      "雄球花圆柱形，长1.2-1.8厘米，在新枝下部聚生成穗状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶二针一束，粗硬”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pinus-tabuliformis",
+      "title": "GBIF species record: Pinus tabuliformis",
+      "url": "https://api.gbif.org/v1/species/5285359",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pinus-tabuliformis",
+      "title": "iPlant 植物智：油松（Pinus tabuliformis）",
+      "url": "https://www.iplant.cn/info/Pinus%20tabuliformis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5285359"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

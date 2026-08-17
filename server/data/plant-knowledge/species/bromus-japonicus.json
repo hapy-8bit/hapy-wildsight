@@ -1,0 +1,98 @@
+{
+  "id": "bromus-japonicus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "雀麦",
+    "scientificName": "Bromus japonicus",
+    "family": "禾本科",
+    "genus": "雀麦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "秆直立；",
+    "stem": "高40-90厘米；",
+    "leaf": "叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面生柔毛；",
+    "flower": "圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；",
+    "fruit": "颖果长7-8毫米；",
+    "habitat": "山坡林缘、荒野路旁、河漫滩湿地；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面生柔毛；",
+      "花：圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；"
+    ]
+  },
+  "knowledge": {
+    "summary": "雀麦为秆直立；叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面生柔毛；",
+      "花：圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面…；再以花圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；交叉确认。"
+    ],
+    "appearance": "叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面…；花圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；。",
+    "growthHabit": "秆直立；",
+    "keyCharacteristics": [
+      "叶：叶鞘闭合，被柔毛；叶舌先端近圆形，长1-2.5毫米；叶片长12-30厘米，宽4-8毫米，两面生柔毛；",
+      "花：圆锥花序疏展，长20-30厘米，宽5-10厘米，具2-8分枝，向下弯垂；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bromus-japonicus",
+      "title": "GBIF species record: Bromus japonicus",
+      "url": "https://api.gbif.org/v1/species/8113508",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-bromus-japonicus",
+      "title": "iPlant species page: Bromus japonicus",
+      "url": "https://www.iplant.cn/info/Bromus%20japonicus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8113508"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

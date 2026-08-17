@@ -1,0 +1,97 @@
+{
+  "id": "primula-malacoides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "报春花",
+    "scientificName": "Primula malacoides",
+    "family": "报春花科",
+    "genus": "报春花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生草生。",
+    "stem": "",
+    "leaf": "叶丛生；叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形，长3-10厘米，先端圆，基部心形或平截，具6-8对圆齿状浅裂，裂片具不整齐小牙齿，上面疏被柔毛或无毛，下面沿中脉被毛或近无毛，无粉或有时被白粉。",
+    "flower": "伞形花序2-6轮，每轮4-20花；苞片线形或线状披针形，长3-7毫米，通常被乳白色粉，分裂达中部，裂片三角形，锐尖；花冠粉红、淡蓝紫或近白色，冠筒长4-6毫米，冠檐径1-1.5厘米，裂片宽倒卵形，先端2深裂；短柱花的雄蕊着生冠筒中上部，长花柱与冠筒近等长。",
+    "fruit": "蒴果球形，径约3毫米。",
+    "habitat": "潮湿旷地、沟边和林缘。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形。",
+      "伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米，通常被乳白色粉。",
+      "蒴果球形，径约3毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "报春花是二年生草生。观察时重点看叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形，并结合伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米确认。",
+    "identificationReferences": [
+      "叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形。",
+      "伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形”。",
+      "补拍花或花序的整体与细节，核对“伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米”。"
+    ],
+    "appearance": "叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形。伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米。",
+    "growthHabit": "二年生草生。潮湿旷地、沟边和林缘。",
+    "keyCharacteristics": [
+      "叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形。",
+      "伞形花序2-6轮，每轮4-20花，苞片线形或线状披针形，长3-7毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶丛生，叶柄长2-15厘米，具窄翅，被柔毛，叶卵形、椭圆形或长圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-primula-malacoides",
+      "title": "GBIF species record: Primula malacoides",
+      "url": "https://api.gbif.org/v1/species/5640601",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-primula-malacoides",
+      "title": "iPlant 植物智：报春花（Primula malacoides）",
+      "url": "https://www.iplant.cn/info/Primula%20malacoides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5640601"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "pteris-vittata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蜈蚣凤尾蕨",
+    "scientificName": "Pteris vittata",
+    "family": "凤尾蕨科",
+    "genus": "凤尾蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蕨类",
+    "stem": "根茎短而直立，密被疏散黄褐色鳞片；",
+    "leaf": "叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数一回羽状；不育的叶缘有细锯齿；叶干后纸质或…",
+    "flower": "侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；",
+    "fruit": "孢子囊群线形，着生羽片边缘的边脉；囊群盖同形，全缘，膜质，灰白色；",
+    "habitat": "灌丛中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数一回羽状；不育的叶缘有细锯齿；叶干后纸质或…",
+      "花：侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；"
+    ]
+  },
+  "knowledge": {
+    "summary": "蜈蚣凤尾蕨为蕨类；叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数一回羽状；不育的叶缘有细锯齿；叶干后纸质或…",
+      "花：侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数…；再以花侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；交叉确认。"
+    ],
+    "appearance": "叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数…；花侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；。",
+    "growthHabit": "蕨类",
+    "keyCharacteristics": [
+      "叶：叶簇生，一型；叶柄深禾秆色或浅褐色，幼时密被鳞片；叶片倒披针状长圆形，长尾头，基部渐窄，奇数一回羽状；不育的叶缘有细锯齿；叶干后纸质或…",
+      "花：侧生羽片向顶部为多回二叉分枝，成为密集的鸡冠形；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pteris-vittata",
+      "title": "GBIF species record: Pteris vittata",
+      "url": "https://api.gbif.org/v1/species/5275398",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-pteris-vittata",
+      "title": "iPlant species page: Pteris vittata",
+      "url": "https://www.iplant.cn/info/Pteris%20vittata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5275398"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "artemisia-argyi",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "艾",
+    "scientificName": "Artemisia argyi",
+    "family": "菊科",
+    "genus": "蒿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本或稍亚灌木状，植株有浓香。",
+    "stem": "茎有少数短分枝：茎、枝被灰色蛛丝状柔毛。",
+    "leaf": "叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛；基生叶具长柄；茎下部叶近圆形或宽卵形，羽状深裂，每侧裂片2-3，裂片有2-3小裂齿，干后下面主、侧脉常深褐或绣色，叶柄长0.5-0.8厘米；中部叶卵形、三角状卵形或近菱形，长5-8厘米，一（二）回羽状深裂或半裂，每侧裂片2-3，裂片卵形、卵状披针形或披针形，宽2-3(4)毫米，干后主脉和侧脉深褐或诱色，叶柄长0.2-0.5厘米；上部叶与苞片叶羽状半裂、浅裂、3深裂或不裂。",
+    "flower": "头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序；总苞片背面密被灰白色蛛丝状绵毛，边缘膜质；雌花6-10；两性花8-12，檐部紫色。",
+    "fruit": "瘦果长卵圆形或长圆形。",
+    "habitat": "生于低海拔至中海拔地区的荒地、路旁河边及山坡等地，也见于森林草原及草原地区，局部地区为植物群落的优势种。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形。",
+      "头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序，总苞片背面密被灰白色蛛丝状绵毛。",
+      "瘦果长卵圆形或长圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "艾是多年生草本或稍亚灌木状。观察时重点看叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形，并结合头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序确认。",
+    "identificationReferences": [
+      "叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形。",
+      "头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形”。",
+      "补拍花或花序的整体与细节，核对“头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序”。"
+    ],
+    "appearance": "叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形。头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序。",
+    "growthHabit": "多年生草本或稍亚灌木状。生于低海拔至中海拔地区的荒地、路旁河边及山坡等地，也见于森林草原及草原地区，局部地区为植物群落的优势种。",
+    "keyCharacteristics": [
+      "叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形。",
+      "头状花序椭圆形，径2.5-3(-3.5)毫米，排成穗状花序或复穗状花序，在茎上常组成尖塔形窄圆锥花序。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶上面被灰白色柔毛，兼有白色腺点与小凹点，下面密被白色蛛丝状线毛，基生叶具长柄，茎下部叶近圆形或宽卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland",
+      "forest",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-artemisia-argyi",
+      "title": "GBIF species record: Artemisia argyi",
+      "url": "https://api.gbif.org/v1/species/3120648",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-artemisia-argyi",
+      "title": "iPlant 植物智：艾（Artemisia argyi）",
+      "url": "https://www.iplant.cn/info/Artemisia%20argyi?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3120648"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

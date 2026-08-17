@@ -1,0 +1,97 @@
+{
+  "id": "echinacea-purpurea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "松果菊",
+    "scientificName": "Echinacea purpurea",
+    "family": "菊科",
+    "genus": "松果菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "全株具粗毛，茎直立。",
+    "leaf": "播种法繁殖，于春、秋两季进行，生长健壮，管理简便。",
+    "flower": "头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色，管状花橙黄色。",
+    "fruit": "",
+    "habitat": "性喜温暖及阳光充足的环境，耐瘠，耐寒，不耐湿热，不择土壤；生长适温15℃-26℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "播种法繁殖，于春、秋两季进行，生长健壮，管理简便。",
+      "头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色，管状花橙黄色。",
+      "全株具粗毛，茎直立。"
+    ]
+  },
+  "knowledge": {
+    "summary": "松果菊是多年生草本。观察时重点看播种法繁殖，于春、秋两季进行，生长健壮，管理简便，并结合头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色确认。",
+    "identificationReferences": [
+      "播种法繁殖，于春、秋两季进行，生长健壮，管理简便。",
+      "头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“播种法繁殖，于春、秋两季进行，生长健壮，管理简便”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色”。"
+    ],
+    "appearance": "播种法繁殖，于春、秋两季进行，生长健壮，管理简便。头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色。",
+    "growthHabit": "多年生草本。性喜温暖及阳光充足的环境，耐瘠，耐寒。",
+    "keyCharacteristics": [
+      "播种法繁殖，于春、秋两季进行，生长健壮，管理简便。",
+      "头状花序单生于枝顶，或数多聚生，花径达10cm，舌状花紫红色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“播种法繁殖，于春、秋两季进行，生长健壮，管理简便”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-echinacea-purpurea",
+      "title": "GBIF species record: Echinacea purpurea",
+      "url": "https://api.gbif.org/v1/species/3150935",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-echinacea-purpurea",
+      "title": "iPlant 植物智：松果菊（Echinacea purpurea）",
+      "url": "https://www.iplant.cn/info/Echinacea%20purpurea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3150935"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

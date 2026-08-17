@@ -1,0 +1,102 @@
+{
+  "id": "bidens-pilosa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鬼针草",
+    "scientificName": "Bidens pilosa",
+    "family": "菊科",
+    "genus": "鬼针草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本，茎无毛或上部被极疏柔毛。",
+    "stem": "茎无毛或上部被极疏柔毛。",
+    "leaf": "茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出，小叶3枚，很少为具5 (-7) 小叶的羽状复叶，两侧小叶椭圆形或卵状椭圆形，长2-4.5厘米，宽1.5-2.5厘米，先端锐尖，基部近圆形或阔楔形，有时偏斜，不对称，具短柄，边缘有锯齿、顶生小叶较大，长椭圆形或卵状长圆形，长3.5-7厘米，先端渐尖，基部渐狭或近圆形，具长1-2厘米的柄，边缘有锯齿，无毛或被极稀疏的短柔毛，上部叶小，3裂或不分裂，条状披针形。",
+    "flower": "头状花序径8-9毫米，花序梗长1-6厘米；总苞基部被柔毛，外层总苞片7-8，线状匙形，草质，背面无毛或边缘有疏柔毛；无舌状花，盘花筒状，冠檐5齿裂。",
+    "fruit": "瘦果熟时黑色，线形，具棱，长0.7-1.3厘米，上部具稀疏瘤突及刚毛，顶端芒刺3-4，具倒刺毛。",
+    "habitat": "村旁、路边及荒地中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出。",
+      "头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8，线状匙形。",
+      "瘦果熟时黑色，线形，具棱，长0.7-1.3厘米，上部具稀疏瘤突及刚毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鬼针草是一年生草本。观察时重点看茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出，并结合头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8确认。",
+    "identificationReferences": [
+      "茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出。",
+      "头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出”。",
+      "补拍花或花序的整体与细节，核对“头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8”。"
+    ],
+    "appearance": "茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出。头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8。",
+    "growthHabit": "一年生草本。村旁、路边及荒地中。",
+    "keyCharacteristics": [
+      "茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出。",
+      "头状花序径8-9毫米，花序梗长1-6厘米，总苞基部被柔毛，外层总苞片7-8。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“茎下部叶较小，3裂或不分裂，通常在开花前枯萎，中部叶具长1.5-5厘米无翅的柄，三出”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bidens-pilosa",
+      "title": "GBIF species record: Bidens pilosa",
+      "url": "https://api.gbif.org/v1/species/5391845",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-bidens-pilosa",
+      "title": "iPlant 植物智：鬼针草（Bidens pilosa）",
+      "url": "https://www.iplant.cn/info/Bidens%20pilosa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5391845"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

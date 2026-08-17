@@ -1,0 +1,97 @@
+{
+  "id": "salvia-farinacea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蓝花鼠尾草",
+    "scientificName": "Salvia farinacea",
+    "family": "唇形科",
+    "genus": "鼠尾草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一、二年生或多年生草本植物及常绿小灌木。",
+    "stem": "",
+    "leaf": "叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）。",
+    "flower": "",
+    "fruit": "种子近椭圆形。",
+    "habitat": "性喜温暖及全日照环境，较耐热，不耐寒，耐瘠，但以肥沃、排水良好的壤土为佳；生长适温15-28℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）。",
+      "种子近椭圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蓝花鼠尾草是一、二年生或多年生草本植物及常绿小灌木。观察时重点看叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿），并结合种子近椭圆形确认。",
+    "identificationReferences": [
+      "叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）。",
+      "种子近椭圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）”。",
+      "补拍果实或孢子结构的整体与细节，核对“种子近椭圆形”。"
+    ],
+    "appearance": "叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）。种子近椭圆形。",
+    "growthHabit": "一、二年生或多年生草本植物及常绿小灌木。性喜温暖及全日照环境，较耐热，不耐寒。",
+    "keyCharacteristics": [
+      "叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）。",
+      "种子近椭圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，呈长椭圆形，先端圆，全缘（或有钝锯齿）”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-salvia-farinacea",
+      "title": "GBIF species record: Salvia farinacea",
+      "url": "https://api.gbif.org/v1/species/2927064",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-salvia-farinacea",
+      "title": "iPlant 植物智：蓝花鼠尾草（Salvia farinacea）",
+      "url": "https://www.iplant.cn/info/Salvia%20farinacea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2927064"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

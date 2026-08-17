@@ -1,0 +1,102 @@
+{
+  "id": "coleus-scutellarioides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "五彩苏",
+    "scientificName": "Coleus scutellarioides",
+    "family": "唇形科",
+    "genus": "鞘蕊花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本。",
+    "stem": "茎分枝，带紫色，被微柔毛。",
+    "leaf": "叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿，黄、深红、紫及绿色，两面被微柔毛，下面疏被红褐色腺点；叶柄长1-5厘米，被微柔毛。",
+    "flower": "花梗长约2毫米；花萼钟形，长2-3毫米，10脉，被细糙硬毛及腺点，上唇中裂片宽卵形，果时反折，与下唇2裂片等长或较长，侧裂片卵形，下唇长方形，裂片靠合；花冠紫或蓝色，长0.8-1.3厘米，被微柔毛，冠筒骤下弯，喉部径达2.5毫米，上唇直伸，下唇舟形。",
+    "fruit": "小坚果褐色，宽卵球形或球形，长1-1.2毫米，扁。",
+    "habitat": "产台湾，广东，广西，福建；生于溪旁、路旁、旷野、山谷、山地及田野的草丛或林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿。",
+      "花梗长约2毫米，花萼钟形，长2-3毫米，10脉，被细糙硬毛及腺点。",
+      "小坚果褐色，宽卵球形或球形，长1-1.2毫米，扁。"
+    ]
+  },
+  "knowledge": {
+    "summary": "五彩苏是草本。观察时重点看叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿，并结合花梗长约2毫米，花萼钟形，长2-3毫米，10脉确认。",
+    "identificationReferences": [
+      "叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿。",
+      "花梗长约2毫米，花萼钟形，长2-3毫米，10脉。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿”。",
+      "补拍花或花序的整体与细节，核对“花梗长约2毫米，花萼钟形，长2-3毫米，10脉”。"
+    ],
+    "appearance": "叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿。花梗长约2毫米，花萼钟形，长2-3毫米，10脉。",
+    "growthHabit": "草本。产台湾，广东，广西。",
+    "keyCharacteristics": [
+      "叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿。",
+      "花梗长约2毫米，花萼钟形，长2-3毫米，10脉。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形，长4-12.5厘米，先端钝或短渐尖，基部宽楔形或圆，具圆齿状锯齿或圆齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-coleus-scutellarioides",
+      "title": "GBIF species record: Coleus scutellarioides",
+      "url": "https://api.gbif.org/v1/species/5341492",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-coleus-scutellarioides",
+      "title": "iPlant 植物智：五彩苏（Coleus scutellarioides）",
+      "url": "https://www.iplant.cn/info/Coleus%20scutellarioides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5341492"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

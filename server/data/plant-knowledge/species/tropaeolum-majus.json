@@ -1,0 +1,99 @@
+{
+  "id": "tropaeolum-majus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "旱金莲",
+    "scientificName": "Tropaeolum majus",
+    "family": "旱金莲科",
+    "genus": "旱金莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蔓生一年生草本。",
+    "stem": "",
+    "leaf": "叶互生；叶柄长6-31厘米，向上扭曲，盾状，叶圆形，径3-10厘米，具波状浅缺刻，下面疏被毛或有乳点。",
+    "flower": "花黄、紫、桔红或杂色，径2.5-6厘米；花托杯状；萼片5，长椭圆状披针形，长1.5-2厘米，基部合生，其中1片成长距；花瓣5，常圆形，边缘具缺刻，上部2片全缘，长2.5-5厘米，着生于距开口处，下部3片基部具爪，近爪处边缘具睫毛；雄蕊8，长短互间，分离。",
+    "fruit": "果扁球形，熟时分裂成3个具1粒种子小果。",
+    "habitat": "叶互生；叶柄长6-31厘米，向上扭曲，盾状，着生于叶片的近中心处；叶片圆形，直径3-10厘米，有主脉9条．由叶柄着生处向四面放射，边缘为波浪形的浅缺刻，背面通常被疏毛或有乳凸点。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形。",
+      "花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5，长椭圆状披针形。",
+      "果扁球形，熟时分裂成3个具1粒种子小果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "旱金莲是蔓生一年生草本。观察时重点看叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形，并结合花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5确认。",
+    "identificationReferences": [
+      "叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形。",
+      "花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形”。",
+      "补拍花或花序的整体与细节，核对“花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5”。"
+    ],
+    "appearance": "叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形。花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5。",
+    "growthHabit": "蔓生一年生草本。叶互生，叶柄长6-31厘米，向上扭曲。",
+    "keyCharacteristics": [
+      "叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形。",
+      "花黄、紫、桔红或杂色，径2.5-6厘米，花托杯状，萼片5。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，叶柄长6-31厘米，向上扭曲，盾状，叶圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-tropaeolum-majus",
+      "title": "GBIF species record: Tropaeolum majus",
+      "url": "https://api.gbif.org/v1/species/2889934",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-tropaeolum-majus",
+      "title": "iPlant 植物智：旱金莲（Tropaeolum majus）",
+      "url": "https://www.iplant.cn/info/Tropaeolum%20majus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2889934"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

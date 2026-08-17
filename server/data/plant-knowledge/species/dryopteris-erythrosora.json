@@ -1,0 +1,99 @@
+{
+  "id": "dryopteris-erythrosora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "红盖鳞毛蕨",
+    "scientificName": "Dryopteris erythrosora",
+    "family": "鳞毛蕨科",
+    "genus": "鳞毛蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高40-93厘米。",
+    "stem": "根茎短，横卧或斜升，连同叶柄基部密被褐棕色披针形全缘鳞片。",
+    "leaf": "叶簇生；禾秆色或略带紫色，基部以上疏被鳞片；叶片长圆状披针形，羽裂渐尖头，二回羽状，互生或下部的对生，披针形，叶干后纸质，无毛，叶轴疏被小鳞片，羽轴和小羽轴下面密被泡状鳞片，叶脉羽状，上面不显，下面可见。",
+    "flower": "孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生。",
+    "fruit": "孢子囊群近主脉着生，在主脉两侧各排成1至多行；囊群盖圆肾形，全缘，中部红色，边缘灰白色，干后反卷，宿存。",
+    "habitat": "林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头。",
+      "孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生。",
+      "孢子囊群近主脉着生，在主脉两侧各排成1至多行，囊群盖圆肾形，全缘，中部红色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "红盖鳞毛蕨的生长形态为植株高40-93厘米。观察时重点看叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头，并结合孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生确认。",
+    "identificationReferences": [
+      "叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头。",
+      "孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生”。"
+    ],
+    "appearance": "叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头。孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生。",
+    "growthHabit": "植株高40-93厘米。林下。",
+    "keyCharacteristics": [
+      "叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头。",
+      "孢子囊群较小，在小羽片中脉两侧各一行至不规则多行，靠近中脉着生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，禾秆色或略带紫色，基部以上疏被鳞片，叶片长圆状披针形，羽裂渐尖头”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dryopteris-erythrosora",
+      "title": "GBIF species record: Dryopteris erythrosora",
+      "url": "https://api.gbif.org/v1/species/7157952",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dryopteris-erythrosora",
+      "title": "iPlant 植物智：红盖鳞毛蕨（Dryopteris erythrosora）",
+      "url": "https://www.iplant.cn/info/Dryopteris%20erythrosora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7157952"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "ficus-microcarpa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "榕树",
+    "scientificName": "Ficus microcarpa",
+    "family": "桑科",
+    "genus": "榕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木；",
+    "stem": "树冠广展，老树常具锈褐色气根；",
+    "leaf": "叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝角展开；",
+    "flower": "雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，花被片3，宽卵形，花柱近侧生，柱头棒形；",
+    "fruit": "榕果成对腋生或生于落叶枝叶腋，熟时黄或微红色，扁球形，径6-8毫米，无总柄，基生苞片3，宽卵形，宿存；",
+    "habitat": "多生于山地、平原。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝角展开；",
+      "花：雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，花被片3，宽卵形，花柱近侧生，柱头棒形；"
+    ]
+  },
+  "knowledge": {
+    "summary": "榕树为乔木；叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝角展开；",
+      "花：雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，花被片3，宽卵形，花柱近侧生，柱头棒形；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝…；再以花雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，…交叉确认。"
+    ],
+    "appearance": "叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝…；花雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，…。",
+    "growthHabit": "乔木；",
+    "keyCharacteristics": [
+      "叶：叶薄革质，窄椭圆形，长4-8厘米，先端钝尖，基部楔形，全缘，细脉不明显，侧脉3-10对，成钝角展开；",
+      "花：雄花、雌花、瘿花同生于一榕果内，花间具少数刚毛；雄花散生内壁，花丝与花药等长；雌花似癭花，花被片3，宽卵形，花柱近侧生，柱头棒形；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ficus-microcarpa",
+      "title": "GBIF species record: Ficus microcarpa",
+      "url": "https://api.gbif.org/v1/species/7467639",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ficus-microcarpa",
+      "title": "iPlant species page: Ficus microcarpa",
+      "url": "https://www.iplant.cn/info/Ficus%20microcarpa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7467639"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

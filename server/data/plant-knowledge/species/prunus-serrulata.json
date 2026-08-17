@@ -1,0 +1,101 @@
+{
+  "id": "prunus-serrulata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山樱花",
+    "scientificName": "Prunus serrulata",
+    "family": "蔷薇科",
+    "genus": "李属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝无毛；冬芽无毛。",
+    "leaf": "叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿，齿尖有小腺体，上面无毛，下面淡绿色，无毛，侧脉6-8对；叶柄长1-1.5厘米，无毛，先端有1-3圆形腺体，托叶线形，长5-8毫米，有腺齿，早落。",
+    "flower": "花序梗长0.5-1厘米，无毛；苞片长5-8毫米，有腺齿；花梗长1.5-2.5厘米，无毛或被极稀疏柔毛；萼筒管状，长5-6毫米，萼片三角状披针形，长约5毫米，全缘；花瓣白色，稀粉红色，倒卵形，先端下凹：花柱无毛。",
+    "fruit": "核果球形或卵圆形，熟后紫黑色，径0.8-1厘米。",
+    "habitat": "生于山谷林中或栽培，海拔500-1500米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿。",
+      "花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿，花梗长1.5-2.5厘米。",
+      "核果球形或卵圆形，熟后紫黑色，径0.8-1厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "山樱花是乔木。观察时重点看叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿，并结合花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿确认。",
+    "identificationReferences": [
+      "叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿。",
+      "花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿”。",
+      "补拍花或花序的整体与细节，核对“花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿”。"
+    ],
+    "appearance": "叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿。花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿。",
+    "growthHabit": "乔木。生于山谷林中或栽培，海拔500-1500米。",
+    "keyCharacteristics": [
+      "叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿。",
+      "花序梗长0.5-1厘米，无毛，苞片长5-8毫米，有腺齿。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵状椭圆形或倒卵状椭圆形，长5-9厘米，先端渐尖，基部圆，有渐尖单锯齿及重锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-prunus-serrulata",
+      "title": "GBIF species record: Prunus serrulata",
+      "url": "https://api.gbif.org/v1/species/3022609",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-prunus-serrulata",
+      "title": "iPlant 植物智：山樱花（Prunus serrulata）",
+      "url": "https://www.iplant.cn/info/Prunus%20serrulata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3022609"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

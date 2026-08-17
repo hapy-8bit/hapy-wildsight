@@ -1,0 +1,97 @@
+{
+  "id": "amaranthus-spinosus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "刺苋",
+    "scientificName": "Amaranthus spinosus",
+    "family": "苋科",
+    "genus": "苋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，圆柱形或钝棱形，多分枝，有纵条纹，绿色或带紫色，无毛或稍有柔毛。",
+    "leaf": "叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头，基部楔形，全缘，无毛或幼时沿叶脉稍有柔毛；叶柄长1-8厘米，无毛，在其旁有2刺，刺长5-10毫米。",
+    "flower": "圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花；苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺，长5-15毫米，在顶生花穗的上部者狭披针形，长1.5毫米，顶端急尖，具凸尖，中脉绿色；小苞片狭披针形，长约1.5毫米；花被片绿色，顶端急尖，具凸尖，边缘透明，中脉绿色或带紫色，在雄花者矩圆形，长2-2.5毫米，在雌花者矩圆状匙形，长1.5毫米；雄蕊花丝略和花被片等长或较短；柱头3，有时2。",
+    "fruit": "胞果矩圆形，长约1-1.2毫米，在中部以下不规则横裂，包裹在宿存花被片内。",
+    "habitat": "旷地或园圃的杂草。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头。",
+      "圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺，长5-15毫米。",
+      "胞果矩圆形，长约1-1.2毫米，在中部以下不规则横裂，包裹在宿存花被片内。"
+    ]
+  },
+  "knowledge": {
+    "summary": "刺苋是一年生草本。观察时重点看叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头，并结合圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺确认。",
+    "identificationReferences": [
+      "叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头。",
+      "圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺”。"
+    ],
+    "appearance": "叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头。圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺。",
+    "growthHabit": "一年生草本。旷地或园圃的杂草。",
+    "keyCharacteristics": [
+      "叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头。",
+      "圆锥花序腋生及顶生，长3-25厘米，下部顶生花穗常全部为雄花，苞片在腋生花簇及顶生花穗的基部者变成尖锐直刺。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶片菱状卵形或卵状披针形，长3-12厘米，宽1-5.5厘米，顶端圆钝，具微凸头”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-amaranthus-spinosus",
+      "title": "GBIF species record: Amaranthus spinosus",
+      "url": "https://api.gbif.org/v1/species/5384401",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-amaranthus-spinosus",
+      "title": "iPlant 植物智：刺苋（Amaranthus spinosus）",
+      "url": "https://www.iplant.cn/info/Amaranthus%20spinosus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5384401"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

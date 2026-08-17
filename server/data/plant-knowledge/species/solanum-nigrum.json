@@ -1,0 +1,102 @@
+{
+  "id": "solanum-nigrum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "龙葵",
+    "scientificName": "Solanum nigrum",
+    "family": "茄科",
+    "genus": "茄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎近无毛或被微柔毛。",
+    "leaf": "叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延，全缘或具4-5对不规则波状粗齿，两面无毛或疏被短柔毛，叶脉5-6对；叶柄长2-5厘米。",
+    "flower": "花梗长0.8-1.2厘米，近无毛或被短柔毛；花萼浅杯状，径2-3毫米，萼齿近三角形，长1毫米；花冠白色，长0.8-1厘米，冠檐裂片卵圆形；花丝长1-1.5毫米，花药长2.5-3.5毫米，顶孔向内，花柱长5-6毫米，中下部被白色绒毛。",
+    "fruit": "浆果球形，径0.8-1厘米，黑色；果柄弯曲；种子近卵圆形，径1.5-2毫米。",
+    "habitat": "喜生于田边，荒地及村庄附近。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延。",
+      "花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米，萼齿近三角形。",
+      "浆果球形，径0.8-1厘米，黑色，果柄弯曲，种子近卵圆形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "龙葵是一年生草本。观察时重点看叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延，并结合花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米确认。",
+    "identificationReferences": [
+      "叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延。",
+      "花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米”。"
+    ],
+    "appearance": "叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延。花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米。",
+    "growthHabit": "一年生草本。喜生于田边，荒地及村庄附近。",
+    "keyCharacteristics": [
+      "叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延。",
+      "花梗长0.8-1.2厘米，近无毛或被短柔毛，花萼浅杯状，径2-3毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形，长4-10厘米，先端钝，基部楔形或宽楔形，下延”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-solanum-nigrum",
+      "title": "GBIF species record: Solanum nigrum",
+      "url": "https://api.gbif.org/v1/species/9150405",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-solanum-nigrum",
+      "title": "iPlant 植物智：龙葵（Solanum nigrum）",
+      "url": "https://www.iplant.cn/info/Solanum%20nigrum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "9150405"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

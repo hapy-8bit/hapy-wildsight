@@ -1,0 +1,113 @@
+{
+  "id": "allium-cepa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "洋葱",
+    "scientificName": "Allium cepa",
+    "family": "石蒜科",
+    "genus": "葱属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "鳞茎植物，弓垂，直立。",
+    "stem": "鳞茎单生，近球状或扁球状，外皮紫红、红褐、淡红褐、黄或淡黄色，纸质或薄革质，不裂。",
+    "leaf": "叶圆柱状，中空，短于花葶，宽0.5-2厘米。",
+    "flower": "花葶圆柱状，中空，中下部膨大，高达1米。",
+    "fruit": "果实为蒴果。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶圆柱状，中空，短于花葶，宽0.5-2厘米。",
+      "花葶圆柱状，中空，中下部膨大，高达1米。",
+      "果实为蒴果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "洋葱的生长形态为鳞茎植物。观察时重点看叶圆柱状，中空，短于花葶，宽0.5-2厘米，并结合花葶圆柱状，中空，中下部膨大，高达1米确认。",
+    "identificationReferences": [
+      "叶圆柱状，中空，短于花葶，宽0.5-2厘米。",
+      "花葶圆柱状，中空，中下部膨大，高达1米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶圆柱状，中空，短于花葶，宽0.5-2厘米”。",
+      "补拍花或花序的整体与细节，核对“花葶圆柱状，中空，中下部膨大，高达1米”。"
+    ],
+    "appearance": "叶圆柱状，中空，短于花葶，宽0.5-2厘米。花葶圆柱状，中空，中下部膨大，高达1米。",
+    "growthHabit": "鳞茎植物。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶圆柱状，中空，短于花葶，宽0.5-2厘米。",
+      "花葶圆柱状，中空，中下部膨大，高达1米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶圆柱状，中空，短于花葶，宽0.5-2厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-allium-cepa",
+      "title": "GBIF species record: Allium cepa",
+      "url": "https://api.gbif.org/v1/species/2857697",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-allium-cepa",
+      "title": "iPlant 植物智：洋葱（Allium cepa）",
+      "url": "https://www.iplant.cn/info/Allium%20cepa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-allium-cepa",
+      "title": "NC State Extension Plant Toolbox: Allium cepa",
+      "url": "https://plants.ces.ncsu.edu/plants/allium-cepa/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2857697"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

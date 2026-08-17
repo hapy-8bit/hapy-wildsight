@@ -1,0 +1,99 @@
+{
+  "id": "acer-buergerianum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "三角槭",
+    "scientificName": "Acer buergerianum",
+    "family": "无患子科",
+    "genus": "槭属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木，树皮褐色或深褐色，当年生枝紫色或紫绿色；多年生枝淡灰色或灰褐色。",
+    "stem": "树皮灰褐色，裂成薄条片剥落。",
+    "leaf": "叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖，基部圆，全缘或上部疏生锯齿，幼叶下面及叶柄密被柔毛，下面被白粉，基脉3出。",
+    "flower": "花多数常成顶生伞房花序，开花在叶长大以后；萼片5，黄绿色，卵形，花瓣5，淡黄色。",
+    "fruit": "翅果黄褐色；小坚果特别凸起，翅与小坚果共长2-2.5厘米，张开成锐角或近于直立。",
+    "habitat": "阔叶林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖。",
+      "花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色，卵形。",
+      "翅果黄褐色，小坚果特别凸起，翅与小坚果共长2-2.5厘米，张开成锐角或近于直立。"
+    ]
+  },
+  "knowledge": {
+    "summary": "三角槭是落叶乔木。观察时重点看叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖，并结合花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色确认。",
+    "identificationReferences": [
+      "叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖。",
+      "花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖”。",
+      "补拍花或花序的整体与细节，核对“花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色”。"
+    ],
+    "appearance": "叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖。花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色。",
+    "growthHabit": "落叶乔木。阔叶林中。",
+    "keyCharacteristics": [
+      "叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖。",
+      "花多数常成顶生伞房花序，开花在叶长大以后，萼片5，黄绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，卵形或倒卵形，长6-10厘米，3裂或不裂，先端短渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acer-buergerianum",
+      "title": "GBIF species record: Acer buergerianum",
+      "url": "https://api.gbif.org/v1/species/7100404",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acer-buergerianum",
+      "title": "iPlant 植物智：三角槭（Acer buergerianum）",
+      "url": "https://www.iplant.cn/info/Acer%20buergerianum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7100404"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "oryza-sativa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "稻",
+    "scientificName": "Oryza sativa",
+    "family": "禾本科",
+    "genus": "稻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生；",
+    "stem": "秆直立，高0.5-1.5米；",
+    "leaf": "叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片线状披针形，长约40厘米，宽约1厘米，无毛…",
+    "flower": "圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花之下；",
+    "fruit": "颖果长约5毫米，宽约2毫米，厚1-1.5毫米；胚约为颖果长1/4；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片线状披针形，长约40厘米，宽约1厘米，无毛…",
+      "花：圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花之下；"
+    ]
+  },
+  "knowledge": {
+    "summary": "稻为一年生；叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片线状披针形，长约40厘米，宽约1厘米，无毛…",
+      "花：圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花之下；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片…；再以花圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花…交叉确认。"
+    ],
+    "appearance": "叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片…；花圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花…。",
+    "growthHabit": "一年生；",
+    "keyCharacteristics": [
+      "叶：叶鞘松散，无毛；叶舌披针形，长1-2.5厘米，两侧基部下延成叶鞘边缘，具2镰形抱茎叶耳；叶片线状披针形，长约40厘米，宽约1厘米，无毛…",
+      "花：圆锥花序疏松，小穗矩圆形，两侧压扁，含3小花，下方2小花退化仅存极小的外稃而位于一两性小花之下；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-oryza-sativa",
+      "title": "GBIF species record: Oryza sativa",
+      "url": "https://api.gbif.org/v1/species/2703459",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-oryza-sativa",
+      "title": "iPlant species page: Oryza sativa",
+      "url": "https://www.iplant.cn/info/Oryza%20sativa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2703459"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

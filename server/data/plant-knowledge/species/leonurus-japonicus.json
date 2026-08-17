@@ -1,0 +1,97 @@
+{
+  "id": "leonurus-japonicus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "益母草",
+    "scientificName": "Leonurus japonicus",
+    "family": "唇形科",
+    "genus": "益母草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本，有于其上密生须根的主根。",
+    "stem": "茎直立，通常高30-120厘米，钝四棱形，微具槽，有倒向糙伏毛，在节及棱上尤为密集，在基部有时近于无毛，多分枝，或仅于茎中部以上有能育的小枝条。",
+    "leaf": "叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形，通常长2.5-6厘米，宽1.5-4厘米，裂片上再分裂，上面绿色，有糙伏毛，叶脉稍下陷，下面淡绿色，被疏柔毛及腺点，叶脉突出，叶柄纤细，长2-3厘米，由于叶基下延而在上部略具翅，腹面具槽，背面圆形，被糙伏毛；茎中部叶轮廓为菱形，较小，通常分裂成3个或偶有多个长圆状线形的裂片，基部狭楔形，叶柄长0.5-2厘米。",
+    "flower": "轮伞花序腋生，具8-15花。",
+    "fruit": "小坚果长圆状三棱形，长2.5毫米，顶端截平而略宽大，基部楔形，淡褐色，光滑。",
+    "habitat": "多种生境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形。",
+      "轮伞花序腋生，具8-15花。",
+      "小坚果长圆状三棱形，长2.5毫米，顶端截平而略宽大，基部楔形，淡褐色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "益母草是一年生或二年生草本。观察时重点看叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形，并结合轮伞花序腋生，具8-15花确认。",
+    "identificationReferences": [
+      "叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形。",
+      "轮伞花序腋生，具8-15花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形”。",
+      "补拍花或花序的整体与细节，核对“轮伞花序腋生，具8-15花”。"
+    ],
+    "appearance": "叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形。轮伞花序腋生，具8-15花。",
+    "growthHabit": "一年生或二年生草本。多种生境。",
+    "keyCharacteristics": [
+      "叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形。",
+      "轮伞花序腋生，具8-15花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶轮廓变化很大，茎下部叶轮廓为卵形，基部宽楔形，掌状3裂，裂片呈长圆状菱形至卵圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-leonurus-japonicus",
+      "title": "GBIF species record: Leonurus japonicus",
+      "url": "https://api.gbif.org/v1/species/6410563",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-leonurus-japonicus",
+      "title": "iPlant 植物智：益母草（Leonurus japonicus）",
+      "url": "https://www.iplant.cn/info/Leonurus%20japonicus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "6410563"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

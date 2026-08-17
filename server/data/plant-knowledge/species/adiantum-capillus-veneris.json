@@ -1,0 +1,99 @@
+{
+  "id": "adiantum-capillus-veneris",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "铁线蕨",
+    "scientificName": "Adiantum capillus-veneris",
+    "family": "凤尾蕨科",
+    "genus": "铁线蕨属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生蕨类植物。",
+    "stem": "叶柄细而有光泽，常呈深色。",
+    "leaf": "叶片多回羽状分裂，末回小羽片较小。",
+    "flower": "",
+    "fruit": "孢子囊群着生于小羽片边缘翻卷形成的假囊群盖下。",
+    "habitat": "常见于湿润、阴凉的岩壁或水边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "细而深色的叶柄。",
+      "小羽片边缘的假囊群盖。"
+    ]
+  },
+  "knowledge": {
+    "summary": "铁线蕨可从细而深色的叶柄和许多小羽片组成的叶片观察。",
+    "identificationReferences": [
+      "叶柄通常细而有光泽。",
+      "孢子囊群位于小羽片边缘的翻卷部分。"
+    ],
+    "howToConfirm": [
+      "拍摄完整叶和叶柄。",
+      "观察小羽片边缘，不要把孢子囊群当作花。"
+    ],
+    "appearance": "叶片由许多小羽片组成，叶柄细而深色。",
+    "growthHabit": "多年生蕨类植物。",
+    "keyCharacteristics": [
+      "细深色叶柄。",
+      "小羽片边缘孢子囊群。"
+    ],
+    "observationTips": [
+      "在湿润阴处观察更容易保留完整叶形。",
+      "蕨类识别应结合叶柄与小羽片结构。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-adiantum-capillus-veneris",
+      "title": "GBIF Species Match: Adiantum capillus-veneris L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Adiantum%20capillus-veneris",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-adiantum-capillus-veneris",
+      "title": "Flora of China search: Adiantum capillus-veneris",
+      "url": "https://www.efloras.org/search.aspx?query=Adiantum%20capillus-veneris",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "sporangia",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2651816"
+  }
+}

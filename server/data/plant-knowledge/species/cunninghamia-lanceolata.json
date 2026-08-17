@@ -1,0 +1,101 @@
+{
+  "id": "cunninghamia-lanceolata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杉木",
+    "scientificName": "Cunninghamia lanceolata",
+    "family": "柏科",
+    "genus": "杉木属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木；幼树尖塔形，大树圆锥形，树皮裂成长条片，内皮淡红色，小枝对生或轮生，常成2列状，幼枝绿色。",
+    "stem": "树皮灰褐色，裂成长条片，内皮淡红色；大枝平展。",
+    "leaf": "叶披针形或窄，常呈镰状，革质、竖硬。",
+    "flower": "雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色。",
+    "fruit": "球果卵圆形，熟时苞鳞革质，棕黄色，先端有坚硬的刺状尖头；种子扁平，具种鳞，长卵形或矩圆形，暗褐色，两侧边缘有窄翅。",
+    "habitat": "散生于杉木林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶披针形或窄，常呈镰状，革质、竖硬。",
+      "雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色。",
+      "球果卵圆形，熟时苞鳞革质，棕黄色，先端有坚硬的刺状尖头，种子扁平。"
+    ]
+  },
+  "knowledge": {
+    "summary": "杉木是高大乔木。观察时重点看叶披针形或窄，常呈镰状，革质、竖硬，并结合雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色确认。",
+    "identificationReferences": [
+      "叶披针形或窄，常呈镰状，革质、竖硬。",
+      "雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶披针形或窄，常呈镰状，革质、竖硬”。",
+      "补拍花或花序的整体与细节，核对“雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色”。"
+    ],
+    "appearance": "叶披针形或窄，常呈镰状，革质、竖硬。雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色。",
+    "growthHabit": "高大乔木。散生于杉木林中。",
+    "keyCharacteristics": [
+      "叶披针形或窄，常呈镰状，革质、竖硬。",
+      "雄球花圆锥状，通常多个簇生枝顶，雌球花单生或数个集生，绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶披针形或窄，常呈镰状，革质、竖硬”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cunninghamia-lanceolata",
+      "title": "GBIF species record: Cunninghamia lanceolata",
+      "url": "https://api.gbif.org/v1/species/5284278",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cunninghamia-lanceolata",
+      "title": "iPlant 植物智：杉木（Cunninghamia lanceolata）",
+      "url": "https://www.iplant.cn/info/Cunninghamia%20lanceolata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5284278"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

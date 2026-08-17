@@ -1,0 +1,100 @@
+{
+  "id": "vicia-sativa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "救荒野豌豆",
+    "scientificName": "Vicia sativa",
+    "family": "豆科",
+    "genus": "野豌豆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "茎斜升或攀援，单一或多分枝，具棱，被微柔毛。",
+    "leaf": "偶数羽状复叶长2-10厘米，卷须有2-3分支；托叶戟形，通常有2-4裂齿，长3-4毫米，小叶2-7对，长椭圆形或近心形，长0.9-2.5厘米，先端圆或平截，有凹，具短尖头，基部楔形，侧脉不甚明显，两面被贴伏黄柔毛。",
+    "flower": "花1-2(-4)，腋生，近无梗；萼钟形，外面被柔毛，萼齿披针形或锥形；花冠长1.8-3厘米，紫红或红色，旗瓣长倒卵圆形，先端圆，微凹，中部两侧缢缩，翼瓣短于旗瓣，龙骨瓣短于翼瓣；子房线形，微被柔毛，胚珠4-8，具短柄，花柱上部被淡黄白色髯毛。",
+    "fruit": "荚果线状长圆形，长4-6厘米，成熟后呈黄色，种子间稍缢缩，有毛。",
+    "habitat": "荒山、田边草丛及林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米。",
+      "花1-2(-4)，腋生，近无梗，萼钟形，外面被柔毛。",
+      "荚果线状长圆形，长4-6厘米，成熟后呈黄色，种子间稍缢缩，有毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "救荒野豌豆是一年生或二年生草本。观察时重点看偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米，并结合花1-2(-4)，腋生，近无梗，萼钟形确认。",
+    "identificationReferences": [
+      "偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米。",
+      "花1-2(-4)，腋生，近无梗，萼钟形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米”。",
+      "补拍花或花序的整体与细节，核对“花1-2(-4)，腋生，近无梗，萼钟形”。"
+    ],
+    "appearance": "偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米。花1-2(-4)，腋生，近无梗，萼钟形。",
+    "growthHabit": "一年生或二年生草本。荒山、田边草丛及林中。",
+    "keyCharacteristics": [
+      "偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米。",
+      "花1-2(-4)，腋生，近无梗，萼钟形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“偶数羽状复叶长2-10厘米，卷须有2-3分支，托叶戟形，通常有2-4裂齿，长3-4毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland",
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vicia-sativa",
+      "title": "GBIF species record: Vicia sativa",
+      "url": "https://api.gbif.org/v1/species/2975014",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vicia-sativa",
+      "title": "iPlant 植物智：救荒野豌豆（Vicia sativa）",
+      "url": "https://www.iplant.cn/info/Vicia%20sativa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2975014"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cornus-kousa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "日本四照花",
+    "scientificName": "Cornus kousa",
+    "family": "山茱萸科",
+    "genus": "山茱萸属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶小乔木。",
+    "stem": "小枝幼时被灰白色细伏毛。",
+    "leaf": "叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆，全缘或具细齿，上面疏被白色细伏毛，下面被白色短伏毛，脉腋簇生黄色丝状毛，侧脉4(5)对；叶柄长0.5-1厘米，被白色细伏毛。",
+    "flower": "花序梗纤细，近无毛；花萼裂片内侧具一圈褐色短柔毛；花盘垫状；花柱被粗毛。",
+    "fruit": "果序球形，成熟时红色，微被毛；果序柄纤细，长5.5-6.5厘米。",
+    "habitat": "生于海拔600-2200米的森林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆。",
+      "花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状，花柱被粗毛。",
+      "果序球形，成熟时红色，微被毛，果序柄纤细，长5.5-6.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "日本四照花是落叶小乔木。观察时重点看叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆，并结合花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状确认。",
+    "identificationReferences": [
+      "叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆。",
+      "花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆”。",
+      "补拍花或花序的整体与细节，核对“花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状”。"
+    ],
+    "appearance": "叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆。花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状。",
+    "growthHabit": "落叶小乔木。生于海拔600-2200米的森林中。",
+    "keyCharacteristics": [
+      "叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆。",
+      "花序梗纤细，近无毛，花萼裂片内侧具一圈褐色短柔毛，花盘垫状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶厚纸质或纸质，卵形或卵状椭圆形，长5-11.5厘米，先端尾状渐尖，基部宽楔形或近圆”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cornus-kousa",
+      "title": "GBIF species record: Cornus kousa",
+      "url": "https://api.gbif.org/v1/species/3082274",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cornus-kousa",
+      "title": "iPlant 植物智：日本四照花（Cornus kousa）",
+      "url": "https://www.iplant.cn/info/Cornus%20kousa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3082274"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

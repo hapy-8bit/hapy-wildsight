@@ -1,0 +1,114 @@
+{
+  "id": "aquilegia-viridiflora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "耧斗菜",
+    "scientificName": "Aquilegia viridiflora",
+    "family": "毛茛科",
+    "genus": "耧斗菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，多年生草本，垫状。",
+    "stem": "茎高达50厘米，被柔毛或腺毛。",
+    "leaf": "基生叶具长柄，二回三出复叶；小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽，3裂，疏生圆齿，上面无毛，下面被短柔毛或近无毛；茎生叶较小。",
+    "flower": "花梗长2-7厘米；萼片黄绿色，窄卵形，长1.2-1.5厘米；花瓣黄绿色，瓣片宽长圆形，与萼片近等长，距长1.2-1.8厘米，直或稍弯；雄蕊长达2厘米，伸出花外，退化雄蕊长7-8毫米；心皮(4)5(6)，子房密被腺毛。",
+    "fruit": "蓇葖果长2-2.5厘米。",
+    "habitat": "山地路旁、河边和潮湿草地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽。",
+      "花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米，花瓣黄绿色。",
+      "蓇葖果长2-2.5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "耧斗菜是多年生。观察时重点看基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽，并结合花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米确认。",
+    "identificationReferences": [
+      "基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽。",
+      "花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽”。",
+      "补拍花或花序的整体与细节，核对“花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米”。"
+    ],
+    "appearance": "基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽。花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米。",
+    "growthHabit": "多年生。山地路旁、河边和潮湿草地。",
+    "keyCharacteristics": [
+      "基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽。",
+      "花梗长2-7厘米，萼片黄绿色，窄卵形，长1.2-1.5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶具长柄，二回三出复叶，小叶楔状倒卵形，长1.5-3厘米，宽长近相等或更宽”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-aquilegia-viridiflora",
+      "title": "GBIF species record: Aquilegia viridiflora",
+      "url": "https://api.gbif.org/v1/species/7277995",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-aquilegia-viridiflora",
+      "title": "iPlant 植物智：耧斗菜（Aquilegia viridiflora）",
+      "url": "https://www.iplant.cn/info/Aquilegia%20viridiflora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-aquilegia-viridiflora",
+      "title": "NC State Extension Plant Toolbox: Aquilegia viridiflora",
+      "url": "https://plants.ces.ncsu.edu/plants/aquilegia-viridiflora/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7277995"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

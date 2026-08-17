@@ -1,0 +1,101 @@
+{
+  "id": "polygonatum-odoratum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "玉竹",
+    "scientificName": "Polygonatum odoratum",
+    "family": "天门冬科",
+    "genus": "黄精属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "根状茎圆柱形，径0.5-1.4厘米。",
+    "stem": "根状茎圆柱形，径0.5-1.4厘米。",
+    "leaf": "叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖，下面带灰白色，下面脉上平滑或乳头状粗糙。",
+    "flower": "花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片；花被黄绿或白色，长1.3-2厘米，花被筒较直，裂片长约3毫米；花丝丝状，近平滑或具乳头状突起，花药长约4毫米；子房长3-4毫米，花柱长1-1.4厘米。",
+    "fruit": "浆果成熟时蓝黑色，径0.7-1厘米，具7-9种子。",
+    "habitat": "林下或山野阴坡。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖。",
+      "花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色，长1.3-2厘米。",
+      "浆果成熟时蓝黑色，径0.7-1厘米，具7-9种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "玉竹的生长形态为根状茎圆柱形。观察时重点看叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖，并结合花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色确认。",
+    "identificationReferences": [
+      "叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖。",
+      "花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖”。",
+      "补拍花或花序的整体与细节，核对“花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色”。"
+    ],
+    "appearance": "叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖。花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色。",
+    "growthHabit": "根状茎圆柱形。林下或山野阴坡。",
+    "keyCharacteristics": [
+      "叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖。",
+      "花序具1-4花（栽培植株可多至8)，花序梗长1-1.5厘米，无苞片或有线状披针形苞片，花被黄绿或白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，椭圆形或卵状长圆形，长5-12厘米，宽3-6厘米，先端尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-polygonatum-odoratum",
+      "title": "GBIF species record: Polygonatum odoratum",
+      "url": "https://api.gbif.org/v1/species/2770228",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-polygonatum-odoratum",
+      "title": "iPlant 植物智：玉竹（Polygonatum odoratum）",
+      "url": "https://www.iplant.cn/info/Polygonatum%20odoratum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2770228"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

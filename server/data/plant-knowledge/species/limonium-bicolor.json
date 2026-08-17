@@ -1,0 +1,99 @@
+{
+  "id": "limonium-bicolor",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "二色补血草",
+    "scientificName": "Limonium bicolor",
+    "family": "白花丹科",
+    "genus": "补血草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "花序轴单生，或2-5枚各由不同的叶丛中生出，通常有3-4棱角，有时具沟槽，偶可主轴圆柱状，往往自中部以上作数回分枝，末级小枝二棱形。",
+    "leaf": "叶基生，稀花序轴下部具1-3叶，花期不落；叶柄宽，叶匙形或长圆状匙形，连叶柄长3-15厘米，宽0.3-3厘米，先端圆或钝，基部渐窄。",
+    "flower": "花序圆锥状，不育枝少，位干花序下部或分叉处；穗状花序具3-5(-9)小穗，穗轴二棱形，小穗具2-3(-5)花；外苞长2.5-3.5毫米，第一内苞长6-6.5毫米；萼漏斗状，长6-7厘米，萼筒径约1毫米，萼檐淡紫红或白色，径6-7毫米，裂片先端圆；花冠黄色。",
+    "fruit": "",
+    "habitat": "主要平原地区，也见于山坡下部、丘陵和海滨，喜含盐的钙质土上或砂地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形。",
+      "花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗，穗轴二棱形。",
+      "花序轴单生，或2-5枚各由不同的叶丛中生出，通常有3-4棱角，有时具沟槽，偶可主轴圆柱状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "二色补血草是多年生草本。观察时重点看叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形，并结合花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗确认。",
+    "identificationReferences": [
+      "叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形。",
+      "花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形”。",
+      "补拍花或花序的整体与细节，核对“花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗”。"
+    ],
+    "appearance": "叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形。花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗。",
+    "growthHabit": "多年生草本。主要平原地区，也见于山坡下部、丘陵和海滨，喜含盐的钙质土上或砂地。",
+    "keyCharacteristics": [
+      "叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形。",
+      "花序圆锥状，不育枝少，位干花序下部或分叉处，穗状花序具3-5(-9)小穗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生，稀花序轴下部具1-3叶，花期不落，叶柄宽，叶匙形或长圆状匙形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-limonium-bicolor",
+      "title": "GBIF species record: Limonium bicolor",
+      "url": "https://api.gbif.org/v1/species/4090155",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-limonium-bicolor",
+      "title": "iPlant 植物智：二色补血草（Limonium bicolor）",
+      "url": "https://www.iplant.cn/info/Limonium%20bicolor?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4090155"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

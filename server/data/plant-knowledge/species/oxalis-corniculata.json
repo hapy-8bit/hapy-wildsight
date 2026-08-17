@@ -1,0 +1,100 @@
+{
+  "id": "oxalis-corniculata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "酢浆草",
+    "scientificName": "Oxalis corniculata",
+    "family": "酢浆草科",
+    "genus": "酢浆草属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎常匍匐或斜升，易分枝。",
+    "leaf": "叶为三出复叶，小叶多倒心形。",
+    "flower": "花黄色，通常具五瓣。",
+    "fruit": "蒴果。",
+    "habitat": "常见于路旁、草地和园地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "三出复叶。",
+      "倒心形小叶。",
+      "黄色五瓣小花。"
+    ]
+  },
+  "knowledge": {
+    "summary": "酢浆草可从三出复叶、倒心形小叶和黄色小花综合观察。",
+    "identificationReferences": [
+      "每片叶通常由三枚小叶组成。",
+      "小叶顶端常有缺刻，呈倒心形。"
+    ],
+    "howToConfirm": [
+      "拍一片完整复叶和花的正面。",
+      "观察茎是否匍匐或斜升并多分枝。"
+    ],
+    "appearance": "三出复叶，花多为黄色。",
+    "growthHabit": "多年生草本，茎常匍匐或斜升。",
+    "keyCharacteristics": [
+      "倒心形三出小叶。",
+      "黄色五瓣花。"
+    ],
+    "observationTips": [
+      "光照会影响叶片展开程度。",
+      "同时观察叶和花，避免只凭黄色花判断。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "park-garden",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-oxalis-corniculata",
+      "title": "GBIF Species Match: Oxalis corniculata L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Oxalis%20corniculata",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-oxalis-corniculata",
+      "title": "Flora of China search: Oxalis corniculata",
+      "url": "https://www.efloras.org/search.aspx?query=Oxalis%20corniculata",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "8427624"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "potentilla-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "委陵菜",
+    "scientificName": "Potentilla chinensis",
+    "family": "蔷薇科",
+    "genus": "委陵菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "花茎直立或上升，高20-70厘米，被稀疏短柔毛及白色绢状长柔毛。",
+    "leaf": "基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛；小叶片对生或互生，上部小叶较长，向下逐渐减小，无柄，长圆形、倒卵形或长圆披针形，长1-5厘米，宽0.5-1.5厘米，边缘羽状中裂，裂片三角卵形，三角状披针形或长圆披针形，顶端急尖或圆钝，边缘向下反卷，上面绿色，被短柔毛或脱落几无毛，中脉下陷，下面被白色绒毛，沿脉被白色绢状长柔毛，茎生叶与基生叶相似，唯叶片对数较少；基生叶托叶近膜质，褐色，外面被白色绢状长柔毛，茎生叶托叶草质，绿色，边缘锐裂。",
+    "flower": "伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛；花直径通常0.8-1厘米，稀达1.3厘米；萼片三角卵形，顶端急尖，副萼片带形或披针形，顶端尖，比萼片短约1倍且狭窄，外面被短柔毛及少数绢状柔毛；花瓣黄色，宽倒卵形，顶端微凹，比萼片稍长；花柱近顶生，基部微扩大，稍有乳头或不明显，柱头扩大。",
+    "fruit": "瘦果卵球形，深褐色，有明显皱纹。",
+    "habitat": "山坡草地、沟谷、林缘、灌丛或疏林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛。",
+      "伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛，花直径通常0.8-1厘米。",
+      "瘦果卵球形，深褐色，有明显皱纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "委陵菜是多年生草本。观察时重点看基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛，并结合伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛确认。",
+    "identificationReferences": [
+      "基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛。",
+      "伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛”。",
+      "补拍花或花序的整体与细节，核对“伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛”。"
+    ],
+    "appearance": "基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛。伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛。",
+    "growthHabit": "多年生草本。山坡草地、沟谷、林缘、灌丛或疏林下。",
+    "keyCharacteristics": [
+      "基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛。",
+      "伞房状聚伞花序，花梗长0.5-1.5厘米，基部有披针形苞片，外面密被短柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶为羽状复叶，有小叶5-15对，间隔0.5-0.8厘米，连叶柄长4-25厘米，叶柄被短柔毛及绢状长柔毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-potentilla-chinensis",
+      "title": "GBIF species record: Potentilla chinensis",
+      "url": "https://api.gbif.org/v1/species/5365665",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-potentilla-chinensis",
+      "title": "iPlant 植物智：委陵菜（Potentilla chinensis）",
+      "url": "https://www.iplant.cn/info/Potentilla%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5365665"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

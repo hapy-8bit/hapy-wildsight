@@ -1,0 +1,98 @@
+{
+  "id": "styphnolobium-japonicum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "槐",
+    "scientificName": "Styphnolobium japonicum",
+    "family": "豆科",
+    "genus": "槐属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木；",
+    "stem": "树皮灰褐色，纵裂；",
+    "leaf": "叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先端渐尖，具小尖头，基部圆或宽楔形，上面深绿…",
+    "flower": "圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠乳白或黄白色，旗瓣近圆形，有紫色脉纹，具短爪…",
+    "fruit": "荚果串珠状，长2.5-5厘米或稍长，径约1厘米，中果皮及内果皮肉质，不裂，具1-6种子，种子间缢缩不明显，排列较紧密；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先端渐尖，具小尖头，基部圆或宽楔形，上面深绿…",
+      "花：圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠乳白或黄白色，旗瓣近圆形，有紫色脉纹，具短爪…"
+    ]
+  },
+  "knowledge": {
+    "summary": "槐为落叶乔木；叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先端渐尖，具小尖头，基部圆或宽楔形，上面深绿…",
+      "花：圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠乳白或黄白色，旗瓣近圆形，有紫色脉纹，具短爪…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先…；再以花圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠…交叉确认。"
+    ],
+    "appearance": "叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先…；花圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠…。",
+    "growthHabit": "落叶乔木；",
+    "keyCharacteristics": [
+      "叶：叶长15-25厘米；叶柄基部膨大；小叶7-15，卵状长圆形或卵状披针形，长2.5-6厘米，先端渐尖，具小尖头，基部圆或宽楔形，上面深绿…",
+      "花：圆锥花序顶生；花长1.2-1.5厘米，花梗长2-3毫米，花萼浅钟状，具5浅齿，疏被毛，花冠乳白或黄白色，旗瓣近圆形，有紫色脉纹，具短爪…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-styphnolobium-japonicum",
+      "title": "GBIF species record: Styphnolobium japonicum",
+      "url": "https://api.gbif.org/v1/species/2963569",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-styphnolobium-japonicum",
+      "title": "iPlant species page: Styphnolobium japonicum",
+      "url": "https://www.iplant.cn/info/Styphnolobium%20japonicum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2963569"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

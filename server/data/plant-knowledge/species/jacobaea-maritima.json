@@ -1,0 +1,96 @@
+{
+  "id": "jacobaea-maritima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "银叶菊",
+    "scientificName": "Jacobaea maritima",
+    "family": "菊科",
+    "genus": "疆千里光属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "",
+    "leaf": "叶1-2回羽状裂，正反面均被银白色柔毛。",
+    "flower": "头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色。",
+    "fruit": "",
+    "habitat": "喜温暖及阳光充足的环境，较耐寒，较耐热，耐瘠；喜疏松肥沃、排水良好的砂质壤土或富含有机质的粘质壤土；生长适温15℃-25℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶1-2回羽状裂，正反面均被银白色柔毛。",
+      "头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "银叶菊是多年生草本。观察时重点看叶1-2回羽状裂，正反面均被银白色柔毛，并结合头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色确认。",
+    "identificationReferences": [
+      "叶1-2回羽状裂，正反面均被银白色柔毛。",
+      "头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶1-2回羽状裂，正反面均被银白色柔毛”。",
+      "补拍花或花序的整体与细节，核对“头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色”。"
+    ],
+    "appearance": "叶1-2回羽状裂，正反面均被银白色柔毛。头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色。",
+    "growthHabit": "多年生草本。喜温暖及阳光充足的环境，较耐寒，较耐热。",
+    "keyCharacteristics": [
+      "叶1-2回羽状裂，正反面均被银白色柔毛。",
+      "头状花序集成伞房花序，舌状花小，金黄色，管状花褐黄色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶1-2回羽状裂，正反面均被银白色柔毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-jacobaea-maritima",
+      "title": "GBIF species record: Jacobaea maritima",
+      "url": "https://api.gbif.org/v1/species/5388595",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-jacobaea-maritima",
+      "title": "iPlant 植物智：银叶菊（Jacobaea maritima）",
+      "url": "https://www.iplant.cn/info/Jacobaea%20maritima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5388595"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

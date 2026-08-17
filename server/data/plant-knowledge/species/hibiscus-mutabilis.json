@@ -1,0 +1,100 @@
+{
+  "id": "hibiscus-mutabilis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "木芙蓉",
+    "scientificName": "Hibiscus mutabilis",
+    "family": "锦葵科",
+    "genus": "木槿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木或小乔木。",
+    "stem": "小枝、叶柄、花梗和花萼均密被星状毛与直毛相混的细绒毛。",
+    "leaf": "叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖，具钝圆锯齿，上面疏被星状毛和细点，下面密被星状细绒毛，掌状脉5-11；叶柄长5-20厘米，托叶披针形，长5-8毫米，常早落。",
+    "flower": "花梗长5-8厘米，近顶端具节；小苞片8，线形，长1-1.6厘米，宽约2毫米，密被星状绵毛，基部合生；花萼钟形，长约3厘米，裂片5，卵形，先端渐尖；花冠初白或淡红色，后深红色，径约8厘米，花瓣5，近圆形，基部具髯毛；雄蕊柱长2-3厘米，无毛；花柱分枝5，疏被柔毛，柱头头状。",
+    "fruit": "蒴果扁球形，径约2.5厘米，被淡黄色刚毛和绵毛，果爿5。",
+    "habitat": "栽培于福建、广东、湖南、湖北、云南、江西和浙江等省。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖。",
+      "花梗长5-8厘米，近顶端具节，小苞片8，线形，长1-1.6厘米。",
+      "蒴果扁球形，径约2.5厘米，被淡黄色刚毛和绵毛，果爿5。"
+    ]
+  },
+  "knowledge": {
+    "summary": "木芙蓉是落叶灌木或小乔木。观察时重点看叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖，并结合花梗长5-8厘米，近顶端具节，小苞片8，线形确认。",
+    "identificationReferences": [
+      "叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖。",
+      "花梗长5-8厘米，近顶端具节，小苞片8，线形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖”。",
+      "补拍花或花序的整体与细节，核对“花梗长5-8厘米，近顶端具节，小苞片8，线形”。"
+    ],
+    "appearance": "叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖。花梗长5-8厘米，近顶端具节，小苞片8，线形。",
+    "growthHabit": "落叶灌木或小乔木。栽培于福建、广东、湖南、湖北、云南、江西和浙江等省。",
+    "keyCharacteristics": [
+      "叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖。",
+      "花梗长5-8厘米，近顶端具节，小苞片8，线形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵状心形，径10-15厘米，常5-7裂，裂片三角形，先端渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hibiscus-mutabilis",
+      "title": "GBIF species record: Hibiscus mutabilis",
+      "url": "https://api.gbif.org/v1/species/3152555",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-hibiscus-mutabilis",
+      "title": "iPlant 植物智：木芙蓉（Hibiscus mutabilis）",
+      "url": "https://www.iplant.cn/info/Hibiscus%20mutabilis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152555"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

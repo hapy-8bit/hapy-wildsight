@@ -1,0 +1,102 @@
+{
+  "id": "solanum-lyratum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白英",
+    "scientificName": "Solanum lyratum",
+    "family": "茄科",
+    "genus": "茄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草质藤本。",
+    "stem": "多分枝，茎及小枝密被长柔毛。",
+    "leaf": "叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘，中裂片常卵形，先端渐尖，两面被白色长柔毛，侧脉5-7对；叶柄长1-3厘米，被长毛。",
+    "flower": "圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形；花冠蓝紫或白色，裂片椭圆状披针形；花药长于花丝，花柱无毛。",
+    "fruit": "浆果球状，红黑色，径7-9毫米；种子近盘状，径约1.5毫米。",
+    "habitat": "喜山谷草地或路旁、田边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘。",
+      "圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色，裂片椭圆状披针形。",
+      "浆果球状，红黑色，径7-9毫米，种子近盘状，径约1.5毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白英是草质藤本。观察时重点看叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘，并结合圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色确认。",
+    "identificationReferences": [
+      "叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘。",
+      "圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色”。"
+    ],
+    "appearance": "叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘。圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色。",
+    "growthHabit": "草质藤本。喜山谷草地或路旁、田边。",
+    "keyCharacteristics": [
+      "叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘。",
+      "圆锥花序顶生或腋外生，花萼环状，萼齿宽卵形，花冠蓝紫或白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶椭-形或琴形，长3-11厘米，基部心形或戟形，全缘或3-5深裂，裂片全缘”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-solanum-lyratum",
+      "title": "GBIF species record: Solanum lyratum",
+      "url": "https://api.gbif.org/v1/species/2930006",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-solanum-lyratum",
+      "title": "iPlant 植物智：白英（Solanum lyratum）",
+      "url": "https://www.iplant.cn/info/Solanum%20lyratum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2930006"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

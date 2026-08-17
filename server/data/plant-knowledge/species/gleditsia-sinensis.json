@@ -1,0 +1,103 @@
+{
+  "id": "gleditsia-sinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "皂荚",
+    "scientificName": "Gleditsia sinensis",
+    "family": "豆科",
+    "genus": "皂荚属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "刺圆柱形，常分枝，长达16厘米。",
+    "leaf": "叶为一回羽状复叶，长10-18(26)厘米；小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米，先端急尖或渐尖，顶端圆钝，基部圆或楔形，中脉在基部稍歪斜，具细锯齿，上面网脉明显。",
+    "flower": "花杂性，黄白色，组成5-14厘米长的总状花序；雄花径0.9-1厘米，萼片4，长3毫米，两面被柔毛，花瓣4，长4-5毫米，被微柔毛，雄蕊(6)8；退化雌蕊长2.5毫米；两性花径1-1.2厘米，萼片长4-5毫米，花瓣长5-6毫米，雄蕊8，子房缝线上及基部被柔毛。",
+    "fruit": "荚果带状，肥厚，长12-37厘米，劲直，两面膨起；果颈长1-3.5厘米；果瓣革质，褐棕或红褐色，常被白色粉霜，有多数种子；或荚果短小，稍弯呈新月形，俗称猪牙皂，内无种子。",
+    "habitat": "山坡林中或谷地、路旁；常栽培于庭院或宅旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米。",
+      "花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米，萼片4。",
+      "荚果带状，肥厚，长12-37厘米，劲直，两面膨起。"
+    ]
+  },
+  "knowledge": {
+    "summary": "皂荚是落叶乔木。观察时重点看叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米，并结合花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米确认。",
+    "identificationReferences": [
+      "叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米。",
+      "花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米”。",
+      "补拍花或花序的整体与细节，核对“花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米”。"
+    ],
+    "appearance": "叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米。花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米。",
+    "growthHabit": "落叶乔木。山坡林中或谷地、路旁，常栽培于庭院或宅旁。",
+    "keyCharacteristics": [
+      "叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米。",
+      "花杂性，黄白色，组成5-14厘米长的总状花序，雄花径0.9-1厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶为一回羽状复叶，长10-18(26)厘米，小叶(2)3-9对，卵状披针形或长圆形，长2-8.5（-12.5)厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-gleditsia-sinensis",
+      "title": "GBIF species record: Gleditsia sinensis",
+      "url": "https://api.gbif.org/v1/species/2959509",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-gleditsia-sinensis",
+      "title": "iPlant 植物智：皂荚（Gleditsia sinensis）",
+      "url": "https://www.iplant.cn/info/Gleditsia%20sinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2959509"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

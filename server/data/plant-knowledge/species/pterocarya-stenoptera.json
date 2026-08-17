@@ -1,0 +1,98 @@
+{
+  "id": "pterocarya-stenoptera",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "枫杨",
+    "scientificName": "Pterocarya stenoptera",
+    "family": "胡桃科",
+    "genus": "枫杨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木；",
+    "stem": "裸芽具柄，常几个叠生，密被锈褐色腺鳞；",
+    "leaf": "偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔形至圆，具内弯细锯齿；",
+    "flower": "雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；",
+    "fruit": "果序长20-45厘米，果序轴常被毛；果长椭圆形，长6-7毫米，基部被星状毛；果翅条状长圆形，长1.2-2厘米，宽3-6毫米；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔形至圆，具内弯细锯齿；",
+      "花：雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；"
+    ]
+  },
+  "knowledge": {
+    "summary": "枫杨为高大乔木；叶偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔形至圆，具内弯细锯齿；",
+      "花：雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔…；再以花雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；交叉确认。"
+    ],
+    "appearance": "叶偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔…；花雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；。",
+    "growthHabit": "高大乔木；",
+    "keyCharacteristics": [
+      "叶：偶数稀奇数羽状复叶，叶轴具窄翅；小叶多枚，无柄，长椭圆形或长椭圆状披针形，先端短尖，基部楔形至圆，具内弯细锯齿；",
+      "花：雌葇荑花序顶生，长10-15厘米，花序轴密被星状毛及单毛；雌花苞片无毛或近无毛；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pterocarya-stenoptera",
+      "title": "GBIF species record: Pterocarya stenoptera",
+      "url": "https://api.gbif.org/v1/species/3054377",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-pterocarya-stenoptera",
+      "title": "iPlant species page: Pterocarya stenoptera",
+      "url": "https://www.iplant.cn/info/Pterocarya%20stenoptera?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3054377"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

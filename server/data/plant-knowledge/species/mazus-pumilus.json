@@ -1,0 +1,99 @@
+{
+  "id": "mazus-pumilus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "通泉草",
+    "scientificName": "Mazus pumilus",
+    "family": "通泉草科",
+    "genus": "通泉草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本，高3-30厘米，无毛或疏生短柔毛。",
+    "stem": "茎生叶对生或互生，少数，与基生叶相似或几乎等大。",
+    "leaf": "基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米，顶端全缘或有不明显的疏齿，基部楔形，下延成带翅的叶柄，边缘具不规则的粗齿或基部有1-2片浅羽裂。",
+    "flower": "总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵，花疏稀。",
+    "fruit": "蒴果球形。",
+    "habitat": "总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵，花疏稀；花梗在果期长达10毫米，上部的较短；花萼钟状，花期长约6毫米，果期多少增大，萼片与萼筒近等长，卵形，端急尖，脉不明显；花冠白色、紫色或蓝色，长约10毫米，上唇裂片卵状三角形，下唇中裂片较小，稍突出，倒卵圆形；子房无毛。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米。",
+      "总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵，花疏稀。",
+      "蒴果球形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "通泉草是一年生草本。观察时重点看基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米，并结合总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵确认。",
+    "identificationReferences": [
+      "基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米。",
+      "总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米”。",
+      "补拍花或花序的整体与细节，核对“总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵”。"
+    ],
+    "appearance": "基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米。总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵。",
+    "growthHabit": "一年生草本。总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状。",
+    "keyCharacteristics": [
+      "基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米。",
+      "总状花序生于茎、枝顶端，常在近基部即生花，伸长或上部成束状，通常3-20朵。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶少到多数，有时成莲座状或早落，倒卵状匙形至卵状倒披针形，膜质至薄纸质，长2-6厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-mazus-pumilus",
+      "title": "GBIF species record: Mazus pumilus",
+      "url": "https://api.gbif.org/v1/species/3171304",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-mazus-pumilus",
+      "title": "iPlant 植物智：通泉草（Mazus pumilus）",
+      "url": "https://www.iplant.cn/info/Mazus%20pumilus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3171304"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

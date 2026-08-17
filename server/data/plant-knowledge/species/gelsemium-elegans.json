@@ -1,0 +1,102 @@
+{
+  "id": "gelsemium-elegans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "钩吻",
+    "scientificName": "Gelsemium elegans",
+    "family": "钩吻科",
+    "genus": "钩吻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿藤本，长达12米。",
+    "stem": "小枝圆柱形，幼时具纵棱。",
+    "leaf": "叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对；叶柄长0.6-1.2厘米。",
+    "flower": "花梗长3-8毫米；花萼裂片长3-4毫米；花冠黄色，漏斗状，长1.2-1.9厘米，内面具淡红色斑点，花冠筒长0.7-1厘米，裂片长5-9毫米；雄蕊5，着生花冠筒中部，花药伸出花冠筒喉部；子房长2-2.5毫米，花柱长0.8-1.2厘米，柱头2裂，裂片再2裂。",
+    "fruit": "蒴果卵圆形或椭圆形，长1-1.5厘米，开裂前具2纵槽，熟时黑色，干后室间开裂为2个两裂果瓣，花萼宿存。",
+    "habitat": "山地路旁灌木丛中或潮湿肥沃的丘陵山坡疏林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对。",
+      "花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状，长1.2-1.9厘米。",
+      "蒴果卵圆形或椭圆形，长1-1.5厘米，开裂前具2纵槽，熟时黑色，干后室间开裂为2个两裂果瓣。"
+    ]
+  },
+  "knowledge": {
+    "summary": "钩吻是常绿藤本。观察时重点看叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对，并结合花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状确认。",
+    "identificationReferences": [
+      "叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对。",
+      "花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状”。"
+    ],
+    "appearance": "叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对。花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状。",
+    "growthHabit": "常绿藤本。山地路旁灌木丛中或潮湿肥沃的丘陵山坡疏林下。",
+    "keyCharacteristics": [
+      "叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对。",
+      "花梗长3-8毫米，花萼裂片长3-4毫米，花冠黄色，漏斗状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或卵状披针形，长5-12厘米，先端渐尖，基部宽楔形或圆，侧脉对”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-gelsemium-elegans",
+      "title": "GBIF species record: Gelsemium elegans",
+      "url": "https://api.gbif.org/v1/species/4020282",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-gelsemium-elegans",
+      "title": "iPlant 植物智：钩吻（Gelsemium elegans）",
+      "url": "https://www.iplant.cn/info/Gelsemium%20elegans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4020282"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

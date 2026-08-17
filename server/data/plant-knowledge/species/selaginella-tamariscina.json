@@ -1,0 +1,97 @@
+{
+  "id": "selaginella-tamariscina",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "卷柏",
+    "scientificName": "Selaginella tamariscina",
+    "family": "卷柏科",
+    "genus": "卷柏属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "土生或石生，复苏蕨类，呈垫状。",
+    "stem": "主茎自中部羽状分枝或不等2叉分枝，非之字形，无关节，禾秆色或棕色，不分枝主茎高10-20(-35)厘米，茎卵状圆柱形，无沟槽，光滑，维管束1条；侧枝2-5对，二至三回羽状分枝，小枝稀疏，规则，分枝无毛，背腹扁，末回分枝连叶宽1.4-3.3毫米。",
+    "leaf": "叶交互排列，二型，叶质厚，光滑，边缘具白边，主茎的叶较小枝的略大，覆瓦状排列，绿或棕色，边缘有细齿；分枝的腋叶对称，卵形、卵状三角形或椭圆形，长0.8-2.6厘米，边缘有细齿，黑褐色；中叶不对称，椭圆形，长1.5-2.5厘米，覆瓦状排列，背部非龙骨状，先端具芒，外展或与轴平行，基部平截，边缘有细齿（基部有短睫毛），不外卷，不内卷；侧叶不对称，小枝的卵形、三角形或矩圆状卵形，略斜升，重叠，长1.5-2.5厘米，先端具芒，基部上侧宽，覆盖小枝，基部上侧边缘撕裂状或具细齿，下侧边近全缘，基部有细齿或具睫毛，反卷。",
+    "flower": "",
+    "fruit": "孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米；孢子叶一型，卵状三角形，边缘有细齿，具白边（膜质透明），先端有尖头或具芒；大孢子叶在孢子叶穗上下两面不规则排列；大孢子浅黄色；小孢子桔黄色。",
+    "habitat": "常见于石灰岩上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶交互排列，二型，叶质厚，光滑，边缘具白边。",
+      "孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米，孢子叶一型。",
+      "主茎自中部羽状分枝或不等2叉分枝，非之字形，无关节，禾秆色或棕色，不分枝主茎高10-20(-35)厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "卷柏的生长形态为土生或石生。观察时重点看叶交互排列，二型，叶质厚，光滑，边缘具白边，并结合孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米确认。",
+    "identificationReferences": [
+      "叶交互排列，二型，叶质厚，光滑，边缘具白边。",
+      "孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶交互排列，二型，叶质厚，光滑，边缘具白边”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米”。"
+    ],
+    "appearance": "叶交互排列，二型，叶质厚，光滑，边缘具白边。孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米。",
+    "growthHabit": "土生或石生。常见于石灰岩上。",
+    "keyCharacteristics": [
+      "叶交互排列，二型，叶质厚，光滑，边缘具白边。",
+      "孢子叶穗紧密，四棱柱形，单生于小枝末端，长1.2-1.5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶交互排列，二型，叶质厚，光滑，边缘具白边”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-selaginella-tamariscina",
+      "title": "GBIF species record: Selaginella tamariscina",
+      "url": "https://api.gbif.org/v1/species/4940390",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-selaginella-tamariscina",
+      "title": "iPlant 植物智：卷柏（Selaginella tamariscina）",
+      "url": "https://www.iplant.cn/info/Selaginella%20tamariscina?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4940390"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

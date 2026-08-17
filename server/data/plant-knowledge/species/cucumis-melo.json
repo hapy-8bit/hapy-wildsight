@@ -1,0 +1,103 @@
+{
+  "id": "cucumis-melo",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "甜瓜",
+    "scientificName": "Cucumis melo",
+    "family": "葫芦科",
+    "genus": "黄瓜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生匍匐或攀援草本。",
+    "stem": "茎、枝及叶柄粗糙，有浅的沟纹和疣状凸起，幼时有稀疏的腺质短柔毛，后渐脱落。",
+    "leaf": "叶柄细，长7-10厘米；叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米，常5浅裂，裂片钝圆，边缘稍反卷，中间裂片较大，侧裂片较小，基部心形，弯缺半圆形，深1厘米，宽2-2.5厘米，两面粗糙，有腺点，幼时有短柔毛，后渐脱落，叶面深绿色，叶背苍绿色，掌状脉，脉上有腺质短柔毛。",
+    "flower": "花梗纤细，长0.5-2厘米；萼筒窄钟形，密被白色长柔毛，长6-8毫米，裂片近钻形，比筒部短；花冠黄色，长2厘米，裂片卵状长圆形；雄蕊3，花丝极短，药室折曲，药隔顶端伸长；雌花单生；花梗粗糙，被柔毛；子房密被长柔毛和长糙硬毛。",
+    "fruit": "果形、颜色因品种而异，通常长圆形或长椭圆形，果皮平滑，有纵沟纹或斑纹，无刺状突起，果肉白、黄或绿色，有香甜味。",
+    "habitat": "田边路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米。",
+      "花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛，长6-8毫米。",
+      "果形、颜色因品种而异，通常长圆形或长椭圆形，果皮平滑，有纵沟纹或斑纹，无刺状突起。"
+    ]
+  },
+  "knowledge": {
+    "summary": "甜瓜是一年生匍匐或攀援草本。观察时重点看叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米，并结合花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛确认。",
+    "identificationReferences": [
+      "叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米。",
+      "花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米”。",
+      "补拍花或花序的整体与细节，核对“花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛”。"
+    ],
+    "appearance": "叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米。花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛。",
+    "growthHabit": "一年生匍匐或攀援草本。田边路旁。",
+    "keyCharacteristics": [
+      "叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米。",
+      "花梗纤细，长0.5-2厘米，萼筒窄钟形，密被白色长柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶柄细，长7-10厘米，叶片质稍硬，肾形或近圆形，长、宽均为6-11厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine",
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cucumis-melo",
+      "title": "GBIF species record: Cucumis melo",
+      "url": "https://api.gbif.org/v1/species/2874570",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cucumis-melo",
+      "title": "iPlant 植物智：甜瓜（Cucumis melo）",
+      "url": "https://www.iplant.cn/info/Cucumis%20melo?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2874570"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

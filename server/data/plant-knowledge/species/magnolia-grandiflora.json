@@ -1,0 +1,98 @@
+{
+  "id": "magnolia-grandiflora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "荷花木兰",
+    "scientificName": "Magnolia grandiflora",
+    "family": "木兰科",
+    "genus": "木兰属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿乔木，在原产地高达30米。",
+    "stem": "树皮淡褐色或灰色，薄鳞片状开裂；小枝粗壮，具横隔的髓心；小枝、芽、叶下面，叶柄、均密被褐色或灰褐色短绒毛（幼树的叶下面无毛）。",
+    "leaf": "叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝或短钝尖，基部楔形，叶面深绿色，有光泽；",
+    "flower": "花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7厘米；雄蕊长约2厘米，花丝扁平，紫色，花药…",
+    "fruit": "聚合果圆柱状长圆形或卵圆形，长7-10厘米，径4-5厘米，密被褐色或淡灰黄色绒毛；蓇葖背裂，背面圆，顶端外侧具长喙；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝或短钝尖，基部楔形，叶面深绿色，有光泽；",
+      "花：花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7厘米；雄蕊长约2厘米，花丝扁平，紫色，花药…"
+    ]
+  },
+  "knowledge": {
+    "summary": "荷花木兰为常绿乔木，在原产地高达30米；叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝或短钝尖，基部楔形，叶面深绿色，有光泽；",
+      "花：花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7厘米；雄蕊长约2厘米，花丝扁平，紫色，花药…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝…；再以花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7…交叉确认。"
+    ],
+    "appearance": "叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝…；花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7…。",
+    "growthHabit": "常绿乔木，在原产地高达30米。",
+    "keyCharacteristics": [
+      "叶：叶厚革质，椭圆形，长圆状椭圆形或倒卵状椭圆形，长10-20厘米，宽4-7（10）厘米，先端钝或短钝尖，基部楔形，叶面深绿色，有光泽；",
+      "花：花白色，有芳香，直径15-20厘米；花被片9-12，厚肉质，倒卵形，长6-10厘米，宽5-7厘米；雄蕊长约2厘米，花丝扁平，紫色，花药…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-magnolia-grandiflora",
+      "title": "GBIF species record: Magnolia grandiflora",
+      "url": "https://api.gbif.org/v1/species/9605163",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-magnolia-grandiflora",
+      "title": "iPlant species page: Magnolia grandiflora",
+      "url": "https://www.iplant.cn/info/Magnolia%20grandiflora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "9605163"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

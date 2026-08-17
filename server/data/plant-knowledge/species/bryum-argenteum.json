@@ -1,0 +1,109 @@
+{
+  "id": "bryum-argenteum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "真藓",
+    "scientificName": "Bryum argenteum",
+    "family": "真藓科",
+    "genus": "真藓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "苔藓植物，常密集成垫生长，白绿色至银绿色。",
+    "stem": "茎长0.2-1厘米，近圆柱状或芽状。",
+    "leaf": "叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色。",
+    "flower": "",
+    "fruit": "孢蒴红色至红褐色，卵形，长2-3毫米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色。",
+      "孢蒴红色至红褐色，卵形，长2-3毫米。",
+      "茎长0.2-1厘米，近圆柱状或芽状。"
+    ]
+  },
+  "knowledge": {
+    "summary": "真藓是苔藓植物。观察时重点看叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色，并结合孢蒴红色至红褐色，卵形，长2-3毫米确认。",
+    "identificationReferences": [
+      "叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色。",
+      "孢蒴红色至红褐色，卵形，长2-3毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢蒴红色至红褐色，卵形，长2-3毫米”。"
+    ],
+    "appearance": "叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色。孢蒴红色至红褐色，卵形，长2-3毫米。",
+    "growthHabit": "苔藓植物。",
+    "keyCharacteristics": [
+      "叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色。",
+      "孢蒴红色至红褐色，卵形，长2-3毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶湿时直立，卵形至卵状披针形，叶片上部常透明而呈银白色”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bryum-argenteum",
+      "title": "GBIF species record: Bryum argenteum",
+      "url": "https://api.gbif.org/v1/species/2676667",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-bryum-argenteum",
+      "title": "iPlant 植物智：真藓（Bryum argenteum）",
+      "url": "https://www.iplant.cn/info/Bryum%20argenteum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-bryum-argenteum",
+      "title": "Flora of North America: Bryum argenteum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200001406",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2676667"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "erigeron-canadensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "小蓬草",
+    "scientificName": "Erigeron canadensis",
+    "family": "菊科",
+    "genus": "飞蓬属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本，根纺锤状，具纤维状根；",
+    "stem": "茎直立，高50-100厘米或更高，圆柱状，多少具棱，有条纹，被疏长硬毛，上部多分枝；",
+    "leaf": "叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基部渐狭成柄，边缘具疏锯齿或全缘，中部和上部…",
+    "flower": "头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；",
+    "fruit": "",
+    "habitat": "旷野、荒地、田边和路旁，为一种见的杂草；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基部渐狭成柄，边缘具疏锯齿或全缘，中部和上部…",
+      "花：头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；"
+    ]
+  },
+  "knowledge": {
+    "summary": "小蓬草为一年生草本，根纺锤状，具纤维状根；叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基…。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基部渐狭成柄，边缘具疏锯齿或全缘，中部和上部…",
+      "花：头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基…；再以花头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；交叉确认。"
+    ],
+    "appearance": "叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基…；花头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；。",
+    "growthHabit": "一年生草本，根纺锤状，具纤维状根；",
+    "keyCharacteristics": [
+      "叶：叶密集，基部叶花期常枯萎，下部叶倒披针形，长6-10厘米，宽1-1.5厘米，顶端尖或渐尖，基部渐狭成柄，边缘具疏锯齿或全缘，中部和上部…",
+      "花：头状花序多数，小，径3-4毫米，排列成顶生多分枝的大圆锥花序；"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-erigeron-canadensis",
+      "title": "GBIF species record: Erigeron canadensis",
+      "url": "https://api.gbif.org/v1/species/3146791",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-erigeron-canadensis",
+      "title": "iPlant species page: Erigeron canadensis",
+      "url": "https://www.iplant.cn/info/Erigeron%20canadensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3146791"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

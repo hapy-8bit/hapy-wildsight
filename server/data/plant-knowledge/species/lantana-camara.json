@@ -1,0 +1,97 @@
+{
+  "id": "lantana-camara",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马缨丹",
+    "scientificName": "Lantana camara",
+    "family": "马鞭草科",
+    "genus": "马缨丹属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木或蔓性灌木。",
+    "stem": "茎枝常被倒钩状皮刺。",
+    "leaf": "叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿，上面具触纹及短柔毛，下面被硬毛，侧脉约5对；叶柄长约1厘米。",
+    "flower": "花序径1.5-2.5厘米，花序梗粗，长于叶柄；苞片披针形；花萼管状，具短齿；花冠黄或橙黄色，花后深红色。",
+    "fruit": "果球形，径约4毫米，紫黑色。",
+    "habitat": "海边沙滩和空旷地区。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿。",
+      "花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形，花萼管状。",
+      "果球形，径约4毫米，紫黑色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马缨丹是灌木或蔓性灌木。观察时重点看叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿，并结合花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形确认。",
+    "identificationReferences": [
+      "叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿。",
+      "花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿”。",
+      "补拍花或花序的整体与细节，核对“花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形”。"
+    ],
+    "appearance": "叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿。花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形。",
+    "growthHabit": "灌木或蔓性灌木。海边沙滩和空旷地区。",
+    "keyCharacteristics": [
+      "叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿。",
+      "花序径1.5-2.5厘米，花序梗粗，长于叶柄，苞片披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形或卵状长圆形，长3-8.5厘米，先端尖或渐尖，基部心形或楔形，具钝齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lantana-camara",
+      "title": "GBIF species record: Lantana camara",
+      "url": "https://api.gbif.org/v1/species/2925303",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lantana-camara",
+      "title": "iPlant 植物智：马缨丹（Lantana camara）",
+      "url": "https://www.iplant.cn/info/Lantana%20camara?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2925303"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

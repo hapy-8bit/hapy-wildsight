@@ -1,0 +1,99 @@
+{
+  "id": "catalpa-ovata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "梓",
+    "scientificName": "Catalpa ovata",
+    "family": "紫葳科",
+    "genus": "梓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木。",
+    "stem": "树冠伞形，主干通直。",
+    "leaf": "叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖，基部心形，常3浅裂。",
+    "flower": "顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色，内具2黄色条纹及紫色斑点；能育雄蕊2，退化雄蕊3；子房上位，棒状；花柱丝形，柱头2裂；蒴果线形，下垂。",
+    "fruit": "蒴果线形，下垂，长20-30厘米，粗5-7毫米。",
+    "habitat": "多栽培于村庄附近及公路两旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖。",
+      "顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色，内具2黄色条纹及紫色斑点。",
+      "蒴果线形，下垂，长20-30厘米，粗5-7毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "梓是高大乔木。观察时重点看叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖，并结合顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色确认。",
+    "identificationReferences": [
+      "叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖。",
+      "顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖”。",
+      "补拍花或花序的整体与细节，核对“顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色”。"
+    ],
+    "appearance": "叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖。顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色。",
+    "growthHabit": "高大乔木。多栽培于村庄附近及公路两旁。",
+    "keyCharacteristics": [
+      "叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖。",
+      "顶生圆锥花序，花萼蕾时圆球形，花冠钟状，淡黄色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，有时轮生，阔卵形，长宽近相等，顶端渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-catalpa-ovata",
+      "title": "GBIF species record: Catalpa ovata",
+      "url": "https://api.gbif.org/v1/species/3172613",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-catalpa-ovata",
+      "title": "iPlant 植物智：梓（Catalpa ovata）",
+      "url": "https://www.iplant.cn/info/Catalpa%20ovata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172613"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

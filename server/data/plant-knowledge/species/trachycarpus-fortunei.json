@@ -1,0 +1,101 @@
+{
+  "id": "trachycarpus-fortunei",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "棕榈",
+    "scientificName": "Trachycarpus fortunei",
+    "family": "棕榈科",
+    "genus": "棕榈属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木状。",
+    "stem": "花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株。",
+    "leaf": "叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿，硬挺甚至顶端下垂；叶柄长75-80厘米或甚至更长，两侧具细圆齿，顶端有明显的戟突。",
+    "flower": "花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株；雄花序长约40厘米，具有2-3个分枝花序，下部的分枝花序长15-17厘米，一般只二回分枝；雄花无梗，每2-3朵密集着生于小穗轴上，也有单生的；黄绿色，卵球形，钝三棱；花萼3片，卵状急尖，几分离，花冠约2倍长于花萼，花瓣阔卵形，雄蕊6枚，花药卵状箭头形；雌花序长80-90厘米，花序梗长约40厘米，其上有3个佛焰苞包着，具4-5个圆锥状的分枝花序，下部的分枝花序长约35厘米，2-3回分枝；雌花淡绿色，通常2-3朵聚生；花无梗，球形，着生于短瘤突上，萼片阔卵形，3。",
+    "fruit": "果实阔肾形，有脐，宽11-12毫米，高7-9毫米，成熟时由黄色变为淡蓝色，有白粉，柱头残留在侧面附近。",
+    "habitat": "通常仅见栽培于四旁，罕见野生于疏林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿。",
+      "花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株，雄花序长约40厘米。",
+      "果实阔肾形，有脐，宽11-12毫米，高7-9毫米，成熟时由黄色变为淡蓝色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "棕榈是乔木状。观察时重点看叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿，并结合花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株确认。",
+    "identificationReferences": [
+      "叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿。",
+      "花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿”。",
+      "补拍花或花序的整体与细节，核对“花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株”。"
+    ],
+    "appearance": "叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿。花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株。",
+    "growthHabit": "乔木状。通常仅见栽培于四旁，罕见野生于疏林中。",
+    "keyCharacteristics": [
+      "叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿。",
+      "花序粗壮，多次分枝，从叶腋抽出，通常是雌雄异株。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶片呈3/4圆形或者近圆形，深裂成30-50片具皱折的线状剑形，宽约2.5-4厘米，长60-70厘米的裂片，裂片先端具短2裂或2齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-trachycarpus-fortunei",
+      "title": "GBIF species record: Trachycarpus fortunei",
+      "url": "https://api.gbif.org/v1/species/2739071",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-trachycarpus-fortunei",
+      "title": "iPlant 植物智：棕榈（Trachycarpus fortunei）",
+      "url": "https://www.iplant.cn/info/Trachycarpus%20fortunei?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2739071"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

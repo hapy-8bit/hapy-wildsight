@@ -1,0 +1,97 @@
+{
+  "id": "adiantum-flabellulatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "扇叶铁线蕨",
+    "scientificName": "Adiantum flabellulatum",
+    "family": "凤尾蕨科",
+    "genus": "铁线蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蕨类植物。",
+    "stem": "根茎短而直立，密被棕色披针形鳞片。",
+    "leaf": "叶簇生；叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片，沟内有棕色短硬毛；叶片扇形，长10-25厘米，二至三回不对称2叉分枝；中央羽片线状披针形，长6-15厘米，奇数一回羽状；小羽片8-15对，具短柄，中部以下的小羽片长0.6-1.5厘米，对开式半圆形（能育的），或斜方形（不育的），能育部分具浅缺刻，裂片全缘，不育部分具细锯齿；顶生小羽片倒卵形或扇形；叶脉多回二歧分叉，达叶缘，两面均明显；叶干后近革质，栗色或褐色，两面无毛；各回羽轴及小羽柄均紫黑色，上面均密被红棕色短刚毛，下面光滑。",
+    "flower": "孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开。",
+    "fruit": "孢子囊群每羽片2-5枚；囊群盖半圆形或圆形，革质，黑褐色，全缘，宿存；孢子具不明显颗粒状纹饰。",
+    "habitat": "阳光充足的酸性红、黄壤上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片。",
+      "孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开。",
+      "孢子囊群每羽片2-5枚，囊群盖半圆形或圆形，革质，黑褐色，全缘。"
+    ]
+  },
+  "knowledge": {
+    "summary": "扇叶铁线蕨是蕨类植物。观察时重点看叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片，并结合孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开确认。",
+    "identificationReferences": [
+      "叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片。",
+      "孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开”。"
+    ],
+    "appearance": "叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片。孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开。",
+    "growthHabit": "蕨类植物。阳光充足的酸性红、黄壤上。",
+    "keyCharacteristics": [
+      "叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片。",
+      "孢子囊群每羽片2-5枚，横生于裂片上缘和外缘，以缺刻分开。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，叶柄长10-30厘米，紫黑色，上面有纵沟，基部被KC]与根茎同样鳞片”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-adiantum-flabellulatum",
+      "title": "GBIF species record: Adiantum flabellulatum",
+      "url": "https://api.gbif.org/v1/species/7412206",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-adiantum-flabellulatum",
+      "title": "iPlant 植物智：扇叶铁线蕨（Adiantum flabellulatum）",
+      "url": "https://www.iplant.cn/info/Adiantum%20flabellulatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7412206"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

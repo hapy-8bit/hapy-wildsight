@@ -1,0 +1,100 @@
+{
+  "id": "thunbergia-grandiflora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山牵牛",
+    "scientificName": "Thunbergia grandiflora",
+    "family": "爵床科",
+    "genus": "山牵牛属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "攀援灌木。",
+    "stem": "小枝稍四棱形，后逐渐变圆，初密被柔毛，主节下有黑色巢状腺体及稀疏长毛。",
+    "leaf": "叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状，下面密被柔毛；掌状脉5-7；叶柄长达8厘米，被柔毛。",
+    "flower": "花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体；小苞片长圆卵形，被短柔毛；花萼环状，全缘；花冠筒长5-7毫米，连同喉白色；喉2.2-2.5厘米，自花冠筒以上膨大；冠檐蓝紫色，裂片圆形或宽卵形，长2.1-3毫米，先端常微缺；雄蕊4，花丝长0.8-1厘米，无毛，花药不外露，药隔突出成一锐尖头，药室不等大，基部具弯曲长刺；子房近无毛，花柱长1.7-2.4厘米，柱头近相等，2裂，对折，下方的抱着上方的，不外露。",
+    "fruit": "蒴果被短柔毛，径约1.3厘米，长高1.8厘米，喙长2厘米。",
+    "habitat": "山地灌丛。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状。",
+      "花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形，被短柔毛。",
+      "蒴果被短柔毛，径约1.3厘米，长高1.8厘米，喙长2厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "山牵牛是攀援灌木。观察时重点看叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状，并结合花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形确认。",
+    "identificationReferences": [
+      "叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状。",
+      "花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状”。",
+      "补拍花或花序的整体与细节，核对“花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形”。"
+    ],
+    "appearance": "叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状。花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形。",
+    "growthHabit": "攀援灌木。山地灌丛。",
+    "keyCharacteristics": [
+      "叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状。",
+      "花梗长2-4厘米，被短柔毛，上部连同小苞片下部有黑色巢状腺体，小苞片长圆卵形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵形、宽卵形或心形，长4-9(15)厘米，边缘有2(4)-6(8)宽三角形裂片，上面被有毛基柔毛，粗糙状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-thunbergia-grandiflora",
+      "title": "GBIF species record: Thunbergia grandiflora",
+      "url": "https://api.gbif.org/v1/species/5415456",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-thunbergia-grandiflora",
+      "title": "iPlant 植物智：山牵牛（Thunbergia grandiflora）",
+      "url": "https://www.iplant.cn/info/Thunbergia%20grandiflora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5415456"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

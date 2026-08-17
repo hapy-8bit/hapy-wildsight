@@ -1,0 +1,107 @@
+{
+  "id": "dracaena-trifasciata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "虎尾兰",
+    "scientificName": "Dracaena trifasciata",
+    "family": "天门冬科",
+    "genus": "龙血树属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "无茎的常绿多年生草本。",
+    "stem": "地下根茎粗壮，叶从基部莲座状抽生。",
+    "leaf": "叶直立、肉质、剑形，深绿色并具浅灰绿色横纹。",
+    "flower": "成熟植株可开小型绿白色花。",
+    "fruit": "可结橙色浆果；室内植株少见花果。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "直立而尖的剑形肉质叶。",
+      "深绿叶面上的浅灰绿色横向条纹。"
+    ]
+  },
+  "knowledge": {
+    "summary": "虎尾兰是无茎的常绿多年生草本；直立的剑形肉质叶从粗壮根茎形成莲座，叶面有浅色横纹。",
+    "identificationReferences": [
+      "叶片直立、肉质且剑形。",
+      "深绿叶面具浅灰绿色横向条纹。"
+    ],
+    "howToConfirm": [
+      "拍摄整株莲座与叶基部，确认叶是否从基部成丛抽生。",
+      "近拍叶面横纹和尖端，并避免仅凭栽培品种的叶色判断。"
+    ],
+    "appearance": "叶直立、肉质而剑形，深绿色叶面有浅灰绿色横纹。",
+    "growthHabit": "无茎的常绿多年生草本。",
+    "keyCharacteristics": [
+      "粗壮根茎上的莲座状叶丛。",
+      "带浅色横纹的直立剑形叶。"
+    ],
+    "observationTips": [
+      "同时拍叶基部、叶片正面与侧面。",
+      "室内植株花果少见，优先记录叶形、叶质和横纹。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dracaena-trifasciata",
+      "title": "GBIF species record: Dracaena trifasciata",
+      "url": "https://api.gbif.org/v1/species/11041822",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-dracaena-trifasciata",
+      "title": "iPlant species page: Dracaena trifasciata",
+      "url": "https://www.iplant.cn/info/Dracaena%20trifasciata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name"
+      ]
+    },
+    {
+      "id": "mobot-dracaena-trifasciata",
+      "title": "Missouri Botanical Garden Plant Finder: Dracaena trifasciata",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=458447",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "11041822"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

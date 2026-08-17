@@ -1,0 +1,102 @@
+{
+  "id": "kummerowia-striata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸡眼草",
+    "scientificName": "Kummerowia striata",
+    "family": "豆科",
+    "genus": "鸡眼草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本，披散或平卧。",
+    "stem": "披散或平卧。",
+    "leaf": "叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形，先端圆形，基部近圆形，全缘。",
+    "flower": "花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色，5裂，花冠粉红色或紫色，较萼约长1倍，旗瓣椭圆形，具耳，龙骨瓣比旗瓣稍长或近等长，翼瓣比龙骨瓣稍短。",
+    "fruit": "荚果圆形或倒卵形，先端短尖。",
+    "habitat": "路旁、田边、溪旁、砂质地或缓山坡草地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形。",
+      "花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色，5裂。",
+      "荚果圆形或倒卵形，先端短尖。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸡眼草是一年生草本。观察时重点看叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形，并结合花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色确认。",
+    "identificationReferences": [
+      "叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形。",
+      "花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形”。",
+      "补拍花或花序的整体与细节，核对“花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色”。"
+    ],
+    "appearance": "叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形。花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色。",
+    "growthHabit": "一年生草本。路旁、田边、溪旁、砂质地或缓山坡草地。",
+    "keyCharacteristics": [
+      "叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形。",
+      "花小，单生或2-3朵簇生于叶腋，花萼钟状，带紫色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶为三出羽状复叶，膜质托叶大，卵状长圆形，小叶纸质，倒卵形至长圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-kummerowia-striata",
+      "title": "GBIF species record: Kummerowia striata",
+      "url": "https://api.gbif.org/v1/species/5352523",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-kummerowia-striata",
+      "title": "iPlant 植物智：鸡眼草（Kummerowia striata）",
+      "url": "https://www.iplant.cn/info/Kummerowia%20striata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5352523"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

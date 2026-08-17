@@ -1,0 +1,103 @@
+{
+  "id": "corydalis-incisa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "刻叶紫堇",
+    "scientificName": "Corydalis incisa",
+    "family": "罂粟科",
+    "genus": "紫堇属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灰绿色直立草本。",
+    "stem": "根茎短而肥厚，椭圆形，约长1厘米，粗5毫米，具束生的须根；茎不分枝或少分枝，具叶。",
+    "leaf": "叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄，菱形或宽楔形，约长2厘米，宽1厘米，三深裂，裂片具缺刻状齿。",
+    "flower": "总状花序长3-12厘米，多花，先密集，后疏离；苞片约与花梗等长，菱形或楔形，具缺刻状齿。",
+    "fruit": "蒴果线形至长圆形，长1.5-2厘米，具1列种子。",
+    "habitat": "林缘，路边或疏林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄。",
+      "总状花序长3-12厘米，多花，先密集，后疏离，苞片约与花梗等长。",
+      "蒴果线形至长圆形，长1.5-2厘米，具1列种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "刻叶紫堇是灰绿色直立草本。观察时重点看叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄，并结合总状花序长3-12厘米，多花，先密集，后疏离确认。",
+    "identificationReferences": [
+      "叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄。",
+      "总状花序长3-12厘米，多花，先密集，后疏离。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄”。",
+      "补拍花或花序的整体与细节，核对“总状花序长3-12厘米，多花，先密集，后疏离”。"
+    ],
+    "appearance": "叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄。总状花序长3-12厘米，多花，先密集，后疏离。",
+    "growthHabit": "灰绿色直立草本。林缘，路边或疏林下。",
+    "keyCharacteristics": [
+      "叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄。",
+      "总状花序长3-12厘米，多花，先密集，后疏离。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶具长柄，基部具鞘，叶片二回三出，一回羽片具短柄，二回羽片近无柄”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-corydalis-incisa",
+      "title": "GBIF species record: Corydalis incisa",
+      "url": "https://api.gbif.org/v1/species/7314981",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-corydalis-incisa",
+      "title": "iPlant 植物智：刻叶紫堇（Corydalis incisa）",
+      "url": "https://www.iplant.cn/info/Corydalis%20incisa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7314981"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

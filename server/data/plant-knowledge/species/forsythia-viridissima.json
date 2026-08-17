@@ -1,0 +1,102 @@
+{
+  "id": "forsythia-viridissima",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "金钟花",
+    "scientificName": "Forsythia viridissima",
+    "family": "木犀科",
+    "genus": "连翘属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；全株除花萼裂片边缘具睫毛外，余无毛。",
+    "stem": "小枝具片状髓。",
+    "leaf": "单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖，基部楔形，上部常具不规则锐齿或粗齿，稀近全缘，两面无毛；叶柄长0.6-1.2厘米。",
+    "flower": "花梗长3-7毫米；花萼裂片卵形或长圆形，长2-4毫米，具睫毛；花冠深黄色，长1.1-2.5厘米，花冠筒长5-6毫米，裂片窄长圆形，反卷；在雄蕊长3.5-5毫米的花中，雌蕊长5.5-7毫米，在雄蕊长6-7毫米的花中，雌蕊长约3毫米。",
+    "fruit": "果卵圆形或宽卵圆形，长1-1.5厘米，先端喙状渐尖，具皮孔。",
+    "habitat": "山地、谷地或河谷边林缘；溪沟边或山坡路旁灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖。",
+      "花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛，花冠深黄色。",
+      "果卵圆形或宽卵圆形，长1-1.5厘米，先端喙状渐尖，具皮孔。"
+    ]
+  },
+  "knowledge": {
+    "summary": "金钟花是落叶灌木。观察时重点看单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖，并结合花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛确认。",
+    "identificationReferences": [
+      "单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖。",
+      "花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛”。"
+    ],
+    "appearance": "单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖。花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛。",
+    "growthHabit": "落叶灌木。山地、谷地或河谷边林缘，溪沟边或山坡路旁灌丛中。",
+    "keyCharacteristics": [
+      "单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖。",
+      "花梗长3-7毫米，花萼裂片卵形或长圆形，长2-4毫米，具睫毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“单叶，长椭圆形或披针形，长3.5-15厘米，宽1-4厘米，先端锐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-forsythia-viridissima",
+      "title": "GBIF species record: Forsythia viridissima",
+      "url": "https://api.gbif.org/v1/species/5415053",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-forsythia-viridissima",
+      "title": "iPlant 植物智：金钟花（Forsythia viridissima）",
+      "url": "https://www.iplant.cn/info/Forsythia%20viridissima?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5415053"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "见野主模块" },
+    { "name": "EntryAbility_desc", "value": "见野自然图鉴" },
+    { "name": "EntryAbility_label", "value": "见野" },
+    { "name": "camera_permission_reason", "value": "用于在你主动点击拍照识别时拍摄植物照片" }
+  ]
+}

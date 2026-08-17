@@ -1,0 +1,102 @@
+{
+  "id": "fagopyrum-esculentum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "荞麦",
+    "scientificName": "Fagopyrum esculentum",
+    "family": "蓼科",
+    "genus": "荞麦属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，上部分枝，绿或红色，具纵棱，无毛或一侧具乳头状突起。",
+    "leaf": "叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜，短筒状。",
+    "flower": "花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形，红或白色；雄蕊8，较花被短，花柱3。",
+    "fruit": "瘦果卵形，具3锐棱，突出于宿存花被之外。",
+    "habitat": "荒地、路边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜。",
+      "花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形，红或白色。",
+      "瘦果卵形，具3锐棱，突出于宿存花被之外。"
+    ]
+  },
+  "knowledge": {
+    "summary": "荞麦是一年生草本。观察时重点看叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜，并结合花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形确认。",
+    "identificationReferences": [
+      "叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜。",
+      "花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜”。",
+      "补拍花或花序的整体与细节，核对“花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形”。"
+    ],
+    "appearance": "叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜。花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形。",
+    "growthHabit": "一年生草本。荒地、路边。",
+    "keyCharacteristics": [
+      "叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜。",
+      "花序总状或伞房状，顶生或腋生，花被5深裂，椭圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶三角形或卵状三角形，先端渐尖，基部心形，两面沿叶脉具乳头状突起，膜质托叶鞘偏斜”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-fagopyrum-esculentum",
+      "title": "GBIF species record: Fagopyrum esculentum",
+      "url": "https://api.gbif.org/v1/species/2889373",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-fagopyrum-esculentum",
+      "title": "iPlant 植物智：荞麦（Fagopyrum esculentum）",
+      "url": "https://www.iplant.cn/info/Fagopyrum%20esculentum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2889373"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

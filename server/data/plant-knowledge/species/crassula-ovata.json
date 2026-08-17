@@ -1,0 +1,99 @@
+{
+  "id": "crassula-ovata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "燕子掌",
+    "scientificName": "Crassula ovata",
+    "family": "景天科",
+    "genus": "青锁龙属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "直立灌木，茎粗壮，多分枝。",
+    "stem": "茎粗壮，多分枝；|高可达2.5米。",
+    "leaf": "叶具短柄，绿色，无毛，通常具红色边缘，倒卵形，基部楔形，顶端急尖，通常有短尖。",
+    "flower": "花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成；萼片基部合生；花冠星状，粉红色或白色；花瓣披针形。",
+    "fruit": "",
+    "habitat": "山谷灌丛，岩石上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶具短柄，绿色，无毛，通常具红色边缘，倒卵形。",
+      "花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生，花冠星状。",
+      "茎粗壮，多分枝，|高可达2.5米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "燕子掌是直立灌木。观察时重点看叶具短柄，绿色，无毛，通常具红色边缘，倒卵形，并结合花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生确认。",
+    "identificationReferences": [
+      "叶具短柄，绿色，无毛，通常具红色边缘，倒卵形。",
+      "花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶具短柄，绿色，无毛，通常具红色边缘，倒卵形”。",
+      "补拍花或花序的整体与细节，核对“花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生”。"
+    ],
+    "appearance": "叶具短柄，绿色，无毛，通常具红色边缘，倒卵形。花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生。",
+    "growthHabit": "直立灌木。山谷灌丛，岩石上。",
+    "keyCharacteristics": [
+      "叶具短柄，绿色，无毛，通常具红色边缘，倒卵形。",
+      "花序顶生，圆顶的聚伞花序，有大量二歧聚伞花序组成，萼片基部合生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶具短柄，绿色，无毛，通常具红色边缘，倒卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-crassula-ovata",
+      "title": "GBIF species record: Crassula ovata",
+      "url": "https://api.gbif.org/v1/species/5362063",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-crassula-ovata",
+      "title": "iPlant 植物智：燕子掌（Crassula ovata）",
+      "url": "https://www.iplant.cn/info/Crassula%20ovata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5362063"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

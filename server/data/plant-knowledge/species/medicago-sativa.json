@@ -1,0 +1,102 @@
+{
+  "id": "medicago-sativa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "苜蓿",
+    "scientificName": "Medicago sativa",
+    "family": "豆科",
+    "genus": "苜蓿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎直立、丛生以至平卧，四棱形，无毛或微被柔毛。",
+    "leaf": "羽状三出复叶；托叶大，卵状披针形；叶柄比小叶短；小叶长卵形、倒长卵形或线状卵形，等大，或顶生小叶稍大，长1-4厘米，边缘1/3以上具锯齿，上面无毛，下面被贴伏柔毛，侧脉8-10对；顶生小叶柄比侧生小叶柄稍长。",
+    "flower": "花序梗比叶长；苞片线状锥形，比花梗长或等长；花长0.6-1.2厘米；花梗长约2毫米；花萼钟形，萼齿比萼筒长；花冠淡黄、深蓝或暗紫色，花瓣均具长瓣柄，旗瓣长圆形，明显长于翼瓣和龙骨瓣，龙骨瓣稍短于翼瓣；子房线形，具柔毛，花柱短宽，柱头点状，胚珠多数。",
+    "fruit": "荚果螺旋状，紧卷2-6圈，中央无孔或近无孔，径5-9毫米，脉纹细，不清晰，有10-20种子。",
+    "habitat": "田边、路旁、旷野、草原、河岸及沟谷等地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形。",
+      "花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米，花梗长约2毫米。",
+      "荚果螺旋状，紧卷2-6圈，中央无孔或近无孔，径5-9毫米，脉纹细。"
+    ]
+  },
+  "knowledge": {
+    "summary": "苜蓿是多年生草本。观察时重点看羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形，并结合花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米确认。",
+    "identificationReferences": [
+      "羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形。",
+      "花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形”。",
+      "补拍花或花序的整体与细节，核对“花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米”。"
+    ],
+    "appearance": "羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形。花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米。",
+    "growthHabit": "多年生草本。田边、路旁、旷野、草原、河岸及沟谷等地。",
+    "keyCharacteristics": [
+      "羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形。",
+      "花序梗比叶长，苞片线状锥形，比花梗长或等长，花长0.6-1.2厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状三出复叶，托叶大，卵状披针形，叶柄比小叶短，小叶长卵形、倒长卵形或线状卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-medicago-sativa",
+      "title": "GBIF species record: Medicago sativa",
+      "url": "https://api.gbif.org/v1/species/9151957",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-medicago-sativa",
+      "title": "iPlant 植物智：苜蓿（Medicago sativa）",
+      "url": "https://www.iplant.cn/info/Medicago%20sativa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "9151957"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

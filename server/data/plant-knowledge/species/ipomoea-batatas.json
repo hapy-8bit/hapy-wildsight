@@ -1,0 +1,97 @@
+{
+  "id": "ipomoea-batatas",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "番薯",
+    "scientificName": "Ipomoea batatas",
+    "family": "旋花科",
+    "genus": "番薯属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草质藤本，具乳汁；",
+    "stem": "茎生不定根，匍匐地面；",
+    "leaf": "茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘或具缺裂；叶柄长2.5-20厘米；",
+    "flower": "聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；",
+    "fruit": "菊果卵形或扁圆形；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘或具缺裂；叶柄长2.5-20厘米；",
+      "花：聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；"
+    ]
+  },
+  "knowledge": {
+    "summary": "番薯为多年生草质藤本，具乳汁；叶茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘或具缺裂；叶柄长2.5-20厘米；",
+      "花：聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘…；再以花聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；交叉确认。"
+    ],
+    "appearance": "叶茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘…；花聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；。",
+    "growthHabit": "多年生草质藤本，具乳汁；",
+    "keyCharacteristics": [
+      "叶：茎生不定根，匍匐地面；叶宽卵形或卵状心形，长5-12厘米，先端渐尖，基部心形或近平截，全缘或具缺裂；叶柄长2.5-20厘米；",
+      "花：聚伞花序具1，3，7花组成伞状，花序梗长2-10.5厘米；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ipomoea-batatas",
+      "title": "GBIF species record: Ipomoea batatas",
+      "url": "https://api.gbif.org/v1/species/2928551",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-ipomoea-batatas",
+      "title": "iPlant species page: Ipomoea batatas",
+      "url": "https://www.iplant.cn/info/Ipomoea%20batatas?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2928551"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

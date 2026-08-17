@@ -1,0 +1,98 @@
+{
+  "id": "stellaria-media",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "繁缕",
+    "scientificName": "Stellaria media",
+    "family": "石竹科",
+    "genus": "繁缕属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一至二年生草本；",
+    "stem": "茎、叶及种子供药用，嫩苗可食，但有具毒记载；",
+    "leaf": "叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；",
+    "flower": "聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；雄蕊3-5，短于花瓣，花柱短线形；",
+    "fruit": "蒴果卵圆形，稍长于宿萼，顶端6裂；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；",
+      "花：聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；雄蕊3-5，短于花瓣，花柱短线形；"
+    ]
+  },
+  "knowledge": {
+    "summary": "繁缕为一至二年生草本；叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；",
+      "花：聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；雄蕊3-5，短于花瓣，花柱短线形；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；；再以花聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；交叉确认。"
+    ],
+    "appearance": "叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；；花聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；。",
+    "growthHabit": "一至二年生草本；",
+    "keyCharacteristics": [
+      "叶：叶卵形，先端尖，基部渐窄，全缘；下部叶具柄，上部叶常无柄；",
+      "花：聚伞花序顶生，或单花腋生，萼片5，卵状披针形，先端钝圆，花瓣5，短于萼片，2深裂近基部；雄蕊3-5，短于花瓣，花柱短线形；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-stellaria-media",
+      "title": "GBIF species record: Stellaria media",
+      "url": "https://api.gbif.org/v1/species/5384604",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-stellaria-media",
+      "title": "iPlant species page: Stellaria media",
+      "url": "https://www.iplant.cn/info/Stellaria%20media?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5384604"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

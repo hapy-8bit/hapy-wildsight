@@ -1,0 +1,103 @@
+{
+  "id": "syringa-oblata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫丁香",
+    "scientificName": "Syringa oblata",
+    "family": "木犀科",
+    "genus": "丁香属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木或小乔木。",
+    "stem": "小枝、花序轴、花梗、苞片、花萼、幼叶两面及叶柄均密被腺毛。",
+    "leaf": "叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖，基部心形、平截或宽楔形；叶柄长1-3厘米。",
+    "flower": "花梗长0.5-3毫米；花萼长约3毫米；花冠紫色，花冠筒圆柱形，长0.8-1.7厘米，裂片直角开展，长3-6毫米；花药黄色，位于花冠筒喉部。",
+    "fruit": "果卵圆形或长椭圆形，长1-1.5(-2)厘米，顶端长渐尖，几无皮孔。",
+    "habitat": "山坡丛林、山沟溪边、山谷路旁及滩地水边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖。",
+      "花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形，长0.8-1.7厘米。",
+      "果卵圆形或长椭圆形，长1-1.5(-2)厘米，顶端长渐尖，几无皮孔。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫丁香是灌木或小乔木。观察时重点看叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖，并结合花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形确认。",
+    "identificationReferences": [
+      "叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖。",
+      "花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形”。"
+    ],
+    "appearance": "叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖。花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形。",
+    "growthHabit": "灌木或小乔木。山坡丛林、山沟溪边、山谷路旁及滩地水边。",
+    "keyCharacteristics": [
+      "叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖。",
+      "花梗长0.5-3毫米，花萼长约3毫米，花冠紫色，花冠筒圆柱形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质或厚纸质，卵圆形或肾形，长2-14厘米，宽2-15厘米，先端短凸尖或长渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-syringa-oblata",
+      "title": "GBIF species record: Syringa oblata",
+      "url": "https://api.gbif.org/v1/species/6433171",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-syringa-oblata",
+      "title": "iPlant 植物智：紫丁香（Syringa oblata）",
+      "url": "https://www.iplant.cn/info/Syringa%20oblata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "6433171"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

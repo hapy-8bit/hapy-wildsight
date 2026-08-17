@@ -1,0 +1,103 @@
+{
+  "id": "rorippa-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蔊菜",
+    "scientificName": "Rorippa indica",
+    "family": "十字花科",
+    "genus": "蔊菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一、二年生直立草本；植株较粗壮。",
+    "stem": "茎单一或分枝，具纵沟。",
+    "leaf": "单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大，卵状披针形，具不整齐牙齿，侧裂片1-5对；茎上部叶宽披针形或近匙形，疏生齿，具短柄或基部耳状抱茎。",
+    "flower": "总状花序顶生或侧生，花小，多数，具细花梗；萼片4，卵状长圆形，花瓣4，黄色，匙形，基部渐狭成短爪，与萼片近等长；四强雄蕊。",
+    "fruit": "长角果线状圆柱形，短而粗。",
+    "habitat": "路旁、田边、园圃、河边、屋边墙脚及山坡路旁等较潮湿处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大。",
+      "总状花序顶生或侧生，花小，多数，具细花梗，萼片4。",
+      "长角果线状圆柱形，短而粗。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蔊菜是一、二年生直立草本。观察时重点看单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大，并结合总状花序顶生或侧生，花小，多数，具细花梗确认。",
+    "identificationReferences": [
+      "单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大。",
+      "总状花序顶生或侧生，花小，多数，具细花梗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大”。",
+      "补拍花或花序的整体与细节，核对“总状花序顶生或侧生，花小，多数，具细花梗”。"
+    ],
+    "appearance": "单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大。总状花序顶生或侧生，花小，多数，具细花梗。",
+    "growthHabit": "一、二年生直立草本。路旁、田边、园圃、河边、屋边墙脚及山坡路旁等较潮湿处。",
+    "keyCharacteristics": [
+      "单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大。",
+      "总状花序顶生或侧生，花小，多数，具细花梗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“单叶互生，基生叶及茎下部叶具长柄，常大头羽状分裂，长4-10厘米，顶裂片大”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "farmland",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rorippa-indica",
+      "title": "GBIF species record: Rorippa indica",
+      "url": "https://api.gbif.org/v1/species/3053472",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-rorippa-indica",
+      "title": "iPlant 植物智：蔊菜（Rorippa indica）",
+      "url": "https://www.iplant.cn/info/Rorippa%20indica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3053472"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

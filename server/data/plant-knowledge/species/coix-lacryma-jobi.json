@@ -1,0 +1,99 @@
+{
+  "id": "coix-lacryma-jobi",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "薏苡",
+    "scientificName": "Coix lacryma-jobi",
+    "family": "禾本科",
+    "genus": "薏苡属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生粗壮草本。",
+    "stem": "秆直立丛生，多分枝。",
+    "leaf": "叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形。",
+    "flower": "总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化，雌蕊具细长柱头，伸出，颖果小，雄小穗着生于上部，具有柄无柄二型。",
+    "fruit": "雌蕊具细长之柱头，从总苞之顶端伸出，颖果小，含淀粉少，常不饱满。",
+    "habitat": "雄小穗2-3对，着生于总状花序上部，长1-2厘米；无柄雄小穗长6-7毫米，第一颖草质，边缘内折成脊，具有不等宽之翼，顶端钝，具多数脉，第二颖舟形；外稃与内稃膜质；第一及第二小花常具雄蕊3枚，花药桔黄色，长4-5毫米；有柄雄小穗与无柄者相似，或较小而呈不同程度的退化。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形。",
+      "总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化，雌蕊具细长柱头。",
+      "雌蕊具细长之柱头，从总苞之顶端伸出，颖果小，含淀粉少，常不饱满。"
+    ]
+  },
+  "knowledge": {
+    "summary": "薏苡是一年生粗壮草本。观察时重点看叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形，并结合总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化确认。",
+    "identificationReferences": [
+      "叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形。",
+      "总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形”。",
+      "补拍花或花序的整体与细节，核对“总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化”。"
+    ],
+    "appearance": "叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形。总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化。",
+    "growthHabit": "一年生粗壮草本。雄小穗2-3对，着生于总状花序上部，长1-2厘米。",
+    "keyCharacteristics": [
+      "叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形。",
+      "总状花序腋生成束，雌小穗位于下部，外面包以骨质念珠状总苞，雄蕊常退化。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘短于其节间，叶舌干膜质，叶片扁平宽大，开展，基部圆形或近心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-coix-lacryma-jobi",
+      "title": "GBIF species record: Coix lacryma-jobi",
+      "url": "https://api.gbif.org/v1/species/2706301",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-coix-lacryma-jobi",
+      "title": "iPlant 植物智：薏苡（Coix lacryma-jobi）",
+      "url": "https://www.iplant.cn/info/Coix%20lacryma-jobi?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2706301"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

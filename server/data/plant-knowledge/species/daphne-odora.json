@@ -1,0 +1,97 @@
+{
+  "id": "daphne-odora",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "瑞香",
+    "scientificName": "Daphne odora",
+    "family": "瑞香科",
+    "genus": "瑞香属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿直立灌木。",
+    "stem": "枝粗壮，常二歧分枝；小枝无毛，紫红或紫褐色。",
+    "leaf": "叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝，基部楔形，全缘，两面无毛，上面中脉凹下，侧脉9-13对，两面均显著；叶柄长0.4-1厘米，疏被淡黄色丝状毛或无毛。",
+    "flower": "头状花序顶生，多花；苞片披针形或卵状披针形，长5-8毫米，宽2-3毫米，无毛；花外面淡紫红色，内面肉红色，萼筒壶状，长0.6-1厘米，外面无毛；裂片4，卵形或卵状披针形，基部心形，与萼筒等长；雄蕊8，2轮，下轮着生于萼筒中部以上，上轮着生于萼筒喉部稍下，花药1/2伸出萼筒喉部；花盘环状，不裂；子房长圆形，无毛，顶端钝尖，花柱短，柱头头状。",
+    "fruit": "果红色。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝。",
+      "头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米，宽2-3毫米。",
+      "果红色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "瑞香是常绿直立灌木。观察时重点看叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝，并结合头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米确认。",
+    "identificationReferences": [
+      "叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝。",
+      "头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝”。",
+      "补拍花或花序的整体与细节，核对“头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米”。"
+    ],
+    "appearance": "叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝。头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米。",
+    "growthHabit": "常绿直立灌木。",
+    "keyCharacteristics": [
+      "叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝。",
+      "头状花序顶生，多花，苞片披针形或卵状披针形，长5-8毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，纸质，长卵形或长圆形，长7-13厘米，先端钝”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-daphne-odora",
+      "title": "GBIF species record: Daphne odora",
+      "url": "https://api.gbif.org/v1/species/7670260",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-daphne-odora",
+      "title": "iPlant 植物智：瑞香（Daphne odora）",
+      "url": "https://www.iplant.cn/info/Daphne%20odora?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7670260"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

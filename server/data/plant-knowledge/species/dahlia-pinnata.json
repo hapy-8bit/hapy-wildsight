@@ -1,0 +1,97 @@
+{
+  "id": "dahlia-pinnata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大丽花",
+    "scientificName": "Dahlia pinnata",
+    "family": "菊科",
+    "genus": "大丽花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎多分枝，高达2米。",
+    "leaf": "叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛。",
+    "flower": "头状花序有长花序梗，常下垂，径6-12厘米；总苞片外层约5，卵状椭圆形，叶质，内层膜质，椭圆状披针形；舌状花1层，白、红或紫色，常卵形，先端有不明显3齿，或全缘；管状花黄色，有时栽培种全为舌状花。",
+    "fruit": "瘦果长圆形，长0.9-1.2厘米，黑色，有2个不明显的齿。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛。",
+      "头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5，卵状椭圆形。",
+      "瘦果长圆形，长0.9-1.2厘米，黑色，有2个不明显的齿。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大丽花是多年生草本。观察时重点看叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛，并结合头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5确认。",
+    "identificationReferences": [
+      "叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛。",
+      "头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛”。",
+      "补拍花或花序的整体与细节，核对“头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5”。"
+    ],
+    "appearance": "叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛。头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛。",
+      "头状花序有长花序梗，常下垂，径6-12厘米，总苞片外层约5。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶一至三回羽状全裂，上部叶有时不裂，裂片卵形或长圆状卵形，下面灰绿色，两面无毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dahlia-pinnata",
+      "title": "GBIF species record: Dahlia pinnata",
+      "url": "https://api.gbif.org/v1/species/5387142",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dahlia-pinnata",
+      "title": "iPlant 植物智：大丽花（Dahlia pinnata）",
+      "url": "https://www.iplant.cn/info/Dahlia%20pinnata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5387142"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

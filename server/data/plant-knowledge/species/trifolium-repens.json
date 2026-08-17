@@ -1,0 +1,101 @@
+{
+  "id": "trifolium-repens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白车轴草",
+    "scientificName": "Trifolium repens",
+    "family": "豆科",
+    "genus": "车轴草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "茎匍匐蔓生，上部稍上升，节上生根，掌状三出复叶；托叶卵状披针形，基部抱茎成鞘状，离生部分锐尖；叶柄长10-30厘米；小叶倒卵形或近圆形，长0.8-3厘米，中脉在下面隆起，侧脉约13对，在两面隆起，近叶边分叉并伸达齿尖；小叶柄长1.5毫米，微被柔毛。",
+    "leaf": "掌状三出复叶，小叶倒卵形或近圆形。",
+    "flower": "花序梗甚长，比叶柄长近1倍；无总苟；苞片披针形；花长0.7-1.2厘米；花梗比花萼稍长或等长，开花立即下垂；花萼钟形，具10条脉纹，萼齿5，披针形，稍不等长，短于萼筒，萼喉开张，无毛；花冠白、乳黄或淡红色，具香气，旗瓣椭圆形，比翼瓣和龙骨瓣长近1倍，龙骨瓣稍短于翼瓣；子房线状长圆形，花柱稍长于子房。",
+    "fruit": "荚果长圆形，常具3种子。",
+    "habitat": "我国常见于种植，并在湿润草地、河岸、路边呈半自生状态。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "掌状三出复叶，小叶倒卵形或近圆形。",
+      "花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形，花长0.7-1.2厘米。",
+      "荚果长圆形，常具3种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白车轴草是多年生草本。观察时重点看掌状三出复叶，小叶倒卵形或近圆形，并结合花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形确认。",
+    "identificationReferences": [
+      "掌状三出复叶，小叶倒卵形或近圆形。",
+      "花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“掌状三出复叶，小叶倒卵形或近圆形”。",
+      "补拍花或花序的整体与细节，核对“花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形”。"
+    ],
+    "appearance": "掌状三出复叶，小叶倒卵形或近圆形。花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形。",
+    "growthHabit": "多年生草本。我国常见于种植，并在湿润草地、河岸、路边呈半自生状态。",
+    "keyCharacteristics": [
+      "掌状三出复叶，小叶倒卵形或近圆形。",
+      "花序梗甚长，比叶柄长近1倍，无总苟，苞片披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“掌状三出复叶，小叶倒卵形或近圆形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-trifolium-repens",
+      "title": "GBIF species record: Trifolium repens",
+      "url": "https://api.gbif.org/v1/species/5358748",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-trifolium-repens",
+      "title": "iPlant 植物智：白车轴草（Trifolium repens）",
+      "url": "https://www.iplant.cn/info/Trifolium%20repens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5358748"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cosmos-bipinnatus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "秋英",
+    "scientificName": "Cosmos bipinnatus",
+    "family": "菊科",
+    "genus": "秋英属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "—年生或多年生草本。",
+    "stem": "茎无毛或稍被柔毛。",
+    "leaf": "叶二回羽状深裂。",
+    "flower": "头状花序单生，径3-6厘米，花序梗长6-18厘米；总苞片外层披针形或线状披针形，近革质，淡绿色，具深紫色条纹，长1-1.5厘米，内层椭圆状卵形，膜质；舌状花紫红、粉红或白色，舌片椭圆状倒卵形，长2-3厘米：管状花黄色，长6-8毫米，管部短，上部圆柱形，有披针状裂片。",
+    "fruit": "瘦果黑紫色，长0.8-1.2厘米，无毛，上端具长喙，有2-3尖刺。",
+    "habitat": "此著名的观赏植物原产美洲墨西哥，在我国栽培甚广，在路旁、田埂、溪岸也常自生。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶二回羽状深裂。",
+      "头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形，近革质。",
+      "瘦果黑紫色，长0.8-1.2厘米，无毛，上端具长喙，有2-3尖刺。"
+    ]
+  },
+  "knowledge": {
+    "summary": "秋英是—年生或多年生草本。观察时重点看叶二回羽状深裂，并结合头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形确认。",
+    "identificationReferences": [
+      "叶二回羽状深裂。",
+      "头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶二回羽状深裂”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形”。"
+    ],
+    "appearance": "叶二回羽状深裂。头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形。",
+    "growthHabit": "—年生或多年生草本。此著名的观赏植物原产美洲墨西哥，在我国栽培甚广，在路旁、田埂、溪岸也常自生。",
+    "keyCharacteristics": [
+      "叶二回羽状深裂。",
+      "头状花序单生，径3-6厘米，花序梗长6-18厘米，总苞片外层披针形或线状披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶二回羽状深裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cosmos-bipinnatus",
+      "title": "GBIF species record: Cosmos bipinnatus",
+      "url": "https://api.gbif.org/v1/species/3098912",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cosmos-bipinnatus",
+      "title": "iPlant 植物智：秋英（Cosmos bipinnatus）",
+      "url": "https://www.iplant.cn/info/Cosmos%20bipinnatus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3098912"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

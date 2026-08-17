@@ -1,0 +1,100 @@
+{
+  "id": "digitaria-sanguinalis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "马唐",
+    "scientificName": "Digitaria sanguinalis",
+    "family": "禾本科",
+    "genus": "马唐属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生。",
+    "stem": "秆直立或下部倾斜，膝曲上升。",
+    "leaf": "叶鞘短于节间，无毛或散生疣基柔毛；叶舌长1-3毫米；叶片线状披针形，长5-15厘米，宽4-12毫米，基部圆形，边缘较厚，微粗糙，具柔毛或无毛。",
+    "flower": "小穗椭圆状披针形，长3-3.5毫米；第一颖小，短三角形，无脉；第二颖具3脉，披针形，长为小穗的1/2左右，脉间及边缘大多具柔毛；第一外稃等长于小穗，具7脉，中脉平滑，两侧的脉间距离较宽，无毛，边脉上具小刺状粗糙，脉间及边缘生柔毛；第二外稃近革质，灰绿色，顶端渐尖，等长于第一外稃；花药长约1毫米。",
+    "fruit": "",
+    "habitat": "路旁、田野，是一种优良牧草，但又是危害农田、果园的杂草。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米。",
+      "小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形，无脉。",
+      "秆直立或下部倾斜，膝曲上升。"
+    ]
+  },
+  "knowledge": {
+    "summary": "马唐是一年生。观察时重点看叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米，并结合小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形确认。",
+    "identificationReferences": [
+      "叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米。",
+      "小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米”。",
+      "补拍花或花序的整体与细节，核对“小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形”。"
+    ],
+    "appearance": "叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米。小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形。",
+    "growthHabit": "一年生。路旁、田野，是一种优良牧草，但又是危害农田、果园的杂草。",
+    "keyCharacteristics": [
+      "叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米。",
+      "小穗椭圆状披针形，长3-3.5毫米，第一颖小，短三角形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘短于节间，无毛或散生疣基柔毛，叶舌长1-3毫米，叶片线状披针形，长5-15厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "roadside",
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-digitaria-sanguinalis",
+      "title": "GBIF species record: Digitaria sanguinalis",
+      "url": "https://api.gbif.org/v1/species/5289972",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-digitaria-sanguinalis",
+      "title": "iPlant 植物智：马唐（Digitaria sanguinalis）",
+      "url": "https://www.iplant.cn/info/Digitaria%20sanguinalis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5289972"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

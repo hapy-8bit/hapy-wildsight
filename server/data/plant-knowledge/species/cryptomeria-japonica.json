@@ -1,0 +1,97 @@
+{
+  "id": "cryptomeria-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "日本柳杉",
+    "scientificName": "Cryptomeria japonica",
+    "family": "柏科",
+    "genus": "柳杉属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大乔木。",
+    "stem": "树皮红褐色，裂成条片状落脱，大枝常轮状着生，树冠尖塔形，当年生枝绿色。",
+    "leaf": "叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米。",
+    "flower": "雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形。",
+    "fruit": "球果近球形，较大，种鳞20-30，发育种鳞具2-5种子。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米。",
+      "雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形。",
+      "球果近球形，较大，种鳞20-30，发育种鳞具2-5种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "日本柳杉是高大乔木。观察时重点看叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米，并结合雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形确认。",
+    "identificationReferences": [
+      "叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米。",
+      "雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米”。",
+      "补拍花或花序的整体与细节，核对“雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形”。"
+    ],
+    "appearance": "叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米。雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形。",
+    "growthHabit": "高大乔木。",
+    "keyCharacteristics": [
+      "叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米。",
+      "雄球花长椭圆形或圆柱形，雄蕊有4-5花药，雌球花圆球形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶微镰状，长1-1.5厘米，先端向内弯曲，幼树及萌芽枝之叶长达2.4厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cryptomeria-japonica",
+      "title": "GBIF species record: Cryptomeria japonica",
+      "url": "https://api.gbif.org/v1/species/5284237",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cryptomeria-japonica",
+      "title": "iPlant 植物智：日本柳杉（Cryptomeria japonica）",
+      "url": "https://www.iplant.cn/info/Cryptomeria%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5284237"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

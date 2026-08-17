@@ -1,0 +1,98 @@
+{
+  "id": "albizia-julibrissin",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "合欢",
+    "scientificName": "Albizia julibrissin",
+    "family": "豆科",
+    "genus": "合欢属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木；",
+    "stem": "高达16米；",
+    "leaf": "托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；羽片4-12对（栽培的可达20对）；小叶10…",
+    "flower": "头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片三角形，长1.5毫米，花萼、花冠外均被短柔毛…",
+    "fruit": "荚果带状，长9-15厘米，宽1.5-2.5厘米，嫩荚有柔毛，老时无毛；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；羽片4-12对（栽培的可达20对）；小叶10…",
+      "花：头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片三角形，长1.5毫米，花萼、花冠外均被短柔毛…"
+    ]
+  },
+  "knowledge": {
+    "summary": "合欢为落叶乔木；叶托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；羽片4-12对（栽培的可达20对）；小叶10…",
+      "花：头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片三角形，长1.5毫米，花萼、花冠外均被短柔毛…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；…；再以花头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片…交叉确认。"
+    ],
+    "appearance": "叶托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；…；花头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片…。",
+    "growthHabit": "落叶乔木；",
+    "keyCharacteristics": [
+      "叶：托叶线状披针形，较小叶小，早落；二回羽状复叶，总叶柄近基部及最顶一对羽片着生处各有1腺体；羽片4-12对（栽培的可达20对）；小叶10…",
+      "花：头状花序于枝顶排成圆锥花序；花序轴蜿蜒状；花粉红色；花萼管状，长3毫米；花冠长8毫米，裂片三角形，长1.5毫米，花萼、花冠外均被短柔毛…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-albizia-julibrissin",
+      "title": "GBIF species record: Albizia julibrissin",
+      "url": "https://api.gbif.org/v1/species/2972983",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-albizia-julibrissin",
+      "title": "iPlant species page: Albizia julibrissin",
+      "url": "https://www.iplant.cn/info/Albizia%20julibrissin?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2972983"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

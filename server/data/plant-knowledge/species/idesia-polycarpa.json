@@ -1,0 +1,101 @@
+{
+  "id": "idesia-polycarpa",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山桐子",
+    "scientificName": "Idesia polycarpa",
+    "family": "杨柳科",
+    "genus": "山桐子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "幼枝疏被柔毛。",
+    "leaf": "叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉，疏生锯齿。",
+    "flower": "圆锥花序顶生或腋生，下垂，花单性，雌雄异株，花下位，萼片长圆形，无花瓣，雄花雄蕊多数，花丝不等长，着生于花盘上，退化子房极小，雌花退化雄蕊多数。",
+    "fruit": "浆果红色，球形，径0.7-1厘米；种子卵圆形，长1.5-2毫米；子叶圆形。",
+    "habitat": "生于海拔400-2500米的低山区的山坡、山洼等落叶阔叶林和针阔叶混交林中，通常集中分布于海拔900米（秦岭以南地区）至海拔1400米（西南地区）的山地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉。",
+      "圆锥花序顶生或腋生，下垂，花单性，雌雄异株，花下位。",
+      "浆果红色，球形，径0.7-1厘米，种子卵圆形，长1.5-2毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "山桐子是落叶乔木。观察时重点看叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉，并结合圆锥花序顶生或腋生，下垂，花单性，雌雄异株确认。",
+    "identificationReferences": [
+      "叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉。",
+      "圆锥花序顶生或腋生，下垂，花单性，雌雄异株。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序顶生或腋生，下垂，花单性，雌雄异株”。"
+    ],
+    "appearance": "叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉。圆锥花序顶生或腋生，下垂，花单性，雌雄异株。",
+    "growthHabit": "落叶乔木。生于海拔400-2500米的低山区的山坡、山洼等落叶阔叶林和针阔叶混交林中，通常集中分布于海拔900米（秦岭以南地区）至海拔1400米（西南地区）的山地。",
+    "keyCharacteristics": [
+      "叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉。",
+      "圆锥花序顶生或腋生，下垂，花单性，雌雄异株。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，卵圆形或卵形，先端渐尖，基部心形，掌状5出脉”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-idesia-polycarpa",
+      "title": "GBIF species record: Idesia polycarpa",
+      "url": "https://api.gbif.org/v1/species/6043516",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-idesia-polycarpa",
+      "title": "iPlant 植物智：山桐子（Idesia polycarpa）",
+      "url": "https://www.iplant.cn/info/Idesia%20polycarpa?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "6043516"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

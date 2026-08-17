@@ -1,0 +1,100 @@
+{
+  "id": "rhododendron-simsii",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "杜鹃",
+    "scientificName": "Rhododendron simsii",
+    "family": "杜鹃花科",
+    "genus": "杜鹃属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "枝被亮棕色扁平糙伏毛；",
+    "leaf": "叶卵形、椭圆形或卵状椭圆形，具细齿；",
+    "flower": "花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；雄蕊10，与花冠等长，子房10室；",
+    "fruit": "蒴果卵圆形，有宿萼；",
+    "habitat": "山地疏灌丛或松林下，为我国中南及西南典型的酸性土指示植物；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵形、椭圆形或卵状椭圆形，具细齿；",
+      "花：花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；雄蕊10，与花冠等长，子房10室；"
+    ]
+  },
+  "knowledge": {
+    "summary": "杜鹃为落叶灌木；叶卵形、椭圆形或卵状椭圆形，具细齿；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵形、椭圆形或卵状椭圆形，具细齿；",
+      "花：花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；雄蕊10，与花冠等长，子房10室；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：卵形、椭圆形或卵状椭圆形，具细齿；；再以花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；交叉确认。"
+    ],
+    "appearance": "叶卵形、椭圆形或卵状椭圆形，具细齿；；花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：叶卵形、椭圆形或卵状椭圆形，具细齿；",
+      "花：花2-6簇生枝顶，花萼5深裂，花冠漏斗状，玫瑰、鲜红或深红色，5裂，裂片上部有深色斑点；雄蕊10，与花冠等长，子房10室；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-rhododendron-simsii",
+      "title": "GBIF species record: Rhododendron simsii",
+      "url": "https://api.gbif.org/v1/species/7327627",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-rhododendron-simsii",
+      "title": "iPlant species page: Rhododendron simsii",
+      "url": "https://www.iplant.cn/info/Rhododendron%20simsii?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7327627"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "setaria-faberi",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大狗尾草",
+    "scientificName": "Setaria faberi",
+    "family": "禾本科",
+    "genus": "狗尾草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "秆粗壮而高大、直立或基部膝曲。",
+    "stem": "秆粗壮而高大、直立或基部膝曲，高50-120厘米，径达6毫米，光滑无毛。",
+    "leaf": "叶表皮细胞同莩草类型。",
+    "flower": "小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛，刚毛通常绿色，少具浅褐紫色，粗糙，长5-15毫米；第一颖长为小穗的1/3-1/2，宽卵形，顶端尖，具3脉；第二颖长为小穗的3/4或稍短于小穗，少数长为小穗的1/2，顶端尖，具5-7脉，第一外稃与小穗等长，具5脉，其内稃膜质，披针形，长为其1/2-1/3，第二外稃与第一外稃等长，具细横皱纹，顶端尖，成熟后背部极膨胀隆起；鳞被。",
+    "fruit": "颖果椭圆形，顶端尖。",
+    "habitat": "山坡、路旁、田园或荒野。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶表皮细胞同莩草类型。",
+      "小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛，刚毛通常绿色。",
+      "颖果椭圆形，顶端尖。"
+    ]
+  },
+  "knowledge": {
+    "summary": "大狗尾草的生长形态为秆粗壮而高大、直立或基部膝曲。观察时重点看叶表皮细胞同莩草类型，并结合小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛确认。",
+    "identificationReferences": [
+      "叶表皮细胞同莩草类型。",
+      "小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶表皮细胞同莩草类型”。",
+      "补拍花或花序的整体与细节，核对“小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛”。"
+    ],
+    "appearance": "叶表皮细胞同莩草类型。小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛。",
+    "growthHabit": "秆粗壮而高大、直立或基部膝曲。山坡、路旁、田园或荒野。",
+    "keyCharacteristics": [
+      "叶表皮细胞同莩草类型。",
+      "小穗椭圆形，长约3毫米，项端尖，下托以1-3枚较粗而直的刚毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶表皮细胞同莩草类型”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-setaria-faberi",
+      "title": "GBIF species record: Setaria faberi",
+      "url": "https://api.gbif.org/v1/species/5289666",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-setaria-faberi",
+      "title": "iPlant 植物智：大狗尾草（Setaria faberi）",
+      "url": "https://www.iplant.cn/info/Setaria%20faberi?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5289666"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

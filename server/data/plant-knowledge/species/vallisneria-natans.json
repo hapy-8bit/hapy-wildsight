@@ -1,0 +1,100 @@
+{
+  "id": "vallisneria-natans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "苦草",
+    "scientificName": "Vallisneria natans",
+    "family": "水鳖科",
+    "genus": "苦草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "沉水草本。",
+    "stem": "匍匐茎光滑或稍粗糙，白色，有越冬块茎。",
+    "leaf": "叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝，全缘或有不明显细锯齿，叶脉5-9；无叶柄。",
+    "flower": "花梗细，长30-50厘米，受精后螺旋状卷曲；雌花单生佛焰苞内，萼片3，绿紫色，长2-4毫米；花瓣3，极小，白色；退化雄蕊3；子房圆柱形，光滑，胚珠多数，花柱3，顶端2裂。",
+    "fruit": "果圆柱形。",
+    "habitat": "溪沟、河流、池塘、湖泊之中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝。",
+      "花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内，萼片3。",
+      "果圆柱形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "苦草是沉水草本。观察时重点看叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝，并结合花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内确认。",
+    "identificationReferences": [
+      "叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝。",
+      "花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝”。",
+      "补拍花或花序的整体与细节，核对“花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内”。"
+    ],
+    "appearance": "叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝。花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内。",
+    "growthHabit": "沉水草本。溪沟、河流、池塘、湖泊之中。",
+    "keyCharacteristics": [
+      "叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝。",
+      "花梗细，长30-50厘米，受精后螺旋状卷曲，雌花单生佛焰苞内。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生，线形或带形，长0.2-2米，绿色或略带紫红色，先端钝”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vallisneria-natans",
+      "title": "GBIF species record: Vallisneria natans",
+      "url": "https://api.gbif.org/v1/species/2865504",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vallisneria-natans",
+      "title": "iPlant 植物智：苦草（Vallisneria natans）",
+      "url": "https://www.iplant.cn/info/Vallisneria%20natans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2865504"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

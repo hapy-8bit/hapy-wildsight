@@ -1,0 +1,102 @@
+{
+  "id": "medicago-lupulina",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "天蓝苜蓿",
+    "scientificName": "Medicago lupulina",
+    "family": "豆科",
+    "genus": "苜蓿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "1-2年生或多年生草本。",
+    "stem": "茎平卧或上升，多分枝，叶茂盛。",
+    "leaf": "羽状三出复叶；托叶卵状披针形，长达1厘米，常齿裂；下部叶柄较长，长1-2厘米，上部叶柄比小叶短小叶倒卵形、宽倒卵形或倒心形，长0.5-2厘米，上半部边缘具不明显尖齿，两面被毛，侧脉近10对；顶生小叶较大，小叶柄长2-6毫米，侧生小叶柄甚短。",
+    "flower": "花序梗细，比叶长，密被贴伏柔毛；苞片刺毛状，甚小；花长2-2.2毫米；花梗长不及1毫米；花萼钟形，密被毛，萼齿线状披针形，稍不等长，比萼筒稍长或等长；花冠黄色，旗瓣近圆形，翼瓣和龙骨瓣近等长，均比旗瓣短；子房宽卵圆形，被毛，花柱弯曲，胚珠1粒。",
+    "fruit": "荚果肾形，长3约毫米，具同心弧形脉纹，被疏毛，有1种子。",
+    "habitat": "适于凉爽气候及水份良好土壤，但在各种条件下都有野生，常见于河岸、路边、田野及林缘。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长。",
+      "花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状，甚小。",
+      "荚果肾形，长3约毫米，具同心弧形脉纹，被疏毛，有1种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "天蓝苜蓿是1-2年生或多年生草本。观察时重点看羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长，并结合花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状确认。",
+    "identificationReferences": [
+      "羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长。",
+      "花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长”。",
+      "补拍花或花序的整体与细节，核对“花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状”。"
+    ],
+    "appearance": "羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长。花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状。",
+    "growthHabit": "1-2年生或多年生草本。适于凉爽气候及水份良好土壤，但在各种条件下都有野生，常见于河岸、路边、田野及林缘。",
+    "keyCharacteristics": [
+      "羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长。",
+      "花序梗细，比叶长，密被贴伏柔毛，苞片刺毛状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“羽状三出复叶，托叶卵状披针形，长达1厘米，常齿裂，下部叶柄较长”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-medicago-lupulina",
+      "title": "GBIF species record: Medicago lupulina",
+      "url": "https://api.gbif.org/v1/species/2965201",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-medicago-lupulina",
+      "title": "iPlant 植物智：天蓝苜蓿（Medicago lupulina）",
+      "url": "https://www.iplant.cn/info/Medicago%20lupulina?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2965201"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

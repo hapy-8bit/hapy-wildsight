@@ -1,0 +1,99 @@
+{
+  "id": "woodwardia-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "狗脊",
+    "scientificName": "Woodwardia japonica",
+    "family": "乌毛蕨科",
+    "genus": "狗脊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "蕨类。",
+    "stem": "根茎粗壮，横卧，暗褐色，与叶柄基部密被全缘深棕色披针形或线状披针形鳞片。",
+    "leaf": "叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂，顶生羽片卵状披针形或长三角状披针形；叶干后棕或棕绿色，近革质。",
+    "flower": "孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上，不连续，呈单行排列。",
+    "fruit": "孢子囊群线形，着生主脉两侧窄长网眼，不连续，单行排列；襄群盖同形，开向主脉或羽轴，宿存。",
+    "habitat": "孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上，不连续，呈单行排列；囊群盖线形，质厚，棕褐色，成熟时开向主脉或羽轴，宿存。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂。",
+      "孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上，不连续。",
+      "孢子囊群线形，着生主脉两侧窄长网眼，不连续，单行排列，襄群盖同形。"
+    ]
+  },
+  "knowledge": {
+    "summary": "狗脊是蕨类。观察时重点看叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂，并结合孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上确认。",
+    "identificationReferences": [
+      "叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂。",
+      "孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上”。"
+    ],
+    "appearance": "叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂。孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上。",
+    "growthHabit": "蕨类。孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上。",
+    "keyCharacteristics": [
+      "叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂。",
+      "孢子囊群线形，挺直，着生于主脉两侧的狭长网眼上，也有时生于羽轴两侧的狭长网眼上。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近生，叶柄暗棕色，坚硬，叶片长卵形，二回羽裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-woodwardia-japonica",
+      "title": "GBIF species record: Woodwardia japonica",
+      "url": "https://api.gbif.org/v1/species/5665885",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-woodwardia-japonica",
+      "title": "iPlant 植物智：狗脊（Woodwardia japonica）",
+      "url": "https://www.iplant.cn/info/Woodwardia%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5665885"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

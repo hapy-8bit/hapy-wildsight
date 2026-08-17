@@ -1,0 +1,99 @@
+{
+  "id": "salix-babylonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "垂柳",
+    "scientificName": "Salix babylonica",
+    "family": "杨柳科",
+    "genus": "柳属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "枝细长下垂，无毛。",
+    "leaf": "叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿；叶柄长(0.3)0.5-1厘米，有柔毛，萌枝托叶斜披针形或卵圆形，有牙齿。",
+    "flower": "花序先叶开放，或与叶同放；雄花序长1.5-2(2)厘米，有短梗，轴有毛；雄荡2，花丝与苞片近等长或较长，基部多少有长毛，花药红黄色；苞片披针形，外面有毛；腺体2；雌花序长2-3(5)厘米，有梗，基部有3-4小叶，轴有毛；子房无柄或近无柄，花柱短，柱头2-4深裂；苞片披针形，长1.8-2(2.5)毫米，外面有毛；腺体1。",
+    "fruit": "蒴果长3-4毫米。",
+    "habitat": "耐水湿，也能生于干旱处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿。",
+      "花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗，轴有毛。",
+      "蒴果长3-4毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "垂柳是乔木。观察时重点看叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿，并结合花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗确认。",
+    "identificationReferences": [
+      "叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿。",
+      "花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿”。",
+      "补拍花或花序的整体与细节，核对“花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗”。"
+    ],
+    "appearance": "叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿。花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗。",
+    "growthHabit": "乔木。耐水湿，也能生于干旱处。",
+    "keyCharacteristics": [
+      "叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿。",
+      "花序先叶开放，或与叶同放，雄花序长1.5-2(2)厘米，有短梗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶窄披针形或线状披针形，长9-16厘米基部楔形，两面无毛或微有毛，下面色淡绿色，有锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-salix-babylonica",
+      "title": "GBIF species record: Salix babylonica",
+      "url": "https://api.gbif.org/v1/species/5372639",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-salix-babylonica",
+      "title": "iPlant 植物智：垂柳（Salix babylonica）",
+      "url": "https://www.iplant.cn/info/Salix%20babylonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5372639"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

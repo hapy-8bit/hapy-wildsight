@@ -1,0 +1,114 @@
+{
+  "id": "galinsoga-quadriradiata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "粗毛牛膝菊",
+    "scientificName": "Galinsoga quadriradiata",
+    "family": "菊科",
+    "genus": "牛膝菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生，一年生草本，直立。",
+    "stem": "茎枝，尤以接花序以下，被开展稠密的长柔毛。",
+    "leaf": "叶边缘有粗锯齿或犬齿。",
+    "flower": "茎枝，尤以接花序以下，被开展稠密的长柔毛。",
+    "fruit": "果实为瘦果。",
+    "habitat": "分布不广，数量不多，仅见于庐山，生林下路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶边缘有粗锯齿或犬齿。",
+      "茎枝，尤以接花序以下，被开展稠密的长柔毛。",
+      "果实为瘦果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "粗毛牛膝菊是一年生。观察时重点看叶边缘有粗锯齿或犬齿，并结合茎枝，尤以接花序以下，被开展稠密的长柔毛确认。",
+    "identificationReferences": [
+      "叶边缘有粗锯齿或犬齿。",
+      "茎枝，尤以接花序以下，被开展稠密的长柔毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶边缘有粗锯齿或犬齿”。",
+      "补拍花或花序的整体与细节，核对“茎枝，尤以接花序以下，被开展稠密的长柔毛”。"
+    ],
+    "appearance": "叶边缘有粗锯齿或犬齿。茎枝，尤以接花序以下，被开展稠密的长柔毛。",
+    "growthHabit": "一年生。分布不广，数量不多，仅见于庐山。",
+    "keyCharacteristics": [
+      "叶边缘有粗锯齿或犬齿。",
+      "茎枝，尤以接花序以下，被开展稠密的长柔毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶边缘有粗锯齿或犬齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-galinsoga-quadriradiata",
+      "title": "GBIF species record: Galinsoga quadriradiata",
+      "url": "https://api.gbif.org/v1/species/8298495",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-galinsoga-quadriradiata",
+      "title": "iPlant 植物智：粗毛牛膝菊（Galinsoga quadriradiata）",
+      "url": "https://www.iplant.cn/info/Galinsoga%20quadriradiata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-galinsoga-quadriradiata",
+      "title": "NC State Extension Plant Toolbox: Galinsoga quadriradiata",
+      "url": "https://plants.ces.ncsu.edu/plants/galinsoga-quadriradiata/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8298495"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

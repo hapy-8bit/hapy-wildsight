@@ -1,0 +1,98 @@
+{
+  "id": "tagetes-erecta",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "万寿菊",
+    "scientificName": "Tagetes erecta",
+    "family": "菊科",
+    "genus": "万寿菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎近基部分枝；",
+    "leaf": "叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细芒，叶缘有少数腺体；",
+    "flower": "头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状，顶端具尖齿；舌状花黄或暗橙黄色，长2.9厘…",
+    "fruit": "瘦果线形，被微毛；冠毛有1-2长芒和2-3短而钝鳞片；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细芒，叶缘有少数腺体；",
+      "花：头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状，顶端具尖齿；舌状花黄或暗橙黄色，长2.9厘…"
+    ]
+  },
+  "knowledge": {
+    "summary": "万寿菊为一年生草本；叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细芒，叶缘有少数腺体；",
+      "花：头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状，顶端具尖齿；舌状花黄或暗橙黄色，长2.9厘…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细…；再以花头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状…交叉确认。"
+    ],
+    "appearance": "叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细…；花头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状…。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：叶羽状分裂，长5-10厘米，宽4-8厘米，裂片长椭圆形或披针形，具锐齿，上部叶裂片齿端有长细芒，叶缘有少数腺体；",
+      "花：头状花序单生，径5-8厘米，花序梗顶端棍棒状；总苞长1.8-2厘米，径1-1.5厘米，杯状，顶端具尖齿；舌状花黄或暗橙黄色，长2.9厘…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-tagetes-erecta",
+      "title": "GBIF species record: Tagetes erecta",
+      "url": "https://api.gbif.org/v1/species/3088488",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-tagetes-erecta",
+      "title": "iPlant species page: Tagetes erecta",
+      "url": "https://www.iplant.cn/info/Tagetes%20erecta?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3088488"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

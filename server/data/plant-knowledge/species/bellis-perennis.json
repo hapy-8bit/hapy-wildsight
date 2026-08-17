@@ -1,0 +1,97 @@
+{
+  "id": "bellis-perennis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "雏菊",
+    "scientificName": "Bellis perennis",
+    "family": "菊科",
+    "genus": "雏菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生或一年生葶状矮小草本。",
+    "stem": "",
+    "leaf": "叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿。",
+    "flower": "头状花序单生，径2.5-3.5厘米，花葶被毛；总苞半球形或宽钟形，总苞片近2层，稍不等长，长椭圆形，外面被柔毛；舌状花1层，雌性，舌片白带粉红色，开展，全缘或有2-3齿；管状花多数，两性，均结实。",
+    "fruit": "瘦果倒卵形，扁平，有边脉，被细毛，无冠毛。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿。",
+      "头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形，总苞片近2层。",
+      "瘦果倒卵形，扁平，有边脉，被细毛，无冠毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "雏菊是多年生或一年生葶状矮小草本。观察时重点看叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿，并结合头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形确认。",
+    "identificationReferences": [
+      "叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿。",
+      "头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形”。"
+    ],
+    "appearance": "叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿。头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形。",
+    "growthHabit": "多年生或一年生葶状矮小草本。",
+    "keyCharacteristics": [
+      "叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿。",
+      "头状花序单生，径2.5-3.5厘米，花葶被毛，总苞半球形或宽钟形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生，匙形，先端圆，基部渐窄成柄，上半部有疏钝齿或波状齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bellis-perennis",
+      "title": "GBIF species record: Bellis perennis",
+      "url": "https://api.gbif.org/v1/species/3117424",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-bellis-perennis",
+      "title": "iPlant 植物智：雏菊（Bellis perennis）",
+      "url": "https://www.iplant.cn/info/Bellis%20perennis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3117424"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

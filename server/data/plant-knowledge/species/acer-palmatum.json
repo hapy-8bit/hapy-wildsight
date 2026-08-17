@@ -1,0 +1,100 @@
+{
+  "id": "acer-palmatum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鸡爪槭",
+    "scientificName": "Acer palmatum",
+    "family": "无患子科",
+    "genus": "槭属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶小乔木。",
+    "stem": "树皮深灰色。",
+    "leaf": "叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿。",
+    "flower": "萼片卵状披针形；花瓣椭圆形或倒卵形；雄蕊较花瓣短，生于花盘内侧；子房无毛。",
+    "fruit": "幼果紫红色，熟后褐黄色，果核球形，脉纹显著，两翅成钝角。",
+    "habitat": "林边或疏林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿。",
+      "萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧，子房无毛。",
+      "幼果紫红色，熟后褐黄色，果核球形，脉纹显著，两翅成钝角。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鸡爪槭是落叶小乔木。观察时重点看叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿，并结合萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧确认。",
+    "identificationReferences": [
+      "叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿。",
+      "萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿”。",
+      "补拍花或花序的整体与细节，核对“萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧”。"
+    ],
+    "appearance": "叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿。萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧。",
+    "growthHabit": "落叶小乔木。林边或疏林中。",
+    "keyCharacteristics": [
+      "叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿。",
+      "萼片卵状披针形，花瓣椭圆形或倒卵形，雄蕊较花瓣短，生于花盘内侧。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶近圆形，基部心形或近心形，掌状(5)7(9)深裂，密生尖锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acer-palmatum",
+      "title": "GBIF species record: Acer palmatum",
+      "url": "https://api.gbif.org/v1/species/3189882",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acer-palmatum",
+      "title": "iPlant 植物智：鸡爪槭（Acer palmatum）",
+      "url": "https://www.iplant.cn/info/Acer%20palmatum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189882"
+  },
+  "contentVersion": 6,
+  "reviewStatus": "reviewed"
+}

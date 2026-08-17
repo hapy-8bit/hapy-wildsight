@@ -1,0 +1,98 @@
+{
+  "id": "trapa-natans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "欧菱",
+    "scientificName": "Trapa natans",
+    "family": "千屈菜科",
+    "genus": "菱属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生浮水水生草本植物；",
+    "stem": "茎柔弱，分枝；",
+    "leaf": "叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，背面绿色带紫，疏生淡棕色短毛，叶边缘中上部…",
+    "flower": "花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；",
+    "fruit": "果三角状菱形，具4刺角，2肩角斜上伸，2腰角向下伸，刺角扁锥状，果高和宽约2厘米，刺角长1-1.5厘米；果喙圆锥状、无果冠；",
+    "habitat": "湖泊或旧河床中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，背面绿色带紫，疏生淡棕色短毛，叶边缘中上部…",
+      "花：花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；"
+    ]
+  },
+  "knowledge": {
+    "summary": "欧菱为多年生浮水水生草本植物；叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，背面绿色带紫，疏生淡棕色短毛，叶边缘中上部…",
+      "花：花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，…；再以花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；交叉确认。"
+    ],
+    "appearance": "叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，…；花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；。",
+    "growthHabit": "多年生浮水水生草本植物；",
+    "keyCharacteristics": [
+      "叶：叶二型：浮水叶互生，聚生于主茎和分枝茎顶端，形成莲座状菱盘，叶片三角形状菱形，表面深亮绿色，背面绿色带紫，疏生淡棕色短毛，叶边缘中上部…",
+      "花：花小，单生于叶腋，花瓣4，白色；果三角状菱形，具4刺角；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-trapa-natans",
+      "title": "GBIF species record: Trapa natans",
+      "url": "https://api.gbif.org/v1/species/3188757",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-trapa-natans",
+      "title": "iPlant species page: Trapa natans",
+      "url": "https://www.iplant.cn/info/Trapa%20natans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3188757"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

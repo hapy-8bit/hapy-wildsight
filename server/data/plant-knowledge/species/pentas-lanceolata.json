@@ -1,0 +1,96 @@
+{
+  "id": "pentas-lanceolata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "五星花",
+    "scientificName": "Pentas lanceolata",
+    "family": "茜草科",
+    "genus": "五星花属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "亚灌木，直立或下部匍匐。",
+    "stem": "",
+    "leaf": "叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖，基部渐窄成短柄。",
+    "flower": "聚伞花序密集，顶生。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖。",
+      "聚伞花序密集，顶生。"
+    ]
+  },
+  "knowledge": {
+    "summary": "五星花是亚灌木。观察时重点看叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖，并结合聚伞花序密集，顶生确认。",
+    "identificationReferences": [
+      "叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖。",
+      "聚伞花序密集，顶生。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序密集，顶生”。"
+    ],
+    "appearance": "叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖。聚伞花序密集，顶生。",
+    "growthHabit": "亚灌木。",
+    "keyCharacteristics": [
+      "叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖。",
+      "聚伞花序密集，顶生。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶膜质或纸质，卵形、椭圆形或披针状长圆形，长4-15厘米，宽1-5厘米，先端短尖或渐尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-pentas-lanceolata",
+      "title": "GBIF species record: Pentas lanceolata",
+      "url": "https://api.gbif.org/v1/species/2908986",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-pentas-lanceolata",
+      "title": "iPlant 植物智：五星花（Pentas lanceolata）",
+      "url": "https://www.iplant.cn/info/Pentas%20lanceolata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2908986"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

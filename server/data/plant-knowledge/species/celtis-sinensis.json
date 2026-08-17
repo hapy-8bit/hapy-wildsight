@@ -1,0 +1,98 @@
+{
+  "id": "celtis-sinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "朴",
+    "scientificName": "Celtis sinensis",
+    "family": "大麻科",
+    "genus": "朴属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "高大落叶乔木；",
+    "stem": "一年生枝密被柔毛；芽鳞无毛；",
+    "leaf": "叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；",
+    "flower": "",
+    "fruit": "果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；",
+    "habitat": "多路旁、山坡、林缘；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；",
+      "果：果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；"
+    ]
+  },
+  "knowledge": {
+    "summary": "朴为高大落叶乔木；叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；。观察时再结合叶、果、枝等结构确认。",
+    "identificationReferences": [
+      "叶：叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；",
+      "果：果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、果、枝等可见结构。",
+      "先核对叶：卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；；再以果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；交叉确认。"
+    ],
+    "appearance": "叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；；果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；。",
+    "growthHabit": "高大落叶乔木；",
+    "keyCharacteristics": [
+      "叶：叶卵形或卵状椭圆形，先端尖或渐尖，基部近对称或稍偏斜，近全缘或中上部具圆齿；",
+      "果：果单生叶腋，稀2-3集生，近球形，成熟时黄或橙黄色，具果柄；果核近球形，白色；"
+    ],
+    "observationTips": [
+      "将叶、果、枝放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-celtis-sinensis",
+      "title": "GBIF species record: Celtis sinensis",
+      "url": "https://api.gbif.org/v1/species/4159594",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-celtis-sinensis",
+      "title": "iPlant species page: Celtis sinensis",
+      "url": "https://www.iplant.cn/info/Celtis%20sinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "4159594"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "clematis-florida",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "铁线莲",
+    "scientificName": "Clematis florida",
+    "family": "毛茛科",
+    "genus": "铁线莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草质藤本。",
+    "stem": "茎被短柔毛，具纵沟，节膨大。",
+    "leaf": "二回或一回三出复叶，小叶纸质；窄卵形或披针形，长1-6厘米，先端尖，基部圆或宽楔形，全缘，两面疏被短柔毛；叶柄长2-4厘米。",
+    "flower": "花梗长3.7-8.5厘米；萼片6，白色，平展，倒卵形或菱状倒卵形，长2-3厘米，沿中脉被绒毛；雄蕊无毛，花药长圆形或线形，长2.5-3.5毫米，顶端钝。",
+    "fruit": "瘦果宽倒卵圆形，长约3.5毫米，被柔毛；宿存花柱长约8毫米，下部被开展柔毛，上部无毛。",
+    "habitat": "低山区的丘陵灌丛中，山谷、路旁及小溪边。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖。",
+      "花梗长3.7-8.5厘米，萼片6，白色，平展，倒卵形或菱状倒卵形。",
+      "瘦果宽倒卵圆形，长约3.5毫米，被柔毛，宿存花柱长约8毫米，下部被开展柔毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "铁线莲是草质藤本。观察时重点看二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖，并结合花梗长3.7-8.5厘米，萼片6，白色，平展确认。",
+    "identificationReferences": [
+      "二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖。",
+      "花梗长3.7-8.5厘米，萼片6，白色，平展。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖”。",
+      "补拍花或花序的整体与细节，核对“花梗长3.7-8.5厘米，萼片6，白色，平展”。"
+    ],
+    "appearance": "二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖。花梗长3.7-8.5厘米，萼片6，白色，平展。",
+    "growthHabit": "草质藤本。低山区的丘陵灌丛中，山谷、路旁及小溪边。",
+    "keyCharacteristics": [
+      "二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖。",
+      "花梗长3.7-8.5厘米，萼片6，白色，平展。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“二回或一回三出复叶，小叶纸质，窄卵形或披针形，长1-6厘米，先端尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-clematis-florida",
+      "title": "GBIF species record: Clematis florida",
+      "url": "https://api.gbif.org/v1/species/3033527",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-clematis-florida",
+      "title": "iPlant 植物智：铁线莲（Clematis florida）",
+      "url": "https://www.iplant.cn/info/Clematis%20florida?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3033527"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

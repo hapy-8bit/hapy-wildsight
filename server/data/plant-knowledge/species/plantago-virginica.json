@@ -1,0 +1,101 @@
+{
+  "id": "plantago-virginica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "北美车前",
+    "scientificName": "Plantago virginica",
+    "family": "车前科",
+    "genus": "车前属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "—年生或二年生草本。",
+    "stem": "根茎短。",
+    "leaf": "叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形，下延至叶柄，边缘波状、疏生牙齿或近全缘，两面及叶柄散生白色柔毛，脉(3-)5条；叶柄长0.5-5厘米，基部鞘状。",
+    "flower": "花序梗长4-20厘米，密被开展的白色柔毛，中空；苞片披针形或窄椭圆形，龙骨突宽厚，背面及边缘有白色疏柔毛；萼片与苞片等长或稍短，前对萼片龙骨突较宽，不达顶端，后对萼片龙骨突较窄，伸出顶端；花冠淡黄色，无毛，花冠筒等长或稍长于萼片；花两型；能育花的花冠裂片卵状披针形，直立，雄蕊着生花冠筒内面顶端，花药淡黄色，干后黄色，具窄三角形小尖头，花柱内藏或稍外伸，以闭花受粉为主；风媒花通常不育，花冠裂片与能育花同形，开展并于花后反折，雄蕊与花柱明显外伸；胚珠2。",
+    "fruit": "蒴果卵球形，长2-3毫米，于基部上方周裂。",
+    "habitat": "生于低海拔草地、路边、湖畔。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形。",
+      "花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形，龙骨突宽厚。",
+      "蒴果卵球形，长2-3毫米，于基部上方周裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "北美车前是—年生或二年生草本。观察时重点看叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形，并结合花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形确认。",
+    "identificationReferences": [
+      "叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形。",
+      "花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形”。",
+      "补拍花或花序的整体与细节，核对“花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形”。"
+    ],
+    "appearance": "叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形。花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形。",
+    "growthHabit": "—年生或二年生草本。生于低海拔草地、路边、湖畔。",
+    "keyCharacteristics": [
+      "叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形。",
+      "花序梗长4-20厘米，密被开展的白色柔毛，中空，苞片披针形或窄椭圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生呈莲座状，倒披针形或倒卵状披针形，长(2-)3-18厘米，先端急尖或近圆，基部窄楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-plantago-virginica",
+      "title": "GBIF species record: Plantago virginica",
+      "url": "https://api.gbif.org/v1/species/3189751",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-plantago-virginica",
+      "title": "iPlant 植物智：北美车前（Plantago virginica）",
+      "url": "https://www.iplant.cn/info/Plantago%20virginica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189751"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "liriodendron-chinense",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "鹅掌楸",
+    "scientificName": "Liriodendron chinense",
+    "family": "木兰科",
+    "genus": "鹅掌楸属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "小枝灰或灰褐色。",
+    "leaf": "叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色，被乳头状白粉点叶柄长4-8(-16)厘米。",
+    "flower": "花杯状，径5-6厘米；花被片9，外轮绿色，萼片状，向外弯垂，内2轮直立，花瓣状，倒卵形，长3-4厘米，绿色，具黄色纵条纹；雄蕊多数，花药长1-1.6厘米，花丝长5-6毫米；花期雌蕊群伸出花被，心皮多数，黄绿色。",
+    "fruit": "聚合果纺锤形，长7-9厘米，具翅小坚果长约米，顶端钝或纯尖，种子1-2。",
+    "habitat": "山地林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色。",
+      "花杯状，径5-6厘米，花被片9，外轮绿色，萼片状。",
+      "聚合果纺锤形，长7-9厘米，具翅小坚果长约米，顶端钝或纯尖，种子1-2。"
+    ]
+  },
+  "knowledge": {
+    "summary": "鹅掌楸是乔木。观察时重点看叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色，并结合花杯状，径5-6厘米，花被片9，外轮绿色确认。",
+    "identificationReferences": [
+      "叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色。",
+      "花杯状，径5-6厘米，花被片9，外轮绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色”。",
+      "补拍花或花序的整体与细节，核对“花杯状，径5-6厘米，花被片9，外轮绿色”。"
+    ],
+    "appearance": "叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色。花杯状，径5-6厘米，花被片9，外轮绿色。",
+    "growthHabit": "乔木。山地林中。",
+    "keyCharacteristics": [
+      "叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色。",
+      "花杯状，径5-6厘米，花被片9，外轮绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶马褂形，长4-12(-18)厘米，两侧中下部各具1较大裂片，先端具2浅裂，下面苍白色”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-liriodendron-chinense",
+      "title": "GBIF species record: Liriodendron chinense",
+      "url": "https://api.gbif.org/v1/species/3152873",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-liriodendron-chinense",
+      "title": "iPlant 植物智：鹅掌楸（Liriodendron chinense）",
+      "url": "https://www.iplant.cn/info/Liriodendron%20chinense?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152873"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

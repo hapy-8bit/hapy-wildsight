@@ -1,0 +1,99 @@
+{
+  "id": "asplenium-nidus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "巢蕨",
+    "scientificName": "Asplenium nidus",
+    "family": "铁角蕨科",
+    "genus": "铁角蕨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "植株高约1-1.1米。",
+    "stem": "根茎直立，粗短，木质，径2-3厘米，深棕色，顶端密被鳞片，鳞片松散，线形，有光泽，长1-1.7厘米，先端纤维状卷曲，边缘有几条卷曲长纤毛，膜质，深棕色，有光泽。",
+    "leaf": "叶簇生；柄长约5厘米，粗5-7毫米，浅禾秆色，木质，干后下面为半圆形隆起，上面有阔纵沟，表面平滑而不皱缩，两侧无翅，基部密被线形棕色鳞片，向上光滑；叶片阔披针形，长90-120厘米，渐尖头或尖头，中部最宽处为(8-) 9-15厘米，向下逐渐变狭而长下延，叶边全缘并有软骨质的狭边，干后反卷。主脉下面几全部隆起为半圆形，上面下部有阔纵沟，向上部稍隆起，表面平滑不皱缩光滑，暗禾秆色；小脉两面均稍隆起，斜展，分叉或单一，平行，相距约1毫米。叶厚纸质或薄革质，干后灰绿色，两面均无毛。",
+    "flower": "孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远），彼此密集，叶片下部通常不育。",
+    "fruit": "孢子囊群线形，长3-5厘米，生于小脉的上侧，自小脉基部外行约达1/2，彼此接近，叶片下部通常不育；囊群盖线形，浅棕色，厚膜质，全缘，宿存。",
+    "habitat": "成大丛附生于雨林中树干上或岩石上。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质。",
+      "孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远），彼此密集。",
+      "孢子囊群线形，长3-5厘米，生于小脉的上侧，自小脉基部外行约达1/2，彼此接近。"
+    ]
+  },
+  "knowledge": {
+    "summary": "巢蕨的生长形态为植株高约1-1.1米。观察时重点看叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质，并结合孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远）确认。",
+    "identificationReferences": [
+      "叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质。",
+      "孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远）。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质”。",
+      "补拍花或花序的整体与细节，核对“孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远）”。"
+    ],
+    "appearance": "叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质。孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远）。",
+    "growthHabit": "植株高约1-1.1米。成大丛附生于雨林中树干上或岩石上。",
+    "keyCharacteristics": [
+      "叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质。",
+      "孢子囊群线形，长3-4厘米，生于小脉的上侧，自小脉基部外行达2/3（或稍远）。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶簇生，柄长约5厘米，粗5-7毫米，浅禾秆色，木质”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "fern",
+    "growthForms": [],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-asplenium-nidus",
+      "title": "GBIF species record: Asplenium nidus",
+      "url": "https://api.gbif.org/v1/species/2650676",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-asplenium-nidus",
+      "title": "iPlant 植物智：巢蕨（Asplenium nidus）",
+      "url": "https://www.iplant.cn/info/Asplenium%20nidus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2650676"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

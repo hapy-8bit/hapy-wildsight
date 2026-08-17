@@ -1,0 +1,98 @@
+{
+  "id": "hemerocallis-fulva",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "萱草",
+    "scientificName": "Hemerocallis fulva",
+    "family": "阿福花科",
+    "genus": "萱草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本；",
+    "stem": "",
+    "leaf": "叶条形，长40-80厘米，宽1.3-3.5厘米；",
+    "flower": "花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；",
+    "fruit": "蒴果长圆形；",
+    "habitat": "林下，灌丛，草原，河边",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶条形，长40-80厘米，宽1.3-3.5厘米；",
+      "花：花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；"
+    ]
+  },
+  "knowledge": {
+    "summary": "萱草为多年生草本；叶条形，长40-80厘米，宽1.3-3.5厘米；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶条形，长40-80厘米，宽1.3-3.5厘米；",
+      "花：花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：条形，长40-80厘米，宽1.3-3.5厘米；；再以花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；交叉确认。"
+    ],
+    "appearance": "叶条形，长40-80厘米，宽1.3-3.5厘米；；花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；。",
+    "growthHabit": "多年生草本；",
+    "keyCharacteristics": [
+      "叶：叶条形，长40-80厘米，宽1.3-3.5厘米；",
+      "花：花葶粗壮，高0.6-1米；圆锥花序具6-12朵花或更多，苞片卵状披针形；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hemerocallis-fulva",
+      "title": "GBIF species record: Hemerocallis fulva",
+      "url": "https://api.gbif.org/v1/species/2781074",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-hemerocallis-fulva",
+      "title": "iPlant species page: Hemerocallis fulva",
+      "url": "https://www.iplant.cn/info/Hemerocallis%20fulva?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2781074"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "vitis-amurensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山葡萄",
+    "scientificName": "Vitis amurensis",
+    "family": "葡萄科",
+    "genus": "葡萄属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "木质藤本。",
+    "stem": "小枝嫩时疏被蛛丝状绒毛。",
+    "leaf": "卷须2-3叉分枝；叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂，先端尖锐基部宽心形，基缺凹成圆形或钝齿，每边有28-36粗锯齿，上面初时疏被蛛丝状绒毛；基出脉5，脉在下面明显，被短柔毛或近几毛；叶柄长4-14厘米，被蛛丝状绒毛。",
+    "flower": "圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛；花萼碟形，近全缘，无毛；花瓣呈帽状粘合脱落；花盘5裂，子房圆锥。",
+    "fruit": "果球形，径1-1.5厘米，成熟时黑色。",
+    "habitat": "生山坡、沟谷林中或灌丛，海拔200-2100米。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂。",
+      "圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛，花萼碟形。",
+      "果球形，径1-1.5厘米，成熟时黑色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "山葡萄是木质藤本。观察时重点看卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂，并结合圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛确认。",
+    "identificationReferences": [
+      "卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂。",
+      "圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛”。"
+    ],
+    "appearance": "卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂。圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛。",
+    "growthHabit": "木质藤本。生山坡、沟谷林中或灌丛，海拔200-2100米。",
+    "keyCharacteristics": [
+      "卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂。",
+      "圆锥花序疏散，基部分枝发达，长5-13厘米，初被蛛丝状绒毛。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“卷须2-3叉分枝，叶宽卵圆形，长6-24厘米，3(5)浅裂或中裂，或不分裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vitis-amurensis",
+      "title": "GBIF species record: Vitis amurensis",
+      "url": "https://api.gbif.org/v1/species/5372380",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vitis-amurensis",
+      "title": "iPlant 植物智：山葡萄（Vitis amurensis）",
+      "url": "https://www.iplant.cn/info/Vitis%20amurensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5372380"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

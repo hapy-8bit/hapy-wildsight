@@ -1,0 +1,102 @@
+{
+  "id": "capsicum-annuum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "辣椒",
+    "scientificName": "Capsicum annuum",
+    "family": "茄科",
+    "genus": "辣椒属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本或灌木状。",
+    "stem": "茎近无毛或被微柔毛，分枝稍之字形折曲。",
+    "leaf": "叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形；叶柄长4-7厘米。",
+    "flower": "花单生或数朵簇生，俯垂；花萼杯状，齿不显著；花冠白色，长约1厘米，裂片卵形；花药灰紫色。",
+    "fruit": "果柄较粗，俯垂；果形多变异，长达15厘米，成熟前绿色，成熟后红、澄或紫红色，味辣。",
+    "habitat": "山腰路旁，野生或栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形。",
+      "花单生或数朵簇生，俯垂，花萼杯状，齿不显著，花冠白色。",
+      "果柄较粗，俯垂，果形多变异，长达15厘米，成熟前绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "辣椒是一年生草本或灌木状。观察时重点看叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形，并结合花单生或数朵簇生，俯垂，花萼杯状，齿不显著确认。",
+    "identificationReferences": [
+      "叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形。",
+      "花单生或数朵簇生，俯垂，花萼杯状，齿不显著。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形”。",
+      "补拍花或花序的整体与细节，核对“花单生或数朵簇生，俯垂，花萼杯状，齿不显著”。"
+    ],
+    "appearance": "叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形。花单生或数朵簇生，俯垂，花萼杯状，齿不显著。",
+    "growthHabit": "一年生草本或灌木状。山腰路旁，野生或栽培。",
+    "keyCharacteristics": [
+      "叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形。",
+      "花单生或数朵簇生，俯垂，花萼杯状，齿不显著。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长圆状卵形、卵形或卵状披针形，长4-13厘米，全缘，先端短渐尖或尖，基部窄楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-capsicum-annuum",
+      "title": "GBIF species record: Capsicum annuum",
+      "url": "https://api.gbif.org/v1/species/2932944",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-capsicum-annuum",
+      "title": "iPlant 植物智：辣椒（Capsicum annuum）",
+      "url": "https://www.iplant.cn/info/Capsicum%20annuum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2932944"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

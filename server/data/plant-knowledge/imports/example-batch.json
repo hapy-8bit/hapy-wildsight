@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "candidates": [
+    {
+      "inputName": "绿萝",
+      "inputScientificName": " Epipremnum  aureum ",
+      "acceptedChineseName": "绿萝",
+      "acceptedScientificName": "Epipremnum aureum",
+      "family": "天南星科",
+      "genus": "麒麟叶属",
+      "source": "gbif:2868323",
+      "providerMappings": { "gbif": "2868323" },
+      "requestedCoverageGroups": ["室内观叶"],
+      "resolvedCanonicalTaxonId": "epipremnum-aureum",
+      "resolutionStatus": "existing",
+      "notes": "已入库；后续只更新该 species JSON。"
+    },
+    {
+      "inputName": "待核验候选",
+      "inputScientificName": "",
+      "acceptedChineseName": "",
+      "acceptedScientificName": "",
+      "family": "",
+      "genus": "",
+      "source": "",
+      "providerMappings": {},
+      "requestedCoverageGroups": ["路边野草"],
+      "resolvedCanonicalTaxonId": "",
+      "resolutionStatus": "pending",
+      "notes": "先经 Taxonomy Resolver 核验，再决定是否创建。"
+    }
+  ]
+}

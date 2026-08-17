@@ -1,0 +1,109 @@
+{
+  "id": "thuidium-delicatulum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "细枝羽藓",
+    "scientificName": "Thuidium delicatulum",
+    "family": "薄罗藓科",
+    "genus": "羽藓属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生匍匐苔藓植物，可在地面形成覆盖层。",
+    "stem": "枝条呈类似羽状复叶的分枝方式。",
+    "leaf": "叶简单、卵形、全缘。",
+    "flower": "",
+    "fruit": "孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶简单、卵形、全缘。",
+      "孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上。",
+      "枝条呈类似羽状复叶的分枝方式。"
+    ]
+  },
+  "knowledge": {
+    "summary": "细枝羽藓是多年生匍匐苔藓植物。观察时重点看叶简单、卵形、全缘，并结合孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上确认。",
+    "identificationReferences": [
+      "叶简单、卵形、全缘。",
+      "孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶简单、卵形、全缘”。",
+      "补拍果实或孢子结构的整体与细节，核对“孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上”。"
+    ],
+    "appearance": "叶简单、卵形、全缘。孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上。",
+    "growthHabit": "多年生匍匐苔藓植物。",
+    "keyCharacteristics": [
+      "叶简单、卵形、全缘。",
+      "孢蒴稍弯曲、圆柱形，着生于锈色蒴柄上。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶简单、卵形、全缘”。",
+      "若现场有果实或孢子结构，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "bryophyte",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-thuidium-delicatulum",
+      "title": "GBIF species record: Thuidium delicatulum",
+      "url": "https://api.gbif.org/v1/species/2679445",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-thuidium-delicatulum",
+      "title": "iPlant 植物智：细枝羽藓（Thuidium delicatulum）",
+      "url": "https://www.iplant.cn/info/Thuidium%20delicatulum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-thuidium-delicatulum",
+      "title": "NC State Extension Plant Toolbox: Thuidium delicatulum",
+      "url": "https://plants.ces.ncsu.edu/plants/thuidium-delicatulum/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2679445"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

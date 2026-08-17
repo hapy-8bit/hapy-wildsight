@@ -1,0 +1,3007 @@
+{
+  "schemaVersion": 1,
+  "knowledgeBaseVersion": "1.0.0",
+  "updatedAt": "2026-08-16",
+  "species": [
+    {
+      "id": "abelia-chinensis",
+      "path": "species/abelia-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "abutilon-theophrasti",
+      "path": "species/abutilon-theophrasti.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acalypha-australis",
+      "path": "species/acalypha-australis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acer-buergerianum",
+      "path": "species/acer-buergerianum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acer-davidii",
+      "path": "species/acer-davidii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acer-negundo",
+      "path": "species/acer-negundo.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acer-palmatum",
+      "path": "species/acer-palmatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acer-truncatum",
+      "path": "species/acer-truncatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "achillea-millefolium",
+      "path": "species/achillea-millefolium.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "achyranthes-bidentata",
+      "path": "species/achyranthes-bidentata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acorus-calamus",
+      "path": "species/acorus-calamus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "acorus-gramineus",
+      "path": "species/acorus-gramineus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "actinidia-chinensis",
+      "path": "species/actinidia-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "adiantum-capillus-veneris",
+      "path": "species/adiantum-capillus-veneris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "adiantum-flabellulatum",
+      "path": "species/adiantum-flabellulatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "agrostemma-githago",
+      "path": "species/agrostemma-githago.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ailanthus-altissima",
+      "path": "species/ailanthus-altissima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ainsliaea-fragrans",
+      "path": "species/ainsliaea-fragrans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ajuga-reptans",
+      "path": "species/ajuga-reptans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "akebia-quinata",
+      "path": "species/akebia-quinata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "albizia-julibrissin",
+      "path": "species/albizia-julibrissin.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alcea-rosea",
+      "path": "species/alcea-rosea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alisma-plantago-aquatica",
+      "path": "species/alisma-plantago-aquatica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "allium-cepa",
+      "path": "species/allium-cepa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "allium-sativum",
+      "path": "species/allium-sativum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alocasia-odora",
+      "path": "species/alocasia-odora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "aloe-vera",
+      "path": "species/aloe-vera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alternanthera-bettzickiana",
+      "path": "species/alternanthera-bettzickiana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alternanthera-philoxeroides",
+      "path": "species/alternanthera-philoxeroides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "amaranthus-retroflexus",
+      "path": "species/amaranthus-retroflexus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "amaranthus-spinosus",
+      "path": "species/amaranthus-spinosus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ambrosia-artemisiifolia",
+      "path": "species/ambrosia-artemisiifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "amorpha-fruticosa",
+      "path": "species/amorpha-fruticosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ampelopsis-glandulosa",
+      "path": "species/ampelopsis-glandulosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "angelonia-angustifolia",
+      "path": "species/angelonia-angustifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "anisocampium-niponicum",
+      "path": "species/anisocampium-niponicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "anthurium-andraeanum",
+      "path": "species/anthurium-andraeanum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "antirrhinum-majus",
+      "path": "species/antirrhinum-majus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "aquilegia-viridiflora",
+      "path": "species/aquilegia-viridiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "arachis-hypogaea",
+      "path": "species/arachis-hypogaea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "araucaria-heterophylla",
+      "path": "species/araucaria-heterophylla.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ardisia-japonica",
+      "path": "species/ardisia-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "argyranthemum-frutescens",
+      "path": "species/argyranthemum-frutescens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "arisaema-erubescens",
+      "path": "species/arisaema-erubescens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "aristolochia-debilis",
+      "path": "species/aristolochia-debilis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "armeria-maritima",
+      "path": "species/armeria-maritima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "artemisia-annua",
+      "path": "species/artemisia-annua.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "artemisia-argyi",
+      "path": "species/artemisia-argyi.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "artemisia-indica",
+      "path": "species/artemisia-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "artemisia-scoparia",
+      "path": "species/artemisia-scoparia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "asarum-sieboldii",
+      "path": "species/asarum-sieboldii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "asparagus-setaceus",
+      "path": "species/asparagus-setaceus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "asplenium-nidus",
+      "path": "species/asplenium-nidus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "astilbe-rubra",
+      "path": "species/astilbe-rubra.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "begonia-cucullata",
+      "path": "species/begonia-cucullata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "begonia-grandis",
+      "path": "species/begonia-grandis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bellis-perennis",
+      "path": "species/bellis-perennis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "berberis-thunbergii",
+      "path": "species/berberis-thunbergii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bergenia-purpurascens",
+      "path": "species/bergenia-purpurascens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "beta-vulgaris",
+      "path": "species/beta-vulgaris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bidens-pilosa",
+      "path": "species/bidens-pilosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "blechnopsis-orientalis",
+      "path": "species/blechnopsis-orientalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "boehmeria-nivea",
+      "path": "species/boehmeria-nivea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bothriochloa-ischaemum",
+      "path": "species/bothriochloa-ischaemum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "brassica-napus",
+      "path": "species/brassica-napus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "brassica-oleracea",
+      "path": "species/brassica-oleracea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "brassica-rapa",
+      "path": "species/brassica-rapa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bromus-japonicus",
+      "path": "species/bromus-japonicus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "broussonetia-papyrifera",
+      "path": "species/broussonetia-papyrifera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bryum-argenteum",
+      "path": "species/bryum-argenteum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "butomus-umbellatus",
+      "path": "species/butomus-umbellatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "buxus-megistophylla",
+      "path": "species/buxus-megistophylla.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "buxus-sinica",
+      "path": "species/buxus-sinica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cajanus-cajan",
+      "path": "species/cajanus-cajan.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "calendula-officinalis",
+      "path": "species/calendula-officinalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "callicarpa-bodinieri",
+      "path": "species/callicarpa-bodinieri.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "callistephus-chinensis",
+      "path": "species/callistephus-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "camellia-japonica",
+      "path": "species/camellia-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "camellia-sinensis",
+      "path": "species/camellia-sinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "campsis-grandiflora",
+      "path": "species/campsis-grandiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "campsis-radicans",
+      "path": "species/campsis-radicans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "camptotheca-acuminata",
+      "path": "species/camptotheca-acuminata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "canna-indica",
+      "path": "species/canna-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "capsella-bursa-pastoris",
+      "path": "species/capsella-bursa-pastoris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "capsicum-annuum",
+      "path": "species/capsicum-annuum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cardamine-hirsuta",
+      "path": "species/cardamine-hirsuta.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "carex-siderosticta",
+      "path": "species/carex-siderosticta.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "catalpa-bungei",
+      "path": "species/catalpa-bungei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "catalpa-ovata",
+      "path": "species/catalpa-ovata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "catharanthus-roseus",
+      "path": "species/catharanthus-roseus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cedrus-deodara",
+      "path": "species/cedrus-deodara.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "celastrus-orbiculatus",
+      "path": "species/celastrus-orbiculatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "celosia-argentea",
+      "path": "species/celosia-argentea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "celtis-sinensis",
+      "path": "species/celtis-sinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cerastium-glomeratum",
+      "path": "species/cerastium-glomeratum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ceratophyllum-demersum",
+      "path": "species/ceratophyllum-demersum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cercis-chinensis",
+      "path": "species/cercis-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chaenomeles-speciosa",
+      "path": "species/chaenomeles-speciosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chamaedorea-elegans",
+      "path": "species/chamaedorea-elegans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chenopodium-album",
+      "path": "species/chenopodium-album.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chimonanthus-praecox",
+      "path": "species/chimonanthus-praecox.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chloranthus-serratus",
+      "path": "species/chloranthus-serratus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chlorophytum-comosum",
+      "path": "species/chlorophytum-comosum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chrysanthemum-indicum",
+      "path": "species/chrysanthemum-indicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cichorium-intybus",
+      "path": "species/cichorium-intybus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cinnamomum-camphora",
+      "path": "species/cinnamomum-camphora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cirsium-arvense",
+      "path": "species/cirsium-arvense.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "citrullus-lanatus",
+      "path": "species/citrullus-lanatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "clarkia-amoena",
+      "path": "species/clarkia-amoena.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "clematis-chinensis",
+      "path": "species/clematis-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "clematis-florida",
+      "path": "species/clematis-florida.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "clerodendrum-trichotomum",
+      "path": "species/clerodendrum-trichotomum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "codiaeum-variegatum",
+      "path": "species/codiaeum-variegatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "coix-lacryma-jobi",
+      "path": "species/coix-lacryma-jobi.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "coleus-scutellarioides",
+      "path": "species/coleus-scutellarioides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "commelina-communis",
+      "path": "species/commelina-communis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "coniogramme-intermedia",
+      "path": "species/coniogramme-intermedia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "corchorus-capsularis",
+      "path": "species/corchorus-capsularis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cordyline-fruticosa",
+      "path": "species/cordyline-fruticosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cornus-alba",
+      "path": "species/cornus-alba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cornus-kousa",
+      "path": "species/cornus-kousa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "corydalis-incisa",
+      "path": "species/corydalis-incisa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "corylus-heterophylla",
+      "path": "species/corylus-heterophylla.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cosmos-bipinnatus",
+      "path": "species/cosmos-bipinnatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cotinus-coggygria",
+      "path": "species/cotinus-coggygria.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cotoneaster-horizontalis",
+      "path": "species/cotoneaster-horizontalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "crassula-ovata",
+      "path": "species/crassula-ovata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cryptomeria-japonica",
+      "path": "species/cryptomeria-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cucumis-melo",
+      "path": "species/cucumis-melo.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cucumis-sativus",
+      "path": "species/cucumis-sativus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cucurbita-moschata",
+      "path": "species/cucurbita-moschata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cunninghamia-lanceolata",
+      "path": "species/cunninghamia-lanceolata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cupressus-funebris",
+      "path": "species/cupressus-funebris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cynodon-dactylon",
+      "path": "species/cynodon-dactylon.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cyrtomium-falcatum",
+      "path": "species/cyrtomium-falcatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cyrtomium-fortunei",
+      "path": "species/cyrtomium-fortunei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dactylis-glomerata",
+      "path": "species/dactylis-glomerata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dahlia-pinnata",
+      "path": "species/dahlia-pinnata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dalbergia-hupeana",
+      "path": "species/dalbergia-hupeana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "daphne-odora",
+      "path": "species/daphne-odora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "daucus-carota",
+      "path": "species/daucus-carota.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "deutzia-scabra",
+      "path": "species/deutzia-scabra.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dianthus-barbatus",
+      "path": "species/dianthus-barbatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dianthus-chinensis",
+      "path": "species/dianthus-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dianthus-superbus",
+      "path": "species/dianthus-superbus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dicranopteris-pedata",
+      "path": "species/dicranopteris-pedata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dieffenbachia-seguine",
+      "path": "species/dieffenbachia-seguine.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "digitaria-sanguinalis",
+      "path": "species/digitaria-sanguinalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dimorphotheca-ecklonis",
+      "path": "species/dimorphotheca-ecklonis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dioscorea-polystachya",
+      "path": "species/dioscorea-polystachya.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "diospyros-kaki",
+      "path": "species/diospyros-kaki.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "diplazium-esculentum",
+      "path": "species/diplazium-esculentum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "disporum-sessile",
+      "path": "species/disporum-sessile.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dracaena-fragrans",
+      "path": "species/dracaena-fragrans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dracaena-trifasciata",
+      "path": "species/dracaena-trifasciata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dryopteris-crassirhizoma",
+      "path": "species/dryopteris-crassirhizoma.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dryopteris-erythrosora",
+      "path": "species/dryopteris-erythrosora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dryopteris-varia",
+      "path": "species/dryopteris-varia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "echinacea-purpurea",
+      "path": "species/echinacea-purpurea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "echinochloa-crus-galli",
+      "path": "species/echinochloa-crus-galli.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "eclipta-prostrata",
+      "path": "species/eclipta-prostrata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "edgeworthia-chrysantha",
+      "path": "species/edgeworthia-chrysantha.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "elaeagnus-pungens",
+      "path": "species/elaeagnus-pungens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "elaeocarpus-decipiens",
+      "path": "species/elaeocarpus-decipiens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "eleusine-indica",
+      "path": "species/eleusine-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "epimedium-brevicornu",
+      "path": "species/epimedium-brevicornu.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "epipremnum-aureum",
+      "path": "species/epipremnum-aureum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "equisetum-arvense",
+      "path": "species/equisetum-arvense.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "erigeron-annuus",
+      "path": "species/erigeron-annuus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "erigeron-canadensis",
+      "path": "species/erigeron-canadensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "eschscholzia-californica",
+      "path": "species/eschscholzia-californica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "eucommia-ulmoides",
+      "path": "species/eucommia-ulmoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "euonymus-alatus",
+      "path": "species/euonymus-alatus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "euonymus-fortunei",
+      "path": "species/euonymus-fortunei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "euonymus-japonicus",
+      "path": "species/euonymus-japonicus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "euphorbia-milii",
+      "path": "species/euphorbia-milii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "euryale-ferox",
+      "path": "species/euryale-ferox.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "exochorda-racemosa",
+      "path": "species/exochorda-racemosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fagopyrum-esculentum",
+      "path": "species/fagopyrum-esculentum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "farfugium-japonicum",
+      "path": "species/farfugium-japonicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fatsia-japonica",
+      "path": "species/fatsia-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ficus-benjamina",
+      "path": "species/ficus-benjamina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ficus-elastica",
+      "path": "species/ficus-elastica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ficus-lyrata",
+      "path": "species/ficus-lyrata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ficus-microcarpa",
+      "path": "species/ficus-microcarpa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ficus-pumila",
+      "path": "species/ficus-pumila.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "firmiana-simplex",
+      "path": "species/firmiana-simplex.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fittonia-albivenis",
+      "path": "species/fittonia-albivenis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "forsythia-suspensa",
+      "path": "species/forsythia-suspensa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "forsythia-viridissima",
+      "path": "species/forsythia-viridissima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fraxinus-chinensis",
+      "path": "species/fraxinus-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "funaria-hygrometrica",
+      "path": "species/funaria-hygrometrica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gaillardia-aristata",
+      "path": "species/gaillardia-aristata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "galinsoga-quadriradiata",
+      "path": "species/galinsoga-quadriradiata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gardenia-jasminoides",
+      "path": "species/gardenia-jasminoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gazania-rigens",
+      "path": "species/gazania-rigens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gelsemium-elegans",
+      "path": "species/gelsemium-elegans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "geranium-carolinianum",
+      "path": "species/geranium-carolinianum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ginkgo-biloba",
+      "path": "species/ginkgo-biloba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "glechoma-longituba",
+      "path": "species/glechoma-longituba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gleditsia-sinensis",
+      "path": "species/gleditsia-sinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "glycine-max",
+      "path": "species/glycine-max.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "goeppertia-makoyana",
+      "path": "species/goeppertia-makoyana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gomphrena-globosa",
+      "path": "species/gomphrena-globosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gossypium-hirsutum",
+      "path": "species/gossypium-hirsutum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "haworthiopsis-attenuata",
+      "path": "species/haworthiopsis-attenuata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hedera-helix",
+      "path": "species/hedera-helix.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "helianthus-annuus",
+      "path": "species/helianthus-annuus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "helianthus-tuberosus",
+      "path": "species/helianthus-tuberosus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hemerocallis-fulva",
+      "path": "species/hemerocallis-fulva.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "heptapleurum-arboricola",
+      "path": "species/heptapleurum-arboricola.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hibiscus-mutabilis",
+      "path": "species/hibiscus-mutabilis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hibiscus-syriacus",
+      "path": "species/hibiscus-syriacus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hordeum-vulgare",
+      "path": "species/hordeum-vulgare.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hosta-plantaginea",
+      "path": "species/hosta-plantaginea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "houttuynia-cordata",
+      "path": "species/houttuynia-cordata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hoya-carnosa",
+      "path": "species/hoya-carnosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "humulus-scandens",
+      "path": "species/humulus-scandens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hydrangea-macrophylla",
+      "path": "species/hydrangea-macrophylla.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hydrilla-verticillata",
+      "path": "species/hydrilla-verticillata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hydrocharis-dubia",
+      "path": "species/hydrocharis-dubia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hypnum-cupressiforme",
+      "path": "species/hypnum-cupressiforme.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "idesia-polycarpa",
+      "path": "species/idesia-polycarpa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "impatiens-balsamina",
+      "path": "species/impatiens-balsamina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "impatiens-hawkeri",
+      "path": "species/impatiens-hawkeri.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "imperata-cylindrica",
+      "path": "species/imperata-cylindrica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "indigofera-kirilowii",
+      "path": "species/indigofera-kirilowii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ipheion-uniflorum",
+      "path": "species/ipheion-uniflorum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ipomoea-aquatica",
+      "path": "species/ipomoea-aquatica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ipomoea-batatas",
+      "path": "species/ipomoea-batatas.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ipomoea-nil",
+      "path": "species/ipomoea-nil.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "iris-germanica",
+      "path": "species/iris-germanica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "iris-pseudacorus",
+      "path": "species/iris-pseudacorus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "iris-tectorum",
+      "path": "species/iris-tectorum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "jacobaea-maritima",
+      "path": "species/jacobaea-maritima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "jasminum-mesnyi",
+      "path": "species/jasminum-mesnyi.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "jasminum-nudiflorum",
+      "path": "species/jasminum-nudiflorum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "jasminum-sambac",
+      "path": "species/jasminum-sambac.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "juglans-regia",
+      "path": "species/juglans-regia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "juncus-effusus",
+      "path": "species/juncus-effusus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "juniperus-chinensis",
+      "path": "species/juniperus-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "kalanchoe-blossfeldiana",
+      "path": "species/kalanchoe-blossfeldiana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "kerria-japonica",
+      "path": "species/kerria-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "koelreuteria-bipinnata",
+      "path": "species/koelreuteria-bipinnata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "koelreuteria-paniculata",
+      "path": "species/koelreuteria-paniculata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "kolkwitzia-amabilis",
+      "path": "species/kolkwitzia-amabilis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "kummerowia-striata",
+      "path": "species/kummerowia-striata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lactuca-indica",
+      "path": "species/lactuca-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lactuca-sativa",
+      "path": "species/lactuca-sativa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lagerstroemia-indica",
+      "path": "species/lagerstroemia-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lamium-amplexicaule",
+      "path": "species/lamium-amplexicaule.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lantana-camara",
+      "path": "species/lantana-camara.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lapsanastrum-apogonoides",
+      "path": "species/lapsanastrum-apogonoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lathyrus-oleraceus",
+      "path": "species/lathyrus-oleraceus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lemna-minor",
+      "path": "species/lemna-minor.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "leonurus-japonicus",
+      "path": "species/leonurus-japonicus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lepidium-apetalum",
+      "path": "species/lepidium-apetalum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lepisorus-thunbergianus",
+      "path": "species/lepisorus-thunbergianus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lespedeza-bicolor",
+      "path": "species/lespedeza-bicolor.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ligustrum-lucidum",
+      "path": "species/ligustrum-lucidum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ligustrum-quihoui",
+      "path": "species/ligustrum-quihoui.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "limonium-bicolor",
+      "path": "species/limonium-bicolor.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "liquidambar-formosana",
+      "path": "species/liquidambar-formosana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "liriodendron-chinense",
+      "path": "species/liriodendron-chinense.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "liriope-spicata",
+      "path": "species/liriope-spicata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lobularia-maritima",
+      "path": "species/lobularia-maritima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lonicera-fragrantissima",
+      "path": "species/lonicera-fragrantissima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lonicera-japonica",
+      "path": "species/lonicera-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "loropetalum-chinense",
+      "path": "species/loropetalum-chinense.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ludwigia-adscendens",
+      "path": "species/ludwigia-adscendens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "luffa-aegyptiaca",
+      "path": "species/luffa-aegyptiaca.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lycoris-radiata",
+      "path": "species/lycoris-radiata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lygodium-japonicum",
+      "path": "species/lygodium-japonicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lysimachia-christinae",
+      "path": "species/lysimachia-christinae.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "magnolia-grandiflora",
+      "path": "species/magnolia-grandiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mahonia-fortunei",
+      "path": "species/mahonia-fortunei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "maianthemum-japonicum",
+      "path": "species/maianthemum-japonicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "malus-hupehensis",
+      "path": "species/malus-hupehensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "malus-spectabilis",
+      "path": "species/malus-spectabilis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "malva-verticillata",
+      "path": "species/malva-verticillata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "maranta-leuconeura",
+      "path": "species/maranta-leuconeura.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "marchantia-polymorpha",
+      "path": "species/marchantia-polymorpha.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "marsilea-quadrifolia",
+      "path": "species/marsilea-quadrifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "matteuccia-struthiopteris",
+      "path": "species/matteuccia-struthiopteris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "matthiola-incana",
+      "path": "species/matthiola-incana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mazus-pumilus",
+      "path": "species/mazus-pumilus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "medicago-lupulina",
+      "path": "species/medicago-lupulina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "medicago-sativa",
+      "path": "species/medicago-sativa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "melia-azedarach",
+      "path": "species/melia-azedarach.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "melilotus-officinalis",
+      "path": "species/melilotus-officinalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "metasequoia-glyptostroboides",
+      "path": "species/metasequoia-glyptostroboides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mirabilis-jalapa",
+      "path": "species/mirabilis-jalapa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "monstera-deliciosa",
+      "path": "species/monstera-deliciosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "morus-alba",
+      "path": "species/morus-alba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "myriophyllum-spicatum",
+      "path": "species/myriophyllum-spicatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "myrtus-communis",
+      "path": "species/myrtus-communis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nandina-domestica",
+      "path": "species/nandina-domestica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nelumbo-nucifera",
+      "path": "species/nelumbo-nucifera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nemesia-strumosa",
+      "path": "species/nemesia-strumosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nephrolepis-cordifolia",
+      "path": "species/nephrolepis-cordifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nephrolepis-exaltata",
+      "path": "species/nephrolepis-exaltata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nerium-oleander",
+      "path": "species/nerium-oleander.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nicotiana-alata",
+      "path": "species/nicotiana-alata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nicotiana-tabacum",
+      "path": "species/nicotiana-tabacum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "niphotrichum-canescens",
+      "path": "species/niphotrichum-canescens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nymphaea-tetragona",
+      "path": "species/nymphaea-tetragona.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nymphoides-peltata",
+      "path": "species/nymphoides-peltata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oenothera-biennis",
+      "path": "species/oenothera-biennis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oenothera-lindheimeri",
+      "path": "species/oenothera-lindheimeri.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oenothera-speciosa",
+      "path": "species/oenothera-speciosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ophiopogon-japonicus",
+      "path": "species/ophiopogon-japonicus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oryza-sativa",
+      "path": "species/oryza-sativa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "osmanthus-fragrans",
+      "path": "species/osmanthus-fragrans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "osmanthus-heterophyllus",
+      "path": "species/osmanthus-heterophyllus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "osmunda-japonica",
+      "path": "species/osmunda-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ottelia-alismoides",
+      "path": "species/ottelia-alismoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oxalis-corniculata",
+      "path": "species/oxalis-corniculata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pachira-aquatica",
+      "path": "species/pachira-aquatica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "paederia-foetida",
+      "path": "species/paederia-foetida.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "paris-polyphylla",
+      "path": "species/paris-polyphylla.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "parthenocissus-quinquefolia",
+      "path": "species/parthenocissus-quinquefolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "parthenocissus-tricuspidata",
+      "path": "species/parthenocissus-tricuspidata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "passiflora-caerulea",
+      "path": "species/passiflora-caerulea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "paulownia-fortunei",
+      "path": "species/paulownia-fortunei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pentas-lanceolata",
+      "path": "species/pentas-lanceolata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "peperomia-obtusifolia",
+      "path": "species/peperomia-obtusifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "periploca-sepium",
+      "path": "species/periploca-sepium.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "persicaria-hydropiper",
+      "path": "species/persicaria-hydropiper.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "persicaria-orientalis",
+      "path": "species/persicaria-orientalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "phaseolus-vulgaris",
+      "path": "species/phaseolus-vulgaris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "philadelphus-pekinensis",
+      "path": "species/philadelphus-pekinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "philodendron-hederaceum",
+      "path": "species/philodendron-hederaceum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "phlox-drummondii",
+      "path": "species/phlox-drummondii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "phoenix-canariensis",
+      "path": "species/phoenix-canariensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "photinia-serratifolia",
+      "path": "species/photinia-serratifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "phragmites-australis",
+      "path": "species/phragmites-australis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "physocarpus-amurensis",
+      "path": "species/physocarpus-amurensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "phytolacca-americana",
+      "path": "species/phytolacca-americana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "picea-asperata",
+      "path": "species/picea-asperata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pilea-cadierei",
+      "path": "species/pilea-cadierei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pilea-peperomioides",
+      "path": "species/pilea-peperomioides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pinus-bungeana",
+      "path": "species/pinus-bungeana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pinus-massoniana",
+      "path": "species/pinus-massoniana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pinus-tabuliformis",
+      "path": "species/pinus-tabuliformis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pistia-stratiotes",
+      "path": "species/pistia-stratiotes.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pittosporum-tobira",
+      "path": "species/pittosporum-tobira.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "plagiomnium-cuspidatum",
+      "path": "species/plagiomnium-cuspidatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "plantago-asiatica",
+      "path": "species/plantago-asiatica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "plantago-depressa",
+      "path": "species/plantago-depressa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "plantago-virginica",
+      "path": "species/plantago-virginica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "platycerium-bifurcatum",
+      "path": "species/platycerium-bifurcatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "platycodon-grandiflorus",
+      "path": "species/platycodon-grandiflorus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "poa-annua",
+      "path": "species/poa-annua.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "polygonatum-odoratum",
+      "path": "species/polygonatum-odoratum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "polygonatum-sibiricum",
+      "path": "species/polygonatum-sibiricum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "polygonum-aviculare",
+      "path": "species/polygonum-aviculare.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "polyscias-fruticosa",
+      "path": "species/polyscias-fruticosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "polytrichum-commune",
+      "path": "species/polytrichum-commune.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pontederia-crassipes",
+      "path": "species/pontederia-crassipes.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pontederia-vaginalis",
+      "path": "species/pontederia-vaginalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "populus-tomentosa",
+      "path": "species/populus-tomentosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "portulaca-grandiflora",
+      "path": "species/portulaca-grandiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "portulaca-oleracea",
+      "path": "species/portulaca-oleracea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "potamogeton-crispus",
+      "path": "species/potamogeton-crispus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "potentilla-chinensis",
+      "path": "species/potentilla-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "primula-malacoides",
+      "path": "species/primula-malacoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-armeniaca",
+      "path": "species/prunus-armeniaca.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-cerasifera",
+      "path": "species/prunus-cerasifera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-glandulosa",
+      "path": "species/prunus-glandulosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-mume",
+      "path": "species/prunus-mume.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-persica",
+      "path": "species/prunus-persica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-serrulata",
+      "path": "species/prunus-serrulata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "prunus-triloba",
+      "path": "species/prunus-triloba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pseudognaphalium-affine",
+      "path": "species/pseudognaphalium-affine.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pteridium-aquilinum",
+      "path": "species/pteridium-aquilinum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pteris-ensiformis",
+      "path": "species/pteris-ensiformis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pteris-multifida",
+      "path": "species/pteris-multifida.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pteris-vittata",
+      "path": "species/pteris-vittata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pterocarya-stenoptera",
+      "path": "species/pterocarya-stenoptera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pueraria-montana",
+      "path": "species/pueraria-montana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "punica-granatum",
+      "path": "species/punica-granatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pyracantha-fortuneana",
+      "path": "species/pyracantha-fortuneana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pyrus-bretschneideri",
+      "path": "species/pyrus-bretschneideri.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pyrus-calleryana",
+      "path": "species/pyrus-calleryana.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "quercus-acutissima",
+      "path": "species/quercus-acutissima.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "quercus-variabilis",
+      "path": "species/quercus-variabilis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "raphanus-sativus",
+      "path": "species/raphanus-sativus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rehmannia-glutinosa",
+      "path": "species/rehmannia-glutinosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "reineckea-carnea",
+      "path": "species/reineckea-carnea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhaphiolepis-indica",
+      "path": "species/rhaphiolepis-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhapis-excelsa",
+      "path": "species/rhapis-excelsa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhodobryum-roseum",
+      "path": "species/rhodobryum-roseum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhododendron-molle",
+      "path": "species/rhododendron-molle.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhododendron-mucronulatum",
+      "path": "species/rhododendron-mucronulatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhododendron-simsii",
+      "path": "species/rhododendron-simsii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rhus-typhina",
+      "path": "species/rhus-typhina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "robinia-pseudoacacia",
+      "path": "species/robinia-pseudoacacia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rorippa-indica",
+      "path": "species/rorippa-indica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rosa-banksiae",
+      "path": "species/rosa-banksiae.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rosa-chinensis",
+      "path": "species/rosa-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rosa-multiflora",
+      "path": "species/rosa-multiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rosa-rugosa",
+      "path": "species/rosa-rugosa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rubus-corchorifolius",
+      "path": "species/rubus-corchorifolius.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rudbeckia-hirta",
+      "path": "species/rudbeckia-hirta.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rudbeckia-laciniata",
+      "path": "species/rudbeckia-laciniata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "rumex-crispus",
+      "path": "species/rumex-crispus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sagittaria-sagittifolia",
+      "path": "species/sagittaria-sagittifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sagittaria-trifolia",
+      "path": "species/sagittaria-trifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "salix-babylonica",
+      "path": "species/salix-babylonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "salvia-farinacea",
+      "path": "species/salvia-farinacea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "salvia-splendens",
+      "path": "species/salvia-splendens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "salvinia-natans",
+      "path": "species/salvinia-natans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sambucus-williamsii",
+      "path": "species/sambucus-williamsii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sapindus-mukorossi",
+      "path": "species/sapindus-mukorossi.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "schima-superba",
+      "path": "species/schima-superba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "schisandra-chinensis",
+      "path": "species/schisandra-chinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "schlumbergera-truncata",
+      "path": "species/schlumbergera-truncata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "schoenoplectus-tabernaemontani",
+      "path": "species/schoenoplectus-tabernaemontani.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "schoenoplectus-triqueter",
+      "path": "species/schoenoplectus-triqueter.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sedum-lineare",
+      "path": "species/sedum-lineare.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sedum-sarmentosum",
+      "path": "species/sedum-sarmentosum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "selaginella-tamariscina",
+      "path": "species/selaginella-tamariscina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "senecio-vulgaris",
+      "path": "species/senecio-vulgaris.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sesamum-indicum",
+      "path": "species/sesamum-indicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "setaria-faberi",
+      "path": "species/setaria-faberi.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "setaria-viridis",
+      "path": "species/setaria-viridis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "silene-coronaria",
+      "path": "species/silene-coronaria.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "silene-pendula",
+      "path": "species/silene-pendula.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sinomenium-acutum",
+      "path": "species/sinomenium-acutum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "smilax-china",
+      "path": "species/smilax-china.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "solanum-lycopersicum",
+      "path": "species/solanum-lycopersicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "solanum-lyratum",
+      "path": "species/solanum-lyratum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "solanum-melongena",
+      "path": "species/solanum-melongena.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "solanum-nigrum",
+      "path": "species/solanum-nigrum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "solanum-tuberosum",
+      "path": "species/solanum-tuberosum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sonchus-oleraceus",
+      "path": "species/sonchus-oleraceus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sorghum-bicolor",
+      "path": "species/sorghum-bicolor.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spiraea-cantoniensis",
+      "path": "species/spiraea-cantoniensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spiraea-japonica",
+      "path": "species/spiraea-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spiraea-salicifolia",
+      "path": "species/spiraea-salicifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spirodela-polyrhiza",
+      "path": "species/spirodela-polyrhiza.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "stellaria-media",
+      "path": "species/stellaria-media.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "stephania-japonica",
+      "path": "species/stephania-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "strelitzia-reginae",
+      "path": "species/strelitzia-reginae.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "styphnolobium-japonicum",
+      "path": "species/styphnolobium-japonicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "symphyotrichum-novi-belgii",
+      "path": "species/symphyotrichum-novi-belgii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "symphyotrichum-subulatum",
+      "path": "species/symphyotrichum-subulatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "syngonium-podophyllum",
+      "path": "species/syngonium-podophyllum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "syringa-oblata",
+      "path": "species/syringa-oblata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tagetes-erecta",
+      "path": "species/tagetes-erecta.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "taraxacum-mongolicum",
+      "path": "species/taraxacum-mongolicum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "taxodium-distichum",
+      "path": "species/taxodium-distichum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tetrastigma-hemsleyanum",
+      "path": "species/tetrastigma-hemsleyanum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "thuidium-delicatulum",
+      "path": "species/thuidium-delicatulum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "thunbergia-grandiflora",
+      "path": "species/thunbergia-grandiflora.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "toona-sinensis",
+      "path": "species/toona-sinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "torenia-fournieri",
+      "path": "species/torenia-fournieri.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tortula-muralis",
+      "path": "species/tortula-muralis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "trachelospermum-jasminoides",
+      "path": "species/trachelospermum-jasminoides.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "trachycarpus-fortunei",
+      "path": "species/trachycarpus-fortunei.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tradescantia-spathacea",
+      "path": "species/tradescantia-spathacea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tradescantia-zebrina",
+      "path": "species/tradescantia-zebrina.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "trapa-natans",
+      "path": "species/trapa-natans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "triadica-sebifera",
+      "path": "species/triadica-sebifera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tridax-procumbens",
+      "path": "species/tridax-procumbens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "trifolium-repens",
+      "path": "species/trifolium-repens.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "triticum-aestivum",
+      "path": "species/triticum-aestivum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tropaeolum-majus",
+      "path": "species/tropaeolum-majus.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "typha-angustifolia",
+      "path": "species/typha-angustifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "typha-orientalis",
+      "path": "species/typha-orientalis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ulmus-pumila",
+      "path": "species/ulmus-pumila.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vallisneria-natans",
+      "path": "species/vallisneria-natans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "verbena-bonariensis",
+      "path": "species/verbena-bonariensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "veronica-persica",
+      "path": "species/veronica-persica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viburnum-dilatatum",
+      "path": "species/viburnum-dilatatum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viburnum-odoratissimum",
+      "path": "species/viburnum-odoratissimum.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vicia-faba",
+      "path": "species/vicia-faba.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vicia-sativa",
+      "path": "species/vicia-sativa.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vigna-radiata",
+      "path": "species/vigna-radiata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vigna-unguiculata",
+      "path": "species/vigna-unguiculata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viola-cornuta",
+      "path": "species/viola-cornuta.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viola-patrinii",
+      "path": "species/viola-patrinii.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viola-philippica",
+      "path": "species/viola-philippica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "viola-tricolor",
+      "path": "species/viola-tricolor.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vitex-negundo",
+      "path": "species/vitex-negundo.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vitis-amurensis",
+      "path": "species/vitis-amurensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vitis-vinifera",
+      "path": "species/vitis-vinifera.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "weigela-florida",
+      "path": "species/weigela-florida.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "wisteria-sinensis",
+      "path": "species/wisteria-sinensis.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "woodwardia-japonica",
+      "path": "species/woodwardia-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "xanthium-strumarium",
+      "path": "species/xanthium-strumarium.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "youngia-japonica",
+      "path": "species/youngia-japonica.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "yucca-gigantea",
+      "path": "species/yucca-gigantea.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zamioculcas-zamiifolia",
+      "path": "species/zamioculcas-zamiifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zea-mays",
+      "path": "species/zea-mays.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zelkova-serrata",
+      "path": "species/zelkova-serrata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zephyranthes-candida",
+      "path": "species/zephyranthes-candida.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zephyranthes-carinata",
+      "path": "species/zephyranthes-carinata.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zinnia-elegans",
+      "path": "species/zinnia-elegans.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zizania-latifolia",
+      "path": "species/zizania-latifolia.json",
+      "status": "published",
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

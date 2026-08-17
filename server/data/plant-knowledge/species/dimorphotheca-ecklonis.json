@@ -1,0 +1,96 @@
+{
+  "id": "dimorphotheca-ecklonis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蓝目菊",
+    "scientificName": "Dimorphotheca ecklonis",
+    "family": "菊科",
+    "genus": "异果菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，具分枝，株高20-50cm。",
+    "stem": "",
+    "leaf": "叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙。",
+    "flower": "头状花序，单生，花大，花径5-10cm，花色繁多，舌状花有黄色、红色、紫色等，管状花为蓝褐色。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙。",
+      "头状花序，单生，花大，花径5-10cm，花色繁多。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蓝目菊是多年生草本。观察时重点看叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙，并结合头状花序，单生，花大，花径5-10cm确认。",
+    "identificationReferences": [
+      "叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙。",
+      "头状花序，单生，花大，花径5-10cm。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙”。",
+      "补拍花或花序的整体与细节，核对“头状花序，单生，花大，花径5-10cm”。"
+    ],
+    "appearance": "叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙。头状花序，单生，花大，花径5-10cm。",
+    "growthHabit": "多年生草本。",
+    "keyCharacteristics": [
+      "叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙。",
+      "头状花序，单生，花大，花径5-10cm。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，长椭圆形，先端尖，基部渐狭成楔形，边缘具稀疏齿牙”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-dimorphotheca-ecklonis",
+      "title": "GBIF species record: Dimorphotheca ecklonis",
+      "url": "https://api.gbif.org/v1/species/5387293",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-dimorphotheca-ecklonis",
+      "title": "iPlant 植物智：蓝目菊（Dimorphotheca ecklonis）",
+      "url": "https://www.iplant.cn/info/Dimorphotheca%20ecklonis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5387293"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

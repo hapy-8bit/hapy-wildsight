@@ -1,0 +1,101 @@
+{
+  "id": "persicaria-hydropiper",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "水蓼",
+    "scientificName": "Persicaria hydropiper",
+    "family": "蓼科",
+    "genus": "蓼属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎直立，多分枝，无毛。",
+    "leaf": "叶披针形或椭圆状披针形，先端渐尖，基部楔形，，具辛辣叶，叶腋具闭花受精花，托叶鞘具缘毛。",
+    "flower": "穗状花序下垂，花稀疏，花被(4)5深裂，绿色，上部白或淡红色，椭圆形；雄蕊较花被短，花柱2-3。",
+    "fruit": "瘦果卵形，扁平。",
+    "habitat": "河滩、水沟边、山谷湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花。",
+      "穗状花序下垂，花稀疏，花被(4)5深裂，绿色，上部白或淡红色。",
+      "瘦果卵形，扁平。"
+    ]
+  },
+  "knowledge": {
+    "summary": "水蓼是一年生草本。观察时重点看叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花，并结合穗状花序下垂，花稀疏，花被(4)5深裂，绿色确认。",
+    "identificationReferences": [
+      "叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花。",
+      "穗状花序下垂，花稀疏，花被(4)5深裂，绿色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花”。",
+      "补拍花或花序的整体与细节，核对“穗状花序下垂，花稀疏，花被(4)5深裂，绿色”。"
+    ],
+    "appearance": "叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花。穗状花序下垂，花稀疏，花被(4)5深裂，绿色。",
+    "growthHabit": "一年生草本。河滩、水沟边、山谷湿地。",
+    "keyCharacteristics": [
+      "叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花。",
+      "穗状花序下垂，花稀疏，花被(4)5深裂，绿色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶披针形或椭圆状披针形，先端渐尖，基部楔形，具辛辣叶，叶腋具闭花受精花”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-persicaria-hydropiper",
+      "title": "GBIF species record: Persicaria hydropiper",
+      "url": "https://api.gbif.org/v1/species/8323622",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-persicaria-hydropiper",
+      "title": "iPlant 植物智：水蓼（Persicaria hydropiper）",
+      "url": "https://www.iplant.cn/info/Persicaria%20hydropiper?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8323622"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

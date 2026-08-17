@@ -1,0 +1,101 @@
+{
+  "id": "cardamine-hirsuta",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "粗毛碎米荠",
+    "scientificName": "Cardamine hirsuta",
+    "family": "十字花科",
+    "genus": "碎米荠属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生小草本。",
+    "stem": "茎多分枝，近于无毛，着生多数羽状复叶，叶柄稍扩大呈翅状，小叶均较大而钝圆，顶生小叶多数倒卵形，3裂，基部渐狭，无小叶柄，侧生小叶多数长卵形或条形，全缘或有1-3浅钝齿。",
+    "leaf": "基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米，边缘有3-5圆齿，小叶柄明显，侧生小叶卵形或圆形，较顶生的形小，基部楔形而两侧稍歪斜，边缘有2-3圆齿，有或无小叶柄。",
+    "flower": "总状花序生于枝顶，花小，直径约3毫米，花梗纤细，长2.5-4毫米。",
+    "fruit": "果梗纤细，直立开展，长4-12毫米。",
+    "habitat": "阴湿地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米。",
+      "总状花序生于枝顶，花小，直径约3毫米，花梗纤细，长2.5-4毫米。",
+      "果梗纤细，直立开展，长4-12毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "粗毛碎米荠是一年生小草本。观察时重点看基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米，并结合总状花序生于枝顶，花小，直径约3毫米，花梗纤细确认。",
+    "identificationReferences": [
+      "基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米。",
+      "总状花序生于枝顶，花小，直径约3毫米，花梗纤细。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米”。",
+      "补拍花或花序的整体与细节，核对“总状花序生于枝顶，花小，直径约3毫米，花梗纤细”。"
+    ],
+    "appearance": "基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米。总状花序生于枝顶，花小，直径约3毫米，花梗纤细。",
+    "growthHabit": "一年生小草本。阴湿地。",
+    "keyCharacteristics": [
+      "基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米。",
+      "总状花序生于枝顶，花小，直径约3毫米，花梗纤细。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶具叶柄，有小叶2-5对，顶生小叶肾形或肾圆形，长4-10毫米，宽5-13毫米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cardamine-hirsuta",
+      "title": "GBIF species record: Cardamine hirsuta",
+      "url": "https://api.gbif.org/v1/species/3046258",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-cardamine-hirsuta",
+      "title": "iPlant 植物智：粗毛碎米荠（Cardamine hirsuta）",
+      "url": "https://www.iplant.cn/info/Cardamine%20hirsuta?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3046258"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "chenopodium-album",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "藜",
+    "scientificName": "Chenopodium album",
+    "family": "苋科",
+    "genus": "藜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎直立，粗壮，高达1.5米，具条棱及色条，多分枝；",
+    "leaf": "叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整齐锯齿；叶柄与叶近等长，或为叶长1/2；",
+    "flower": "花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形或椭圆形，背面具纵脊，先端钝或微凹，边缘膜…",
+    "fruit": "胞果果皮与种子贴生；种子横生，双凸镜形，径1.2-1.5毫米，周边钝，黑色，有光泽，具浅沟状纹饰；胚环形；",
+    "habitat": "路旁、荒地及田间，为很难除掉的杂草；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整齐锯齿；叶柄与叶近等长，或为叶长1/2；",
+      "花：花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形或椭圆形，背面具纵脊，先端钝或微凹，边缘膜…"
+    ]
+  },
+  "knowledge": {
+    "summary": "藜为一年生草本；叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整齐锯齿；叶柄与叶近等长，或为叶长1/2；",
+      "花：花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形或椭圆形，背面具纵脊，先端钝或微凹，边缘膜…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整…；再以花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形…交叉确认。"
+    ],
+    "appearance": "叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整…；花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形…。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：叶菱状卵形或宽披针形，长3-6厘米，宽2.5-5厘米，先端尖或微钝，基部楔形或宽楔形，具不整齐锯齿；叶柄与叶近等长，或为叶长1/2；",
+      "花：花两性；常数个团集，于枝上部组成穗状圆锥状或圆锥状花序；花被扁球形或球形，5深裂，裂片宽卵形或椭圆形，背面具纵脊，先端钝或微凹，边缘膜…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-chenopodium-album",
+      "title": "GBIF species record: Chenopodium album",
+      "url": "https://api.gbif.org/v1/species/3083838",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-chenopodium-album",
+      "title": "iPlant species page: Chenopodium album",
+      "url": "https://www.iplant.cn/info/Chenopodium%20album?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3083838"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "kolkwitzia-amabilis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "猬实",
+    "scientificName": "Kolkwitzia amabilis",
+    "family": "忍冬科",
+    "genus": "猬实属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶多分枝灌木。",
+    "stem": "冬芽具数对被柔毛鳞片；幼枝红褐色，被柔毛及糙毛，老枝无毛，茎皮剥落。",
+    "leaf": "叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿，两面疏生短毛，脉和叶缘密被直柔毛和睫毛；叶柄长1-2毫米，无托叶。",
+    "flower": "2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米；花几无梗；苞片2，披针形，紧贴花基部；萼筒密被刚毛，上部缢缩成颈，5裂，裂片钻状披针形，有柔毛：花冠淡红色，钟状，长1.5-2.5厘米，5裂，裂片开展，被柔毛，2裂片稍宽短，内有黄色斑纹；雄蕊4，：强，内藏：子房3室，1室发育，1胚珠，花柱有软毛，柱头圆，不伸出冠筒。",
+    "fruit": "2瘦果状核果合生，密被黄色刺刚毛，顶端角状，萼齿宿存。",
+    "habitat": "山坡、路边和灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿。",
+      "2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗，苞片2。",
+      "2瘦果状核果合生，密被黄色刺刚毛，顶端角状，萼齿宿存。"
+    ]
+  },
+  "knowledge": {
+    "summary": "猬实是落叶多分枝灌木。观察时重点看叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿，并结合2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗确认。",
+    "identificationReferences": [
+      "叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿。",
+      "2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿”。",
+      "补拍花或花序的整体与细节，核对“2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗”。"
+    ],
+    "appearance": "叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿。2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗。",
+    "growthHabit": "落叶多分枝灌木。山坡、路边和灌丛中。",
+    "keyCharacteristics": [
+      "叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿。",
+      "2花聚伞花序组成伞房状，顶生或腋生于具叶侧枝之顶，总花梗1-1.5厘米，花几无梗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，椭圆形或卵状椭圆形，长3-8厘米，全缘，稀有浅齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-kolkwitzia-amabilis",
+      "title": "GBIF species record: Kolkwitzia amabilis",
+      "url": "https://api.gbif.org/v1/species/2888706",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-kolkwitzia-amabilis",
+      "title": "iPlant 植物智：猬实（Kolkwitzia amabilis）",
+      "url": "https://www.iplant.cn/info/Kolkwitzia%20amabilis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2888706"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

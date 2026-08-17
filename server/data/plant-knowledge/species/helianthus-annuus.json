@@ -1,0 +1,99 @@
+{
+  "id": "helianthus-annuus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "向日葵",
+    "scientificName": "Helianthus annuus",
+    "family": "菊科",
+    "genus": "向日葵属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎高达3米，被白色粗硬毛。",
+    "leaf": "叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿，两面被短糙毛，有长柄。",
+    "flower": "头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾；总苞片多层，叶质，覆瓦状排列，卵形至卵状披针形，顶端尾状渐尖，被长硬毛或纤毛。",
+    "fruit": "舌状花多数，黄色，不结实；管状花极多数，棕或紫色，有披针形裂片，结果；瘦果倒卵圆形或卵状长圆形，长1-1.5厘米，常被白色柔毛，上端有2膜片状早落冠毛。",
+    "habitat": "头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿。",
+      "头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾，总苞片多层。",
+      "舌状花多数，黄色，不结实，管状花极多数，棕或紫色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "向日葵是一年生草本。观察时重点看叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿，并结合头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾确认。",
+    "identificationReferences": [
+      "叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿。",
+      "头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿”。",
+      "补拍花或花序的整体与细节，核对“头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾”。"
+    ],
+    "appearance": "叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿。头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾。",
+    "growthHabit": "一年生草本。头状花序极大，径约10-30厘米，单生于茎端或枝端。",
+    "keyCharacteristics": [
+      "叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿。",
+      "头状花序极大，径约10-30厘米，单生于茎端或枝端，常下倾。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，心状卵圆形或卵圆形，顶端急尖或渐尖，有三基出脉，边缘有粗锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-helianthus-annuus",
+      "title": "GBIF species record: Helianthus annuus",
+      "url": "https://api.gbif.org/v1/species/9206251",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-helianthus-annuus",
+      "title": "iPlant 植物智：向日葵（Helianthus annuus）",
+      "url": "https://www.iplant.cn/info/Helianthus%20annuus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "9206251"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

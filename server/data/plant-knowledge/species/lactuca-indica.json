@@ -1,0 +1,104 @@
+{
+  "id": "lactuca-indica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "翅果菊",
+    "scientificName": "Lactuca indica",
+    "family": "菊科",
+    "genus": "莴苣属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "茎枝无毛。",
+    "leaf": "茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿，或茎生叶线状长椭圆形、长椭圆形或倒披针状长椭圆形，中下部茎生叶长15-20厘米，边缘有三角形锯齿或偏斜卵状大齿。",
+    "flower": "头状花序果期卵圆形，排成圆锥花序；总苞长1.5厘米，总苞片4层，边缘染紫红色，外层卵形或长卵形，长3-3.5毫米，中内层长披针形或线形披针形，长1厘米或过之；舌状小花25，黄色。",
+    "fruit": "瘦果椭圆形，长3-5毫米，黑色，边缘有宽翅，顶端具长0.5-1.5毫米的喙，每面有1条细纵脉纹。",
+    "habitat": "山谷、山坡林缘及林下、灌丛中或水沟边、山坡草地或田间。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿。",
+      "头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层，边缘染紫红色。",
+      "瘦果椭圆形，长3-5毫米，黑色，边缘有宽翅，顶端具长0.5-1.5毫米的喙。"
+    ]
+  },
+  "knowledge": {
+    "summary": "翅果菊是一年生或二年生草本。观察时重点看茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿，并结合头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层确认。",
+    "identificationReferences": [
+      "茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿。",
+      "头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿”。",
+      "补拍花或花序的整体与细节，核对“头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层”。"
+    ],
+    "appearance": "茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿。头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层。",
+    "growthHabit": "一年生或二年生草本。山谷、山坡林缘及林下、灌丛中或水沟边、山坡草地或田间。",
+    "keyCharacteristics": [
+      "茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿。",
+      "头状花序果期卵圆形，排成圆锥花序，总苞长1.5厘米，总苞片4层。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“茎生叶线形，无柄，两面无毛，中部茎生叶长达21厘米或过之，边缘常全缘或基部或中部以下有小尖头或疏生细齿或尖齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland",
+      "forest",
+      "forest-edge",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lactuca-indica",
+      "title": "GBIF species record: Lactuca indica",
+      "url": "https://api.gbif.org/v1/species/3140510",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-lactuca-indica",
+      "title": "iPlant 植物智：翅果菊（Lactuca indica）",
+      "url": "https://www.iplant.cn/info/Lactuca%20indica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3140510"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

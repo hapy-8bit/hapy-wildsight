@@ -1,0 +1,101 @@
+{
+  "id": "acorus-calamus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "菖蒲",
+    "scientificName": "Acorus calamus",
+    "family": "菖蒲科",
+    "genus": "菖蒲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "根茎横走，稍扁，分枝，径0.5-1厘米，黄褐色，芳香。",
+    "leaf": "叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落；叶片剑状线形，长0.9-1(-1.5)米，基部对褶，中部以上渐窄，草质，绿色，光亮，两面中肋隆起，侧脉3-5对，平行，纤弱，伸至叶尖。",
+    "flower": "花序梗二棱形，长(15-)40-50厘米；叶状佛焰苞剑状线形，长30-40厘米；肉穗花序斜上或近直立，圆柱形，长4.5-6.5(-8)厘米。",
+    "fruit": "浆果长圆形，成熟时红色。",
+    "habitat": "水边、沼泽湿地或湖泊浮岛上，也常有栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形。",
+      "花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米，肉穗花序斜上或近直立。",
+      "浆果长圆形，成熟时红色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "菖蒲是多年生草本。观察时重点看叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形，并结合花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米确认。",
+    "identificationReferences": [
+      "叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形。",
+      "花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形”。",
+      "补拍花或花序的整体与细节，核对“花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米”。"
+    ],
+    "appearance": "叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形。花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米。",
+    "growthHabit": "多年生草本。水边、沼泽湿地或湖泊浮岛上，也常有栽培。",
+    "keyCharacteristics": [
+      "叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形。",
+      "花序梗二棱形，长(15-)40-50厘米，叶状佛焰苞剑状线形，长30-40厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶基生，基部两侧膜质叶鞘宽4-5毫米，向上渐窄，脱落，叶片剑状线形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-acorus-calamus",
+      "title": "GBIF species record: Acorus calamus",
+      "url": "https://api.gbif.org/v1/species/2873769",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-acorus-calamus",
+      "title": "iPlant 植物智：菖蒲（Acorus calamus）",
+      "url": "https://www.iplant.cn/info/Acorus%20calamus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2873769"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

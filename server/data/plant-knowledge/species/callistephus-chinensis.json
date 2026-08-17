@@ -1,0 +1,102 @@
+{
+  "id": "callistephus-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "翠菊",
+    "scientificName": "Callistephus chinensis",
+    "family": "菊科",
+    "genus": "翠菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生或二年生草本。",
+    "stem": "茎单生，被白色糙毛。",
+    "leaf": "下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛；叶柄长2-4厘米，被白色硬毛，有窄翼；上部茎生叶渐小，菱状披针形、长椭圆形或倒披针形，有1-2锯齿，或线形，全缘。",
+    "flower": "头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米，总苞片3层，近等长，外层长椭圆状披针形，或匙形，叶质，长1-2.4厘米，边缘有白色长睫毛，中层匙形，质较薄，带紫色，内层长椭圆形，膜质；雌花1层，栽培品种为多层，红、淡红、蓝、黄或淡蓝紫色，花冠舌状，长2.5-3.5厘米，管部长2-3毫米；两性花花冠黄色，管状，辐射对称，檐部稍扩大，有5裂齿，花柱分枝扁，有三角状披针形附片。",
+    "fruit": "瘦果稍扁，长椭圆状披针形，长3-3.5亳米，有多数纵棱，中部以上被柔毛；外层冠毛短，冠状，白色，宿存，内层冠毛白色，不等长，长3-4.5毫米，易脱落。",
+    "habitat": "山坡撩荒地、山坡草丛、水边或疏林阴处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米。",
+      "头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米，总苞片3层。",
+      "瘦果稍扁，长椭圆状披针形，长3-3.5亳米，有多数纵棱，中部以上被柔毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "翠菊是一年生或二年生草本。观察时重点看下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米，并结合头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米确认。",
+    "identificationReferences": [
+      "下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米。",
+      "头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米”。",
+      "补拍花或花序的整体与细节，核对“头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米”。"
+    ],
+    "appearance": "下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米。头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米。",
+    "growthHabit": "一年生或二年生草本。山坡撩荒地、山坡草丛、水边或疏林阴处。",
+    "keyCharacteristics": [
+      "下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米。",
+      "头状花序单生茎顶，径6-8厘米，花序梗长：总苞半球形，径2-5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“下部茎生叶花期脱落：中部茎生叶卵形、菱状卵形、匙形或近圆形，长2.5-6厘米，有不规则粗锯齿，两面疏被硬毛，叶柄长2-4厘米”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-callistephus-chinensis",
+      "title": "GBIF species record: Callistephus chinensis",
+      "url": "https://api.gbif.org/v1/species/3092946",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-callistephus-chinensis",
+      "title": "iPlant 植物智：翠菊（Callistephus chinensis）",
+      "url": "https://www.iplant.cn/info/Callistephus%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3092946"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

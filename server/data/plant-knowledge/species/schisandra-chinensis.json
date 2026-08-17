@@ -1,0 +1,99 @@
+{
+  "id": "schisandra-chinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "五味子",
+    "scientificName": "Schisandra chinensis",
+    "family": "五味子科",
+    "genus": "五味子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶木质藤本，除幼叶下面被柔毛及芽鳞具缘毛外余无毛。",
+    "stem": "茎皮纤维柔韧，可供绳索。",
+    "leaf": "叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形，上部疏生胼胝质浅齿，近基部全缘，基部下延成极窄翅。",
+    "flower": "花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米，雄蕊5(6)，长约2毫米，离生，直立排列，花托长约0.5毫米，无花丝或外3枚花丝极短；雌花花梗长1.7-3.8厘米，雌蕊群近卵圆形，长2-4毫米，单雌蕊17-40。",
+    "fruit": "聚合果长1.5-8.5厘米，小浆果红色，近球形或倒卵圆形，径6-8毫米，果皮具不明显腺点；种子1-2，肾形，种皮光滑。",
+    "habitat": "沟谷、溪旁、山坡。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形。",
+      "花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米，雄蕊5(6)。",
+      "聚合果长1.5-8.5厘米，小浆果红色，近球形或倒卵圆形，径6-8毫米，果皮具不明显腺点。"
+    ]
+  },
+  "knowledge": {
+    "summary": "五味子是落叶木质藤本。观察时重点看叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形，并结合花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米确认。",
+    "identificationReferences": [
+      "叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形。",
+      "花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米”。"
+    ],
+    "appearance": "叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形。花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米。",
+    "growthHabit": "落叶木质藤本。沟谷、溪旁、山坡。",
+    "keyCharacteristics": [
+      "叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形。",
+      "花被片粉白或粉红色，6-9，长圆形或椭圆状长圆形，长0.6-1.1厘米雄花花梗长0.5-2.5厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶膜质，宽椭圆形、卵形、倒卵形、宽倒卵形或近圆形，长(3-)5-10(-14)厘米，先端骤尖，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-schisandra-chinensis",
+      "title": "GBIF species record: Schisandra chinensis",
+      "url": "https://api.gbif.org/v1/species/7696841",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-schisandra-chinensis",
+      "title": "iPlant 植物智：五味子（Schisandra chinensis）",
+      "url": "https://www.iplant.cn/info/Schisandra%20chinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7696841"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

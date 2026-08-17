@@ -1,0 +1,98 @@
+{
+  "id": "zinnia-elegans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "百日菊",
+    "scientificName": "Zinnia elegans",
+    "family": "菊科",
+    "genus": "百日菊属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎被糙毛或硬毛；",
+    "leaf": "叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；",
+    "flower": "头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；",
+      "花：头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；"
+    ]
+  },
+  "knowledge": {
+    "summary": "百日菊为一年生草本；叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；",
+      "花：头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；；再以花头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；交叉确认。"
+    ],
+    "appearance": "叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；；花头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：叶宽卵圆形或长圆状椭圆形，长5-10厘米，基部稍心形抱茎，两面粗糙，下面密被糙毛，基脉3；",
+      "花：头状花序径5-6.5厘米，单生枝端，花序梗不肥壮；"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-zinnia-elegans",
+      "title": "GBIF species record: Zinnia elegans",
+      "url": "https://api.gbif.org/v1/species/3111754",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-zinnia-elegans",
+      "title": "iPlant species page: Zinnia elegans",
+      "url": "https://www.iplant.cn/info/Zinnia%20elegans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3111754"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

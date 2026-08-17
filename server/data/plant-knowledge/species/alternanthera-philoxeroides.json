@@ -1,0 +1,98 @@
+{
+  "id": "alternanthera-philoxeroides",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "空心莲子草",
+    "scientificName": "Alternanthera philoxeroides",
+    "family": "苋科",
+    "genus": "莲子草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本；",
+    "stem": "茎匍匐，上部上升，长达1.2米，具分枝，幼茎及叶腋被白或锈色柔毛，老时无毛；",
+    "leaf": "叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘，两面无毛或上面被平伏毛，下面具颗粒状突起；",
+    "flower": "头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；",
+    "fruit": "",
+    "habitat": "池沼、水沟内；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘，两面无毛或上面被平伏毛，下面具颗粒状突起；",
+      "花：头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；"
+    ]
+  },
+  "knowledge": {
+    "summary": "空心莲子草为多年生草本；叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘…。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘，两面无毛或上面被平伏毛，下面具颗粒状突起；",
+      "花：头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘…；再以花头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；交叉确认。"
+    ],
+    "appearance": "叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘…；花头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；。",
+    "growthHabit": "多年生草本；",
+    "keyCharacteristics": [
+      "叶：叶长圆形、长圆状倒卵形或倒卵状披针形，长2.5-5厘米，先端尖或圆钝，具短尖，基部渐窄，全缘，两面无毛或上面被平伏毛，下面具颗粒状突起；",
+      "花：头状花序具花序梗，单生叶腋，白色花被片长圆形，花丝基部连成杯状，子房倒卵形，具短柄；"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "aquatic",
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-alternanthera-philoxeroides",
+      "title": "GBIF species record: Alternanthera philoxeroides",
+      "url": "https://api.gbif.org/v1/species/3084923",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-alternanthera-philoxeroides",
+      "title": "iPlant species page: Alternanthera philoxeroides",
+      "url": "https://www.iplant.cn/info/Alternanthera%20philoxeroides?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3084923"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

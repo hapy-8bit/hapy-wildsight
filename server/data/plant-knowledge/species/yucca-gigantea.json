@@ -1,0 +1,116 @@
+{
+  "id": "yucca-gigantea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "象腿丝兰",
+    "scientificName": "Yucca gigantea",
+    "family": "天门冬科",
+    "genus": "丝兰属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，室内栽培植物，多年生草本，灌木，多肉植物，乔木，直立。",
+    "stem": "茎绿色。",
+    "leaf": "叶互生，单叶，披针形，线形，齿状，全缘，革质，光滑。",
+    "flower": "花为钟形，乳白色或浅褐色，白色。",
+    "fruit": "",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，单叶，披针形，线形，齿状。",
+      "花为钟形，乳白色或浅褐色，白色。",
+      "茎绿色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "象腿丝兰是多年生。观察时重点看叶互生，单叶，披针形，线形，齿状，并结合花为钟形，乳白色或浅褐色，白色确认。",
+    "identificationReferences": [
+      "叶互生，单叶，披针形，线形，齿状。",
+      "花为钟形，乳白色或浅褐色，白色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，单叶，披针形，线形，齿状”。",
+      "补拍花或花序的整体与细节，核对“花为钟形，乳白色或浅褐色，白色”。"
+    ],
+    "appearance": "叶互生，单叶，披针形，线形，齿状。花为钟形，乳白色或浅褐色，白色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶互生，单叶，披针形，线形，齿状。",
+      "花为钟形，乳白色或浅褐色，白色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，单叶，披针形，线形，齿状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub",
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-yucca-gigantea",
+      "title": "GBIF species record: Yucca gigantea",
+      "url": "https://api.gbif.org/v1/species/2775716",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-yucca-gigantea",
+      "title": "iPlant 植物智：象腿丝兰（Yucca gigantea）",
+      "url": "https://www.iplant.cn/info/Yucca%20gigantea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-yucca-gigantea",
+      "title": "NC State Extension Plant Toolbox: Yucca gigantea",
+      "url": "https://plants.ces.ncsu.edu/plants/yucca-gigantea/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2775716"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "sagittaria-sagittifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "欧洲慈姑",
+    "scientificName": "Sagittaria sagittifolia",
+    "family": "泽泻科",
+    "genus": "慈姑属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生沼生或水生草本。",
+    "stem": "根状茎匍匐，末端多少膨大呈球茎。",
+    "leaf": "叶沉水、浮水、挺水，沉水叶条形或叶柄状。",
+    "flower": "花葶直立，挺出水面，高20-90厘米。",
+    "fruit": "瘦果斜倒卵形或广倒卵形，长3-4毫米，宽约3毫米，果翅边缘整齐。",
+    "habitat": "湖边、沼泽、水塘静水处；缓流溪沟等水体。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶沉水、浮水、挺水，沉水叶条形或叶柄状。",
+      "花葶直立，挺出水面，高20-90厘米。",
+      "瘦果斜倒卵形或广倒卵形，长3-4毫米，宽约3毫米，果翅边缘整齐。"
+    ]
+  },
+  "knowledge": {
+    "summary": "欧洲慈姑是多年生沼生或水生草本。观察时重点看叶沉水、浮水、挺水，沉水叶条形或叶柄状，并结合花葶直立，挺出水面，高20-90厘米确认。",
+    "identificationReferences": [
+      "叶沉水、浮水、挺水，沉水叶条形或叶柄状。",
+      "花葶直立，挺出水面，高20-90厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶沉水、浮水、挺水，沉水叶条形或叶柄状”。",
+      "补拍花或花序的整体与细节，核对“花葶直立，挺出水面，高20-90厘米”。"
+    ],
+    "appearance": "叶沉水、浮水、挺水，沉水叶条形或叶柄状。花葶直立，挺出水面，高20-90厘米。",
+    "growthHabit": "多年生沼生或水生草本。湖边、沼泽、水塘静水处，缓流溪沟等水体。",
+    "keyCharacteristics": [
+      "叶沉水、浮水、挺水，沉水叶条形或叶柄状。",
+      "花葶直立，挺出水面，高20-90厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶沉水、浮水、挺水，沉水叶条形或叶柄状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside",
+      "aquatic"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sagittaria-sagittifolia",
+      "title": "GBIF species record: Sagittaria sagittifolia",
+      "url": "https://api.gbif.org/v1/species/5328882",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sagittaria-sagittifolia",
+      "title": "iPlant 植物智：欧洲慈姑（Sagittaria sagittifolia）",
+      "url": "https://www.iplant.cn/info/Sagittaria%20sagittifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5328882"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

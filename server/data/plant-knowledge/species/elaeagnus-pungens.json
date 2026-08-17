@@ -1,0 +1,101 @@
+{
+  "id": "elaeagnus-pungens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "胡颓子",
+    "scientificName": "Elaeagnus pungens",
+    "family": "胡颓子科",
+    "genus": "胡颓子属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿直立灌木。",
+    "stem": "茎皮纤维可造纸和人造纤维板。",
+    "leaf": "叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片，下面密被鳞片，侧脉7-8对，上面凸起，下面不明显；叶柄长5-8毫米。",
+    "flower": "花梗长3-5毫米；萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩，裂片三角形或长圆状三角形，长约3毫米，内面疏生白色星状毛；花丝极短，花药长圆形，长约1.5毫米；花柱直立，无毛，上端微弯曲。",
+    "fruit": "果椭圆形，长1.2-1.4厘米，幼时被褐色鳞片，熟时红色；果核内面具白色丝状绵毛；果柄长4-6毫米。",
+    "habitat": "向阳山坡或路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片。",
+      "花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩，裂片三角形或长圆状三角形。",
+      "果椭圆形，长1.2-1.4厘米，幼时被褐色鳞片，熟时红色，果核内面具白色丝状绵毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "胡颓子是常绿直立灌木。观察时重点看叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片，并结合花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩确认。",
+    "identificationReferences": [
+      "叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片。",
+      "花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩”。"
+    ],
+    "appearance": "叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片。花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩。",
+    "growthHabit": "常绿直立灌木。向阳山坡或路旁。",
+    "keyCharacteristics": [
+      "叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片。",
+      "花梗长3-5毫米，萼筒圆筒形或近漏斗状圆筒形，长5-7毫米，在子房之上缢缩。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶革质，椭圆形或宽椭圆形，长5-10厘米，两端钝或基部圆，上面幼时被银白色和少数褐色鳞片”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-elaeagnus-pungens",
+      "title": "GBIF species record: Elaeagnus pungens",
+      "url": "https://api.gbif.org/v1/species/3039270",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-elaeagnus-pungens",
+      "title": "iPlant 植物智：胡颓子（Elaeagnus pungens）",
+      "url": "https://www.iplant.cn/info/Elaeagnus%20pungens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3039270"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

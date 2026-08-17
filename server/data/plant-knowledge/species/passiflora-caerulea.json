@@ -1,0 +1,99 @@
+{
+  "id": "passiflora-caerulea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "西番莲",
+    "scientificName": "Passiflora caerulea",
+    "family": "西番莲科",
+    "genus": "西番莲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草质藤本。",
+    "stem": "茎无毛。",
+    "leaf": "叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂，裂片先端尖或钝，全缘，两面无毛；叶柄长2-3厘米，中部散生2-6腺体；托叶肾形，长达1.2厘米，抱莲，疏具波状齿。",
+    "flower": "花梗长3-4厘米；苞片宽卵形，长1.5-3厘米，全缘；萼片长圆状披针形，长3-4.5厘米；花瓣长圆形，与萼片近等长；副花冠裂片丝状，3轮排列，外轮和中轮长1-1.5厘米，内轮长1-2毫米；内花冠裂片流苏状，紫红色；雌雄蕊柄长0.8-1厘米；花丝长约1厘米，花药长约1.3厘米；柱头肾形，花柱3，长约1.5厘米，子房卵球形。",
+    "fruit": "果橙色或黄色，卵球形或近球形，长5-7厘米，径4-5厘米。",
+    "habitat": "栽培于广西、江西、四川、云南等地，有时逸生。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂。",
+      "花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘，萼片长圆状披针形。",
+      "果橙色或黄色，卵球形或近球形，长5-7厘米，径4-5厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "西番莲是草质藤本。观察时重点看叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂，并结合花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘确认。",
+    "identificationReferences": [
+      "叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂。",
+      "花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂”。",
+      "补拍花或花序的整体与细节，核对“花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘”。"
+    ],
+    "appearance": "叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂。花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘。",
+    "growthHabit": "草质藤本。栽培于广西、江西、四川、云南等地，有时逸生。",
+    "keyCharacteristics": [
+      "叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂。",
+      "花梗长3-4厘米，苞片宽卵形，长1.5-3厘米，全缘。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶纸质，长5-7厘米，宽6-8厘米，基部近心形，掌状3-7深裂”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "naturalized"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-passiflora-caerulea",
+      "title": "GBIF species record: Passiflora caerulea",
+      "url": "https://api.gbif.org/v1/species/2874199",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-passiflora-caerulea",
+      "title": "iPlant 植物智：西番莲（Passiflora caerulea）",
+      "url": "https://www.iplant.cn/info/Passiflora%20caerulea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2874199"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

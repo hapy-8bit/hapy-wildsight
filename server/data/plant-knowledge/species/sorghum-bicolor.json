@@ -1,0 +1,99 @@
+{
+  "id": "sorghum-bicolor",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "高粱",
+    "scientificName": "Sorghum bicolor",
+    "family": "禾本科",
+    "genus": "高粱属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本，栽培作物。",
+    "stem": "秆较粗壮，直立，高3-5米，横径2-5厘米，基部节上具支撑根。",
+    "leaf": "叶鞘无毛或稍有白粉；叶舌硬膜质，先端圆，边缘有纤毛；叶片线形至线状披针形，长40-70厘米，宽3-8厘米，先端渐尖，基部圆或微呈耳形，表面暗绿色，背面淡绿色或有白粉，两面无毛，边缘软骨质，具微细小刺毛，中脉较宽，白色。",
+    "flower": "圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米，总梗直立或微弯曲；主轴具纵棱，疏生细柔毛，分枝3-7枚，轮生，粗糙或有细毛，基部较密；每一总状花序具3-6节，节间粗糙或稍扁；无柄小穗倒卵形或倒卵状椭圆形，长4.5-6毫米，宽3.5-4.5毫米，基盘纯，有髯毛；两颖均革质，上部及边缘通常具毛，初时黄绿色，成熟后为淡红色至暗棕色；第一颖背部圆凸，上部1/3质地较薄，边缘内折而具狭翼，向下变硬而有光泽，具12-16脉，仅达中部，有横脉，顶端尖或具3小齿；第二颖7-9脉，背部圆凸，近顶端具不明显的脊，略呈舟形，边缘有细毛；外稃透明膜质，第一外稃披针形，边缘有长纤毛；第二外稃披针形至长椭圆形，具2-4脉，顶端稍2裂，自裂齿间伸出一膝曲的芒，芒长约14毫米；雄蕊3枚，花药长约3毫米；子房倒卵形；花柱分离，柱头帚状。",
+    "fruit": "颖果两面平凸，长3.5-4毫米，淡红色至红棕色，熟时宽2.5-3毫米，顶端微外露；有柄小穗的柄长约2.5毫米，小穗线形至披针形，长3-5毫米，雄性或中性，宿存，褐色至暗红棕色；第一颖9-12脉，第二颖7-10脉。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形。",
+      "圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米，总梗直立或微弯曲。",
+      "颖果两面平凸，长3.5-4毫米，淡红色至红棕色，熟时宽2.5-3毫米，顶端微外露。"
+    ]
+  },
+  "knowledge": {
+    "summary": "高粱是一年生草本。观察时重点看叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形，并结合圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米确认。",
+    "identificationReferences": [
+      "叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形。",
+      "圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米”。"
+    ],
+    "appearance": "叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形。圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形。",
+      "圆锥花序疏松，主轴裸露，长15-45厘米，宽4-10厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘无毛或稍有白粉，叶舌硬膜质，先端圆，边缘有纤毛，叶片线形至线状披针形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-sorghum-bicolor",
+      "title": "GBIF species record: Sorghum bicolor",
+      "url": "https://api.gbif.org/v1/species/2705181",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-sorghum-bicolor",
+      "title": "iPlant 植物智：高粱（Sorghum bicolor）",
+      "url": "https://www.iplant.cn/info/Sorghum%20bicolor?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2705181"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "schlumbergera-truncata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蟹爪兰",
+    "scientificName": "Schlumbergera truncata",
+    "family": "仙人掌科",
+    "genus": "仙人指属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，附生植物，多年生草本，室内栽培植物，多肉植物，弓垂，近圆形。",
+    "stem": "茎绿色，光滑无毛，顶端具毛。",
+    "leaf": "",
+    "flower": "花为花单生，管状，橙色，粉红色，紫色或淡紫色，红色或酒红色，白色。",
+    "fruit": "果实为红色或酒红色。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "花为花单生，管状，橙色，粉红色，紫色或淡紫色。",
+      "果实为红色或酒红色。",
+      "茎绿色，光滑无毛，顶端具毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蟹爪兰是多年生。观察时重点看茎绿色，光滑无毛，顶端具毛，并结合花为花单生，管状，橙色，粉红色确认。",
+    "identificationReferences": [
+      "茎绿色，光滑无毛，顶端具毛。",
+      "花为花单生，管状，橙色，粉红色。"
+    ],
+    "howToConfirm": [
+      "近拍茎或茎节的形状、表面和分枝方式，核对“茎绿色，光滑无毛，顶端具毛”。",
+      "补拍花或花序的整体与细节，核对“花为花单生，管状，橙色，粉红色”。"
+    ],
+    "appearance": "茎绿色，光滑无毛，顶端具毛。花为花单生，管状，橙色，粉红色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "茎绿色，光滑无毛，顶端具毛。",
+      "花为花单生，管状，橙色，粉红色。"
+    ],
+    "observationTips": [
+      "记录主要营养体的形状和排列，重点核对“茎绿色，光滑无毛，顶端具毛”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden",
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-schlumbergera-truncata",
+      "title": "GBIF species record: Schlumbergera truncata",
+      "url": "https://api.gbif.org/v1/species/5383983",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-schlumbergera-truncata",
+      "title": "iPlant 植物智：蟹爪兰（Schlumbergera truncata）",
+      "url": "https://www.iplant.cn/info/Schlumbergera%20truncata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-schlumbergera-truncata",
+      "title": "NC State Extension Plant Toolbox: Schlumbergera truncata",
+      "url": "https://plants.ces.ncsu.edu/plants/schlumbergera-truncata/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5383983"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

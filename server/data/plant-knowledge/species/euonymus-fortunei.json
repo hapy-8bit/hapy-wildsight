@@ -1,0 +1,102 @@
+{
+  "id": "euonymus-fortunei",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "扶芳藤",
+    "scientificName": "Euonymus fortunei",
+    "family": "卫矛科",
+    "genus": "卫矛属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "常绿藤状灌木。",
+    "stem": "下部枝有须状气生根。",
+    "leaf": "叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形，边缘齿浅不明显，小脉不明显；叶柄长3-6毫米。",
+    "flower": "聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花；花4数，白绿色，径约6毫米；花萼裂片半圆形；花瓣近圆形；雄蕊花丝细长，花盘方形，径约2.5毫米；子房三角状锥形，4棱，花柱长1毫米。",
+    "fruit": "果序柄长2-3.5厘米；蒴果近球形，径0.6-1.2厘米，熟时粉红色，果皮光滑。",
+    "habitat": "山坡丛林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形。",
+      "聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花，花4数。",
+      "果序柄长2-3.5厘米，蒴果近球形，径0.6-1.2厘米，熟时粉红色，果皮光滑。"
+    ]
+  },
+  "knowledge": {
+    "summary": "扶芳藤是常绿藤状灌木。观察时重点看叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形，并结合聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花确认。",
+    "identificationReferences": [
+      "叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形。",
+      "聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形”。",
+      "补拍花或花序的整体与细节，核对“聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花”。"
+    ],
+    "appearance": "叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形。聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花。",
+    "growthHabit": "常绿藤状灌木。山坡丛林中。",
+    "keyCharacteristics": [
+      "叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形。",
+      "聚伞花序3-4次分枝，花序梗长1.5-3厘米，每花序有4-7花，分枝中央有单花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，薄革质，椭圆形、长圆状椭圆形或长倒卵形，长3.5-8厘米，基部楔形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub",
+      "vine"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-euonymus-fortunei",
+      "title": "GBIF species record: Euonymus fortunei",
+      "url": "https://api.gbif.org/v1/species/3169137",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-euonymus-fortunei",
+      "title": "iPlant 植物智：扶芳藤（Euonymus fortunei）",
+      "url": "https://www.iplant.cn/info/Euonymus%20fortunei?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3169137"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

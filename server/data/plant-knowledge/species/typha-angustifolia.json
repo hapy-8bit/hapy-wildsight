@@ -1,0 +1,99 @@
+{
+  "id": "typha-angustifolia",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "水烛",
+    "scientificName": "Typha angustifolia",
+    "family": "香蒲科",
+    "genus": "香蒲属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "地上茎直立，粗壮。",
+    "stem": "根状茎乳黄色、灰黄色，先端白色。",
+    "leaf": "叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形，下部横切面呈半圆形，细胞间隙大，呈海绵状；叶鞘抱茎。",
+    "flower": "雌雄花序相距2.5-6.9厘米；雄花序轴具褐色扁柔毛，单出，或分叉；叶状苞片1-3枚，花后脱落；雌花序长15-30厘米，基部具1枚叶状苞片，通常比叶片宽，花后脱落；雄花由3枚雄蕊合生，有时2枚或4枚组成，花药长约2毫米，长距圆形，花粉粉单体，近球形、卵形或三角形，纹饰网状，花丝短，细弱，下部合生成柄，长 (1.5-) 2-3毫米，向下渐宽；雌花具小苞片；孕性雌花柱头窄条形或披针形，长约1.3-1.8毫米，花柱长1-1.5毫米，子房纺锤形，长约1毫米，具褐色斑点，子房柄纤细，长约5毫米；不孕雌花子房倒圆锥形。",
+    "fruit": "小坚果长椭圆形，长约1.5毫米，具褐色斑点，纵裂。",
+    "habitat": "湖泊、河流、池塘浅水处，水深稀达1米或更深，沼泽、沟渠亦常见，当水体干枯时可湿地及地表龟裂环境中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形。",
+      "雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉，叶状苞片1-3枚。",
+      "小坚果长椭圆形，长约1.5毫米，具褐色斑点，纵裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "水烛的生长形态为地上茎直立。观察时重点看叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形，并结合雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉确认。",
+    "identificationReferences": [
+      "叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形。",
+      "雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形”。",
+      "补拍花或花序的整体与细节，核对“雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉”。"
+    ],
+    "appearance": "叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形。雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉。",
+    "growthHabit": "地上茎直立。湖泊、河流、池塘浅水处，水深稀达1米或更深，沼泽、沟渠亦常见。",
+    "keyCharacteristics": [
+      "叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形。",
+      "雌雄花序相距2.5-6.9厘米，雄花序轴具褐色扁柔毛，单出，或分叉。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶片长54-120厘米，宽0.4-0.9厘米，上部扁平，中部以下腹面微凹，背面向下逐渐隆起呈凸形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-typha-angustifolia",
+      "title": "GBIF species record: Typha angustifolia",
+      "url": "https://api.gbif.org/v1/species/5289461",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-typha-angustifolia",
+      "title": "iPlant 植物智：水烛（Typha angustifolia）",
+      "url": "https://www.iplant.cn/info/Typha%20angustifolia?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5289461"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

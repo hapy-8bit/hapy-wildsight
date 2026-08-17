@@ -1,0 +1,101 @@
+{
+  "id": "oenothera-biennis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "月见草",
+    "scientificName": "Oenothera biennis",
+    "family": "柳叶菜科",
+    "genus": "月见草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "二年生直立草本，基生莲座叶丛紧贴地面；茎高达2米，被曲柔毛与伸展长毛，在茎枝上端常混生有腺毛。",
+    "stem": "茎高达2米，被曲柔毛与伸展长毛，在茎枝上端常混生有腺毛。",
+    "leaf": "基生莲座叶丛紧贴地面。",
+    "flower": "穗状花序，不分枝，或在主序下面具次级侧生花序；苞片叶状，长1.5-9厘米，宿存；萼片长圆状披针形，长1.8-2.2厘米，先端尾状，自基部反折，又在中部上翻；花瓣黄色，稀淡黄色，宽倒卵形，长2.5-3厘米，先端微凹；子房圆柱状，具4棱，长1-1.2厘米，密被伸展长毛与短腺毛，有时混生曲柔毛，花柱长3.5-5厘米，伸出花筒部分长0.7-1.5厘米，柱头裂片长3-5毫米。",
+    "fruit": "蒴果锥状圆柱形，长2-3.5厘米，直立，绿色，毛被同子房，渐稀疏，具棱。",
+    "habitat": "在我国东北、华北、华东（含台湾）、西南（四川、贵州）有栽培，并早已沦为逸生，常生开旷荒坡路旁。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生莲座叶丛紧贴地面。",
+      "穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状，长1.5-9厘米。",
+      "蒴果锥状圆柱形，长2-3.5厘米，直立，绿色，毛被同子房。"
+    ]
+  },
+  "knowledge": {
+    "summary": "月见草是二年生直立草本。观察时重点看基生莲座叶丛紧贴地面，并结合穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状确认。",
+    "identificationReferences": [
+      "基生莲座叶丛紧贴地面。",
+      "穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生莲座叶丛紧贴地面”。",
+      "补拍花或花序的整体与细节，核对“穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状”。"
+    ],
+    "appearance": "基生莲座叶丛紧贴地面。穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状。",
+    "growthHabit": "二年生直立草本。在我国东北、华北、华东（含台湾）、西南（四川、贵州）有栽培，并早已沦为逸生，常生开旷荒坡路旁。",
+    "keyCharacteristics": [
+      "基生莲座叶丛紧贴地面。",
+      "穗状花序，不分枝，或在主序下面具次级侧生花序，苞片叶状。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生莲座叶丛紧贴地面”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside"
+    ],
+    "occurrenceTypes": [
+      "naturalized"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-oenothera-biennis",
+      "title": "GBIF species record: Oenothera biennis",
+      "url": "https://api.gbif.org/v1/species/3188924",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-oenothera-biennis",
+      "title": "iPlant 植物智：月见草（Oenothera biennis）",
+      "url": "https://www.iplant.cn/info/Oenothera%20biennis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3188924"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

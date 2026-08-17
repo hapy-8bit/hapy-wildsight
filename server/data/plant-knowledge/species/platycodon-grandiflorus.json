@@ -1,0 +1,102 @@
+{
+  "id": "platycodon-grandiflorus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "桔梗",
+    "scientificName": "Platycodon grandiflorus",
+    "family": "桔梗科",
+    "genus": "桔梗属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，有白色乳汁。",
+    "stem": "茎直立，高0.2-1.2米，通常无毛，稀密被短毛，不分枝，极少上部分枝。",
+    "leaf": "叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖，上面无毛而绿色，下面常无毛而有白粉，有时脉上有短毛或瘤突状毛，边缘具细锯齿，无柄或有极短的柄。",
+    "flower": "花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序；花萼筒部半圆球状或圆球状倒锥形，被白粉，5裂，裂片三角形或窄三角形，有时齿状：花冠漏斗状钟形，长1.5-4厘米，蓝或紫色，5裂；雄蕊5，离生，花丝基部扩大成片状，且在扩大部分有毛；无花盘；子房半下位，5室，柱头5裂，裂片狭窄，常为线形。",
+    "fruit": "蒴果球状、球状倒圆锥形或倒卵圆形，长1-2.5厘米，在顶端（花萼裂片和花冠着生位置之上）室背5裂，裂；带着隔膜。",
+    "habitat": "阳处草丛、灌丛中，少林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖。",
+      "花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形，被白粉。",
+      "蒴果球状、球状倒圆锥形或倒卵圆形，长1-2.5厘米，在顶端（花萼裂片和花冠着生位置之上）室背5裂，裂，带着隔膜。"
+    ]
+  },
+  "knowledge": {
+    "summary": "桔梗是多年生草本。观察时重点看叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖，并结合花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形确认。",
+    "identificationReferences": [
+      "叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖。",
+      "花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖”。",
+      "补拍花或花序的整体与细节，核对“花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形”。"
+    ],
+    "appearance": "叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖。花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形。",
+    "growthHabit": "多年生草本。阳处草丛、灌丛中，少林下。",
+    "keyCharacteristics": [
+      "叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖。",
+      "花单朵顶生，或数朵集成假总状花序，或有花序分枝而集成圆锥花序，花萼筒部半圆球状或圆球状倒锥形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶轮生、部分轮生至全部互生，卵形、卵状椭圆形或披针形，长2-7厘米，基部宽楔形或圆钝，先端急尖”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "forest",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-platycodon-grandiflorus",
+      "title": "GBIF species record: Platycodon grandiflorus",
+      "url": "https://api.gbif.org/v1/species/3164340",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-platycodon-grandiflorus",
+      "title": "iPlant 植物智：桔梗（Platycodon grandiflorus）",
+      "url": "https://www.iplant.cn/info/Platycodon%20grandiflorus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3164340"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

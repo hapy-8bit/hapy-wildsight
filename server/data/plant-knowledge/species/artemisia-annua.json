@@ -1,0 +1,103 @@
+{
+  "id": "artemisia-annua",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄花蒿",
+    "scientificName": "Artemisia annua",
+    "family": "菊科",
+    "genus": "蒿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎单生；茎、枝、叶两面及总苞片背面无毛或初叶下面微有极稀柔毛。",
+    "leaf": "叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)，中肋在上面稍隆起，中轴两侧有窄翅无小栉齿，稀上部有数枚小栉齿，叶柄长1-2厘米，基部有半抱茎假托叶：中部叶：(三）回栉齿状羽状深裂，小裂片栉齿状-:角形，具短柄：上近无柄。",
+    "flower": "头状花序球形，多数，径1.5-2.5毫米，有短梗，基部有线形小苞叶，在分枝上排成总状或复总状花序，在茎上组成开展的尖塔形圆锥花序；总苞片背面无毛；雌花10-18；两性花10-30。",
+    "fruit": "瘦果椭圆状卵圆形，稍扁。",
+    "habitat": "生境适应性强，东部、南部省区生长在路旁、荒地、山坡、林缘等处。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)。",
+      "头状花序球形，多数，径1.5-2.5毫米，有短梗，基部有线形小苞叶。",
+      "瘦果椭圆状卵圆形，稍扁。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄花蒿是一年生草本。观察时重点看叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)，并结合头状花序球形，多数，径1.5-2.5毫米，有短梗确认。",
+    "identificationReferences": [
+      "叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)。",
+      "头状花序球形，多数，径1.5-2.5毫米，有短梗。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)”。",
+      "补拍花或花序的整体与细节，核对“头状花序球形，多数，径1.5-2.5毫米，有短梗”。"
+    ],
+    "appearance": "叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)。头状花序球形，多数，径1.5-2.5毫米，有短梗。",
+    "growthHabit": "一年生草本。生境适应性强，东部、南部省区生长在路旁、荒地、山坡、林缘等处。",
+    "keyCharacteristics": [
+      "叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)。",
+      "头状花序球形，多数，径1.5-2.5毫米，有短梗。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶两面具脱落性白色腺点及细小凹点，茎下部叶宽卵形或H角状卵形，长3-7厘米，三（四）回栉齿状羽状深裂，每侧裂片5-8(-10)”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "roadside",
+      "wasteland",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-artemisia-annua",
+      "title": "GBIF species record: Artemisia annua",
+      "url": "https://api.gbif.org/v1/species/8373355",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-artemisia-annua",
+      "title": "iPlant 植物智：黄花蒿（Artemisia annua）",
+      "url": "https://www.iplant.cn/info/Artemisia%20annua?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8373355"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

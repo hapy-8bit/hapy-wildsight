@@ -1,0 +1,97 @@
+{
+  "id": "clarkia-amoena",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "古代稀",
+    "scientificName": "Clarkia amoena",
+    "family": "柳叶菜科",
+    "genus": "仙女扇属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "古代稀是一年生草本。",
+    "stem": "多分枝，直立型。",
+    "leaf": "叶互生，条形至披针形，常有小叶簇生于叶腋。",
+    "flower": "花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边；穗状花序，花色有粉、白、紫、洋红及夏色等；其拉丁名\"Godetia\"的音译，学名Godetia amoena G.Don，又因英文普通名有\"再会，春天\"之意，故也称\"别春花\"。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，条形至披针形，常有小叶簇生于叶腋。",
+      "花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边，穗状花序。",
+      "多分枝，直立型。"
+    ]
+  },
+  "knowledge": {
+    "summary": "古代稀是古代稀是一年生草本。观察时重点看叶互生，条形至披针形，常有小叶簇生于叶腋，并结合花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边确认。",
+    "identificationReferences": [
+      "叶互生，条形至披针形，常有小叶簇生于叶腋。",
+      "花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，条形至披针形，常有小叶簇生于叶腋”。",
+      "补拍花或花序的整体与细节，核对“花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边”。"
+    ],
+    "appearance": "叶互生，条形至披针形，常有小叶簇生于叶腋。花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边。",
+    "growthHabit": "古代稀是一年生草本。",
+    "keyCharacteristics": [
+      "叶互生，条形至披针形，常有小叶簇生于叶腋。",
+      "花芽直立，于初夏形成，萼裂片连生，在花开放后屈向一边。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，条形至披针形，常有小叶簇生于叶腋”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-clarkia-amoena",
+      "title": "GBIF species record: Clarkia amoena",
+      "url": "https://api.gbif.org/v1/species/5420978",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-clarkia-amoena",
+      "title": "iPlant 植物智：古代稀（Clarkia amoena）",
+      "url": "https://www.iplant.cn/info/Clarkia%20amoena?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5420978"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

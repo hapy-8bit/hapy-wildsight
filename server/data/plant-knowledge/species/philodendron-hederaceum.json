@@ -1,0 +1,95 @@
+{
+  "id": "philodendron-hederaceum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "心叶蔓绿绒",
+    "scientificName": "Philodendron hederaceum",
+    "family": "天南星科",
+    "genus": "喜林芋属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生常绿蔓性植物，茎具气生根，需攀附他物生长，蔓长可达十余米。",
+    "stem": "",
+    "leaf": "叶片绿色，心形，先端渐尖，基部心形。",
+    "flower": "佛焰苞近白色，肉穗花序，白色，极少开花。",
+    "fruit": "浆果。",
+    "habitat": "喜温暖，喜充足的散射光，喜湿，不耐旱，耐热，不耐寒；喜疏松、排水良好的壤土；生长适温20℃-28℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片绿色，心形，先端渐尖，基部心形。",
+      "佛焰苞近白色，肉穗花序，白色，极少开花。",
+      "浆果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "心叶蔓绿绒是多年生常绿蔓性植物。观察时重点看叶片绿色，心形，先端渐尖，基部心形，并结合佛焰苞近白色，肉穗花序，白色，极少开花确认。",
+    "identificationReferences": [
+      "叶片绿色，心形，先端渐尖，基部心形。",
+      "佛焰苞近白色，肉穗花序，白色，极少开花。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶片绿色，心形，先端渐尖，基部心形”。",
+      "补拍花或花序的整体与细节，核对“佛焰苞近白色，肉穗花序，白色，极少开花”。"
+    ],
+    "appearance": "叶片绿色，心形，先端渐尖，基部心形。佛焰苞近白色，肉穗花序，白色，极少开花。",
+    "growthHabit": "多年生常绿蔓性植物。喜温暖，喜充足的散射光，喜湿。",
+    "keyCharacteristics": [
+      "叶片绿色，心形，先端渐尖，基部心形。",
+      "佛焰苞近白色，肉穗花序，白色，极少开花。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶片绿色，心形，先端渐尖，基部心形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-philodendron-hederaceum",
+      "title": "GBIF species record: Philodendron hederaceum",
+      "url": "https://api.gbif.org/v1/species/2871003",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-philodendron-hederaceum",
+      "title": "iPlant 植物智：心叶蔓绿绒（Philodendron hederaceum）",
+      "url": "https://www.iplant.cn/info/Philodendron%20hederaceum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2871003"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "glycine-max",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "大豆",
+    "scientificName": "Glycine max",
+    "family": "豆科",
+    "genus": "大豆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本；",
+    "stem": "茎直立，粗壮，有时上部近缠绕状，密被褐色长硬毛；",
+    "leaf": "3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；",
+    "flower": "总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；",
+    "fruit": "荚果长圆形，长4-7.5厘米，宽0.8-1.5厘米，密被黄褐色长毛；种子椭圆形或近卵球形，光滑，淡绿、黄、褐和黒色等，因品种而异；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；",
+      "花：总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；"
+    ]
+  },
+  "knowledge": {
+    "summary": "大豆为一年生草本；叶3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；",
+      "花：总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；；再以花总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；交叉确认。"
+    ],
+    "appearance": "叶3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；；花总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；。",
+    "growthHabit": "一年生草本；",
+    "keyCharacteristics": [
+      "叶：3小叶，宽卵形、近圆形或椭圆状披针形，先端渐尖或近圆，基部宽楔形或近圆，侧生小叶偏斜；",
+      "花：总状花序腋生，通常具5-8朵几无柄而密生的花，在植株下部的花单生或成对生于叶腋；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "farmland"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-glycine-max",
+      "title": "GBIF species record: Glycine max",
+      "url": "https://api.gbif.org/v1/species/5359660",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-glycine-max",
+      "title": "iPlant species page: Glycine max",
+      "url": "https://www.iplant.cn/info/Glycine%20max?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5359660"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

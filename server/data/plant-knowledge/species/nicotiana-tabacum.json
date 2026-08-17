@@ -1,0 +1,97 @@
+{
+  "id": "nicotiana-tabacum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "烟草",
+    "scientificName": "Nicotiana tabacum",
+    "family": "茄科",
+    "genus": "烟草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎高0.7-2米，基部稍木质化。",
+    "leaf": "叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎；叶柄不明显或成翅状。",
+    "flower": "花梗长0.5-2厘米；花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形，长短不等；花冠漏斗状，淡黄、淡绿、红或粉红色，基部带黄色，稍弓曲，长3.5-5厘米，冠檐径1-1.5厘米，裂片尖；雄蕊1枚较短，不伸出花冠喉部，花丝基部被毛。",
+    "fruit": "蒴果卵圆形或椭圆形，与宿萼近等长。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状。",
+      "花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形，长短不等。",
+      "蒴果卵圆形或椭圆形，与宿萼近等长。"
+    ]
+  },
+  "knowledge": {
+    "summary": "烟草是一年生草本。观察时重点看叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状，并结合花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形确认。",
+    "identificationReferences": [
+      "叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状。",
+      "花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状”。",
+      "补拍花或花序的整体与细节，核对“花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形”。"
+    ],
+    "appearance": "叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状。花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形。",
+    "growthHabit": "一年生草本。",
+    "keyCharacteristics": [
+      "叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状。",
+      "花梗长0.5-2厘米，花萼筒状或筒状钟形，长2-25厘米，裂片三角状披针形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长圆状披针形、披针形、长圆形或卵形，长10-30(-70)厘米，先端渐尖，基部渐窄成耳状半抱茎，叶柄不明显或成翅状”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-nicotiana-tabacum",
+      "title": "GBIF species record: Nicotiana tabacum",
+      "url": "https://api.gbif.org/v1/species/2928774",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-nicotiana-tabacum",
+      "title": "iPlant 植物智：烟草（Nicotiana tabacum）",
+      "url": "https://www.iplant.cn/info/Nicotiana%20tabacum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2928774"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

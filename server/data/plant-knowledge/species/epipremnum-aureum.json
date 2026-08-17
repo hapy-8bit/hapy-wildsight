@@ -1,0 +1,98 @@
+{
+  "id": "epipremnum-aureum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "绿萝",
+    "scientificName": "Epipremnum aureum",
+    "family": "天南星科",
+    "genus": "麒麟叶属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "常绿攀援藤本。",
+    "stem": "茎可攀援，节上常生气生根。",
+    "leaf": "幼株叶片多为全缘心形；成熟植株的叶片可出现羽状分裂。",
+    "flower": "肉穗花序外具佛焰苞。",
+    "fruit": "浆果。",
+    "habitat": "原产热带地区，在温暖湿润、具遮阴条件的环境中生长；常作为室内观叶植物栽培。",
+    "distribution": "原产于法属波利尼西亚的社会群岛，现已在热带及亚热带地区广泛栽培和归化。",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "攀援茎的节上常见气生根。",
+      "幼株多见心形全缘叶；成熟叶可能开裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "绿萝是一种常见的常绿攀援植物。观察时，可先留意它是否沿支撑物攀附，以及叶片和节上的气生根。",
+    "identificationReferences": [
+      "茎可攀援，节上通常有气生根。",
+      "幼株叶片多为心形且全缘；植株成熟后，叶片可能出现羽状分裂。"
+    ],
+    "howToConfirm": [
+      "观察茎节：确认是否有用于攀附的气生根。",
+      "同时看叶片阶段：幼叶通常全缘，成熟叶的开裂不能单独作为判断依据。"
+    ],
+    "appearance": "叶片随植株生长阶段而变化；幼株常见心形全缘叶，成熟植株叶片可出现裂片。",
+    "growthHabit": "常绿攀援藤本，可借气生根攀附生长。",
+    "keyCharacteristics": [
+      "攀援茎与节上气生根。",
+      "幼、成熟阶段的叶形可能不同。"
+    ],
+    "observationTips": [
+      "尽量同时拍到叶片、茎节和整体攀援状态。",
+      "室内栽培植株的斑纹和叶形会随品种与生长阶段变化。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "indoor"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "ornamental-foliage",
+      "climber"
+    ],
+    "coveragePriority": "P0"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "powo-epipremnum-aureum",
+      "title": "Plants of the World Online: Epipremnum aureum (Linden & André) G.S.Bunting",
+      "url": "https://powo.science.kew.org/results?q=Epipremnum%20aureum",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "taxonomy",
+        "native range"
+      ]
+    },
+    {
+      "id": "foc-epipremnum-aureum",
+      "title": "Flora of China: Epipremnum aureum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200026789",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2868323"
+  }
+}

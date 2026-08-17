@@ -1,0 +1,101 @@
+{
+  "id": "kerria-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "棣棠",
+    "scientificName": "Kerria japonica",
+    "family": "蔷薇科",
+    "genus": "棣棠属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木。",
+    "stem": "小枝绿色，常拱垂。",
+    "leaf": "叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿，两面绿色，上面无毛或有稀疏柔毛，下面沿脉或脉腋有柔毛；叶柄长5-10毫米，无毛；托叶膜质，带状披针形，有缘毛，早落。",
+    "flower": "单花，着生在当年生侧枝顶端，花梗无毛；花直径2.5-6厘米；萼片卵状椭圆形，顶端急尖，有小尖头，全缘，无毛，果时宿存；花瓣黄色，宽椭圆形，顶端下凹，比萼片长1-4倍。",
+    "fruit": "瘦果倒卵形至半球形，褐色或黑褐色，表面无毛，有皱褶。",
+    "habitat": "山坡灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿。",
+      "单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米，萼片卵状椭圆形。",
+      "瘦果倒卵形至半球形，褐色或黑褐色，表面无毛，有皱褶。"
+    ]
+  },
+  "knowledge": {
+    "summary": "棣棠是落叶灌木。观察时重点看叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿，并结合单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米确认。",
+    "identificationReferences": [
+      "叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿。",
+      "单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿”。",
+      "补拍花或花序的整体与细节，核对“单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米”。"
+    ],
+    "appearance": "叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿。单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米。",
+    "growthHabit": "落叶灌木。山坡灌丛中。",
+    "keyCharacteristics": [
+      "叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿。",
+      "单花，着生在当年生侧枝顶端，花梗无毛，花直径2.5-6厘米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，三角状卵形或卵圆形，顶端长渐尖，基部圆形、截形或微心形，边缘有尖锐重锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-kerria-japonica",
+      "title": "GBIF species record: Kerria japonica",
+      "url": "https://api.gbif.org/v1/species/5371450",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-kerria-japonica",
+      "title": "iPlant 植物智：棣棠（Kerria japonica）",
+      "url": "https://www.iplant.cn/info/Kerria%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5371450"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

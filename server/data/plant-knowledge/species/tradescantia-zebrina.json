@@ -1,0 +1,109 @@
+{
+  "id": "tradescantia-zebrina",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "吊竹梅",
+    "scientificName": "Tradescantia zebrina",
+    "family": "鸭跖草科",
+    "genus": "紫露草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生蔓性草本，蔓长30-50cm。",
+    "stem": "",
+    "leaf": "叶长卵形，互生，先端尖，基部钝，叶面光滑，叶色多变，绿色带白色条纹或紫红色，叶背淡紫红色。",
+    "flower": "花为聚伞花序，碟形，管状，蓝色，粉红色，紫色或淡紫色。",
+    "fruit": "果实为蒴果。",
+    "habitat": "喜温暖及阳光充足的环境，也耐荫蔽，耐热，不耐寒，忌水湿；喜排水良好的砂质土壤；生长适温18℃-30℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长卵形，互生，先端尖，基部钝，叶面光滑。",
+      "花为聚伞花序，碟形，管状，蓝色，粉红色。",
+      "果实为蒴果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "吊竹梅是多年生蔓性草本。观察时重点看叶长卵形，互生，先端尖，基部钝，叶面光滑，并结合花为聚伞花序，碟形，管状，蓝色确认。",
+    "identificationReferences": [
+      "叶长卵形，互生，先端尖，基部钝，叶面光滑。",
+      "花为聚伞花序，碟形，管状，蓝色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长卵形，互生，先端尖，基部钝，叶面光滑”。",
+      "补拍花或花序的整体与细节，核对“花为聚伞花序，碟形，管状，蓝色”。"
+    ],
+    "appearance": "叶长卵形，互生，先端尖，基部钝，叶面光滑。花为聚伞花序，碟形，管状，蓝色。",
+    "growthHabit": "多年生蔓性草本。喜温暖及阳光充足的环境，也耐荫蔽，耐热。",
+    "keyCharacteristics": [
+      "叶长卵形，互生，先端尖，基部钝，叶面光滑。",
+      "花为聚伞花序，碟形，管状，蓝色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长卵形，互生，先端尖，基部钝，叶面光滑”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-tradescantia-zebrina",
+      "title": "GBIF species record: Tradescantia zebrina",
+      "url": "https://api.gbif.org/v1/species/2765359",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-tradescantia-zebrina",
+      "title": "iPlant 植物智：吊竹梅（Tradescantia zebrina）",
+      "url": "https://www.iplant.cn/info/Tradescantia%20zebrina?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-tradescantia-zebrina",
+      "title": "NC State Extension Plant Toolbox: Tradescantia zebrina",
+      "url": "https://plants.ces.ncsu.edu/plants/tradescantia-zebrina/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2765359"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

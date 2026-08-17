@@ -1,0 +1,100 @@
+{
+  "id": "hibiscus-syriacus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "木槿",
+    "scientificName": "Hibiscus syriacus",
+    "family": "锦葵科",
+    "genus": "木槿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "小枝密被黄色星状绒毛；",
+    "leaf": "叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；",
+    "flower": "花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分枝5；",
+    "fruit": "蒴果卵圆形，径约1.2厘米，密被黄色星状绒毛，具短喙；种子肾形，背部被黄白色长柔毛；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；",
+      "花：花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分枝5；"
+    ]
+  },
+  "knowledge": {
+    "summary": "木槿为落叶灌木；叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；",
+      "花：花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分枝5；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；；再以花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分…交叉确认。"
+    ],
+    "appearance": "叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；；花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分…。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：叶菱形或三角状卵形，基部楔形，具不整齐缺齿，基脉3；",
+      "花：花单生枝端叶腋，花萼钟形，裂片5，三角形，花冠钟形，淡紫色，花瓣5，雄蕊柱长约3厘米，花柱分枝5；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-hibiscus-syriacus",
+      "title": "GBIF species record: Hibiscus syriacus",
+      "url": "https://api.gbif.org/v1/species/3152583",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-hibiscus-syriacus",
+      "title": "iPlant species page: Hibiscus syriacus",
+      "url": "https://www.iplant.cn/info/Hibiscus%20syriacus?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152583"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ginkgo-biloba",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "银杏",
+    "scientificName": "Ginkgo biloba",
+    "family": "银杏科",
+    "genus": "银杏属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "落叶乔木。",
+    "stem": "枝有长枝和短枝之分。",
+    "leaf": "叶扇形，叶脉呈二叉分枝；常在短枝上簇生。",
+    "flower": "雌雄异株，花单性。",
+    "fruit": "种子外被肉质外种皮，常被俗称为果实。",
+    "habitat": "常见于园林和道路栽培环境。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "扇形叶和二叉分枝叶脉。",
+      "短枝上成簇的叶片。"
+    ]
+  },
+  "knowledge": {
+    "summary": "银杏最容易从扇形叶片及其反复二叉分枝的叶脉辨认。",
+    "identificationReferences": [
+      "叶片通常呈扇形，叶脉从叶柄处向外二叉分枝。",
+      "观察叶片是否在短枝上成簇着生。"
+    ],
+    "howToConfirm": [
+      "拍摄一片完整叶和叶脉细节。",
+      "观察同一枝条上叶片的着生方式，并与树冠整体形态结合判断。"
+    ],
+    "appearance": "叶片扇形，叶脉具二叉分枝特征。",
+    "growthHabit": "落叶乔木，枝条有长枝和短枝的分化。",
+    "keyCharacteristics": [
+      "扇形叶片。",
+      "二叉分枝叶脉。"
+    ],
+    "observationTips": [
+      "叶缘裂刻深浅可能不同，应以叶形和叶脉组合观察。",
+      "避免仅凭秋季叶色识别。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "gymnosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "street-tree",
+      "shade-tree"
+    ],
+    "coveragePriority": "P0"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ginkgo-biloba",
+      "title": "GBIF Species Match: Ginkgo biloba L.",
+      "url": "https://api.gbif.org/v1/species/match?name=Ginkgo%20biloba",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus"
+      ]
+    },
+    {
+      "id": "foc-ginkgo-biloba",
+      "title": "Flora of China: Ginkgo biloba",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005501",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "branch",
+        "leaf",
+        "flower",
+        "seed",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2687885"
+  }
+}

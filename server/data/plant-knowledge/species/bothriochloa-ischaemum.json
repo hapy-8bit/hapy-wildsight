@@ -1,0 +1,101 @@
+{
+  "id": "bothriochloa-ischaemum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "白羊草",
+    "scientificName": "Bothriochloa ischaemum",
+    "family": "禾本科",
+    "genus": "孔颖草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本。",
+    "stem": "秆丛生，直立或基部倾斜，高25-70厘米，径1-2毫米，具3至多节，节上无毛或具白色髯毛。",
+    "leaf": "叶鞘无毛，多密集于基部而相互跨覆，常短于节间。",
+    "flower": "总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色，总状花序轴节间与小穗柄两侧具白色丝状毛；无柄小穗长圆状披针形，长4-5毫米，基盘具髯毛；第一颖草质，背部中央略下凹，具5-7脉，下部1/3具丝状柔毛，边缘内卷成2脊，脊上粗糙，先端钝或带膜质；第二颖舟形，中部以上具纤毛；脊上粗糙，边缘亦膜质；第一外稃长圆状披针形，长约3毫米，先端尖，边缘上部疏生纤毛；第二外稃退化成线形，先端延伸成一膝曲扭转的芒，芒长10-15毫米；第一内稃长圆状披针形，长约0.5毫米；第二内秤退化；鳞被2，楔形；雄蕊。",
+    "fruit": "",
+    "habitat": "山坡草地和荒地。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶鞘无毛，多密集于基部而相互跨覆，常短于节间。",
+      "总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色，总状花序轴节间与小穗柄两侧具白色丝状毛。",
+      "秆丛生，直立或基部倾斜，高25-70厘米，径1-2毫米，具3至多节。"
+    ]
+  },
+  "knowledge": {
+    "summary": "白羊草是多年生草本。观察时重点看叶鞘无毛，多密集于基部而相互跨覆，常短于节间，并结合总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色确认。",
+    "identificationReferences": [
+      "叶鞘无毛，多密集于基部而相互跨覆，常短于节间。",
+      "总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶鞘无毛，多密集于基部而相互跨覆，常短于节间”。",
+      "补拍花或花序的整体与细节，核对“总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色”。"
+    ],
+    "appearance": "叶鞘无毛，多密集于基部而相互跨覆，常短于节间。总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色。",
+    "growthHabit": "多年生草本。山坡草地和荒地。",
+    "keyCharacteristics": [
+      "叶鞘无毛，多密集于基部而相互跨覆，常短于节间。",
+      "总状花序4至多数着生于秆顶呈指状，长3-7厘米，纤细，灰绿色或带紫褐色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶鞘无毛，多密集于基部而相互跨覆，常短于节间”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-bothriochloa-ischaemum",
+      "title": "GBIF species record: Bothriochloa ischaemum",
+      "url": "https://api.gbif.org/v1/species/2704102",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-bothriochloa-ischaemum",
+      "title": "iPlant 植物智：白羊草（Bothriochloa ischaemum）",
+      "url": "https://www.iplant.cn/info/Bothriochloa%20ischaemum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2704102"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

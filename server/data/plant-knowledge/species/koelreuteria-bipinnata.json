@@ -1,0 +1,99 @@
+{
+  "id": "koelreuteria-bipinnata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "复羽叶栾",
+    "scientificName": "Koelreuteria bipinnata",
+    "family": "无患子科",
+    "genus": "栾属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木。",
+    "stem": "枝具小疣点。",
+    "leaf": "二回羽状复叶，小叶9-17，互生，稀对生，斜卵形，长3.5-7厘米，先端短尖或短渐尖，基部宽楔形或圆，有内弯小锯齿；小叶柄长约3毫米或近无柄。",
+    "flower": "圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛；萼5裂达中部，裂片宽卵状三角形或长圆形，有短而硬的缘毛及流苏状腺体，边缘啮蚀状；花瓣4，长圆状披针形，瓣片长6-9毫米，瓣爪长1.5-3毫米，被长柔毛，鳞片2深裂。",
+    "fruit": "蒴果椭圆形或近球形，具3棱，淡紫红色，熟时褐色，长4-7厘米，宽3.5-5厘米，顶端纯或圆，有小凸尖，果瓣椭圆形或近圆形，具网状脉纹，内面有光泽。",
+    "habitat": "山地疏林中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "二回羽状复叶，小叶9-17，互生，稀对生，斜卵形。",
+      "圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部，裂片宽卵状三角形或长圆形。",
+      "蒴果椭圆形或近球形，具3棱，淡紫红色，熟时褐色，长4-7厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "复羽叶栾是乔木。观察时重点看二回羽状复叶，小叶9-17，互生，稀对生，斜卵形，并结合圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部确认。",
+    "identificationReferences": [
+      "二回羽状复叶，小叶9-17，互生，稀对生，斜卵形。",
+      "圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“二回羽状复叶，小叶9-17，互生，稀对生，斜卵形”。",
+      "补拍花或花序的整体与细节，核对“圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部”。"
+    ],
+    "appearance": "二回羽状复叶，小叶9-17，互生，稀对生，斜卵形。圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部。",
+    "growthHabit": "乔木。山地疏林中。",
+    "keyCharacteristics": [
+      "二回羽状复叶，小叶9-17，互生，稀对生，斜卵形。",
+      "圆锥花序长35-70厘米，分枝广展，与花梗均被柔毛，萼5裂达中部。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“二回羽状复叶，小叶9-17，互生，稀对生，斜卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree"
+    ],
+    "sceneTags": [
+      "forest"
+    ],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-koelreuteria-bipinnata",
+      "title": "GBIF species record: Koelreuteria bipinnata",
+      "url": "https://api.gbif.org/v1/species/5421179",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-koelreuteria-bipinnata",
+      "title": "iPlant 植物智：复羽叶栾（Koelreuteria bipinnata）",
+      "url": "https://www.iplant.cn/info/Koelreuteria%20bipinnata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "5421179"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

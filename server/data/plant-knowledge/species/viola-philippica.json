@@ -1,0 +1,103 @@
+{
+  "id": "viola-philippica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫花地丁",
+    "scientificName": "Viola philippica",
+    "family": "堇菜科",
+    "genus": "堇菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，无地上茎。",
+    "stem": "根状茎短，垂直，节密生，淡褐色。",
+    "leaf": "基生叶莲座状；下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形，长1.5-4厘米，宽0.5-1厘米，先端圆钝，基部平截或楔形，具圆齿，两面无毛或被细毛，果期叶长达10厘米；叶柄果期上部具宽翅，托叶膜质，离生部分线状披针形，疏生流苏状细齿或近全缘。",
+    "flower": "花梗与叶等长或高于叶，中部有2线形小苞片；萼片卵状披针形或披针形，长5-7毫米，基部附属物短；花瓣倒卵形或长圆状倒卵形，侧瓣长1-1.2厘米，内面无毛或有须毛，下瓣连管状距长1.3-2厘米，有紫色脉纹；距细管状，末端不向上弯；柱头三角形，两侧及后方具微隆起的缘边，顶部略平，前方具短喙。",
+    "fruit": "蒴果长圆形，无毛。",
+    "habitat": "田间、荒地、山坡草丛、林缘或灌丛中。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形。",
+      "花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米，基部附属物短。",
+      "蒴果长圆形，无毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫花地丁是多年生草本。观察时重点看基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形，并结合花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米确认。",
+    "identificationReferences": [
+      "基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形。",
+      "花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形”。",
+      "补拍花或花序的整体与细节，核对“花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米”。"
+    ],
+    "appearance": "基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形。花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米。",
+    "growthHabit": "多年生草本。田间、荒地、山坡草丛、林缘或灌丛中。",
+    "keyCharacteristics": [
+      "基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形。",
+      "花梗与叶等长或高于叶，中部有2线形小苞片，萼片卵状披针形或披针形，长5-7毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“基生叶莲座状，下部叶较小，三角状卵形或窄卵形，上部者较大，圆形、窄卵状披针形或长圆状卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wasteland",
+      "farmland",
+      "forest-edge"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-viola-philippica",
+      "title": "GBIF species record: Viola philippica",
+      "url": "https://api.gbif.org/v1/species/7296732",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-viola-philippica",
+      "title": "iPlant 植物智：紫花地丁（Viola philippica）",
+      "url": "https://www.iplant.cn/info/Viola%20philippica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7296732"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

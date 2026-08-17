@@ -1,0 +1,113 @@
+{
+  "id": "ajuga-reptans",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "匍匐筋骨草",
+    "scientificName": "Ajuga reptans",
+    "family": "唇形科",
+    "genus": "筋骨草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生，地被植物，多年生草本，匍匐，密生，横向生长，开展。",
+    "stem": "",
+    "leaf": "叶对生，莲座状排列，轮生，单叶，倒卵形，卵形，匙形，圆齿，齿状，有光泽。",
+    "flower": "花为穗状花序，唇形，管状，蓝色，紫色或淡紫色，白色。",
+    "fruit": "果实为坚果。",
+    "habitat": "有园艺栽培记录。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶对生，莲座状排列，轮生，单叶，倒卵形。",
+      "花为穗状花序，唇形，管状，蓝色，紫色或淡紫色。",
+      "果实为坚果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "匍匐筋骨草是多年生。观察时重点看叶对生，莲座状排列，轮生，单叶，倒卵形，并结合花为穗状花序，唇形，管状，蓝色确认。",
+    "identificationReferences": [
+      "叶对生，莲座状排列，轮生，单叶，倒卵形。",
+      "花为穗状花序，唇形，管状，蓝色。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶对生，莲座状排列，轮生，单叶，倒卵形”。",
+      "补拍花或花序的整体与细节，核对“花为穗状花序，唇形，管状，蓝色”。"
+    ],
+    "appearance": "叶对生，莲座状排列，轮生，单叶，倒卵形。花为穗状花序，唇形，管状，蓝色。",
+    "growthHabit": "多年生。有园艺栽培记录。",
+    "keyCharacteristics": [
+      "叶对生，莲座状排列，轮生，单叶，倒卵形。",
+      "花为穗状花序，唇形，管状，蓝色。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶对生，莲座状排列，轮生，单叶，倒卵形”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ajuga-reptans",
+      "title": "GBIF species record: Ajuga reptans",
+      "url": "https://api.gbif.org/v1/species/2927078",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-ajuga-reptans",
+      "title": "iPlant 植物智：匍匐筋骨草（Ajuga reptans）",
+      "url": "https://www.iplant.cn/info/Ajuga%20reptans?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    },
+    {
+      "id": "supplemental-morphology-ajuga-reptans",
+      "title": "NC State Extension Plant Toolbox: Ajuga reptans",
+      "url": "https://plants.ces.ncsu.edu/plants/ajuga-reptans/",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "leaf",
+        "reproductive structures",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2927078"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "kalanchoe-blossfeldiana",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "长寿花",
+    "scientificName": "Kalanchoe blossfeldiana",
+    "family": "景天科",
+    "genus": "伽蓝菜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生肉质草本。",
+    "stem": "茎直立，株高10～30厘米。",
+    "leaf": "叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色。",
+    "flower": "圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等；花冠长管状，基部稍膨大。",
+    "fruit": "",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色。",
+      "圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大。",
+      "茎直立，株高10～30厘米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "长寿花是多年生肉质草本。观察时重点看叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色，并结合圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大确认。",
+    "identificationReferences": [
+      "叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色。",
+      "圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色”。",
+      "补拍花或花序的整体与细节，核对“圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大”。"
+    ],
+    "appearance": "叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色。圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大。",
+    "growthHabit": "多年生肉质草本。",
+    "keyCharacteristics": [
+      "叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色。",
+      "圆锥状聚伞花序，花色有绯红、桃红、橙红、黄、橙黄和白等，花冠长管状，基部稍膨大。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶肉质交互对生，椭圆状长圆形，深绿色有光泽，边略带红色”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-kalanchoe-blossfeldiana",
+      "title": "GBIF species record: Kalanchoe blossfeldiana",
+      "url": "https://api.gbif.org/v1/species/2985944",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-kalanchoe-blossfeldiana",
+      "title": "iPlant 植物智：长寿花（Kalanchoe blossfeldiana）",
+      "url": "https://www.iplant.cn/info/Kalanchoe%20blossfeldiana?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2985944"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

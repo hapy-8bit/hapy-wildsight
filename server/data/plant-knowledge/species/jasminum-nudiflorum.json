@@ -1,0 +1,100 @@
+{
+  "id": "jasminum-nudiflorum",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "迎春花",
+    "scientificName": "Jasminum nudiflorum",
+    "family": "木犀科",
+    "genus": "素馨属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "落叶灌木；",
+    "stem": "枝条下垂，小枝无毛，棱上多少具窄翼；",
+    "leaf": "叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶仅叶缘具睫毛；小叶卵形或椭圆形，先端具短尖…",
+    "flower": "花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长4-6毫米，窄披针形；花冠黄色，径2-2.…",
+    "fruit": "果椭圆形，长0.8-2厘米；",
+    "habitat": "山坡灌丛中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶仅叶缘具睫毛；小叶卵形或椭圆形，先端具短尖…",
+      "花：花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长4-6毫米，窄披针形；花冠黄色，径2-2.…"
+    ]
+  },
+  "knowledge": {
+    "summary": "迎春花为落叶灌木；叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶仅叶缘具睫毛；小叶卵形或椭圆形，先端具短尖…",
+      "花：花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长4-6毫米，窄披针形；花冠黄色，径2-2.…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶…；再以花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长…交叉确认。"
+    ],
+    "appearance": "叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶…；花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长…。",
+    "growthHabit": "落叶灌木；",
+    "keyCharacteristics": [
+      "叶：叶对生，三出复叶，小枝基部常具单叶；叶柄长0.3-1厘米，无毛，具窄翼；幼叶两面稍被毛，老叶仅叶缘具睫毛；小叶卵形或椭圆形，先端具短尖…",
+      "花：花单生于去年生小枝叶腋；苞片小叶状，长3-8毫米；花梗长2-3毫米；花萼绿色，裂片5-6，长4-6毫米，窄披针形；花冠黄色，径2-2.…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-jasminum-nudiflorum",
+      "title": "GBIF species record: Jasminum nudiflorum",
+      "url": "https://api.gbif.org/v1/species/3172266",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-jasminum-nudiflorum",
+      "title": "iPlant species page: Jasminum nudiflorum",
+      "url": "https://www.iplant.cn/info/Jasminum%20nudiflorum?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3172266"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

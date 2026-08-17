@@ -1,0 +1,97 @@
+{
+  "id": "tradescantia-spathacea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫背万年青",
+    "scientificName": "Tradescantia spathacea",
+    "family": "鸭跖草科",
+    "genus": "紫露草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本，株高50cm。",
+    "stem": "茎直立，不分枝，无毛。",
+    "leaf": "叶互生，无柄；叶鞘有时口部有长柔毛；叶片上面深绿色，下面紫色，长圆状披针形，长20-40厘米，宽3-6厘米，无毛，多少肉质，基部窄，半抱茎。",
+    "flower": "花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片，苞片长3厘米；花瓣白色、卵形，长5-8厘米，先端突尖。",
+    "fruit": "蒴果。",
+    "habitat": "性强健，喜光耐荫，耐热，不耐寒，耐瘠，不择土壤；生长适温20℃-30℃。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色。",
+      "花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片，苞片长3厘米。",
+      "蒴果。"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫背万年青是多年生草本。观察时重点看叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色，并结合花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片确认。",
+    "identificationReferences": [
+      "叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色。",
+      "花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色”。",
+      "补拍花或花序的整体与细节，核对“花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片”。"
+    ],
+    "appearance": "叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色。花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片。",
+    "growthHabit": "多年生草本。性强健，喜光耐荫，耐热。",
+    "keyCharacteristics": [
+      "叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色。",
+      "花腋生，具总梗，形成不分叉或分叉的、多花伞形花序，下面托有2个大而对折的卵状苞片。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶互生，无柄，叶鞘有时口部有长柔毛，叶片上面深绿色，下面紫色”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-tradescantia-spathacea",
+      "title": "GBIF species record: Tradescantia spathacea",
+      "url": "https://api.gbif.org/v1/species/2765230",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-tradescantia-spathacea",
+      "title": "iPlant 植物智：紫背万年青（Tradescantia spathacea）",
+      "url": "https://www.iplant.cn/info/Tradescantia%20spathacea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2765230"
+  },
+  "contentVersion": 4,
+  "reviewStatus": "reviewed"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "reineckea-carnea",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "吉祥草",
+    "scientificName": "Reineckea carnea",
+    "family": "天门冬科",
+    "genus": "吉祥草属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "草本植物。",
+    "stem": "茎径2-3毫米，匍匐，似根状茎，绿色，多节，顶端具叶簇；根聚生于叶簇下面；",
+    "leaf": "叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；",
+    "flower": "花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫米；花芳香，粉红色，花被片合生成短筒状，上…",
+    "fruit": "浆果球形，径0.6-1厘米，熟时鲜红色；",
+    "habitat": "生于阴湿山坡、山谷或密林下。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；",
+      "花：花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫米；花芳香，粉红色，花被片合生成短筒状，上…"
+    ]
+  },
+  "knowledge": {
+    "summary": "吉祥草为草本植物；叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；",
+      "花：花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫米；花芳香，粉红色，花被片合生成短筒状，上…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；；再以花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫…交叉确认。"
+    ],
+    "appearance": "叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；；花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫…。",
+    "growthHabit": "草本植物。",
+    "keyCharacteristics": [
+      "叶：叶3-8枚簇生，线形或披针形，长10-38厘米，宽0.5-3.5厘米，深绿色；",
+      "花：花葶长5-15厘米；穗状花序长2-6.5厘米，上部花有时为单性雄花，仅具雄蕊；苞片长5-7毫米；花芳香，粉红色，花被片合生成短筒状，上…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-reineckea-carnea",
+      "title": "GBIF species record: Reineckea carnea",
+      "url": "https://api.gbif.org/v1/species/2772865",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-reineckea-carnea",
+      "title": "iPlant species page: Reineckea carnea",
+      "url": "https://www.iplant.cn/info/Reineckea%20carnea?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2772865"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

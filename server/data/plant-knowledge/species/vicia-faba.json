@@ -1,0 +1,101 @@
+{
+  "id": "vicia-faba",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "蚕豆",
+    "scientificName": "Vicia faba",
+    "family": "豆科",
+    "genus": "野豌豆属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "一年生草本。",
+    "stem": "茎粗壮，直立，具4棱，中空，无毛。",
+    "leaf": "偶数羽状复叶，卷须短，为短尖头状；托叶戟头形或近三角状卵形，微有锯齿，具深紫色密腺点；小叶通常1-3对，互生，上部小叶可达4-5对，椭圆形、长圆形或倒卵形，稀圆形，长4-6(-10)厘米，全缘，无毛。",
+    "flower": "总状花序腋生，花序梗几不明显；花2-4(-6)朵簇生于叶腋；花萼钟形，萼齿披针形，下萼齿较长；花冠白色，具紫色脉纹及黑色斑晕，长2-3.5厘米，旗瓣中部两侧缢缩，翼瓣短于旗瓣，龙骨瓣短于翼瓣；子房线形，无柄，胚珠2-4(-6)，花柱密被柔毛，顶端远轴面有一束髯毛。",
+    "fruit": "荚果肥厚，长5-10厘米，宽2-3厘米，绿色，被柔毛，成熟后变为黑色。",
+    "habitat": "北纬63°温暖湿地，耐-4°C低温，但畏暑。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿。",
+      "总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形，萼齿披针形。",
+      "荚果肥厚，长5-10厘米，宽2-3厘米，绿色，被柔毛。"
+    ]
+  },
+  "knowledge": {
+    "summary": "蚕豆是一年生草本。观察时重点看偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿，并结合总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形确认。",
+    "identificationReferences": [
+      "偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿。",
+      "总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿”。",
+      "补拍花或花序的整体与细节，核对“总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形”。"
+    ],
+    "appearance": "偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿。总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形。",
+    "growthHabit": "一年生草本。北纬63°温暖湿地，耐-4°C低温，但畏暑。",
+    "keyCharacteristics": [
+      "偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿。",
+      "总状花序腋生，花序梗几不明显，花2-4(-6)朵簇生于叶腋，花萼钟形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“偶数羽状复叶，卷须短，为短尖头状，托叶戟头形或近三角状卵形，微有锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "wetland-waterside"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-vicia-faba",
+      "title": "GBIF species record: Vicia faba",
+      "url": "https://api.gbif.org/v1/species/2974832",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-vicia-faba",
+      "title": "iPlant 植物智：蚕豆（Vicia faba）",
+      "url": "https://www.iplant.cn/info/Vicia%20faba?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "2974832"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

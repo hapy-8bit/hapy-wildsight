@@ -1,0 +1,97 @@
+{
+  "id": "argyranthemum-frutescens",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "木茼蒿",
+    "scientificName": "Argyranthemum frutescens",
+    "family": "菊科",
+    "genus": "木茼蒿属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木。",
+    "stem": "枝条大部木质化。",
+    "leaf": "叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对，二回浅裂或半裂，侧裂片线形或披针形，两面无毛；叶柄长1.5-4厘米，有窄翼。",
+    "flower": "头状花序多数，在枝端排成不规则的伞房花序，有长花梗；总苞宽10-15毫米。",
+    "fruit": "舌状花瘦果有3条具白色膜质宽翅形的肋；两性花瘦果有1-2条具窄翅的肋，并有4-6条细间肋；冠状冠毛长0.4毫米。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对。",
+      "头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米。",
+      "舌状花瘦果有3条具白色膜质宽翅形的肋，两性花瘦果有1-2条具窄翅的肋，并有4-6条细间肋，冠状冠毛长0.4毫米。"
+    ]
+  },
+  "knowledge": {
+    "summary": "木茼蒿是灌木。观察时重点看叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对，并结合头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米确认。",
+    "identificationReferences": [
+      "叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对。",
+      "头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对”。",
+      "补拍花或花序的整体与细节，核对“头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米”。"
+    ],
+    "appearance": "叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对。头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米。",
+    "growthHabit": "灌木。",
+    "keyCharacteristics": [
+      "叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对。",
+      "头状花序多数，在枝端排成不规则的伞房花序，有长花梗，总苞宽10-15毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶宽卵形、椭圆形或长椭圆形，长3-6厘米，二回羽状分裂，一回深裂或几全裂，侧裂片2-5对”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-argyranthemum-frutescens",
+      "title": "GBIF species record: Argyranthemum frutescens",
+      "url": "https://api.gbif.org/v1/species/3104491",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-argyranthemum-frutescens",
+      "title": "iPlant 植物智：木茼蒿（Argyranthemum frutescens）",
+      "url": "https://www.iplant.cn/info/Argyranthemum%20frutescens?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3104491"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

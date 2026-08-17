@@ -1,0 +1,101 @@
+{
+  "id": "ophiopogon-japonicus",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "麦冬",
+    "scientificName": "Ophiopogon japonicus",
+    "family": "天门冬科",
+    "genus": "沿阶草属",
+    "aliases": []
+  },
+  "sourceFacts": {
+    "lifeForm": "多年生常绿草本。",
+    "stem": "具短根茎，根常具膨大部分。",
+    "leaf": "叶基生，狭长而革质。",
+    "flower": "花葶抽出，花较小。",
+    "fruit": "果实成熟时呈蓝色。",
+    "habitat": "可见于林下或作为园林地被栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶片狭长、常绿并从基部丛生。",
+      "植株低矮，常作地被成片栽培。",
+      "果实成熟时呈蓝色。"
+    ]
+  },
+  "knowledge": {
+    "summary": "麦冬是常见的低矮常绿地被，可从基生狭长叶和丛生习性观察。",
+    "identificationReferences": [
+      "叶片多从基部丛生，狭长且常绿。",
+      "植株低矮，园林中常成片用于地被。"
+    ],
+    "howToConfirm": [
+      "拍摄叶丛、植株基部和花果（如有）。",
+      "观察其是否为低矮、成片栽培的常绿地被。"
+    ],
+    "appearance": "叶丛细长，整体呈低矮草状。",
+    "growthHabit": "多年生常绿草本，常以丛生形式作园林地被。",
+    "keyCharacteristics": [
+      "基生狭长常绿叶。",
+      "低矮丛生的地被形态。"
+    ],
+    "observationTips": [
+      "仅拍叶片时信息有限，宜补拍基部和花果。",
+      "园林中相似的细叶地被较多，建议记录植株整体。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [
+      "groundcover"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-ophiopogon-japonicus",
+      "title": "GBIF Species Match: Ophiopogon japonicus (Thunb.) Ker Gawl.",
+      "url": "https://api.gbif.org/v1/species/match?name=Ophiopogon%20japonicus",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "foc-ophiopogon-japonicus",
+      "title": "Flora of China search: Ophiopogon japonicus",
+      "url": "https://www.efloras.org/search.aspx?query=Ophiopogon%20japonicus",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "contentVersion": 1,
+  "reviewStatus": "reviewed",
+  "providerMappings": {
+    "gbif": "2774158"
+  }
+}

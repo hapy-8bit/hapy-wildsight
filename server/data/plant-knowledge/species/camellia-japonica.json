@@ -1,0 +1,100 @@
+{
+  "id": "camellia-japonica",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "山茶",
+    "scientificName": "Camellia japonica",
+    "family": "山茶科",
+    "genus": "山茶属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "乔木；",
+    "stem": "幼枝无毛；",
+    "leaf": "叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；叶柄长0.8-1.5厘米；",
+    "flower": "单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落；花瓣6-7，外层2片近圆形，离生，长2厘米…",
+    "fruit": "蒴果球形，径3-5厘米，3月裂，果爿木质，厚6-8毫米，每室1-2种子；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；叶柄长0.8-1.5厘米；",
+      "花：单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落；花瓣6-7，外层2片近圆形，离生，长2厘米…"
+    ]
+  },
+  "knowledge": {
+    "summary": "山茶为乔木；叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；叶柄长0.8-1.5厘米；",
+      "花：单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落；花瓣6-7，外层2片近圆形，离生，长2厘米…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；；再以花单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落…交叉确认。"
+    ],
+    "appearance": "叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；；花单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落…。",
+    "growthHabit": "乔木；",
+    "keyCharacteristics": [
+      "叶：叶革质，椭圆形，长5-10厘米，先端钝尖或骤短尖，基部宽楔形，两面无毛，侧脉7-8对，具钝齿；叶柄长0.8-1.5厘米；",
+      "花：单花顶生及腋生，红色；花无梗；苞片及萼片10，半圆形或圆形，长0.4-2厘米，被绢毛，脱落；花瓣6-7，外层2片近圆形，离生，长2厘米…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [
+      "hedge"
+    ],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-camellia-japonica",
+      "title": "GBIF species record: Camellia japonica",
+      "url": "https://api.gbif.org/v1/species/3189636",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-camellia-japonica",
+      "title": "iPlant species page: Camellia japonica",
+      "url": "https://www.iplant.cn/info/Camellia%20japonica?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189636"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

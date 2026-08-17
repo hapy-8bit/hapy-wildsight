@@ -1,0 +1,97 @@
+{
+  "id": "corchorus-capsularis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "黄麻",
+    "scientificName": "Corchorus capsularis",
+    "family": "锦葵科",
+    "genus": "黄麻属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "直立木质草本。",
+    "stem": "本种茎皮富含纤维，可作绳索及织制麻袋。",
+    "leaf": "叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半，边缘有细锯齿；叶柄长2厘米，托叶丝形，脱落。",
+    "flower": "花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗；萼片4-5，长3-4毫米；花瓣黄色，倒卵形，与萼片等长；雄蕊18-22，离生；子房无毛，柱头浅裂。",
+    "fruit": "蒴果球形，径大于1厘米，顶端无角，有纵棱及瘤状突起，5月裂。",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半。",
+      "花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米，花瓣黄色。",
+      "蒴果球形，径大于1厘米，顶端无角，有纵棱及瘤状突起，5月裂。"
+    ]
+  },
+  "knowledge": {
+    "summary": "黄麻是直立木质草本。观察时重点看叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半，并结合花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米确认。",
+    "identificationReferences": [
+      "叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半。",
+      "花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半”。",
+      "补拍花或花序的整体与细节，核对“花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米”。"
+    ],
+    "appearance": "叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半。花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米。",
+    "growthHabit": "直立木质草本。",
+    "keyCharacteristics": [
+      "叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半。",
+      "花单生或数朵排成腋生聚伞花序，有短的花序梗及花梗，萼片4-5，长3-4毫米。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶卵状披针形或窄披针形，长5-12厘米，先端渐尖，基部圆，3出脉的两侧脉上行不过半”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-corchorus-capsularis",
+      "title": "GBIF species record: Corchorus capsularis",
+      "url": "https://api.gbif.org/v1/species/3152082",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-corchorus-capsularis",
+      "title": "iPlant 植物智：黄麻（Corchorus capsularis）",
+      "url": "https://www.iplant.cn/info/Corchorus%20capsularis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3152082"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

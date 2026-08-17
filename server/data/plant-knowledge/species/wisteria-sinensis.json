@@ -1,0 +1,98 @@
+{
+  "id": "wisteria-sinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "紫藤",
+    "scientificName": "Wisteria sinensis",
+    "family": "豆科",
+    "genus": "紫藤属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "大型藤本，长达20余米；",
+    "stem": "茎粗壮，左旋；嫩枝黄褐色，被白色绢毛；",
+    "leaf": "羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1对最小，长5-8厘米，宽2-4厘米，先端渐尖…",
+    "flower": "总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；",
+    "fruit": "荚果线状倒披针形，成熟后不脱落，长10-15厘米，宽1.5-2厘米，密被灰色茸毛；",
+    "habitat": "",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1对最小，长5-8厘米，宽2-4厘米，先端渐尖…",
+      "花：总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；"
+    ]
+  },
+  "knowledge": {
+    "summary": "紫藤为大型藤本，长达20余米；叶羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1对最小，长5-8厘米，宽2-4厘米，先端渐尖…",
+      "花：总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1…；再以花总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；交叉确认。"
+    ],
+    "appearance": "叶羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1…；花总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；。",
+    "growthHabit": "大型藤本，长达20余米；",
+    "keyCharacteristics": [
+      "叶：羽状复叶长15-25厘米，小叶9-13，纸质，卵状椭圆形或卵状披针形，先端小叶较大，基部1对最小，长5-8厘米，宽2-4厘米，先端渐尖…",
+      "花：总状花序生于去年短枝的叶腋或顶芽，长15-30厘米，径8-10厘米，先叶开花；"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "vine"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-wisteria-sinensis",
+      "title": "GBIF species record: Wisteria sinensis",
+      "url": "https://api.gbif.org/v1/species/8149049",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-wisteria-sinensis",
+      "title": "iPlant species page: Wisteria sinensis",
+      "url": "https://www.iplant.cn/info/Wisteria%20sinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "8149049"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

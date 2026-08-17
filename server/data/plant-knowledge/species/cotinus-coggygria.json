@@ -1,0 +1,98 @@
+{
+  "id": "cotinus-coggygria",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "欧黄栌",
+    "scientificName": "Cotinus coggygria",
+    "family": "漆树科",
+    "genus": "黄栌属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "灌木；",
+    "stem": "高3-5m；",
+    "leaf": "叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔毛或背面较明显的灰色短柔毛，基部圆形到宽楔…",
+    "flower": "圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛；雄蕊5，花药卵形，与花丝等长，花盘5裂，紫…",
+    "fruit": "果肾形，长约4.5毫米，宽约2.5毫米，无毛；",
+    "habitat": "山地森林和灌丛中；",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔毛或背面较明显的灰色短柔毛，基部圆形到宽楔…",
+      "花：圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛；雄蕊5，花药卵形，与花丝等长，花盘5裂，紫…"
+    ]
+  },
+  "knowledge": {
+    "summary": "欧黄栌为灌木；叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔…。观察时再结合叶、花、果等结构确认。",
+    "identificationReferences": [
+      "叶：叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔毛或背面较明显的灰色短柔毛，基部圆形到宽楔…",
+      "花：圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛；雄蕊5，花药卵形，与花丝等长，花盘5裂，紫…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、果等可见结构。",
+      "先核对叶：柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔…；再以花圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛…交叉确认。"
+    ],
+    "appearance": "叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔…；花圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛…。",
+    "growthHabit": "灌木；",
+    "keyCharacteristics": [
+      "叶：叶柄可达3.5厘米； 叶片宽椭圆形到倒卵形， 3-8 * 2.5-6 厘米， 两面灰色的短柔毛或背面较明显的灰色短柔毛，基部圆形到宽楔…",
+      "花：圆锥花序；花杂性，花梗长7-10毫米，花萼无毛，裂片卵状三角形；花瓣卵形或卵状披针形，无毛；雄蕊5，花药卵形，与花丝等长，花盘5裂，紫…"
+    ],
+    "observationTips": [
+      "将叶、花、果放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "shrub"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "wild"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-cotinus-coggygria",
+      "title": "GBIF species record: Cotinus coggygria",
+      "url": "https://api.gbif.org/v1/species/3190522",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-cotinus-coggygria",
+      "title": "iPlant species page: Cotinus coggygria",
+      "url": "https://www.iplant.cn/info/Cotinus%20coggygria?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3190522"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}

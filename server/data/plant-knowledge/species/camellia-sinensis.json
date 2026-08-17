@@ -1,0 +1,98 @@
+{
+  "id": "camellia-sinensis",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "茶",
+    "scientificName": "Camellia sinensis",
+    "family": "山茶科",
+    "genus": "山茶属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "小乔木或灌木状。",
+    "stem": "幼枝被毛或无毛。",
+    "leaf": "叶长圆形或椭圆形，基部楔形，具锯齿。",
+    "flower": "花1-3朵腋生，白色，萼片5，卵形或圆形，宿存，花瓣5-6，宽卵形，基部稍连合；雄蕊花丝基部连合，花柱顶端3裂。",
+    "fruit": "蒴果3，球形，高1.5厘米，每室1-2种子。",
+    "habitat": "山地疏林。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶长圆形或椭圆形，基部楔形，具锯齿。",
+      "花1-3朵腋生，白色，萼片5，卵形或圆形，宿存。",
+      "蒴果3，球形，高1.5厘米，每室1-2种子。"
+    ]
+  },
+  "knowledge": {
+    "summary": "茶是小乔木或灌木状。观察时重点看叶长圆形或椭圆形，基部楔形，具锯齿，并结合花1-3朵腋生，白色，萼片5，卵形或圆形确认。",
+    "identificationReferences": [
+      "叶长圆形或椭圆形，基部楔形，具锯齿。",
+      "花1-3朵腋生，白色，萼片5，卵形或圆形。"
+    ],
+    "howToConfirm": [
+      "近拍叶片正反面及其在茎枝上的着生方式，核对“叶长圆形或椭圆形，基部楔形，具锯齿”。",
+      "补拍花或花序的整体与细节，核对“花1-3朵腋生，白色，萼片5，卵形或圆形”。"
+    ],
+    "appearance": "叶长圆形或椭圆形，基部楔形，具锯齿。花1-3朵腋生，白色，萼片5，卵形或圆形。",
+    "growthHabit": "小乔木或灌木状。山地疏林。",
+    "keyCharacteristics": [
+      "叶长圆形或椭圆形，基部楔形，具锯齿。",
+      "花1-3朵腋生，白色，萼片5，卵形或圆形。"
+    ],
+    "observationTips": [
+      "记录叶片的形状、边缘和排列，重点核对“叶长圆形或椭圆形，基部楔形，具锯齿”。",
+      "若现场有花或花序，同时拍下其与主要营养体的相对位置。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "tree",
+      "shrub"
+    ],
+    "sceneTags": [],
+    "occurrenceTypes": [],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-camellia-sinensis",
+      "title": "GBIF species record: Camellia sinensis",
+      "url": "https://api.gbif.org/v1/species/3189635",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "external ID",
+        "taxonomic group"
+      ]
+    },
+    {
+      "id": "iplant-camellia-sinensis",
+      "title": "iPlant 植物智：茶（Camellia sinensis）",
+      "url": "https://www.iplant.cn/info/Camellia%20sinensis?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted Chinese name",
+        "Chinese family",
+        "Chinese genus",
+        "habit",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "habitat",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "3189635"
+  },
+  "contentVersion": 3,
+  "reviewStatus": "reviewed"
+}

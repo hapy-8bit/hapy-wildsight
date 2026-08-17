@@ -1,0 +1,98 @@
+{
+  "id": "lycoris-radiata",
+  "category": "plant",
+  "status": "published",
+  "identity": {
+    "acceptedChineseName": "石蒜",
+    "scientificName": "Lycoris radiata",
+    "family": "石蒜科",
+    "genus": "石蒜属",
+    "aliases": []
+  },
+  "scientificSynonyms": [],
+  "sourceFacts": {
+    "lifeForm": "多年生草本；",
+    "stem": "鳞茎近球形，径1-3厘米；",
+    "leaf": "叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；",
+    "flower": "花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两侧对称，鲜红色，花被筒绿色，长约5毫米；花…",
+    "fruit": "",
+    "habitat": "野生于阴湿山坡和溪沟边；庭院也栽培。",
+    "distribution": "",
+    "floweringPeriod": "",
+    "diagnosticTraits": [
+      "叶：叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；",
+      "花：花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两侧对称，鲜红色，花被筒绿色，长约5毫米；花…"
+    ]
+  },
+  "knowledge": {
+    "summary": "石蒜为多年生草本；叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；。观察时再结合叶、花、茎等结构确认。",
+    "identificationReferences": [
+      "叶：叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；",
+      "花：花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两侧对称，鲜红色，花被筒绿色，长约5毫米；花…"
+    ],
+    "howToConfirm": [
+      "先拍摄植株整体，再近拍叶、花、茎等可见结构。",
+      "先核对叶：深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；；再以花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两…交叉确认。"
+    ],
+    "appearance": "叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；；花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两…。",
+    "growthHabit": "多年生草本；",
+    "keyCharacteristics": [
+      "叶：叶深绿色，秋季出叶，窄带状，长约15厘米，宽约5毫米，先端钝，中脉具粉绿色带；",
+      "花：花茎高约30厘米，顶生伞形花序有4-7花；总苞片2，披针形，长约3.5毫米，宽约5亳米；花两侧对称，鲜红色，花被筒绿色，长约5毫米；花…"
+    ],
+    "observationTips": [
+      "将叶、花、茎放在同一组照片中，保留大小或枝条连接关系。",
+      "花、果或孢子结构不可见时，保留不同角度的叶和茎部照片以便后续确认。"
+    ],
+    "confusableSpecies": [],
+    "observationReminder": "植物识别仅供自然观察与记录参考；请勿仅凭识别结果判断植物是否可食用、可药用或对人和宠物安全。"
+  },
+  "catalogMetadata": {
+    "taxonGroup": "angiosperm",
+    "growthForms": [
+      "herb"
+    ],
+    "sceneTags": [
+      "urban-greening",
+      "park-garden"
+    ],
+    "occurrenceTypes": [
+      "cultivated"
+    ],
+    "useTags": [],
+    "coveragePriority": "P1"
+  },
+  "internalSourceRefs": [
+    {
+      "id": "gbif-lycoris-radiata",
+      "title": "GBIF species record: Lycoris radiata",
+      "url": "https://api.gbif.org/v1/species/7920353",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "accepted scientific name",
+        "family",
+        "genus",
+        "external ID"
+      ]
+    },
+    {
+      "id": "iplant-lycoris-radiata",
+      "title": "iPlant species page: Lycoris radiata",
+      "url": "https://www.iplant.cn/info/Lycoris%20radiata?t=z",
+      "accessedAt": "2026-08-16",
+      "usedFor": [
+        "Chinese name",
+        "habit",
+        "leaf",
+        "flower",
+        "fruit",
+        "diagnostic traits"
+      ]
+    }
+  ],
+  "providerMappings": {
+    "gbif": "7920353"
+  },
+  "contentVersion": 1,
+  "reviewStatus": "reviewed"
+}
