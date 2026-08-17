@@ -8,9 +8,8 @@ import { AppTypography } from '../constants/AppTypography';
  *
  * It follows the HarmonyOS secondary-page pattern while keeping the app's
  * existing in-process route model: a safe-area-aware fixed header, a large
- * leading title, and a circular back affordance. The surface fades in only
- * after content has moved underneath it, which keeps the initial page open
- * and gives scrolling pages a clear title-bar separation.
+ * leading title, and a circular back affordance. The title-bar surface is
+ * always opaque; scrolling only adds hierarchy through a light shadow.
  */
 @Component
 export struct SecondaryPageHeader {
@@ -19,14 +18,12 @@ export struct SecondaryPageHeader {
   @BuilderParam onBack: () => void;
 
   build() {
-    Stack({ alignContent: Alignment.BottomStart }) {
+    Stack({ alignContent: Alignment.Center }) {
       Column()
         .width('100%')
         .height('100%')
         .backgroundColor(AppColors.PAPER)
-        .opacity(this.scrollOffset > 1 ? 0.9 : 0)
-        // HarmonyOS background blur keeps the scrolled title bar legible without a hard opaque panel.
-        .backdropBlur(this.scrollOffset > 1 ? 18 : 0)
+        .border({ width: { bottom: AppDimensions.HAIRLINE }, color: AppColors.BORDER_SOFT })
 
       Row({ space: AppSpacing.MD }) {
         Button() {
@@ -55,11 +52,8 @@ export struct SecondaryPageHeader {
           .layoutWeight(1)
       }
       .width('100%')
-      .padding({
-        left: AppDimensions.PAGE_HORIZONTAL,
-        right: AppDimensions.PAGE_HORIZONTAL,
-        bottom: AppSpacing.LG
-      })
+      .height(48)
+      .padding({ left: AppDimensions.PAGE_HORIZONTAL, right: AppDimensions.PAGE_HORIZONTAL })
       .alignItems(VerticalAlign.Center)
     }
     .width('100%')

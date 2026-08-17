@@ -24,6 +24,7 @@ export struct PageTitle {
       }
     }
     .width('100%')
+    .height(AppDimensions.MAIN_TITLE_BLOCK_HEIGHT)
     .padding({ top: AppDimensions.MAIN_TITLE_TOP_INSET })
     .alignItems(HorizontalAlign.Start)
   }

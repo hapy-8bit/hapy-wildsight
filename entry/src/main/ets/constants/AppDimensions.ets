@@ -4,6 +4,8 @@ export class AppDimensions {
   static readonly BOTTOM_NAV_HEIGHT: number = 60;
   static readonly BOTTOM_NAV_MARGIN: number = 10;
   static readonly MAIN_TITLE_TOP_INSET: number = 32;
+  // Keep the title block identical across the three primary tabs, including the settings header.
+  static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 100;
   static readonly MAIN_TITLE_SUBTITLE_GAP: number = 6;
   static readonly MAIN_TITLE_CONTENT_GAP: number = 20;
   // Fixed secondary-page title bar modeled on the HarmonyOS large-title pattern.
@@ -12,8 +14,8 @@ export class AppDimensions {
   // HdsTabs overlaps its content; scrollable primary-tab pages reserve this visual/safe-area space.
   static readonly PRIMARY_TABS_CONTENT_INSET: number = 120;
   // Settings follows the compact grouped-card language used by the reference app.
-  static readonly SETTINGS_HEADER_HEIGHT: number = 90;
-  static readonly SETTINGS_CONTENT_TOP_INSET: number = 90;
+  static readonly SETTINGS_HEADER_HEIGHT: number = AppDimensions.MAIN_TITLE_BLOCK_HEIGHT;
+  static readonly SETTINGS_CONTENT_TOP_INSET: number = AppDimensions.MAIN_TITLE_BLOCK_HEIGHT;
   static readonly SETTINGS_CONTENT_BOTTOM_INSET: number = 132;
   static readonly SETTINGS_GROUP_SPACE: number = 10;
   static readonly SETTINGS_GROUP_RADIUS: number = 16;
