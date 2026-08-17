@@ -168,12 +168,6 @@ export struct WildSightApp {
     return this.species.filter((species: Species) => this.summaryForSpecies(species.id).encounterCount > 0);
   }
 
-  private recentDiscoveries(): Discovery[] {
-    return this.discoveries
-      .slice()
-      .sort((left: Discovery, right: Discovery) => right.discoveredAt.getTime() - left.discoveredAt.getTime());
-  }
-
   private tabBarStyle(symbol: TabBarSymbol, title: string): BottomTabBarStyle {
     return new BottomTabBarStyle(symbol, title)
       .iconStyle({
@@ -218,13 +212,19 @@ export struct WildSightApp {
       return;
     }
     try {
-      const context = getContext(this) as common.UIAbilityContext;
+      const hostContext = this.getUIContext().getHostContext();
+      const context = hostContext as common.UIAbilityContext;
+      if (!await this.photoService.requestCameraPermission(context)) {
+        this.discoveryNotice = '相机权限未开启，仍可使用“从相册识别”。';
+        return;
+      }
       const photoUri = await this.photoService.capturePhoto(context);
       if (photoUri === undefined || photoUri.length === 0) {
         return;
       }
       this.startIdentification(photoUri);
-    } catch (_error) {
+    } catch (error) {
+      console.error(`WildSight camera flow failed: ${JSON.stringify(error)}`);
       this.route = AppRoute.DISCOVER;
       this.discoveryNotice = '相机权限未开启或拍摄未完成，仍可使用“从相册识别”。';
     }
@@ -498,13 +498,9 @@ export struct WildSightApp {
               TabContent() {
                 DiscoverPage({
                   heroPhotoUri: this.selectedPhotoUri,
-                  species: this.species,
-                  recentDiscoveries: this.recentDiscoveries(),
                   notice: this.discoveryNotice,
                   onPickFromAlbum: () => this.pickPhotoFromAlbum(),
-                  onTakePhoto: () => this.takePhoto(),
-                  onNavigate: (route: AppRoute) => this.changeRoute(route),
-                  onOpenSpecies: (speciesId: string) => this.openSpecies(speciesId)
+                  onTakePhoto: () => this.takePhoto()
                 })
               }
               .tabBar(this.tabBarStyle(this.discoverTabSymbol, '发现'))
