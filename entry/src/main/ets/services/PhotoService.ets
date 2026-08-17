@@ -1,6 +1,8 @@
 import { abilityAccessCtrl, common } from '@kit.AbilityKit';
 import { camera, cameraPicker } from '@kit.CameraKit';
 import { photoAccessHelper } from '@kit.MediaLibraryKit';
+import fileIo from '@ohos.file.fs';
+import fileUri from '@ohos.file.fileuri';
 
 /** Native photo-selection and camera-capture boundary. */
 export class PhotoService {
@@ -15,8 +17,12 @@ export class PhotoService {
   }
 
   async capturePhoto(context: common.UIAbilityContext): Promise<string | undefined> {
+    const destinationPath = `${context.filesDir}/camera-${Date.now()}.jpg`;
+    const destinationFile = fileIo.createRandomAccessFileSync(destinationPath, fileIo.OpenMode.CREATE);
+    fileIo.closeSync(destinationFile.fd);
     const profile = new cameraPicker.PickerProfile();
     profile.cameraPosition = camera.CameraPosition.CAMERA_POSITION_BACK;
+    profile.saveUri = fileUri.getUriFromPath(destinationPath);
     const result = await cameraPicker.pick(
       context,
       [cameraPicker.PickerMediaType.PHOTO],
