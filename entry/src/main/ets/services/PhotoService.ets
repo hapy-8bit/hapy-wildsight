@@ -29,7 +29,6 @@ export class PhotoService {
       [cameraPicker.PickerMediaType.PHOTO],
       profile
     );
-    console.info(`CameraKit picker result: code=${result.resultCode}, uriLength=${result.resultUri.length}`);
     return result.resultUri.length > 0 ? result.resultUri : undefined;
   }
 

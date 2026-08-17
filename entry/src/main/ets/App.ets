@@ -1,5 +1,4 @@
 import { common, ConfigurationConstant } from '@kit.AbilityKit';
-import { BusinessError } from '@kit.BasicServicesKit';
 import { HdsTabs, HdsTabsController, hdsMaterial } from '@kit.UIDesignKit';
 import { SymbolGlyphModifier, window } from '@kit.ArkUI';
 import { AppColors } from './constants/AppColors';
@@ -225,9 +224,7 @@ export struct WildSightApp {
         return;
       }
       this.startIdentification(photoUri);
-    } catch (error) {
-      const pickerError = error as BusinessError;
-      console.error(`WildSight camera flow failed: code=${pickerError.code}, message=${pickerError.message}`);
+    } catch (_error) {
       this.route = AppRoute.DISCOVER;
       this.discoveryNotice = '相机权限未开启或拍摄未完成，仍可使用“从相册识别”。';
     }
