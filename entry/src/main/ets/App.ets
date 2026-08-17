@@ -220,6 +220,7 @@ export struct WildSightApp {
       }
       const photoUri = await this.photoService.capturePhoto(context);
       if (photoUri === undefined || photoUri.length === 0) {
+        this.discoveryNotice = '相机未返回照片，仍可使用“从相册识别”。';
         return;
       }
       this.startIdentification(photoUri);
