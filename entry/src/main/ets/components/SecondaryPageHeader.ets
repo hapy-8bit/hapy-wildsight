@@ -24,7 +24,9 @@ export struct SecondaryPageHeader {
         .width('100%')
         .height('100%')
         .backgroundColor(AppColors.PAPER)
-        .opacity(this.scrollOffset > 1 ? 0.96 : 0)
+        .opacity(this.scrollOffset > 1 ? 0.9 : 0)
+        // HarmonyOS background blur keeps the scrolled title bar legible without a hard opaque panel.
+        .backdropBlur(this.scrollOffset > 1 ? 18 : 0)
 
       Row({ space: AppSpacing.MD }) {
         Button() {
