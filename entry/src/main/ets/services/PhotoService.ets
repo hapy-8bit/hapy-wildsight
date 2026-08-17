@@ -20,9 +20,10 @@ export class PhotoService {
     const destinationPath = `${context.filesDir}/camera-${Date.now()}.jpg`;
     const destinationFile = fileIo.createRandomAccessFileSync(destinationPath, fileIo.OpenMode.CREATE);
     fileIo.closeSync(destinationFile.fd);
-    const profile = new cameraPicker.PickerProfile();
-    profile.cameraPosition = camera.CameraPosition.CAMERA_POSITION_BACK;
-    profile.saveUri = fileUri.getUriFromPath(destinationPath);
+    const profile: cameraPicker.PickerProfile = {
+      cameraPosition: camera.CameraPosition.CAMERA_POSITION_BACK,
+      saveUri: fileUri.getUriFromPath(destinationPath)
+    };
     const result = await cameraPicker.pick(
       context,
       [cameraPicker.PickerMediaType.PHOTO],
