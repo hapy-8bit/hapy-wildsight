@@ -1,11 +1,11 @@
 export class AppDimensions {
-  static readonly PAGE_HORIZONTAL: number = 20;
+  static readonly PAGE_HORIZONTAL: number = 16;
   static readonly CONTENT_MAX_WIDTH: number = 680;
   static readonly BOTTOM_NAV_HEIGHT: number = 60;
   static readonly BOTTOM_NAV_MARGIN: number = 10;
-  static readonly MAIN_TITLE_TOP_INSET: number = 32;
-  // Keep the title block identical across the three primary tabs, including the settings header.
-  static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 100;
+  // Primary pages reuse the same title row as MingHOS secondary pages, with room for an optional subtitle.
+  static readonly MAIN_TITLE_ROW_HEIGHT: number = 56;
+  static readonly MAIN_TITLE_BLOCK_HEIGHT: number = 84;
   static readonly MAIN_TITLE_SUBTITLE_GAP: number = 6;
   static readonly MAIN_TITLE_CONTENT_GAP: number = 20;
   // Match MingHOS SettingsDetailHeader exactly; content scrolls in a separate region below it.

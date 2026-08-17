@@ -41,7 +41,7 @@ npm test
 - 当前不能把正式 HTTPS 当作当日已验证；此前环境无法解析 `api.hapybuilds.com`。
 - 真机/生产验证必须记录实际日期、设备和命令，不得沿用旧日期结论。
 - 本轮客户端改动：在配置 `DEVECO_SDK_HOME=/Applications/DevEco-Studio.app/Contents/sdk`、`JAVA_HOME=/Applications/DevEco-Studio.app/Contents/jbr/Contents/Home` 后，`/Applications/DevEco-Studio.app/Contents/tools/hvigor/bin/hvigorw --mode module -p product=default assembleHap` 完整通过并生成签名 HAP。
-- 真机设备 `2UCUT23C27028737` 已覆盖安装且未清除应用数据；已验证正方形拍摄区、设置支持组、反馈入口，以及系统相机拍摄确认后返回识别结果。2026-08-17 又完成标题专项验收：三个一级页共用标题基线；所有二级页采用日月同款 56vp/44vp/23vp/22fp 标题栏规格；物种详情快速滚动停止后标题、返回按钮和不透明背景仍固定可见。深色冷启动、开屏约 1 秒和浅深主题切换本轮未重新验证。
+- 真机设备 `2UCUT23C27028737` 已覆盖安装且未清除应用数据；已验证正方形拍摄区、设置支持组、反馈入口，以及系统相机拍摄确认后返回识别结果。2026-08-17 又完成标题专项调整：三个一级页使用日月同款 56vp/22fp Bold 标题行；所有二级页采用 56vp/44vp/23vp/22fp 标题栏规格；物种详情快速滚动停止后标题、返回按钮和不透明背景仍固定可见。深色冷启动、开屏约 1 秒和浅深主题切换本轮未重新验证。
 
 ## 4. 客户端验证边界
 
