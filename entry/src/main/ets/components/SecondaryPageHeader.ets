@@ -43,7 +43,7 @@ export struct SecondaryPageHeader {
         .accessibilityText('返回')
 
         Text(this.title)
-          .fontSize(30)
+          .fontSize(AppTypography.PAGE_TITLE_SIZE)
           .fontFamily(AppTypography.PAGE_TITLE_FONT)
           .fontWeight(AppTypography.PAGE_TITLE_WEIGHT)
           .fontColor(AppColors.TEXT_PRIMARY)
